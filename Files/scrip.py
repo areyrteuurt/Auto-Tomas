@@ -1,364 +1,355 @@
 import asyncio
-import aiohttp
-import json
-import re
+import time
 import logging
+import aiohttp
 import os
-import time  # 添加time模块导入
 import shutil
-import base64
-from urllib.parse import parse_qs, unquote
-import asyncio
-from logging.handlers import RotatingFileHandler
-from bs4 import BeautifulSoup
+import re  # 添加缺失的re模块导入
 
-# 配置参数 - 集中管理
-URLS_FILE = 'Files/urls.txt'
-KEYWORDS_FILE = 'Files/key.json'
-OUTPUT_DIR = 'configs'
-REQUEST_TIMEOUT = 10  # 降低请求超时时间
-CONCURRENT_REQUESTS = 15  # 增加并发请求数
-MAX_CONFIG_LENGTH = 1500
-MIN_PERCENT25_COUNT = 15
-MAX_TEST_PER_CATEGORY = 200  # 降低每个分类测试的节点数
-ENABLE_SAMPLING = True       # 启用采样测试
-SAVE_WITHOUT_TESTING = False  # 是否直接保存不测试（最快但不保证有效性）
+# 配置参数
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+OUTPUT_DIR = os.path.join(base_dir, 'configs')
+SUMMARY_DIR = os.path.join(OUTPUT_DIR, 'summary')
+PROTOCOLS_DIR = os.path.join(OUTPUT_DIR, 'protocols')
+COUNTRIES_DIR = os.path.join(OUTPUT_DIR, 'countries')
+URLS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'urls.txt')
 
-# 创建logs目录
-if not os.path.exists('logs'):
-    os.makedirs('logs')
+# 确保日志目录存在
+os.makedirs(os.path.join(base_dir, 'logs'), exist_ok=True)
 
-# Configure logging with file rotation
-logger = logging.getLogger()
-logger.setLevel(logging.INFO)
-
-# 创建格式化器
-formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(filename)s:%(lineno)d - %(message)s')
-
-# 控制台处理器
-console_handler = logging.StreamHandler()
-console_handler.setFormatter(formatter)
-logger.addHandler(console_handler)
-
-# 文件处理器 (带滚动功能)
-file_handler = RotatingFileHandler(
-    'logs/scrip.log',
-    maxBytes=5*1024*1024,  # 5MB
-    backupCount=3,
-    encoding='utf-8'
+# 配置日志
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(filename)s:%(lineno)d - %(message)s',
+    handlers=[
+        logging.FileHandler(os.path.join(base_dir, 'logs/scrip.log')),
+        logging.StreamHandler()
+    ]
 )
-file_handler.setFormatter(formatter)
-logger.addHandler(file_handler)
 
-# 错误日志单独记录
-error_handler = RotatingFileHandler(
-    'logs/scrip_error.log',
-    maxBytes=5*1024*1024,
-    backupCount=3,
-    encoding='utf-8'
-)
-error_handler.setLevel(logging.ERROR)
-error_handler.setFormatter(formatter)
-logger.addHandler(error_handler)
+# 改进的协议模式配置 - 支持更多协议格式
+PROTOCOL_PATTERNS = {
+    'vmess': re.compile(r'vmess://[^\s,]+'),
+    'vless': re.compile(r'vless://[^\s,]+'),
+    'trojan': re.compile(r'trojan://[^\s,]+'),
+    'shadowsocks': re.compile(r'ss://[^\s,]+'),
+    'hysteria2': re.compile(r'hy2://[^\s,]+'),
+    # 添加更多常见协议格式
+    'ssr': re.compile(r'ssr://[^\s,]+'),  # ShadowsocksR
+    'hysteria': re.compile(r'hysteria://[^\s,]+'),  # Hysteria 1.x
+    'tuic': re.compile(r'tuic://[^\s,]+'),  # TUIC 协议
+    'wireguard': re.compile(r'wireguard://[^\s,]+'),  # WireGuard
+    'naiveproxy': re.compile(r'naive://[^\s,]+'),  # NaiveProxy
+    'socks5': re.compile(r'socks5://[^\s,]+'),  # SOCKS5
+    'http': re.compile(r'http://[^\s,]+')  # HTTP 代理
+}
 
-# 重命名logging为logger以便后续使用
-logging = logger
+# 协议分类映射
+PROTOCOL_CATEGORIES = {
+    'vmess': 'Vmess',
+    'vless': 'Vless',
+    'trojan': 'Trojan',
+    'shadowsocks': 'ShadowSocks',
+    'hysteria2': 'Hysteria2',
+    # 为新添加的协议添加映射
+    'ssr': 'ShadowSocksR',
+    'hysteria': 'Hysteria',
+    'tuic': 'TUIC',
+    'wireguard': 'WireGuard',
+    'naiveproxy': 'NaiveProxy',
+    'socks5': 'SOCKS5',
+    'http': 'HTTP'
+}
 
-# Define supported protocols
-PROTOCOL_CATEGORIES = [
-    "Vmess", "Vless", "Trojan", "ShadowSocks", "ShadowSocksR",
-    "Tuic", "Hysteria2", "WireGuard"
-]
+# 国家关键词配置
+COUNTRY_KEYWORDS = {
+    'United States': ['us', 'usa', 'america', 'united states'],
+    'China': ['cn', 'china', 'beijing', 'shanghai'],
+    'Japan': ['jp', 'japan', 'tokyo', 'osaka'],
+    'Singapore': ['sg', 'singapore'],
+    'Hong Kong': ['hk', 'hong kong'],
+    'South Korea': ['kr', 'korea', 'south korea', 'seoul'],
+    'Germany': ['de', 'germany'],
+    'United Kingdom': ['uk', 'britain', 'united kingdom'],
+    'France': ['fr', 'france'],
+    'Canada': ['ca', 'canada'],
+    'Australia': ['au', 'australia'],
+    'Russia': ['ru', 'russia'],
+    'Netherlands': ['nl', 'netherlands'],
+    'Switzerland': ['ch', 'switzerland'],
+    'Italy': ['it', 'italy']
+}
 
-def decode_base64(data):
-    """Safely decode base64 data"""
+# 国家代码映射表
+COUNTRY_CODE_MAPPING = {
+    'US': ('United States', '美国'),
+    'CN': ('China', '中国'),
+    'JP': ('Japan', '日本'),
+    'SG': ('Singapore', '新加坡'),
+    'HK': ('Hong Kong', '香港'),
+    'KR': ('South Korea', '韩国'),
+    'DE': ('Germany', '德国'),
+    'GB': ('United Kingdom', '英国'),
+    'FR': ('France', '法国'),
+    'CA': ('Canada', '加拿大'),
+    'AU': ('Australia', '澳大利亚'),
+    'RU': ('Russia', '俄罗斯'),
+    'NL': ('Netherlands', '荷兰'),
+    'CH': ('Switzerland', '瑞士'),
+    'IT': ('Italy', '意大利')
+}
+
+# 请求设置
+CONCURRENT_REQUESTS = 10
+TIMEOUT = 30
+
+async def fetch_url(session, url, timeout=TIMEOUT):
+    """异步获取URL内容"""
     try:
-        data = data.replace('_', '/').replace('-', '+')
-        missing_padding = len(data) % 4
-        if missing_padding:
-            data += '=' * (4 - missing_padding)
-        return base64.b64decode(data).decode('utf-8')
-    except Exception:
-        return None
-
-def get_vmess_name(vmess_link):
-    """Extract name from VMess link"""
-    if not vmess_link.startswith("vmess://"):
-        return None
-    try:
-        b64_part = vmess_link[8:]
-        decoded_str = decode_base64(b64_part)
-        if decoded_str:
-            vmess_json = json.loads(decoded_str)
-            return vmess_json.get('ps')
+        async with session.get(url, timeout=timeout) as response:
+            response.raise_for_status()
+            text = await response.text()
+            logging.info(f"Successfully fetched {url}")
+            return url, text
     except Exception as e:
-        logging.warning(f"Failed to parse Vmess name from {vmess_link[:30]}...: {e}")
-    return None
+        logging.error(f"Failed to fetch {url}: {e}")
+        return url, ""
 
-def get_ssr_name(ssr_link):
-    """Extract name from SSR link"""
-    if not ssr_link.startswith("ssr://"):
-        return None
+def find_matches(text, patterns):
+    """在文本中查找匹配的协议配置"""
+    matches = {}  # 确保即使没有匹配项也返回空字典
+    
+    for protocol, pattern in patterns.items():
+        try:
+            found = pattern.findall(text)
+            if found:
+                matches[protocol] = found
+                logging.info(f"Found {len(found)} {protocol} configurations")
+        except Exception as e:
+            logging.error(f"Error matching {protocol} patterns: {e}")
+    
+    return matches
+
+def save_to_file(directory, filename, items):
+    """保存配置项到文件"""
     try:
-        b64_part = ssr_link[6:]
-        decoded_str = decode_base64(b64_part)
-        if not decoded_str:
-            return None
-        parts = decoded_str.split('/?')
-        if len(parts) < 2:
-            return None
-        params_str = parts[1]
-        params = parse_qs(params_str)
-        if 'remarks' in params and params['remarks']:
-            remarks_b64 = params['remarks'][0]
-            return decode_base64(remarks_b64)
+        # 确保目录存在
+        os.makedirs(directory, exist_ok=True)
+        
+        file_path = os.path.join(directory, f"{filename}.txt")
+        file_content = []
+        
+        # 添加文件头信息
+        file_content.append(f"# {filename} - {len(items)} items")
+        file_content.append(f"# Generated at {time.strftime('%Y-%m-%d %H:%M:%S')}")
+        file_content.append("")
+        
+        # 添加配置项
+        file_content.extend(items)
+        
+        # 写入文件
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(file_content))
+        
+        logging.info(f"Successfully saved {len(items)} items to {file_path}")
+        return True
     except Exception as e:
-        logging.warning(f"Failed to parse SSR name from {ssr_link[:30]}...: {e}")
-    return None
+        logging.error(f"Failed to save items to {os.path.join(directory, filename)}.txt: {e}")
+        return False
 
-def should_filter_config(config):
-    """Filter out invalid or suspicious configs"""
-    if 'i_love_' in config.lower():
-        return True
-    percent25_count = config.count('%25')
-    if percent25_count >= MIN_PERCENT25_COUNT:
-        return True
-    if len(config) >= MAX_CONFIG_LENGTH:
-        return True
-    if '%2525' in config:
-        return True
+# 添加一个函数来复制文件，减少代码重复
+def copy_file(source_dir, target_dir, filename):
+    """复制文件从源目录到目标目录"""
+    source_path = os.path.join(source_dir, f"{filename}.txt")
+    target_path = os.path.join(target_dir, f"{filename}.txt")
+    if os.path.exists(source_path):
+        try:
+            shutil.copy2(source_path, target_path)
+            logging.info(f"Copied {filename} file to {target_dir}")
+            return True
+        except Exception as e:
+            logging.error(f"Failed to copy {filename} file: {e}")
     return False
 
-def is_config_format_valid(config_line):
-    """简单验证配置格式是否有效，不进行网络测试"""
-    # 检查基本格式是否正确
-    url_part = config_line.split('#')[0].strip()
+def remove_duplicate_configs(configs):
+    """去除重复的节点配置"""
+    original_count = len(configs)
+    unique_configs = set(configs)
+    removed_count = original_count - len(unique_configs)
     
-    # 检查是否以支持的协议开头
-    supported_protocols = ['vmess://', 'vless://', 'ss://', 'ssr://', 'trojan://', 'tuic://', 'hysteria2://']
-    if not any(url_part.startswith(proto) for proto in supported_protocols):
-        return False
-        
-    # 检查长度是否合理
-    if len(url_part) < 20 or len(url_part) > MAX_CONFIG_LENGTH:
-        return False
-        
-    return True
-
-async def fetch_url(session, url):
-    """Fetch content from URL asynchronously"""
-    try:
-        async with session.get(url, timeout=REQUEST_TIMEOUT) as response:
-            response.raise_for_status()
-            html = await response.text()
-            soup = BeautifulSoup(html, 'html.parser')
-            text_content = ""
-            # Extract text from important elements
-            for element in soup.find_all(['pre', 'code', 'p', 'div', 'li', 'span', 'td']):
-                text_content += element.get_text(separator='\n', strip=True) + "\n"
-            # Fallback to full text if no elements found
-            if not text_content:
-                text_content = soup.get_text(separator=' ', strip=True)
-            logging.info(f"Successfully fetched: {url}")
-            return url, text_content
-    except Exception as e:
-        logging.warning(f"Failed to fetch or process {url}: {e}")
-        return url, None
-
-def find_matches(text, categories_data):
-    """Find protocol matches in text content"""
-    matches = {category: set() for category in categories_data}
-    for category, patterns in categories_data.items():
-        for pattern_str in patterns:
-            if not isinstance(pattern_str, str):
-                continue
-            try:
-                is_protocol_pattern = any(proto_prefix in pattern_str 
-                                         for proto_prefix in [p.lower() + "://" for p in PROTOCOL_CATEGORIES])
-                if category in PROTOCOL_CATEGORIES or is_protocol_pattern:
-                    pattern = re.compile(pattern_str, re.IGNORECASE | re.MULTILINE)
-                    found = pattern.findall(text)
-                    if found:
-                        cleaned_found = {item.strip() for item in found if item.strip()}
-                        matches[category].update(cleaned_found)
-            except re.error as e:
-                logging.error(f"Regex error for '{pattern_str}' in category '{category}': {e}")
-    return {k: v for k, v in matches.items() if v}
-
-def save_to_file(directory, category_name, items_set):
-    """Save items to file - 优化版"""
-    if not items_set:
-        return False, 0
-    file_path = os.path.join(directory, f"{category_name}.txt")
-    count = len(items_set)
-    try:
-        # 对于所有文件都不排序，直接写入，大幅提升性能
-        with open(file_path, 'w', encoding='utf-8') as f:
-            for item in items_set:
-                f.write(f"{item}\n")
-        logging.info(f"Saved {count} items to {file_path}")
-        return True, count
-    except Exception as e:
-        logging.error(f"Failed to write file {file_path}: {e}")
-        return False, 0
-
-async def process_category(category, items, is_country=False):
-    """处理单个分类的配置，合并重复逻辑"""
-    category_type = "country" if is_country else "category"
-    logging.info(f"Processing {category_type} {category}")
+    if removed_count > 0:
+        logging.info(f"Removed {removed_count} duplicate configs")
     
-    if SAVE_WITHOUT_TESTING:
-        return save_to_file(OUTPUT_DIR, category, items)
-        
-    # 导入节点测试器（在函数内部导入以避免循环依赖）
-    from node_tester import deduplicate_and_test_configs
+    return unique_configs
+
+def classify_by_country(config, country_keywords, country_code_mapping):
+    """根据关键词对配置进行国家分类"""
+    # 尝试从配置中提取节点名称
+    name_part = config.split('#')
+    node_name = name_part[1].strip() if len(name_part) > 1 else ""
     
-    # 采样测试 - 如果节点数量过多
-    if ENABLE_SAMPLING and len(items) > MAX_TEST_PER_CATEGORY:
-        # 随机采样部分节点进行测试
-        import random
-        sampled_items = set(random.sample(list(items), MAX_TEST_PER_CATEGORY))
-        logging.info(f"Sampling {len(sampled_items)} nodes out of {len(items)} for testing")
-        valid_configs = await deduplicate_and_test_configs(sampled_items)
-        # 合并未测试但有效的节点（基于协议格式验证）
-        valid_configs.update([item for item in items if item not in sampled_items and is_config_format_valid(item)])
-    else:
-        valid_configs = await deduplicate_and_test_configs(items)
+    # 检查节点名称是否包含国家关键词
+    matched_country = None
+    for country, keywords in country_keywords.items():
+        for keyword in keywords:
+            if keyword.lower() in node_name.lower() or keyword.lower() in config.lower():
+                matched_country = country
+                break
+        if matched_country:
+            break
+    
+    if matched_country:
+        # 获取中文国家名
+        country_name_zh = None
+        for code, (en_name, zh_name) in country_code_mapping.items():
+            if en_name == matched_country:
+                country_name_zh = zh_name
+                break
         
-    return save_to_file(OUTPUT_DIR, category, valid_configs)
+        # 将中文国家名添加到配置中
+        config_with_country = f"# {country_name_zh}\n{config}" if country_name_zh else config
+        return matched_country, config_with_country
+    
+    return None, config
 
 async def main():
     """Main entry point"""
     start_time = time.time()
     
-    # Check input files existence
-    if not os.path.exists(URLS_FILE) or not os.path.exists(KEYWORDS_FILE):
-        logging.critical("Input files not found.")
-        return
+    try:
+        # 检查输入文件是否存在
+        if not os.path.exists(URLS_FILE):
+            logging.critical("URLs file not found.")
+            return
 
-    # Load input data
-    with open(URLS_FILE, 'r', encoding='utf-8') as f:
-        urls = [line.strip() for line in f if line.strip()]
-    with open(KEYWORDS_FILE, 'r', encoding='utf-8') as f:
-        categories_data = json.load(f)
+        # 加载输入数据
+        with open(URLS_FILE, 'r', encoding='utf-8') as f:
+            urls = [line.strip() for line in f if line.strip()]
+        
+        logging.info(f"Loaded {len(urls)} URLs.")
 
-    # Prepare data structures
-    protocol_patterns = {
-        cat: patterns for cat, patterns in categories_data.items() if cat in PROTOCOL_CATEGORIES
-    }
-    country_keywords = {
-        cat: patterns for cat, patterns in categories_data.items() if cat not in PROTOCOL_CATEGORIES
-    }
-    country_names = list(country_keywords.keys())
+        # 并发获取URL内容
+        sem = asyncio.Semaphore(CONCURRENT_REQUESTS)
+        async def fetch_with_sem(session, url):
+            async with sem:
+                return await fetch_url(session, url)
+        
+        async with aiohttp.ClientSession() as session:
+            fetched_pages = await asyncio.gather(*[fetch_with_sem(session, u) for u in urls])
 
-    logging.info(f"Loaded {len(urls)} URLs and {len(categories_data)} total categories from key.json.")
+        # 初始化结果结构
+        country_names = [info[0] for info in COUNTRY_CODE_MAPPING.values()]
+        final_configs_by_country = {cat: set() for cat in country_names}
+        final_all_protocols = {cat: set() for cat in PROTOCOL_CATEGORIES.values()}
+        all_configs = []  # 先收集所有配置，之后再进行去重
 
-    # Fetch URLs concurrently with rate limiting
-    sem = asyncio.Semaphore(CONCURRENT_REQUESTS)
-    async def fetch_with_sem(session, url):
-        async with sem:
-            return await fetch_url(session, url)
-    
-    async with aiohttp.ClientSession() as session:
-        fetched_pages = await asyncio.gather(*[fetch_with_sem(session, u) for u in urls])
-
-    # Initialize result structures
-    final_configs_by_country = {cat: set() for cat in country_names}
-    final_all_protocols = {cat: set() for cat in PROTOCOL_CATEGORIES}
-
-    logging.info("Processing pages for config name association...")
-    for url, text in fetched_pages:
-        if not text:
-            continue
-
-        # Find protocol matches and filter invalid configs
-        page_protocol_matches = find_matches(text, protocol_patterns)
-        all_page_configs = set()
-        for protocol_cat, configs_found in page_protocol_matches.items():
-            if protocol_cat in PROTOCOL_CATEGORIES:
-                for config in configs_found:
-                    if should_filter_config(config):
-                        continue
-                    all_page_configs.add(config)
-                    final_all_protocols[protocol_cat].add(config)
-
-        # Categorize configs by country
-        for config in all_page_configs:
-            name_to_check = None
-            if '#' in config:
-                try:
-                    potential_name = config.split('#', 1)[1]
-                    name_to_check = unquote(potential_name).strip()
-                    if not name_to_check:
-                        name_to_check = None
-                except IndexError:
-                    pass
-
-            if not name_to_check:
-                if config.startswith('ssr://'):
-                    name_to_check = get_ssr_name(config)
-                elif config.startswith('vmess://'):
-                    name_to_check = get_vmess_name(config)
-
-            if not name_to_check:
+        logging.info("Processing pages for configs...")
+        for url, text in fetched_pages:
+            if not text:
                 continue
 
-            current_name = name_to_check if isinstance(name_to_check, str) else ""
+            # 查找协议匹配
+            page_protocol_matches = find_matches(text, PROTOCOL_PATTERNS)
+            for protocol_cat, configs_found in page_protocol_matches.items():
+                if protocol_cat in PROTOCOL_CATEGORIES:
+                    all_configs.extend(configs_found)
 
-            # Check country keywords
-            for country_key, keywords_list in country_keywords.items():
-                text_keywords = []
-                if isinstance(keywords_list, list):
-                    # Filter out emojis and short codes
-                    for kw in keywords_list:
-                        if isinstance(kw, str):
-                            is_potential_emoji = (1 <= len(kw) <= 7) and not kw.isalnum()
-                            if not is_potential_emoji:
-                                text_keywords.append(kw)
-                
-                # Check for country matches
-                for keyword in text_keywords:
-                    if not isinstance(keyword, str):
-                        continue
-                    # Handle abbreviations differently
-                    is_abbr = (len(keyword) == 2 or len(keyword) == 3) and re.match(r'^[A-Z]+$', keyword)
-                    if is_abbr:
-                        pattern = r'\b' + re.escape(keyword) + r'\b'
-                        if re.search(pattern, current_name, re.IGNORECASE):
-                            final_configs_by_country[country_key].add(config)
-                            break
-                    else:
-                        if keyword.lower() in current_name.lower():
-                            final_configs_by_country[country_key].add(config)
-                            break
-                else:
-                    continue  # No match for this country, continue to next
-                break  # Found a match, break out of the loop
+        # 去除重复节点
+        logging.info("Removing duplicate configs...")
+        unique_configs = remove_duplicate_configs(all_configs)
+        logging.info(f"Unique configs count: {len(unique_configs)}")
+        all_valid_configs = unique_configs  # 直接使用去重后的配置
+        logging.info(f"Total configs after deduplication: {len(all_valid_configs)}")
 
-    # Prepare output directory
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    # Clear existing files in configs directory
-    for filename in os.listdir(OUTPUT_DIR):
-        if filename != '.gitkeep':  # Preserve .gitkeep file
-            file_path = os.path.join(OUTPUT_DIR, filename)
+        # 按协议分类
+        # 按协议分类
+        logging.info("Classifying configs by protocol...")
+        for config in all_valid_configs:
+            matched = False
+            for protocol in PROTOCOL_PATTERNS.keys():
+                if config.startswith(f"{protocol}://"):
+                    if protocol in PROTOCOL_CATEGORIES:
+                        category = PROTOCOL_CATEGORIES[protocol]
+                        final_all_protocols[category].add(config)
+                        matched = True
+                    break
+            
+            # 记录未匹配的协议格式，用于调试
+            if not matched:
+                # 只记录前50个字符以避免日志过长
+                logging.debug(f"Unmatched protocol format: {config[:50]}...")
+        
+        # 记录各协议分类的配置数量
+        for category, items in final_all_protocols.items():
+            logging.info(f"{category}: {len(items)} items")
+
+        # 使用基于名称的国家分类方法
+        logging.info("Classifying nodes by name keywords")
+        for config in all_valid_configs:
+            country, config_with_country = classify_by_country(config, COUNTRY_KEYWORDS, COUNTRY_CODE_MAPPING)
+            if country and country in final_configs_by_country:
+                final_configs_by_country[country].add(config_with_country)
+
+        # 准备输出目录
+        directories = [OUTPUT_DIR, SUMMARY_DIR, PROTOCOLS_DIR, COUNTRIES_DIR]
+        for directory in directories:
+            os.makedirs(directory, exist_ok=True)
+            # 清理目录中的现有文件
             try:
-                if os.path.isfile(file_path):
-                    os.unlink(file_path)
+                for filename in os.listdir(directory):
+                    file_path = os.path.join(directory, filename)
+                    if os.path.isfile(file_path):
+                        os.unlink(file_path)
             except Exception as e:
-                logging.error(f"Failed to delete {file_path}: {e}")
-    logging.info(f"Preparing to save files to directory: {OUTPUT_DIR}")
+                logging.error(f"Failed to clean directory {directory}: {e}")
+        
+        # 保存配置到相应目录
+        # 保存汇总节点到 summary 目录
+        if all_valid_configs:
+            save_to_file(SUMMARY_DIR, "all_nodes", all_valid_configs)
+        
+        # 保存协议分类到 protocols 目录
+        for category, items in final_all_protocols.items():
+            if items:
+                save_to_file(PROTOCOLS_DIR, category, items)
+        
+        # 保存国家分类到 countries 目录
+        country_files_count = 0
+        for category, items in final_configs_by_country.items():
+            if items:
+                save_to_file(COUNTRIES_DIR, category, items)
+                country_files_count += 1
+        
+        # 同时创建根目录的快捷方式或引用
+        # 复制汇总文件到根目录
+        if all_valid_configs:
+            copy_file(SUMMARY_DIR, OUTPUT_DIR, "all_nodes")
+        
+        # 复制协议分类文件到根目录
+        for category in PROTOCOL_CATEGORIES.values():
+            copy_file(PROTOCOLS_DIR, OUTPUT_DIR, category)
+        
+        # 复制国家分类文件到根目录
+        for country in final_configs_by_country:
+            copy_file(COUNTRIES_DIR, OUTPUT_DIR, country)
+        
+        # 统计生成的国家文件数量
+        logging.info(f"Generated {country_files_count} country files")
+        
+        # 检查是否有生成的国家文件
+        if country_files_count == 0:
+            logging.warning("没有生成任何国家文件！请检查分类逻辑是否正常工作。")
+            logging.info(f"Total configs: {len(all_valid_configs)}")
+            if all_valid_configs:
+                # 输出一些配置样例用于调试
+                sample_config = next(iter(all_valid_configs))
+                logging.info(f"Sample config: {sample_config[:100]}...")
 
-    # 先保存协议分类
-    for category, items in final_all_protocols.items():
-        if items:
-            await process_category(category, items)
-    
-    # 然后保存国家分类
-    for category, items in final_configs_by_country.items():
-        if items:
-            await process_category(category, items, is_country=True)
-    
-    logging.info(f"--- Script Finished in {time.time() - start_time:.2f} seconds ---")
+        logging.info(f"--- Script Finished in {time.time() - start_time:.2f} seconds ---")
+    except Exception as e:
+        logging.error(f"An error occurred during script execution: {e}")
+        import traceback
+        logging.error(traceback.format_exc())
 
 if __name__ == "__main__":
     asyncio.run(main())
