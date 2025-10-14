@@ -1,45 +1,37 @@
-# South Korea - 21 items
-# Generated at 2025-10-14 00:53:44
+# South Korea - 17 items
+# Generated at 2025-10-14 12:24:18
 
-# 韩国
-ss://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiKEBWbWVzc1Byb3RvY29sKdio2LHYp9uMINiu2LHbjNivINmIINin2KrYtdin2YQg2K/Yp9im2YXbjCDYrNmI24zZhiDYtNmI8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoicHV0aWhiLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#NixAI
-# 韩国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg%3D%3D@45.140.167.94:8388#🌐
 # 韩国
 vless://db87fc06-e2d6-49ff-a51a-70a5b9313a9d@5.199.130.92:3000?security=reality&encryption=none&pbk=RKPNvL72i02i--3PhoG0jK44iPbKCkrJjYbPKq292Vw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=exp-r.ru&sid=ed681be3a71f61#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 韩国
-vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@92.112.22.117:443?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=xrmrZj9kRB-cO5Wfm1iXppN7z4oR77weAWRZFvE6cm8&sid=2d&spx=%2F&allowInsecure=1&type=xhttp&path=%2Flzjjjjj&mode=auto#%E6%96%B0%E5%8A%A0%E5%9D%A1
-# 韩国
-ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&type=tcp&headerType=none#%E5%BE%B7%E5%9C%8B
-# 韩国
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&type=tcp&headerType=none#%E5%BE%B7%E5%9C%8B
-# 韩国
-ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🌐
-# 韩国
-ss://db87fc06-e2d6-49ff-a51a-70a5b9313a9d@5.199.130.92:3000?security=reality&encryption=none&pbk=RKPNvL72i02i--3PhoG0jK44iPbKCkrJjYbPKq292Vw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=exp-r.ru&sid=ed681be3a71f61#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi2qnYp9mG2YHbjNqvINin2LXZhNuM2Kcg2KrZiCDahtmG2YTYjCDYp9uM2YbYpyDYqNqG2Ycg2KjYp9iy24zZhyDwn4ep8J+HqvCfh6vwn4euIEBSYXlwaG9yaWFIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 # 韩国
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&sid=9d90d7ada8#%3E%3E%40DailyV2RY%3A%3AIE
 # 韩国
-vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi2qnYp9mG2YHbjNqvINin2LXZhNuM2Kcg2KrZiCDahtmG2YTYjCDYp9uM2YbYpyDYqNqG2Ycg2KjYp9iy24zZhyDwn4ep8J+HqvCfh6vwn4euIEBSYXlwaG9yaWFIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+ss://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi2YXbjNiu2YjYp9uMINmH2LEg2LHZiNiyINio2Kcg2qnYp9mG2YHbjNqvINmI24zamNmHINmI2LXZhCDYqNin2LTbjNif2KrZhNqv2LHYp9mFIPCfh6nwn4eqIEBSYXlwaG9yaWFIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoicHV0aWhiLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 # 韩国
-vmess://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi2YXbjNiu2YjYp9uMINmH2LEg2LHZiNiyINio2Kcg2qnYp9mG2YHbjNqvINmI24zamNmHINmI2LXZhCDYqNin2LTbjNif2KrZhNqv2LHYp9mFIPCfh6nwn4eqIEBSYXlwaG9yaWFIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoicHV0aWhiLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-# 韩国
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🌐
-# 韩国
-vless://2e532561-7a61-4fdf-a534-706682c2e209@univovh.iskra-connect.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&sid=2d46a79deebf50fd&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1PL_1%20%7C%20%E2%AC%87%EF%B8%8F%202.3MB%2Fs
-# 韩国
-ss://6337837a-2b47-4e0d-a695-75c5a4a8ad51@92.112.22.117:443?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=xrmrZj9kRB-cO5Wfm1iXppN7z4oR77weAWRZFvE6cm8&sid=2d&spx=%2F&allowInsecure=1&type=xhttp&path=%2Flzjjjjj&mode=auto#%E6%96%B0%E5%8A%A0%E5%9D%A1
-# 韩国
-vmess://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiKEBWbWVzc1Byb3RvY29sKdio2LHYp9uMINiu2LHbjNivINmIINin2KrYtdin2YQg2K/Yp9im2YXbjCDYrNmI24zZhiDYtNmI8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoicHV0aWhiLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#NixAI
-# 韩国
-vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiMzAw2q/bjNqvIDM52KrZiNmF2KfZhiEg2KrYs9iq4oCM2LHYp9uM2q/Yp9mG8J+rn1RpY2tWMkJvdEAiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&type=tcp&headerType=none#%E5%BE%B7%E5%9C%8B
 # 韩国
 ss://eyJhZGQiOiI1Ny4xMjkuMjQuMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi2qnYp9mG2YHbjNqvINin2LXZhNuM2Kcg2KrZiCDahtmG2YTYjCDYp9uM2YbYpyDYqNqG2Ycg2KjYp9iy24zZhyDwn4ep8J+HqvCfh6vwn4euIEBSYXlwaG9yaWFIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 # 韩国
-ss://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi2YXbjNiu2YjYp9uMINmH2LEg2LHZiNiyINio2Kcg2qnYp9mG2YHbjNqvINmI24zamNmHINmI2LXZhCDYqNin2LTbjNif2KrZhNqv2LHYp9mFIPCfh6nwn4eqIEBSYXlwaG9yaWFIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoicHV0aWhiLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🌐
 # 韩国
-ss://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&sid=9d90d7ada8#%3E%3E%40DailyV2RY%3A%3AIE
+ss://6337837a-2b47-4e0d-a695-75c5a4a8ad51@92.112.22.117:443?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=xrmrZj9kRB-cO5Wfm1iXppN7z4oR77weAWRZFvE6cm8&sid=2d&spx=%2F&allowInsecure=1&type=xhttp&path=%2Flzjjjjj&mode=auto#%E6%96%B0%E5%8A%A0%E5%9D%A1
+# 韩国
+ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&type=tcp&headerType=none#%E5%BE%B7%E5%9C%8B
+# 韩国
+vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@92.112.22.117:443?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=xrmrZj9kRB-cO5Wfm1iXppN7z4oR77weAWRZFvE6cm8&sid=2d&spx=%2F&allowInsecure=1&type=xhttp&path=%2Flzjjjjj&mode=auto#%E6%96%B0%E5%8A%A0%E5%9D%A1
 # 韩国
 ss://2e532561-7a61-4fdf-a534-706682c2e209@univovh.iskra-connect.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&sid=2d46a79deebf50fd&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1PL_1%20%7C%20%E2%AC%87%EF%B8%8F%202.3MB%2Fs
 # 韩国
-ss://eyJhZGQiOiI1Ny4xMjkuMjguMjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiMzAw2q/bjNqvIDM52KrZiNmF2KfZhiEg2KrYs9iq4oCM2LHYp9uM2q/Yp9mG8J+rn1RpY2tWMkJvdEAiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg%3D%3D@45.140.167.94:8388#🌐
+# 韩国
+vmess://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi2YXbjNiu2YjYp9uMINmH2LEg2LHZiNiyINio2Kcg2qnYp9mG2YHbjNqvINmI24zamNmHINmI2LXZhCDYqNin2LTbjNif2KrZhNqv2LHYp9mFIPCfh6nwn4eqIEBSYXlwaG9yaWFIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoicHV0aWhiLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+# 韩国
+ss://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&sid=9d90d7ada8#%3E%3E%40DailyV2RY%3A%3AIE
+# 韩国
+vless://2e532561-7a61-4fdf-a534-706682c2e209@univovh.iskra-connect.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&sid=2d46a79deebf50fd&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1PL_1%20%7C%20%E2%AC%87%EF%B8%8F%202.3MB%2Fs
+# 韩国
+ss://db87fc06-e2d6-49ff-a51a-70a5b9313a9d@5.199.130.92:3000?security=reality&encryption=none&pbk=RKPNvL72i02i--3PhoG0jK44iPbKCkrJjYbPKq292Vw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=exp-r.ru&sid=ed681be3a71f61#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 韩国
+ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🌐
