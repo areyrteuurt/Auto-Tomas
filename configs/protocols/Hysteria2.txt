@@ -1,4 +1,4 @@
 # Hysteria2 - 1 items
-# Generated at 2025-10-16 00:54:44
+# Generated at 2025-10-16 12:24:10
 
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AXX
