@@ -1,139 +1,49 @@
-# Singapore - 68 items
-# Generated at 2025-10-18 00:51:43
+# Singapore - 23 items
+# Generated at 2025-10-18 12:20:33
 
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@128.199.134.152:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbENJNDRDSGNGTHp2MkxxS1phSmJC@79.133.180.201:31613#VL-0723-041
-# 新加坡
-ss://64bf9c97-212c-4814-ad17-f8539b53a8bd@194.127.193.240:50791?encryption=none&security=tls&sni=vless.pengjiajin.sbs&type=ws&host=vless.pengjiajin.sbs&path=freecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://ad7f1445-d916-49a0-88b8-d6adc9f5d26b@172.104.188.163:443?encryption=none&security=tls&sni=vless.901312.xyz&type=ws&host=vless.901312.xyz&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@172.104.180.5:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@178.128.86.3:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@149.28.158.103:10030?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://ad7f1445-d916-49a0-88b8-d6adc9f5d26b@146.56.99.22:20443?encryption=none&security=tls&sni=vless.901312.xyz&type=ws&host=vless.901312.xyz&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@178.128.80.43:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@172.104.188.73:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%3E%3E%40ShadowsocksM%3A%3ASG
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@45.32.100.46:13802?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@172.104.188.73:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDE2OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@178.128.86.3:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://ad7f1445-d916-49a0-88b8-d6adc9f5d26b@146.56.99.22:20443?encryption=none&security=tls&sni=vless.901312.xyz&type=ws&host=vless.901312.xyz&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@149.28.158.103:10030?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@8.218.245.116:41528?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@139.180.154.158:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@178.128.119.65:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@172.104.188.124:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@8.218.245.116:41528?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@167.99.73.22:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@139.180.154.158:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://ad7f1445-d916-49a0-88b8-d6adc9f5d26b@172.104.188.73:443?encryption=none&security=tls&sni=vless.901312.xyz&type=ws&host=vless.901312.xyz&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://ad7f1445-d916-49a0-88b8-d6adc9f5d26b@172.104.188.163:443?encryption=none&security=tls&sni=vless.901312.xyz&type=ws&host=vless.901312.xyz&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@104.248.145.216:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=azadnet-dbi.pages.dev&sni=azadnet-dbi.pages.dev&fp=random&path=/?ed=2560#NixAI
-# 新加坡
-ss://ad7f1445-d916-49a0-88b8-d6adc9f5d26b@172.104.188.73:443?encryption=none&security=tls&sni=vless.901312.xyz&type=ws&host=vless.901312.xyz&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@51.79.158.58:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@128.199.75.32:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=azadnet-4nb.pages.dev&sni=azadnet-4nb.pages.dev&fp=random&path=/?ed=2560#NixAI
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.248.145.216:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDE2OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-# 新加坡
-vless://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-vless://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@45.32.100.46:13802?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@172.104.188.163:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@172.104.188.163:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://64bf9c97-212c-4814-ad17-f8539b53a8bd@194.127.193.240:50791?encryption=none&security=tls&sni=vless.pengjiajin.sbs&type=ws&host=vless.pengjiajin.sbs&path=freecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 # 新加坡
 vless://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
-ss://YWVzLTEyOC1nY206OWJiMmZmOWQtNjVmMC00NWUwLWE2MzktNjc1MTM2NTMzZWU0@sg.fasthou.icu:33115#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@206.189.85.0:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@128.199.134.152:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.99.73.22:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@128.199.75.32:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@8.219.59.132:48130?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%40freecodes%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@178.128.80.43:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://64bf9c97-212c-4814-ad17-f8539b53a8bd@194.127.193.124:24467?encryption=none&security=tls&sni=vless.pengjiajin.sbs&type=ws&host=vless.pengjiajin.sbs&path=freecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@8.219.59.132:48130?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%40freecodes%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=azadnet-4nb.pages.dev&sni=azadnet-4nb.pages.dev&fp=random&path=/?ed=2560#NixAI
 # 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@206.189.85.0:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=azadnet-dbi.pages.dev&sni=azadnet-dbi.pages.dev&fp=random&path=/?ed=2560#NixAI
 # 新加坡
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@178.128.119.65:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://64bf9c97-212c-4814-ad17-f8539b53a8bd@194.127.193.124:24467?encryption=none&security=tls&sni=vless.pengjiajin.sbs&type=ws&host=vless.pengjiajin.sbs&path=freecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSG9NQ1pQR2F6M25YcWc1UWNwM1h5@h110vpnde2.outlinekeys.net:53122#VL-0723-031
+vless://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=azadnet-dbi.pages.dev&sni=azadnet-dbi.pages.dev&fp=random&path=/?ed=2560#NixAI
 # 新加坡
+ss://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%3E%3E%40ShadowsocksM%3A%3ASG
+# 新加坡
+ss://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+# 新加坡
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=azadnet-2f7.pages.dev&fp=random&type=ws&host=azadnet-2f7.pages.dev&path=/?ed=2560#NixAI
+# 新加坡
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=azadnet-4nb.pages.dev&fp=random&type=ws&host=azadnet-4nb.pages.dev&path=/?ed=2560#NixAI
+# 新加坡
+ss://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@95.173.218.203:990#%3E%3E%40v2rayNG_Matsuri%3A%3ASG
 # 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@172.104.188.124:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@172.104.180.5:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 新加坡
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@51.79.158.58:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSG9NQ1pQR2F6M25YcWc1UWNwM1h5@h110vpnde2.outlinekeys.net:53122#VL-0723-031
 # 新加坡
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%3E%3E%40ShadowsocksM%3A%3ASG
 # 新加坡
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=azadnet-4nb.pages.dev&sni=azadnet-4nb.pages.dev&fp=random&path=/?ed=2560#NixAI
+# 新加坡
+vless://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbENJNDRDSGNGTHp2MkxxS1phSmJC@79.133.180.201:31613#VL-0723-041
+# 新加坡
+ss://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+# 新加坡
 ss://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=azadnet-4nb.pages.dev&fp=random&type=ws&host=azadnet-4nb.pages.dev&path=/?ed=2560#NixAI
+# 新加坡
+ss://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=azadnet-2f7.pages.dev&fp=random&type=ws&host=azadnet-2f7.pages.dev&path=/?ed=2560#NixAI

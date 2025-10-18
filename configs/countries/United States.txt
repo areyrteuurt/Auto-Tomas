@@ -1,983 +1,583 @@
-# United States - 490 items
-# Generated at 2025-10-18 00:51:43
+# United States - 290 items
+# Generated at 2025-10-18 12:20:33
 
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441001.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686405389.lahijan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@18.162.156.23:12355?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@152.70.240.1:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@152.69.234.45:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516508.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@192.131.142.161:46639?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@139.177.185.88:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@45.11.1.118:44004?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@129.150.35.29:587?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@152.42.241.71:2053?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@45.38.42.198:2053?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVT576O5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogInY4LmhlZHVpYW4ubGluayIsDQogICJwb3J0IjogIjMwODA4IiwNCiAgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsDQogICJhaWQiOiAiMiIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidjguaGVkdWlhbi5saW5rIiwNCiAgInBhdGgiOiAiL29vb28iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
-# 美国
-vless://64bf9c97-212c-4814-ad17-f8539b53a8bd@45.38.42.198:2053?encryption=none&security=tls&sni=vless.pengjiajin.sbs&type=ws&host=vless.pengjiajin.sbs&path=freecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
-# 美国
-ss://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#%3E%3E%40v2rayngvpn%3A%3AUS
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@134.185.114.52:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441863516.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.239.65.225:12586?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0714-034
-# 美国
-vmess://eyJhZGQiOiIxNS4yMzUuODUuMTQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqPCfh6ZARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoicGVsYW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9vmess://eyJhZGQiOiIxNDYuNTkuODUuMjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HtfCfh7FARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoicGVsYW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐
-# 美国
-vless://2e48cc0c-284d-49b0-b7ad-b2f47be3650e@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@138.2.69.236:23334?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&security=tls&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&type=ws&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&path=/@cassiusvpn-@cassiusvpn-@cassiusvpn-@cassiusvpn-@cassiusvpn-?ed=2048#NixAI
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@139.177.185.88:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@38.180.249.123:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@138.2.8.126:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#%3E%3E%40V2rayNG3%3A%3AUS
-# 美国
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cf.0sm.com:443?path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81vless%3A%2F0c6b0284-77b9-48c8-969a-4be6b18b10d3&security=tls&encryption=none&host=baipiao.CMLiussss.abrdns.com&fp=chrome&type=ws&sni=baipiao.CMLiussss.abrdns.com#🌐
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@138.2.95.33:17465?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@152.70.240.1:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.236.21.74:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@154.218.15.253:2096?path=%2FTelegram%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%3E%3E%40ShadowsocksM%3A%3AUS
-# 美国
-vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#%3E%3E%40flyv2ray%3A%3AUS
-# 美国
-ss://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&security=tls&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&type=ws&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&path=%2F%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%3Fed%3D2048#VL-0723-018
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@38.180.249.123:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh30v5.hiddendom.shop&alpn=h2&type=grpc#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903725333.malayer-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@161.33.165.47:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@38.180.28.163:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441863516.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://4eb038b0-bacc-4c16-a179-a17b781dd2e2@38.54.94.169:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.ebay.com&pbk=dx1AYJO75eB94s_hSnoR7p6HWqKnA21Quap56SkTUVc&fp=chrome#%3E%3E%40DailyV2RY%3A%3AUS
-# 美国
-ss://da5fddd5-40b7-4581-ba99-cf487db65f65@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸
-# 美国
-ss://5c9b6087-f955-4506-9c1d-67a5aae44bc9@join-raiv2mmr-telegram.koyeb.app:443?encryption=none&security=tls&type=ws&host=join-raiv2mmr-telegram.koyeb.app&path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378508794.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@206.237.10.69:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%40freecodes%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.238.120.134:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0723-048
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959021371581893.neyshabur-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-vless://4a4c08c2-0e58-4781-8729-f6873a7b1996@tgju.org:80?encryption=none&security=none&sni=black-orDeR.ONEeAt.CO&type=ws&host=black-orDeR.ONEeAt.CO&path=%2F%3Fed%3D2048#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116437663.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516508.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVT576O5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogIjE3Mi42Ny4xNjAuNDQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDg2YzY1NWQtMGMxMi00N2RkLTlkNWEtMjY3MDA4OTIwMWVlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI3YzY4MWU1OC01M2JlLTg1MTMtZDNlYS1iZDQyNTQzNmUzNTYuaHVhbmdzaGFuZy5zaXRlIiwNCiAgInBhdGgiOiAiL3JpOW1PT1ZKdUFpbUI3NGtnWFoiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiN2M2ODFlNTgtNTNiZS04NTEzLWQzZWEtYmQ0MjU0MzZlMzU2Lmh1YW5nc2hhbmcuc2l0ZSIsDQogICJhbHBuIjogIiINCn0=
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930975302281795.helsinki-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@198.41.208.23:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ym.ddff.me&fp=random&type=ws&sni=ym.ddff.me#telegram-%40musictimezz%2Ctelegram-%40musictimezz-telegram-%40musictimezz-telegram-%40musictimezz
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931428657467505.kish-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316592562.hamedan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E7%BE%8E%E5%9B%BD
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407102132.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZS5rOV5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogIjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsDQogICJwb3J0IjogIjQ0NTc5IiwNCiAgImlkIjogIjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-# 美国
-vless://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#%3E%3E%40v2rayngvpn%3A%3AUS
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359329765.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%A5%80%F0%9F%8E%8B%F0%9F%8C%B33
-# 美国
-vless://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dash.cloudflare.com&pbk=O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q&fp=chrome#%3E%3E%40DailyV2RY%3A%3AUS
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@64.49.14.41:2053?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%3E%3E%40hope_net%3A%3AUS
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@38.180.94.97:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
-# 美国
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.239.65.225:12586?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@152.69.234.45:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@138.2.95.33:17465?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%40confegraigan
-# 美国
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@cdn.chandplus.com:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842022.esfahan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E7%BE%8E%E5%9B%BD
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%9D%A4%EF%B8%8F%F0%9F%A6%85%F0%9F%A9%B59
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
-# 美国
-vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40flyv2ray%3A%3AUS
-# 美国
-ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&fp=chrome&allowInsecure=1&type=tcp&headerType=none#NixAI
-# 美国
-ss://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?encryption=none&security=none&sni=sweet-combination.seotoolsforyou.co.uk&type=ws&host=sweet-combination.seotoolsforyou.co.uk&path=%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://64bf9c97-212c-4814-ad17-f8539b53a8bd@139.177.185.88:443?encryption=none&security=tls&sni=vless.pengjiajin.sbs&type=ws&host=vless.pengjiajin.sbs&path=freecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#🌐
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@138.2.69.236:23334?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40kia_Net%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
-# 美国
-ss://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359329765.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943425567574299.brussels-prx-dnraacp.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%3E%3E%40v2ray1_ng%3A%3AUS
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@18.162.156.23:12355?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108687.dublin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@155.248.187.80:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.174.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#NixAI
-# 美国
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVT576O5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogImJlc3RjZG4yLjg2ODg2My54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYzczODk5ODYtNGEzNC00NzlhLTk4OGMtNzE2OWQ1N2EzYTkyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2di1iNS1jZG4udGhlLWJlc3QtYWlycG9ydC50b3AiLA0KICAicGF0aCI6ICIvYWVqeW5payIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ2di1iNS1jZG4udGhlLWJlc3QtYWlycG9ydC50b3AiLA0KICAiYWxwbiI6ICIiDQp9
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&fp=chrome&allowInsecure=1&type=tcp&headerType=none#NixAI
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@150.230.251.159:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#🌐
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@129.150.36.188:53435?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@143.198.196.196:2053?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
-# 美国
-vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F%3FTELEGRAM-Mehrosaboran%3Fed%3D512&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40mehrosaboran%3A%3AUS
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@152.42.236.151:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342840960.esfahan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@join-raiv2mmr-telegram.koyeb.app:443?encryption=none&security=tls&sni=join-raiv2mmr-telegram.koyeb.app&type=ws&host=join-raiv2mmr-telegram.koyeb.app&path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#🔓Config
-# 美国
-vmess://eyJhZGQiOiIxNS4yMzUuODUuMTQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqPCfh6ZARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoicGVsYW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9vmess://eyJhZGQiOiIxNDYuNTkuODUuMjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HtfCfh7FARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoicGVsYW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🔓Config
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40kia_Net%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
-# 美国
-ss://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dash.cloudflare.com&pbk=O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q&fp=chrome#%3E%3E%40DailyV2RY%3A%3AUS
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://Parsashonam-Bot-31@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#%3E%3E%40configV2rayNG%3A%3AUS
-# 美国
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@wwwopensignalcom-goodspeed-8xx.pages.dev.:443?encryption=none&security=tls&sni=WwW.OPENSIgnaL.cOm.NaynaY09.dynv6.nET&type=ws&host=WwW.OPENSIgnaL.cOm.NaynaY09.dynv6.nET&path=%2F%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vmess://ewogICAgImFkZCI6ICJlYjM2MmY5Mi1zdnVrZzAtdDEyY25qLTFvbDk3LmhrLnA1cHYuY29tIiwKICAgICJhaWQiOiAyLAogICAgImhvc3QiOiAiZWIzNjJmOTItc3Z1a2cwLXQxMmNuai0xb2w5Ny5oay5wNXB2LmNvbSIsCiAgICAiaWQiOiAiOTNmYjY5ZmMtNzdjZi0xMWVlLTg1ZWUtZjIzYzkxMzY5ZjJkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh63wn4ewSEstMjAzLjIxOC4yMTcuMTk4LTAzNDEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#NixAI
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@143.198.92.220:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@129.150.35.29:587?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@146.235.18.248:45137?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://7556317c-dff6-46e8-ad29-b408f2a6456e@194.152.44.253:2096?path=%2FTelegram%20%40freecodes%20%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@3.85.144.122:80#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930975314214829.dublin-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686407685.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3`
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@45.38.42.198:2053?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%3E%3E%40configV2rayNG%3A%3AUS
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359327481.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@38.180.94.205:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#%3E%3E%40configV2rayNG%3A%3AUS
-# 美国
-ss://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40flyv2ray%3A%3AUS
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@38.180.28.163:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@194.152.44.253:2096?path=%2FTelegram%20%40freecodes%20%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
-# 美国
-ss://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2Fws%3Fed%3D2048%3Fed%3D2048Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40v2rayngvpn%3A%3AUS
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@138.2.16.61:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%40IRAN_V2RAY1
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.79.43.222:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342838285.esfahan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0723-030
-# 美国
-vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&security=tls&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&type=ws&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&path=%2F%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%3Fed%3D2048#VL-0723-018
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510115.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129810487.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://ba44f3f7-29cb-4c28-a2b7-2d4465cc6fdf@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gLORioUs-BehaviOR.ONEeaT.co&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
-# 美国
-ss://df245bf8-8253-4029-90d8-ef30cfac75f1@183.240.179.88:11443?encryption=none&security=none&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431325.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116427871.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://46788ea0-fdf1-4694-90a0-dec94fc471c3@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%40confegraigan
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-trojan://iwangjie@138.124.118.34:443?security=tls&sni=nodes.830901.xyz&type=ws&host=nodes.830901.xyz&path=%2Fproxyip%3Dproxyip.fxxk.dedyn.io#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@206.237.10.69:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-trojan://iwangjie@135.125.232.253:2053?security=tls&sni=nodes.830901.xyz&type=ws&host=nodes.830901.xyz&path=%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhL6aaZ5rivKG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogImVudHJhbmNlMDQucXFhNjc4LmNjIiwNCiAgInBvcnQiOiAiNDcwODEiLA0KICAiaWQiOiAiOGU5NGVkMGUtMzcxNy00YzQ2LWFhMTMtNjc1N2E4OWIzOTJlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-# 美国
-vless://Parsashonam-Bot-31@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#%3E%3E%40configV2rayNG%3A%3AUS
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@45.39.198.43:8080?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://086c655d-0c12-47dd-9d5a-2670089201ee@172.67.160.44:443?encryption=none&security=tls&sni=cb93136c-7ed8-136d-45b5-5254c891e290.huangshang.site&type=ws&host=cb93136c-7ed8-136d-45b5-5254c891e290.huangshang.site&path=%2F0SCvfqSaeeB74kgXZ#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?encryption=none&amp;security=none&amp;type=ws&amp;host=winter-bush-f08c-ppal03.himigaw787.workers.dev&amp;path=/?ed=2560#NixAI
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279961472.qazvin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.79.91.168:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129823158.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#🌐
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116427871.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@138.2.16.61:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880/?type=grpc&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.79.91.168:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@150.230.251.159:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteFFubGJ4S0RlNGpyampzVEo3UFpw@138.124.184.70:34868#%3E%3E%40v2rayngvpn%3A%3AUS
-# 美国
-ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@cdn.chandplus.com:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958556051243448.kish-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
-# 美国
-vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#%3E%3E%40configV2rayNG%3A%3AUS
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959021371581893.neyshabur-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram%20%3A%20%40FarshidHUB%20%D8%B1%D8%A8%D8%A7%D8%AA%20%3A%20%D9%85%D9%86%20%D8%B4%D9%85%D8%A7%20%D8%B1%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D9%86%DA%AF%D9%87%E2%80%8C%20%D9%85%DB%8C%D8%AF%D8%A7%D8%B1%D9%85
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@131.186.38.123:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129823158.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129816352.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@152.70.248.84:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%9D%A4%EF%B8%8F%F0%9F%A6%85%F0%9F%A9%B59
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@18.167.172.112:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930975314214829.dublin-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342838285.esfahan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638943425567574299.brussels-prx-dnraacp.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?path=/?ed&security=none&encryption=none&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&fp=chrome&type=ws#NixAI
-# 美国
-vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?path=/?ed&security=none&encryption=none&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&fp=chrome&type=ws#NixAI
-# 美国
-vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@join-raiv2mmr-telegram.koyeb.app:443?encryption=none&security=tls&type=ws&path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638958556051243448.kish-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
-# 美国
-trojan://iwangjie@141.94.68.216:2053?security=tls&sni=nodes.830901.xyz&type=ws&host=nodes.830901.xyz&path=%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938180207059946.rome-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441818.neyshabur-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381278790.rasht-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
-# 美国
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVT576O5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogIjIwMDE6NDFkMDo3MGU6YzEwMDo6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic2Vya2F0Lm9yZyIsDQogICJwYXRoIjogIi9saW5rdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNlcmthdC5vcmciLA0KICAiYWxwbiI6ICIiDQp9
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@134.185.110.241:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@161.33.165.47:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram%20%3A%20%40FarshidHUB%20%D8%B1%D8%A8%D8%A7%D8%AA%20%3A%20%D9%85%D9%86%20%D8%B4%D9%85%D8%A7%20%D8%B1%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D9%86%DA%AF%D9%87%E2%80%8C%20%D9%85%DB%8C%D8%AF%D8%A7%D8%B1%D9%85
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@38.207.161.214:38060?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.76.218.163:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%40freecodes%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@206.237.10.69:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%40freecodes%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhL6aaZ5rivKG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogImVudHJhbmNlMDEucXFhNjc4LmNjIiwNCiAgInBvcnQiOiAiNDcwODQiLA0KICAiaWQiOiAiOGU5NGVkMGUtMzcxNy00YzQ2LWFhMTMtNjc1N2E4OWIzOTJlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-# 美国
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@154.197.64.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
-# 美国
-ss://46788ea0-fdf1-4694-90a0-dec94fc471c3@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%40confegraigan```
-# 美国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVT576O5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogInY4LmhlZHVpYW4ubGluayIsDQogICJwb3J0IjogIjMwODA4IiwNCiAgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsDQogICJhaWQiOiAiMiIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidjguaGVkdWlhbi5saW5rIiwNCiAgInBhdGgiOiAiL29vb28iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@38.180.94.205:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
-# 美国
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhL6aaZ5rivKG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogImVudHJhbmNlMDEucXFhNjc4LmNjIiwNCiAgInBvcnQiOiAiNDcwODQiLA0KICAiaWQiOiAiOGU5NGVkMGUtMzcxNy00YzQ2LWFhMTMtNjc1N2E4OWIzOTJlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@150.230.212.7:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn2.parsgit.com:4220?path=%2Ftools.parspack.com%2Fhp.shoushmobile.ir%3Fed%3D2095-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=netde2.parsgit.com.&type=httpupgrade#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-vless://52aae58a-1d54-45a4-9d05-c36d16a6dd12@143.14.189.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.com&fp=chrome&pbk=Q0aLm5f1x8Sh0jWnBWneusXUWeKTw9d8AcP4oEIkgwc&sid=86&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0HK_3%20%7C%20%E2%AC%87%EF%B8%8F%201.7MB%2Fs
-# 美国
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116436718.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@131.186.38.123:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@146.235.19.79:28983?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.245.95.160:1443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#%3E%3E%40FreakConfig%3A%3AUS
-# 美国
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVT576O5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogIjIwMDE6NDFkMDo3MGU6YzEwMDo6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic2Vya2F0Lm9yZyIsDQogICJwYXRoIjogIi9saW5rdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNlcmthdC5vcmciLA0KICAiYWxwbiI6ICIiDQp9
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129810487.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@join-raiv2mmr-telegram.koyeb.app:443?encryption=none&security=tls&type=ws&host=join-raiv2mmr-telegram.koyeb.app&path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#NixAI
-# 美国
-vless://ad7f1445-d916-49a0-88b8-d6adc9f5d26b@152.69.229.175:22558?encryption=none&security=tls&sni=vless.901312.xyz&type=ws&host=vless.901312.xyz&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686405389.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
-# 美国
-ss://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
-# 美国
-vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2Fws%3Fed%3D2048%3Fed%3D2048Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40v2rayngvpn%3A%3AUS
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.76.218.163:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://5c9b6087-f955-4506-9c1d-67a5aae44bc9@join-raiv2mmr-telegram.koyeb.app:443?encryption=none&security=tls&sni=join-raiv2mmr-telegram.koyeb.app&type=ws&host=join-raiv2mmr-telegram.koyeb.app&path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://5c9b6087-f955-4506-9c1d-67a5aae44bc9@join-raiv2mmr-telegram.koyeb.app:443?encryption=none&security=tls&type=ws&path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?path=%2FTelegramU0001F1E8U0001F1F3%20%40WangCai2%20%2F%3Fed&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%3E%3E%40free4allVPN%3A%3AUS
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AXX
-# 美国
-ss://2e48cc0c-284d-49b0-b7ad-b2f47be3650e@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686405389.lahijan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F%3FTELEGRAM-Mehrosaboran%3Fed%3D512&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40mehrosaboran%3A%3AUS
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0723-048
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@129.150.36.188:53435?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%A5%80%F0%9F%8E%8B%F0%9F%8C%B33
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@134.185.114.52:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880/?type=grpc&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@54.157.30.50:80#%3E%3E%40v2rayngvpn%3A%3AUS
-# 美国
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@161.33.151.160:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://52aae58a-1d54-45a4-9d05-c36d16a6dd12@143.14.189.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.com&fp=chrome&pbk=Q0aLm5f1x8Sh0jWnBWneusXUWeKTw9d8AcP4oEIkgwc&sid=86&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0HK_3%20%7C%20%E2%AC%87%EF%B8%8F%201.7MB%2Fs
-# 美国
-ss://64bf9c97-212c-4814-ad17-f8539b53a8bd@138.2.48.109:26412?encryption=none&security=tls&sni=vless.pengjiajin.sbs&type=ws&host=vless.pengjiajin.sbs&path=freecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#%3E%3E%40flyv2ray%3A%3AUS
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.79.43.222:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@140.245.48.42:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
-# 美国
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🔓Config
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686405389.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686413412.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.76.218.163:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://1ae6dcb3-8d05-4eee-b550-32904c88c312@172.67.160.44:443?encryption=none&security=tls&sni=8dbc269c-38ed-0d38-7a26-970a14604a96.huangshang.site&type=ws&host=8dbc269c-38ed-0d38-7a26-970a14604a96.huangshang.site&path=%2F0SCvfqSaeeB74kgXZ#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
-# 美国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYN3NaQlNNWVpwczFTSlZSOUQ0OXNI@h110vpnus.outlinekeys.net:9483#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931428657467505.kish-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZS5rOV5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogIjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsDQogICJwb3J0IjogIjQ0NTc5IiwNCiAgImlkIjogIjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
-# 美国
-ss://64bf9c97-212c-4814-ad17-f8539b53a8bd@45.38.42.198:2053?encryption=none&security=tls&sni=vless.pengjiajin.sbs&type=ws&host=vless.pengjiajin.sbs&path=freecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129816352.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://64bf9c97-212c-4814-ad17-f8539b53a8bd@138.2.48.109:26412?encryption=none&security=tls&sni=vless.pengjiajin.sbs&type=ws&host=vless.pengjiajin.sbs&path=freecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@146.235.19.79:28983?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@134.185.110.241:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686407685.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3`
-# 美国
-ss://eyJhZGQiOiIxNS4yMzUuODUuMTQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqPCfh6ZARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoicGVsYW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9vmess://eyJhZGQiOiIxNDYuNTkuODUuMjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HtfCfh7FARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoicGVsYW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@146.235.18.248:45137?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%40IRAN_V2RAY1
-# 美国
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?encryption=none&security=none&sni=sweet-combination.seotoolsforyou.co.uk&type=ws&host=sweet-combination.seotoolsforyou.co.uk&path=%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116436718.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.236.21.74:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279961472.qazvin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434433309.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVT576O5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogInYyOS5oZWR1aWFuLmxpbmsiLA0KICAicG9ydCI6ICIzMDgyOSIsDQogICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLA0KICAiYWlkIjogIjIiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm9jYmMuY29tIiwNCiAgInBhdGgiOiAiL29vb28iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#🔓Config
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?path=%2FTelegramU0001F1E8U0001F1F3%20%40WangCai2%20%2F%3Fed&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%3E%3E%40free4allVPN%3A%3AUS
-# 美国
-ss://2737c5a4-50d5-46a2-9c8c-86920088b8c7@104.21.67.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=4g.zippza404abp.webredirect.org&type=ws&sni=4g.zippza404abp.webredirect.org#%3E%3E%40configV2rayNG%3A%3AUS
-# 美国
-ss://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://9abc0f62-f53a-485c-aa97-97911697e4b1@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=advENtUrOUS-aBilitY.ONEEAT.Co&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279966763.qazvin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431325.neyshabur-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@192.131.142.161:46639?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://4eb038b0-bacc-4c16-a179-a17b781dd2e2@38.54.94.169:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.ebay.com&pbk=dx1AYJO75eB94s_hSnoR7p6HWqKnA21Quap56SkTUVc&fp=chrome#%3E%3E%40DailyV2RY%3A%3AUS
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#%40mhmdreza_it
 # 美国
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342838285.esfahan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0723-030
 # 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279966763.qazvin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@38.207.161.214:38060?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116437663.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@54.81.226.31:80#%3E%3E%40configV2rayNG%3A%3AUS
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359327481.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?encryption=none&security=tls&sni=profit.fullmargintraders.com&type=ws&host=profit.fullmargintraders.com&path=%2Fwsv%2F6f6e8f09-c1b3-48fd-ab00-18f921d875ef#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431325.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://ad7f1445-d916-49a0-88b8-d6adc9f5d26b@152.69.229.175:22558?encryption=none&security=tls&sni=vless.901312.xyz&type=ws&host=vless.901312.xyz&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@152.70.248.84:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@150.230.212.7:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%3E%3E%40hope_net%3A%3AUS
-# 美国
-vless://2737c5a4-50d5-46a2-9c8c-86920088b8c7@104.21.67.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=4g.zippza404abp.webredirect.org&type=ws&sni=4g.zippza404abp.webredirect.org#%3E%3E%40configV2rayNG%3A%3AUS
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@155.248.187.80:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?path=/?ed=2560&security=none&encryption=none&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&type=ws#NixAI
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441001.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.245.95.160:1443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
-# 美国
-vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#%3E%3E%40FreakConfig%3A%3AUS
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108687.dublin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@152.42.241.71:2053?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
-# 美国
-ss://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.174.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434433309.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhL6aaZ5rivKG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogImVudHJhbmNlMDQucXFhNjc4LmNjIiwNCiAgInBvcnQiOiAiNDcwODEiLA0KICAiaWQiOiAiOGU5NGVkMGUtMzcxNy00YzQ2LWFhMTMtNjc1N2E4OWIzOTJlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#🌐
-# 美国
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@wwwopensignalcom-goodspeed-8xx.pages.dev.:443?encryption=none&security=tls&sni=WwW.OPENSIgnaL.cOm.NaynaY09.dynv6.nET&type=ws&host=WwW.OPENSIgnaL.cOm.NaynaY09.dynv6.nET&path=%2F%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@45.39.198.43:8080?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.238.120.134:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%40freecodes%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0714-034
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?encryption=none&amp;security=none&amp;type=ws&amp;host=winter-bush-f08c-ppal03.himigaw787.workers.dev&amp;path=/?ed=2560#NixAI
-# 美国
-ss://9abc0f62-f53a-485c-aa97-97911697e4b1@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=advENtUrOUS-aBilitY.ONEEAT.Co&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@64.49.14.41:2053?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@140.245.48.42:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381278790.rasht-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
-# 美国
-ss://0de36d61-ac9e-4105-92cd-8fe97921b48b@147.79.20.47:443?encryption=none&security=tls&sni=swus.zyk.biz.id&type=ws&host=swus.zyk.biz.id&path=%2F#%E7%BE%8E%E5%9B%BD
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@152.69.192.40:57005?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407102132.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://64bf9c97-212c-4814-ad17-f8539b53a8bd@139.177.185.88:443?encryption=none&security=tls&sni=vless.pengjiajin.sbs&type=ws&host=vless.pengjiajin.sbs&path=freecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378508794.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516508.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.238.120.134:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%40freecodes%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431325.neyshabur-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
-# 美国
-vless://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@18.167.172.112:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@join-raiv2mmr-telegram.koyeb.app:443?encryption=none&security=tls&sni=JOIN-RAIV2MMR-TELEGRAM.koyeb.app&type=ws&path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@161.33.151.160:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.236.71.6:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@143.198.196.196:2053?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686410316.lahijan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E4%BC%8A%E6%9C%97
-# 美国
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVT576O5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogIjE3Mi42Ny4xNjAuNDQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDg2YzY1NWQtMGMxMi00N2RkLTlkNWEtMjY3MDA4OTIwMWVlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI3YzY4MWU1OC01M2JlLTg1MTMtZDNlYS1iZDQyNTQzNmUzNTYuaHVhbmdzaGFuZy5zaXRlIiwNCiAgInBhdGgiOiAiL3JpOW1PT1ZKdUFpbUI3NGtnWFoiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiN2M2ODFlNTgtNTNiZS04NTEzLWQzZWEtYmQ0MjU0MzZlMzU2Lmh1YW5nc2hhbmcuc2l0ZSIsDQogICJhbHBuIjogIiINCn0=
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510115.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@38.180.28.163:2053?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@138.2.8.126:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZS5rOV5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogIjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsDQogICJwb3J0IjogIjQ0NTc5IiwNCiAgImlkIjogIjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638933624655569356.dezful-drc-tusabx.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0720-047
-# 美国
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVT576O5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogImJlc3RjZG4xLjg2ODg2My54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYzczODk5ODYtNGEzNC00NzlhLTk4OGMtNzE2OWQ1N2EzYTkyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2di1hNS1jZG4udGhlLWJlc3QtYWlycG9ydC50b3AiLA0KICAicGF0aCI6ICIvYWVqeW5payIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ2di1hNS1jZG4udGhlLWJlc3QtYWlycG9ydC50b3AiLA0KICAiYWxwbiI6ICIiDQp9
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0720-047
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@152.42.236.151:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@154.218.15.253:2096?path=%2FTelegram%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%3E%3E%40ShadowsocksM%3A%3AUS
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342838285.esfahan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@143.198.92.220:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686410316.lahijan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E4%BC%8A%E6%9C%97
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.236.29.162:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930975302281795.helsinki-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?encryption=none&security=tls&sni=profit.fullmargintraders.com&type=ws&host=profit.fullmargintraders.com&path=%2Fwsv%2F6f6e8f09-c1b3-48fd-ab00-18f921d875ef#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%40confegraigan```
-# 美国
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@cf.0sm.com:443?path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81vless%3A%2F0c6b0284-77b9-48c8-969a-4be6b18b10d3&security=tls&encryption=none&host=baipiao.CMLiussss.abrdns.com&fp=chrome&type=ws&sni=baipiao.CMLiussss.abrdns.com#🌐
-# 美国
-ss://eyJhZGQiOiIxNS4yMzUuODUuMTQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqPCfh6ZARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoicGVsYW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9vmess://eyJhZGQiOiIxNDYuNTkuODUuMjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HtfCfh7FARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoicGVsYW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🔓Config
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.130.35.116:8888?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.76.218.163:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%40freecodes%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342840960.esfahan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-vless://0de36d61-ac9e-4105-92cd-8fe97921b48b@147.79.20.47:443?encryption=none&security=tls&sni=swus.zyk.biz.id&type=ws&host=swus.zyk.biz.id&path=%2F#%E7%BE%8E%E5%9B%BD
-# 美国
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZS5rOV5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogIjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsDQogICJwb3J0IjogIjQ0NTc5IiwNCiAgImlkIjogIjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-# 美国
-ss://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn2.parsgit.com:4220?path=%2Ftools.parspack.com%2Fhp.shoushmobile.ir%3Fed%3D2095-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=netde2.parsgit.com.&type=httpupgrade#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&security=tls&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&type=ws&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&path=/@cassiusvpn-@cassiusvpn-@cassiusvpn-@cassiusvpn-@cassiusvpn-?ed=2048#NixAI
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.130.35.116:8888?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVT576O5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogInYyOS5oZWR1aWFuLmxpbmsiLA0KICAicG9ydCI6ICIzMDgyOSIsDQogICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLA0KICAiYWlkIjogIjIiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm9jYmMuY29tIiwNCiAgInBhdGgiOiAiL29vb28iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@138.2.95.61:1111?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686413412.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
-# 美国
-vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?path=/?ed=2560&security=none&encryption=none&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&type=ws#NixAI
-# 美国
-ss://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#%3E%3E%40V2rayNG3%3A%3AUS
-# 美国
-ss://086c655d-0c12-47dd-9d5a-2670089201ee@172.67.160.44:443?encryption=none&security=tls&sni=cb93136c-7ed8-136d-45b5-5254c891e290.huangshang.site&type=ws&host=cb93136c-7ed8-136d-45b5-5254c891e290.huangshang.site&path=%2F0SCvfqSaeeB74kgXZ#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434434528.neyshabur-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@206.237.10.69:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
-# 美国
-ss://ewogICAgImFkZCI6ICJlYjM2MmY5Mi1zdnVrZzAtdDEyY25qLTFvbDk3LmhrLnA1cHYuY29tIiwKICAgICJhaWQiOiAyLAogICAgImhvc3QiOiAiZWIzNjJmOTItc3Z1a2cwLXQxMmNuai0xb2w5Ny5oay5wNXB2LmNvbSIsCiAgICAiaWQiOiAiOTNmYjY5ZmMtNzdjZi0xMWVlLTg1ZWUtZjIzYzkxMzY5ZjJkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh63wn4ewSEstMjAzLjIxOC4yMTcuMTk4LTAzNDEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#NixAI
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-ss://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.130.35.116:8888?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.130.35.116:8888?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938180207059946.rome-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933624655569356.dezful-drc-tusabx.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441818.neyshabur-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-vless://da5fddd5-40b7-4581-ba99-cf487db65f65@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://1ae6dcb3-8d05-4eee-b550-32904c88c312@172.67.160.44:443?encryption=none&security=tls&sni=8dbc269c-38ed-0d38-7a26-970a14604a96.huangshang.site&type=ws&host=8dbc269c-38ed-0d38-7a26-970a14604a96.huangshang.site&path=%2F0SCvfqSaeeB74kgXZ#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316592562.hamedan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E7%BE%8E%E5%9B%BD
-# 美国
-ss://5c9b6087-f955-4506-9c1d-67a5aae44bc9@join-raiv2mmr-telegram.koyeb.app:443?encryption=none&security=tls&sni=JOIN-RAIV2MMR-TELEGRAM.koyeb.app&type=ws&path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434434528.neyshabur-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-# 美国
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVT576O5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogImJlc3RjZG4xLjg2ODg2My54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYzczODk5ODYtNGEzNC00NzlhLTk4OGMtNzE2OWQ1N2EzYTkyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2di1hNS1jZG4udGhlLWJlc3QtYWlycG9ydC50b3AiLA0KICAicGF0aCI6ICIvYWVqeW5payIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ2di1hNS1jZG4udGhlLWJlc3QtYWlycG9ydC50b3AiLA0KICAiYWxwbiI6ICIiDQp9
-# 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.236.29.162:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-ss://4a4c08c2-0e58-4781-8729-f6873a7b1996@tgju.org:80?encryption=none&security=none&sni=black-orDeR.ONEeAt.CO&type=ws&host=black-orDeR.ONEeAt.CO&path=%2F%3Fed%3D2048#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-# 美国
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZS5rOV5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogIjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsDQogICJwb3J0IjogIjQ0NTc5IiwNCiAgImlkIjogIjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 # 美国
 vless://ba44f3f7-29cb-4c28-a2b7-2d4465cc6fdf@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gLORioUs-BehaviOR.ONEeaT.co&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
 # 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@47.236.71.6:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@198.41.208.23:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ym.ddff.me&fp=random&type=ws&sni=ym.ddff.me#telegram-%40musictimezz%2Ctelegram-%40musictimezz-telegram-%40musictimezz-telegram-%40musictimezz
 # 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903725333.malayer-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AXX
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129823158.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 # 美国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 # 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@129.150.56.234:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434434528.neyshabur-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
 # 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@129.150.56.234:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%3E%3E%40v2ray1_ng%3A%3AUS
 # 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@138.2.95.61:1111?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
 # 美国
-ss://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F%3FTELEGRAMV2rayBaaz%3Fed%3D512&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40configV2rayNG%3A%3AUS
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AXX
 # 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%9D%A4%EF%B8%8F%F0%9F%A6%85%F0%9F%A9%B59
 # 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@152.69.192.40:57005?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 # 美国
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZS5rOV5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogIjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsDQogICJwb3J0IjogIjQ0NTc5IiwNCiAgImlkIjogIjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+ss://2e48cc0c-284d-49b0-b7ad-b2f47be3650e@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸
 # 美国
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#%40mhmdreza_it
+vless://52aae58a-1d54-45a4-9d05-c36d16a6dd12@143.14.189.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.com&fp=chrome&pbk=Q0aLm5f1x8Sh0jWnBWneusXUWeKTw9d8AcP4oEIkgwc&sid=86&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0HK_3%20%7C%20%E2%AC%87%EF%B8%8F%201.7MB%2Fs
 # 美国
-ss://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%3E%3E%40configV2rayNG%3A%3AUS
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 # 美国
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVT576O5Zu9KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLA0KICAiYWRkIjogImJlc3RjZG4yLjg2ODg2My54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYzczODk5ODYtNGEzNC00NzlhLTk4OGMtNzE2OWQ1N2EzYTkyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2di1iNS1jZG4udGhlLWJlc3QtYWlycG9ydC50b3AiLA0KICAicGF0aCI6ICIvYWVqeW5payIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ2di1iNS1jZG4udGhlLWJlc3QtYWlycG9ydC50b3AiLA0KICAiYWxwbiI6ICIiDQp9
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
 # 美国
-ss://7556317c-dff6-46e8-ad29-b408f2a6456e@154.197.64.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
+vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%40confegraigan
 # 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@38.180.94.97:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 # 美国
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116427871.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 # 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516508.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
 # 美国
-vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F%3FTELEGRAMV2rayBaaz%3Fed%3D512&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40configV2rayNG%3A%3AUS
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930975314214829.dublin-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 # 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842022.esfahan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E7%BE%8E%E5%9B%BD
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441001.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 # 美国
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@45.11.1.118:44004?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
 # 美国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AXX
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@38.180.28.163:2053?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%3E%3E%40configV2rayNG%3A%3AXX
 # 美国
-vless://df245bf8-8253-4029-90d8-ef30cfac75f1@183.240.179.88:11443?encryption=none&security=none&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://4eb038b0-bacc-4c16-a179-a17b781dd2e2@38.54.94.169:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.ebay.com&pbk=dx1AYJO75eB94s_hSnoR7p6HWqKnA21Quap56SkTUVc&fp=chrome#%3E%3E%40DailyV2RY%3A%3AUS
+# 美国
+ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#%3E%3E%40FreakConfig%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 # 美国
 ss://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@198.41.208.23:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ym.ddff.me&fp=random&type=ws&sni=ym.ddff.me#telegram-%40musictimezz%2Ctelegram-%40musictimezz-telegram-%40musictimezz-telegram-%40musictimezz
 # 美国
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.238.120.134:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AXX
 # 美国
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh30v5.hiddendom.shop&alpn=h2&type=grpc#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@cf.0sm.com:443?path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81vless%3A%2F0c6b0284-77b9-48c8-969a-4be6b18b10d3&security=tls&encryption=none&host=baipiao.CMLiussss.abrdns.com&fp=chrome&type=ws&sni=baipiao.CMLiussss.abrdns.com#🌐
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378508794.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638958556051243448.kish-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+# 美国
+vless://9abc0f62-f53a-485c-aa97-97911697e4b1@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=advENtUrOUS-aBilitY.ONEEAT.Co&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279961472.qazvin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129810487.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686410316.lahijan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E4%BC%8A%E6%9C%97
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516508.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434434528.neyshabur-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116437663.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteFFubGJ4S0RlNGpyampzVEo3UFpw@138.124.184.70:34868#%3E%3E%40v2rayngvpn%3A%3AUS
+# 美国
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@54.81.226.31:80#%3E%3E%40configV2rayNG%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108687.dublin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
+# 美国
+ss://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn2.parsgit.com:4220?path=%2Ftools.parspack.com%2Fhp.shoushmobile.ir%3Fed%3D2095-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=netde2.parsgit.com.&type=httpupgrade#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903725333.malayer-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+ss://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?path=%2FTelegramU0001F1E8U0001F1F3%20%40WangCai2%20%2F%3Fed&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%3E%3E%40free4allVPN%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342840960.esfahan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686405389.lahijan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#%3E%3E%40configV2rayNG%3A%3AUS
+# 美国
+vless://da5fddd5-40b7-4581-ba99-cf487db65f65@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸
+# 美国
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279966763.qazvin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
+# 美国
+ss://ewogICAgImFkZCI6ICIxNTQuNjQuMjQzLjE5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI5YmMyM2NjZi00NzY5LTRlOWEtYjI3OC0yZGZhOGQ5ZWY0MjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMzg1MzMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xNTQuNjQuMjQzLjE5LTAyMzQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#NixAI
+# 美国
+ss://ba44f3f7-29cb-4c28-a2b7-2d4465cc6fdf@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gLORioUs-BehaviOR.ONEeaT.co&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
+# 美国
+ss://52aae58a-1d54-45a4-9d05-c36d16a6dd12@143.14.189.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.com&fp=chrome&pbk=Q0aLm5f1x8Sh0jWnBWneusXUWeKTw9d8AcP4oEIkgwc&sid=86&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0HK_3%20%7C%20%E2%AC%87%EF%B8%8F%201.7MB%2Fs
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
+# 美国
+vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%40confegraigan```
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#%40mhmdreza_it
+# 美国
+ss://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%40IRAN_V2RAY1
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316592562.hamedan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E7%BE%8E%E5%9B%BD
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381278790.rasht-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
+# 美国
+ss://2737c5a4-50d5-46a2-9c8c-86920088b8c7@104.21.67.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=4g.zippza404abp.webredirect.org&type=ws&sni=4g.zippza404abp.webredirect.org#%3E%3E%40configV2rayNG%3A%3AUS
+# 美国
+ss://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F%3FTELEGRAMV2rayBaaz%3Fed%3D512&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40configV2rayNG%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
+# 美国
+ss://f61a4285-7264-4d07-9408-7b9ba1922c26@154.218.15.253:2096?path=%2FTelegram%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%3E%3E%40ShadowsocksM%3A%3AUS
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407102132.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#🔓Config
+# 美国
+vless://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%40IRAN_V2RAY1
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431325.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%A5%80%F0%9F%8E%8B%F0%9F%8C%B33
+# 美国
+vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#%3E%3E%40V2rayNG3%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
+# 美国
+ss://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#%3E%3E%40V2rayNG3%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516508.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342838285.esfahan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0723-030
+# 美国
+ss://9abc0f62-f53a-485c-aa97-97911697e4b1@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=advENtUrOUS-aBilitY.ONEEAT.Co&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
+# 美国
+vless://2e48cc0c-284d-49b0-b7ad-b2f47be3650e@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516508.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#🔓Config
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434433309.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@154.218.15.253:2096?path=%2FTelegram%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%3E%3E%40ShadowsocksM%3A%3AUS
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129816352.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0714-034
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686413412.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903725333.malayer-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AXX
+# 美国
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@3.85.144.122:80#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931428657467505.kish-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dash.cloudflare.com&pbk=O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q&fp=chrome#%3E%3E%40DailyV2RY%3A%3AUS
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407102132.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116436718.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&security=tls&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&type=ws&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&path=/@cassiusvpn-@cassiusvpn-@cassiusvpn-@cassiusvpn-@cassiusvpn-?ed=2048#NixAI
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
+# 美国
+ss://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#%3E%3E%40configV2rayNG%3A%3AUS
+# 美国
+vless://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959021371581893.neyshabur-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40flyv2ray%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638943425567574299.brussels-prx-dnraacp.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116437663.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686413412.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943425567574299.brussels-prx-dnraacp.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359329765.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0720-047
+# 美国
+ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#%3E%3E%40flyv2ray%3A%3AUS
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516508.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116436718.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279966763.qazvin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938180207059946.rome-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431325.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342840960.esfahan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+ss://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%3E%3E%40configV2rayNG%3A%3AUS
+# 美国
+ss://4eb038b0-bacc-4c16-a179-a17b781dd2e2@38.54.94.169:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.ebay.com&pbk=dx1AYJO75eB94s_hSnoR7p6HWqKnA21Quap56SkTUVc&fp=chrome#%3E%3E%40DailyV2RY%3A%3AUS
+# 美国
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@154.197.64.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842022.esfahan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E7%BE%8E%E5%9B%BD
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0723-048
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0723-048
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842022.esfahan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E7%BE%8E%E5%9B%BD
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930975314214829.dublin-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441863516.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+ss://0de36d61-ac9e-4105-92cd-8fe97921b48b@147.79.20.47:443?encryption=none&security=tls&sni=swus.zyk.biz.id&type=ws&host=swus.zyk.biz.id&path=%2F#%E7%BE%8E%E5%9B%BD
+# 美国
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
+# 美国
+vmess://ewogICAgImFkZCI6ICIxNTQuNjQuMjQzLjE5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI5YmMyM2NjZi00NzY5LTRlOWEtYjI3OC0yZGZhOGQ5ZWY0MjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMzg1MzMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xNTQuNjQuMjQzLjE5LTAyMzQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#NixAI
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
+# 美国
+vless://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#%3E%3E%40v2rayngvpn%3A%3AUS
+# 美国
+vless://a993a02f-d9a8-4500-9d05-8e4e66e3845b@cloudcdn2.parsgit.com:4220?path=%2Ftools.parspack.com%2Fhp.shoushmobile.ir%3Fed%3D2095-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=netde2.parsgit.com.&type=httpupgrade#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#%3E%3E%40v2rayngvpn%3A%3AUS
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#🔓Config
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+# 美国
+vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F%3FTELEGRAMV2rayBaaz%3Fed%3D512&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40configV2rayNG%3A%3AUS
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441818.neyshabur-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359327481.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@194.152.44.253:2096?path=%2FTelegram%20%40freecodes%20%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933624655569356.dezful-drc-tusabx.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#🌐
+# 美国
+ss://c988e2e4-3e72-48e0-894f-c458f03246a7@178.212.35.210:8080/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=raES8OUSF_bmOvcHfuPIm-Fu-hlpd-9SLWCWmrRCW2M&sid=89a6e02cde6cea#%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%86%0A%40networld_vpn
+# 美国
+ss://46788ea0-fdf1-4694-90a0-dec94fc471c3@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%40confegraigan
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129823158.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0714-034
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342838285.esfahan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431325.neyshabur-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958556051243448.kish-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880/?type=grpc&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959021371581893.neyshabur-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686407685.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3`
+# 美国
+vless://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+ss://Parsashonam-Bot-31@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#%3E%3E%40configV2rayNG%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342838285.esfahan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+# 美国
+vless://Parsashonam-Bot-31@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#%3E%3E%40configV2rayNG%3A%3AUS
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434433309.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129810487.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359329765.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://0de36d61-ac9e-4105-92cd-8fe97921b48b@147.79.20.47:443?encryption=none&security=tls&sni=swus.zyk.biz.id&type=ws&host=swus.zyk.biz.id&path=%2F#%E7%BE%8E%E5%9B%BD
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686405389.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
+# 美国
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cf.0sm.com:443?path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81vless%3A%2F0c6b0284-77b9-48c8-969a-4be6b18b10d3&security=tls&encryption=none&host=baipiao.CMLiussss.abrdns.com&fp=chrome&type=ws&sni=baipiao.CMLiussss.abrdns.com#🌐
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279961472.qazvin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40kia_Net%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441001.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#🌐
+# 美国
+vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&security=tls&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&type=ws&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&path=%2F%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%3Fed%3D2048#VL-0723-018
+# 美国
+ss://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&security=tls&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&type=ws&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&path=/@cassiusvpn-@cassiusvpn-@cassiusvpn-@cassiusvpn-@cassiusvpn-?ed=2048#NixAI
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930975302281795.helsinki-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://2737c5a4-50d5-46a2-9c8c-86920088b8c7@104.21.67.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=4g.zippza404abp.webredirect.org&type=ws&sni=4g.zippza404abp.webredirect.org#%3E%3E%40configV2rayNG%3A%3AUS
+# 美国
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@54.157.30.50:80#%3E%3E%40v2rayngvpn%3A%3AUS
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#🌐
+# 美国
+ss://7556317c-dff6-46e8-ad29-b408f2a6456e@194.152.44.253:2096?path=%2FTelegram%20%40freecodes%20%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686405389.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686410316.lahijan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E4%BC%8A%E6%9C%97
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381278790.rasht-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686405389.lahijan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
+# 美国
+ss://da5fddd5-40b7-4581-ba99-cf487db65f65@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%A5%80%F0%9F%8E%8B%F0%9F%8C%B33
+# 美国
+vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2Fws%3Fed%3D2048%3Fed%3D2048Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40v2rayngvpn%3A%3AUS
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40kia_Net%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316592562.hamedan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E7%BE%8E%E5%9B%BD
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129816352.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://7556317c-dff6-46e8-ad29-b408f2a6456e@154.197.64.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
+# 美国
+ss://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&security=tls&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&type=ws&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&path=%2F%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%3Fed%3D2048#VL-0723-018
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#%40mhmdreza_it
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510115.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%9D%A4%EF%B8%8F%F0%9F%A6%85%F0%9F%A9%B59
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441863516.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#%3E%3E%40FreakConfig%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638933624655569356.dezful-drc-tusabx.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931428657467505.kish-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+ss://46788ea0-fdf1-4694-90a0-dec94fc471c3@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%40confegraigan```
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108687.dublin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880/?type=grpc&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#VL-0720-047
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510115.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116427871.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378508794.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441818.neyshabur-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+ss://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431325.neyshabur-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
+# 美国
+ss://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dash.cloudflare.com&pbk=O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q&fp=chrome#%3E%3E%40DailyV2RY%3A%3AUS
+# 美国
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?path=%2FTelegramU0001F1E8U0001F1F3%20%40WangCai2%20%2F%3Fed&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%3E%3E%40free4allVPN%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🌍
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#🌐
+# 美国
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐
+# 美国
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%3E%3E%40hope_net%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359327481.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930975302281795.helsinki-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+ss://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2Fws%3Fed%3D2048%3Fed%3D2048Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40v2rayngvpn%3A%3AUS
+# 美国
+vless://c988e2e4-3e72-48e0-894f-c458f03246a7@178.212.35.210:8080/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=raES8OUSF_bmOvcHfuPIm-Fu-hlpd-9SLWCWmrRCW2M&sid=89a6e02cde6cea#%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%86%0A%40networld_vpn
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938180207059946.rome-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
+# 美国
+vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40flyv2ray%3A%3AUS
+# 美国
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYN3NaQlNNWVpwczFTSlZSOUQ0OXNI@h110vpnus.outlinekeys.net:9483#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
+# 美国
+vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%3E%3E%40configV2rayNG%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#🔓Config
+# 美国
+ss://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+# 美国
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
+# 美国
+vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F%3FTELEGRAM-Mehrosaboran%3Fed%3D512&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40mehrosaboran%3A%3AUS
+# 美国
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686407685.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3`
+# 美国
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%3E%3E%40hope_net%3A%3AUS
+# 美国
+vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#%3E%3E%40flyv2ray%3A%3AUS
+# 美国
+ss://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F%3FTELEGRAM-Mehrosaboran%3Fed%3D512&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40mehrosaboran%3A%3AUS
