@@ -1,237 +1,273 @@
-# Switzerland - 117 items
-# Generated at 2025-10-17 12:22:52
+# Switzerland - 135 items
+# Generated at 2025-10-18 00:51:43
 
 # 瑞士
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:443?path=%2F&security=tls&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#🌐
-# 瑞士
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#🌍
-# 瑞士
-vless://0c90175d-41df-4a62-c663-67b8652371c4@104.17.148.22:2096?encryption=none&security=tls&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&type=ws&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&path=%2F%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN#VL-0723-01
-# 瑞士
-vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#🔓Config
-# 瑞士
-vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🌐
-# 瑞士
-ss://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 瑞士
-vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@172.67.198.112:443?path=/eJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026cd.zanddynastyofpersia.org#NixAI
 # 瑞士
 ss://eyJhZGQiOiIxNTUuMjU0LjM1LjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NzJiMDk3Zi1lNWI2LTQwNTAtOGY3MC0yYWQ2OTc5YzA5M2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5OTEyIiwicHMiOiLwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#NixAI
 # 瑞士
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#🌐
+vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&encryption=none&host=Et3ch-007.Zed23.wEB1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🔓Config
 # 瑞士
-ss://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=w.pdri.blog&fp=firefox&type=ws&sni=w.pdri.blog#🌍
+vless://50a4bc22-aa19-466a-ab45-b3c2ad76ba89@172.64.155.198:443?path=%2F&security=tls&encryption=none&host=www.hacker-app.com&fp=chrome&type=ws&sni=www.hacker-app.com#🌐
 # 瑞士
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.112.1:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYcho.sUeX12.IR#🌐
+ss://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiI+PkBTaGFkb3dzb2Nrc006OlhYIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 # 瑞士
-vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=%2Fhxwdnrws&security=tls&encryption=none&fp=chrome&type=ws#🌐
 # 瑞士
-ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=smart.trevanda.info#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+vless://50a4bc22-aa19-466a-ab45-b3c2ad76ba89@172.64.155.198:443?path=/&amp;security=tls&amp;encryption=none&amp;host=www.hacker-app.com&amp;fp=chrome&amp;type=ws&amp;sni=www.hacker-app.com#NixAI
 # 瑞士
-ss://SVNTEAM@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🔓Config
+vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#🔓Config
 # 瑞士
-ss://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&fp=chrome&type=ws&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F#%40Daily_Configs
-# 瑞士
-ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?security=tls&sni=smart.topfornnow.org&alpn=h3%2Ch2&fp=chrome&type=ws&path=/&host=smart.topfornnow.org&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
-# 瑞士
-vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#🌐
-# 瑞士
-vless://4805c32c-6755-4983-91b0-532d77f0fcf3@91.99.157.183:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=91.99.157.183&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
-# 瑞士
-ss://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?security=tls&sni=ula347.tiri-viri.com&fp=chrome&type=ws&path=/&host=ula347.tiri-viri.com&encryption=none#@Rayan_Config%20139
-# 瑞士
-ss://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.200.195:443?type=tcp&encryption=none&security=reality&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#%3E%3E%40DailyV2RY%3A%3AXX
-# 瑞士
-vmess://eyJhZGQiOiIxNTUuMjU0LjM1LjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NzJiMDk3Zi1lNWI2LTQwNTAtOGY3MC0yYWQ2OTc5YzA5M2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5OTEyIiwicHMiOiLwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#NixAI
-# 瑞士
-ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#🌐
-# 瑞士
-ss://telegram-id-%41rfilter@www.speedtest.net:443?path=%2Ftelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gw.pdri.blog&fp=firefox&type=ws&sni=gw.pdri.blog#🔓Config
-# 瑞士
-ss://9653eb63-742a-4e85-b11b-b6a31cf6cff9@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-# 瑞士
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=smart.trevanda.info#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
-# 瑞士
-vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🌐
-# 瑞士
-vless://7310ccbb-3940-4264-88cc-b3da92877395@tito.floorshoping22.com:2087?encryption=none&security=tls&sni=tito.floorshoping22.com&alpn=h2&allowInsecure=1&fp=chrome&type=grpc#NixAI
-# 瑞士
-ss://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🌐
-# 瑞士
-ss://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#🔓Config
-# 瑞士
-vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 瑞士
-vmess://eyJhZGQiOiI3OC40Ny4xMi45NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMDQ1MWI3YS1lMGE5LTRlMTktYTZlOS03ZTM4NjkzZTNmMWYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJAVjJyYXlOR1ZQTiBcdTAwM2NcdTAwM2Qg2qnYp9mG2YHbjNqvINix2KfbjNqv2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-# 瑞士
-ss://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
-# 瑞士
-ss://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%204-44
-# 瑞士
-ss://eyJhZGQiOiJqb2luLm1lbG9keWZyZWVuZXQyLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1MGVmMGIyMy1mMTRiLTQ1OWYtOTdhYS1kMGYzNDYxODlkMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFpbC8iLCJwb3J0IjoiNDQzIiwicHMiOiJAY29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IkpvaW4uTWVsb2R5RmVlbkV0Mi5zaG9QLiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9#🌐
-# 瑞士
-ss://50a4bc22-aa19-466a-ab45-b3c2ad76ba89@172.64.155.198:443?encryption=none&type=ws&host=www.hacker-app.com&path=/&security=tls&fp=chrome&sni=www.hacker-app.com#NixAI
-# 瑞士
-ss://ab01d17f-ed9f-4546-afda-434adfd71401@45.89.105.72:443?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=pwaWnYpE_MEvgwRxITFmHeSCiRJaYGyUBWh4zwDLn2w&sid=0acd50cd4ee97bb6&type=grpc&serviceName=b02b809d4d1b4f502c6fc275#%3E%3E%40DailyV2RY%3A%3AIN
+vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
 # 瑞士
 ss://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=wd.pdri.blog&fp=firefox&type=ws&sni=wd.pdri.blog#🌐
 # 瑞士
-vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%204-4
+ss://telegram-id-%41rfilter@www.speedtest.net:443?path=%2Ftelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gw.pdri.blog&fp=firefox&type=ws&sni=gw.pdri.blog#%40TEHRANARGO
+# 瑞士
+vmess://eyJhZGQiOiI0My4xNjIuMTE0LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2YTRjZTViOS0wZDYwLTRhMjEtYThmZS04OTc3OTgwMTk1MDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU5Njc0IiwicHMiOiJAVjJSQVlfVk1FU1NfZnJlZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#NixAI
+# 瑞士
+vless://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&encryption=none&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&security=tls&fp=chrome&alpn=http/1.1&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&ech=AID+DQB8AAAgACDa3kymGZ++wd6/VngnXySNEStqWkMpKkoMMKOHQK3MIQAkAAEA#NixAI
+# 瑞士
+vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&encryption=none&host=Et3ch-007.Zed23.wEB1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🌐
 # 瑞士
 vless://SVNTEAM@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🔓Config
 # 瑞士
-ss://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2F%3Fed%3D2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#🌐
+vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&alpn=http%2F1.1&encryption=none&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🌐
 # 瑞士
-vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#Telegram%3A%40tik7net_vpn%20%F0%9F%87%BA%F0%9F%87%B8
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
 # 瑞士
-vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&encryption=none&alpn=http/1.1&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=51.79.103.225&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3`
 # 瑞士
-ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vmess://eyJuZXQiOiJ3cyIsInBzIjoiQG1lbGlfcHJveHl5IiwicG9ydCI6IjQ0MyIsImFsbG93SW5zZWN1cmUiOjAsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWRkIjoiamFtZWtrLm9yZyIsInNjeSI6ImF1dG8iLCJob3N0IjoiamFtZWtrLm9yZyIsInNuaSI6ImphbWVray5vcmciLCJmcCI6ImNocm9tZSIsInYiOiIyIiwicGF0aCI6Imxpbmt2d3MiLCJhaWQiOiIwIn0=
 # 瑞士
-ss://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=&encryption=none&type=ws#🌍
+ss://eyJwb3J0IjoiNDQzIiwibmV0Ijoid3MiLCJmcCI6ImNocm9tZSIsInBzIjoiQG1lbGlfcHJveHl5IiwiYWRkIjoiNTcuMTI5LjU5LjE5OSIsInNjeSI6ImF1dG8iLCJob3N0Ijoia2FtcG9uZy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoia2FtcG9uZy5vcmciLCJhbGxvd0luc2VjdXJlIjowLCJhaWQiOiIwIiwidiI6IjIifQ==
+# 瑞士
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.112.1:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYcho.sUeX12.IR#🌐
+# 瑞士
+vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?encryption=none&security=tls&fp=chrome&allowInsecure=1&type=ws&path=/jzmdpvws#NixAI
+# 瑞士
+ss://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.200.195:443?type=tcp&encryption=none&security=reality&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#%3E%3E%40DailyV2RY%3A%3AXX
+# 瑞士
+ss://telegram-id-%41rfilter@www.speedtest.net:443?path=%2Ftelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gw.pdri.blog&fp=firefox&type=ws&sni=gw.pdri.blog#🌐
+# 瑞士
+vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%204-44
+# 瑞士
+vless://0c90175d-41df-4a62-c663-67b8652371c4@104.17.148.22:2096?encryption=none&security=tls&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&type=ws&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&path=%2F%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN#VL-0723-01
+# 瑞士
+ss://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%204-4
+# 瑞士
+ss://eyJhZGQiOiJqb2luLm1lbG9keWZyZWVuZXQyLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1MGVmMGIyMy1mMTRiLTQ1OWYtOTdhYS1kMGYzNDYxODlkMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFpbC8iLCJwb3J0IjoiNDQzIiwicHMiOiJAY29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IkpvaW4uTWVsb2R5RmVlbkV0Mi5zaG9QLiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9#🌐
+# 瑞士
+ss://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?security=tls&sni=ula347.tiri-viri.com&fp=chrome&type=ws&path=/&host=ula347.tiri-viri.com&encryption=none#@Rayan_Config%20139
+# 瑞士
+ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?encryption=none&security=tls&sni=Et3ch-007.Zed23.wEB1337.net&type=ws&host=Et3ch-007.Zed23.wEB1337.net&path=%2Fwlbywy8cCxbWMJZI#VL-0720-029
+# 瑞士
+ss://0ec8c120-33fa-4658-9bed-3a51cb04c55c@172.67.198.112:443?path=/eJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026cd.zanddynastyofpersia.org#NixAI
+# 瑞士
+ss://0bfe0c56-9e18-44ac-bf97-2c7bcb5cd3c0@172.66.40.99:443?encryption=none&security=tls&sni=www.dollardoon.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.dollardoon.com&path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RA#🌐
+# 瑞士
+ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=smart.trevanda.info#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+# 瑞士
+ss://50a4bc22-aa19-466a-ab45-b3c2ad76ba89@172.64.155.198:443?path=%2F&security=tls&encryption=none&host=www.hacker-app.com&fp=chrome&type=ws&sni=www.hacker-app.com#🔓Config
 # 瑞士
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?security=tls&sni=ula347.tiri-viri.com&fp=chrome&type=ws&path=/&host=ula347.tiri-viri.com&encryption=none#@Rayan_Config%20139
 # 瑞士
-vless://telegram-id-%41rfilter@www.speedtest.net:443?path=%2Ftelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gw.pdri.blog&fp=firefox&type=ws&sni=gw.pdri.blog#🔓Config
+vless://2afab733-b5b6-465b-a604-4f28db291d46@37.27.220.239:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=37.27.220.239&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3`
 # 瑞士
-ss://cddf1c0b-a78b-4d83-b2fb-38b6b72e5e6b@ipe3.alighan.ir:8443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=s.alighan.ir&fp=chrome&type=ws&sni=ipe4.alighan.ir#🌐
+ss://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🌐
 # 瑞士
-ss://SVNTEAM@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🌐
+ss://50a4bc22-aa19-466a-ab45-b3c2ad76ba89@172.64.155.198:443?path=%2F&security=tls&encryption=none&host=www.hacker-app.com&fp=chrome&type=ws&sni=www.hacker-app.com#🌐
+# 瑞士
+ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#🌐
+# 瑞士
+vless://7310ccbb-3940-4264-88cc-b3da92877395@65.109.216.38:2087?security=tls&sni=tito.floorshoping22.com&alpn=h2&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2027
+# 瑞士
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#🌐
+# 瑞士
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#%3E%3E%40v2rayngvpn%3A%3AXX
+# 瑞士
+ss://0bfe0c56-9e18-44ac-bf97-2c7bcb5cd3c0@172.66.40.99:443?encryption=none&security=tls&sni=www.dollardoon.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.dollardoon.com&path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RA#🔓Config
+# 瑞士
+vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%204-4
+# 瑞士
+ss://telegram-id-%41rfilter@www.speedtest.net:443?path=%2Ftelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gw.pdri.blog&fp=firefox&type=ws&sni=gw.pdri.blog#🔓Config
+# 瑞士
+vmess://eyJwb3J0IjoiNDQzIiwibmV0Ijoid3MiLCJmcCI6ImNocm9tZSIsInBzIjoiQG1lbGlfcHJveHl5IiwiYWRkIjoiNTcuMTI5LjU5LjE5OSIsInNjeSI6ImF1dG8iLCJob3N0Ijoia2FtcG9uZy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoia2FtcG9uZy5vcmciLCJhbGxvd0luc2VjdXJlIjowLCJhaWQiOiIwIiwidiI6IjIifQ==
+# 瑞士
+vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&security=tls&encryption=none&fp=chrome&type=ws#%40HiByeVPNNBot%F0%9F%91%88%F0%9F%8C%BF%F0%9F%92%8E
+# 瑞士
+ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&alpn=http%2F1.1&encryption=none&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🌐
+# 瑞士
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=smart.trevanda.info#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+# 瑞士
+vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiI+PkBTaGFkb3dzb2Nrc006OlhYIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+# 瑞士
+vless://telegram-id-%41rfilter@www.speedtest.net:443?path=%2Ftelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gw.pdri.blog&fp=firefox&type=ws&sni=gw.pdri.blog#🌐
+# 瑞士
+ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&encryption=none&alpn=http/1.1&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 瑞士
+ss://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.190.183:443?type=tcp&encryption=none&security=reality&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#%3E%3E%40DailyV2RY%3A%3AXX
+# 瑞士
+ss://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=51.79.103.225&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+# 瑞士
+vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@45.87.155.14:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+# 瑞士
+ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#%3E%3E%40v2rayngvpn%3A%3AXX
+# 瑞士
+ss://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%204-44
+# 瑞士
+ss://0bfe0c56-9e18-44ac-bf97-2c7bcb5cd3c0@172.66.40.99:443?encryption=none&security=tls&sni=www.dollardoon.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.dollardoon.com&path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFA#🔓Config
+# 瑞士
+ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#🌐
+# 瑞士
+vless://0bfe0c56-9e18-44ac-bf97-2c7bcb5cd3c0@172.66.40.99:443?encryption=none&security=tls&sni=www.dollardoon.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.dollardoon.com&path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RA#🌐
+# 瑞士
+ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&alpn=http%2F1.1&encryption=none&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🔓Config
+# 瑞士
+ss://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?encryption=none&security=tls&fp=chrome&allowInsecure=1&type=ws&path=/jzmdpvws#NixAI
+# 瑞士
+vless://50a4bc22-aa19-466a-ab45-b3c2ad76ba89@172.64.155.198:443?path=%2F&security=tls&encryption=none&host=www.hacker-app.com&fp=chrome&type=ws&sni=www.hacker-app.com#🔓Config
+# 瑞士
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#🌐
+# 瑞士
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.112.1:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYcho.sUeX12.IR#🌐
+# 瑞士
+ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#🔓Config
+# 瑞士
+ss://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=%2Fhxwdnrws&security=tls&encryption=none&fp=chrome&type=ws#🌐
+# 瑞士
+ss://9653eb63-742a-4e85-b11b-b6a31cf6cff9@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+# 瑞士
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 瑞士
+ss://eyJuZXQiOiJ3cyIsInBzIjoiQG1lbGlfcHJveHl5IiwicG9ydCI6IjQ0MyIsImFsbG93SW5zZWN1cmUiOjAsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWRkIjoiamFtZWtrLm9yZyIsInNjeSI6ImF1dG8iLCJob3N0IjoiamFtZWtrLm9yZyIsInNuaSI6ImphbWVray5vcmciLCJmcCI6ImNocm9tZSIsInYiOiIyIiwicGF0aCI6Imxpbmt2d3MiLCJhaWQiOiIwIn0=
+# 瑞士
+vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.200.195:443?type=tcp&encryption=none&security=reality&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#%3E%3E%40DailyV2RY%3A%3AXX
+# 瑞士
+vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?encryption=none&security=tls&sni=Et3ch-007.Zed23.wEB1337.net&type=ws&host=Et3ch-007.Zed23.wEB1337.net&path=%2Fwlbywy8cCxbWMJZI#VL-0720-029
+# 瑞士
+vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+# 瑞士
+ss://2afab733-b5b6-465b-a604-4f28db291d46@37.27.220.239:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=37.27.220.239&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3`
+# 瑞士
+vmess://eyJhZGQiOiJqb2luLm1lbG9keWZyZWVuZXQyLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1MGVmMGIyMy1mMTRiLTQ1OWYtOTdhYS1kMGYzNDYxODlkMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFpbC8iLCJwb3J0IjoiNDQzIiwicHMiOiJAY29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IkpvaW4uTWVsb2R5RmVlbkV0Mi5zaG9QLiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9#🌐
+# 瑞士
+ss://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&fp=chrome&type=ws&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F#%40Daily_Configs
+# 瑞士
+vmess://eyJhZGQiOiIxNTUuMjU0LjM1LjIxNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3MDNhMWI2Yy1hMDFlLTQ1ZjgtOTA0MC1jMjljYmIwMjM1ZTEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUxNDA5IiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#NixAI
+# 瑞士
+vmess://eyJhZGQiOiIxOTIuMTIxLjE3MC41MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwOGY4NzBlZC01MjBjLTQ4M2EtYmRlYy1jNDg4NGFhZDQ2NjUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGVsZWdyYW1fQHNzd2lhIiwicG9ydCI6IjIwNTIyIiwicHMiOiJUZWxlZ3JhbTpAdGlrN25ldF92cG4g8J+Hp/Cfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#NixAI
 # 瑞士
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&fp=chrome&type=ws&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F#%40Daily_Configs
 # 瑞士
 ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
 # 瑞士
-vless://7310ccbb-3940-4264-88cc-b3da92877395@65.109.216.38:2087?security=tls&sni=tito.floorshoping22.com&alpn=h2&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2027
-# 瑞士
-ss://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🌐
-# 瑞士
-vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&alpn=http%2F1.1&encryption=none&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🌐
-# 瑞士
-vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🔓Config
-# 瑞士
-ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&encryption=none&host=Et3ch-007.Zed23.wEB1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🔓Config
-# 瑞士
-vless://2afab733-b5b6-465b-a604-4f28db291d46@37.27.220.239:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=37.27.220.239&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
-# 瑞士
-ss://d71b1f3d-2b16-4da3-8240-861e642d1ab9@151.101.66.133:443?security=tls&sni=live.989bull.com&type=ws&host=Golestanvpn.com&path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golest#🌐
-# 瑞士
-ss://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#Telegram%3A%40tik7net_vpn%20%F0%9F%87%BA%F0%9F%87%B8
-# 瑞士
-ss://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#🌐
-# 瑞士
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
-# 瑞士
-ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&alpn=http%2F1.1&encryption=none&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🔓Config
-# 瑞士
-vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&alpn=http%2F1.1&encryption=none&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 瑞士
-ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&encryption=none&alpn=http/1.1&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 瑞士
-vless://cddf1c0b-a78b-4d83-b2fb-38b6b72e5e6b@ipe3.alighan.ir:8443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=s.alighan.ir&fp=chrome&type=ws&sni=ipe4.alighan.ir#🌐
-# 瑞士
-ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&alpn=http%2F1.1&encryption=none&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 瑞士
-ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?encryption=none&security=tls&sni=Et3ch-007.Zed23.wEB1337.net&type=ws&host=Et3ch-007.Zed23.wEB1337.net&path=%2Fwlbywy8cCxbWMJZI#VL-0720-029
-# 瑞士
-ss://telegram-id-%41rfilter@www.speedtest.net:443?path=%2Ftelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gw.pdri.blog&fp=firefox&type=ws&sni=gw.pdri.blog#🌐
-# 瑞士
-vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=w.pdri.blog&fp=firefox&type=ws&sni=w.pdri.blog#🌍
+ss://SVNTEAM@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🌐
 # 瑞士
 vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&alpn=http%2F1.1&encryption=none&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🔓Config
 # 瑞士
-ss://eyJhZGQiOiI3OC40Ny4xMi45NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMDQ1MWI3YS1lMGE5LTRlMTktYTZlOS03ZTM4NjkzZTNmMWYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJAVjJyYXlOR1ZQTiBcdTAwM2NcdTAwM2Qg2qnYp9mG2YHbjNqvINix2KfbjNqv2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&encryption=none&alpn=http/1.1&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 瑞士
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#%3E%3E%40v2rayngvpn%3A%3AXX
+vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#Telegram%3A%40tik7net_vpn%20%F0%9F%87%BA%F0%9F%87%B8
 # 瑞士
-ss://e617e005-87c0-48a9-a499-6f9a134bdf1a@45.87.155.14:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-# 瑞士
-vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=%2Fhxwdnrws&security=tls&encryption=none&fp=chrome&type=ws#🌐
-# 瑞士
-ss://0c90175d-41df-4a62-c663-67b8652371c4@104.17.148.22:2096?encryption=none&security=tls&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&type=ws&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&path=%2F%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN#VL-0723-01
-# 瑞士
-ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&encryption=none&host=Et3ch-007.Zed23.wEB1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🌐
-# 瑞士
-vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&encryption=none&host=Et3ch-007.Zed23.wEB1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🔓Config
-# 瑞士
-vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
-# 瑞士
-ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#🌍
-# 瑞士
-ss://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%204-4
-# 瑞士
-ss://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=%2Fhxwdnrws&security=tls&encryption=none&fp=chrome&type=ws#🌐
-# 瑞士
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?security=tls&sni=smart.topfornnow.org&alpn=h3%2Ch2&fp=chrome&type=ws&path=/&host=smart.topfornnow.org&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
-# 瑞士
-vless://SVNTEAM@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🌐
-# 瑞士
-vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@45.87.155.14:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-# 瑞士
-ss://2afab733-b5b6-465b-a604-4f28db291d46@37.27.220.239:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=37.27.220.239&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
-# 瑞士
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.200.195:443?type=tcp&encryption=none&security=reality&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#%3E%3E%40DailyV2RY%3A%3AXX
-# 瑞士
-vless://ab01d17f-ed9f-4546-afda-434adfd71401@45.89.105.72:443?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=pwaWnYpE_MEvgwRxITFmHeSCiRJaYGyUBWh4zwDLn2w&sid=0acd50cd4ee97bb6&type=grpc&serviceName=b02b809d4d1b4f502c6fc275#%3E%3E%40DailyV2RY%3A%3AIN
-# 瑞士
-ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:443?path=%2F&security=tls&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#🌐
-# 瑞士
-vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?encryption=none&security=tls&sni=Et3ch-007.Zed23.wEB1337.net&type=ws&host=Et3ch-007.Zed23.wEB1337.net&path=%2Fwlbywy8cCxbWMJZI#VL-0720-029
-# 瑞士
-vless://0c90175d-41df-4a62-c663-67b8652371c4@104.17.148.22:2096?encryption=none&security=tls&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&type=ws&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN#NixAI
-# 瑞士
-vless://telegram-id-%41rfilter@www.speedtest.net:443?path=%2Ftelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gw.pdri.blog&fp=firefox&type=ws&sni=gw.pdri.blog#🌐
-# 瑞士
-vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&encryption=none&host=Et3ch-007.Zed23.wEB1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🌐
-# 瑞士
-ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&alpn=http%2F1.1&encryption=none&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🌐
-# 瑞士
-ss://4805c32c-6755-4983-91b0-532d77f0fcf3@91.99.157.183:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=91.99.157.183&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
-# 瑞士
-ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#🌐
-# 瑞士
-vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%204-44
-# 瑞士
-vless://50a4bc22-aa19-466a-ab45-b3c2ad76ba89@172.64.155.198:443?encryption=none&type=ws&host=www.hacker-app.com&path=/&security=tls&fp=chrome&sni=www.hacker-app.com#NixAI
-# 瑞士
-ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#🌐
-# 瑞士
-ss://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🔓Config
+ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 瑞士
 vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=wd.pdri.blog&fp=firefox&type=ws&sni=wd.pdri.blog#🌐
 # 瑞士
-ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#%3E%3E%40v2rayngvpn%3A%3AXX
+ss://eyJhZGQiOiIxNTUuMjU0LjM1LjIxNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3MDNhMWI2Yy1hMDFlLTQ1ZjgtOTA0MC1jMjljYmIwMjM1ZTEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUxNDA5IiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#NixAI
+# 瑞士
+ss://eyJhZGQiOiIxOTIuMTIxLjE3MC41MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwOGY4NzBlZC01MjBjLTQ4M2EtYmRlYy1jNDg4NGFhZDQ2NjUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGVsZWdyYW1fQHNzd2lhIiwicG9ydCI6IjIwNTIyIiwicHMiOiJUZWxlZ3JhbTpAdGlrN25ldF92cG4g8J+Hp/Cfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#NixAI
 # 瑞士
 ss://7310ccbb-3940-4264-88cc-b3da92877395@65.109.216.38:2087?security=tls&sni=tito.floorshoping22.com&alpn=h2&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2027
 # 瑞士
-ss://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.190.183:443?type=tcp&encryption=none&security=reality&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#%3E%3E%40DailyV2RY%3A%3AXX
+vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gw.pdri.blog&fp=firefox&type=ws&sni=gw.pdri.blog#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 瑞士
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=&encryption=none&type=ws#🌍
-# 瑞士
-vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@172.67.198.112:443?path=/eJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026cd.zanddynastyofpersia.org#NixAI
-# 瑞士
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#🌐
-# 瑞士
-ss://7310ccbb-3940-4264-88cc-b3da92877395@tito.floorshoping22.com:2087?encryption=none&security=tls&sni=tito.floorshoping22.com&alpn=h2&allowInsecure=1&fp=chrome&type=grpc#NixAI
-# 瑞士
-ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&alpn=http%2F1.1&encryption=none&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🌐
 # 瑞士
 ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
 # 瑞士
-ss://0c90175d-41df-4a62-c663-67b8652371c4@104.17.148.22:2096?encryption=none&security=tls&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&type=ws&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN#NixAI
+vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
 # 瑞士
-vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2F%3Fed%3D2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#🌐
+ss://cddf1c0b-a78b-4d83-b2fb-38b6b72e5e6b@ipe3.alighan.ir:8443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=s.alighan.ir&fp=chrome&type=ws&sni=ipe4.alighan.ir#🌐
 # 瑞士
-ss://0ec8c120-33fa-4658-9bed-3a51cb04c55c@172.67.198.112:443?path=/eJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026cd.zanddynastyofpersia.org#NixAI
+vless://cddf1c0b-a78b-4d83-b2fb-38b6b72e5e6b@ipe3.alighan.ir:8443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=s.alighan.ir&fp=chrome&type=ws&sni=ipe4.alighan.ir#🌐
+# 瑞士
+vless://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=51.79.103.225&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+# 瑞士
+ss://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gw.pdri.blog&fp=firefox&type=ws&sni=gw.pdri.blog#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 瑞士
+ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:443?path=%2F&security=tls&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#🌐
+# 瑞士
+ss://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#Telegram%3A%40tik7net_vpn%20%F0%9F%87%BA%F0%9F%87%B8
+# 瑞士
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:443?path=%2F&security=tls&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#🌐
+# 瑞士
+ss://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🔓Config
+# 瑞士
+vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🔓Config
+# 瑞士
+vmess://eyJhZGQiOiIxNTUuMjU0LjM1LjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NzJiMDk3Zi1lNWI2LTQwNTAtOGY3MC0yYWQ2OTc5YzA5M2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5OTEyIiwicHMiOiJbXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXXQubWUvUmFpdjJtbXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#NixAI
+# 瑞士
+ss://SVNTEAM@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🔓Config
+# 瑞士
+vless://249909f4-3ce8-4956-aa2b-9f8bbdd5c2b8@188.245.234.107:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=188.245.234.107&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+# 瑞士
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?security=tls&sni=smart.topfornnow.org&alpn=h3%2Ch2&fp=chrome&type=ws&path=/&host=smart.topfornnow.org&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
+# 瑞士
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#🌐
+# 瑞士
+ss://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2F%3Fed%3D2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#🌐
+# 瑞士
+vless://telegram-id-%41rfilter@www.speedtest.net:443?path=%2Ftelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gw.pdri.blog&fp=firefox&type=ws&sni=gw.pdri.blog#🔓Config
+# 瑞士
+ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?security=tls&sni=smart.topfornnow.org&alpn=h3%2Ch2&fp=chrome&type=ws&path=/&host=smart.topfornnow.org&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
+# 瑞士
+ss://eyJhZGQiOiI0My4xNjIuMTE0LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2YTRjZTViOS0wZDYwLTRhMjEtYThmZS04OTc3OTgwMTk1MDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU5Njc0IiwicHMiOiJAVjJSQVlfVk1FU1NfZnJlZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#NixAI
+# 瑞士
+ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&encryption=none&host=Et3ch-007.Zed23.wEB1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🌐
+# 瑞士
+vless://telegram-id-%41rfilter@www.speedtest.net:443?path=%2Ftelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%2Ctelegram-%41rV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gw.pdri.blog&fp=firefox&type=ws&sni=gw.pdri.blog#%40TEHRANARGO
+# 瑞士
+ss://249909f4-3ce8-4956-aa2b-9f8bbdd5c2b8@188.245.234.107:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=188.245.234.107&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+# 瑞士
+ss://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&encryption=none&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&security=tls&fp=chrome&alpn=http/1.1&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&ech=AID+DQB8AAAgACDa3kymGZ++wd6/VngnXySNEStqWkMpKkoMMKOHQK3MIQAkAAEA#NixAI
+# 瑞士
+vless://0bfe0c56-9e18-44ac-bf97-2c7bcb5cd3c0@172.66.40.99:443?encryption=none&security=tls&sni=www.dollardoon.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.dollardoon.com&path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RA#🔓Config
 # 瑞士
 vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.190.183:443?type=tcp&encryption=none&security=reality&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#%3E%3E%40DailyV2RY%3A%3AXX
 # 瑞士
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.112.1:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYcho.sUeX12.IR#🌐
+vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#🌐
 # 瑞士
-vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&alpn=http%2F1.1&encryption=none&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+ss://0c90175d-41df-4a62-c663-67b8652371c4@104.17.148.22:2096?encryption=none&security=tls&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&type=ws&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&path=%2F%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN--%40LOCKEY_VPN#VL-0723-01
 # 瑞士
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#🌐
+ss://50a4bc22-aa19-466a-ab45-b3c2ad76ba89@172.64.155.198:443?path=/&amp;security=tls&amp;encryption=none&amp;host=www.hacker-app.com&amp;fp=chrome&amp;type=ws&amp;sni=www.hacker-app.com#NixAI
 # 瑞士
-vmess://eyJhZGQiOiJqb2luLm1lbG9keWZyZWVuZXQyLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1MGVmMGIyMy1mMTRiLTQ1OWYtOTdhYS1kMGYzNDYxODlkMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFpbC8iLCJwb3J0IjoiNDQzIiwicHMiOiJAY29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IkpvaW4uTWVsb2R5RmVlbkV0Mi5zaG9QLiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9#🌐
+ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#🌐
 # 瑞士
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+ss://eyJhZGQiOiIxNTUuMjU0LjM1LjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NzJiMDk3Zi1lNWI2LTQwNTAtOGY3MC0yYWQ2OTc5YzA5M2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5OTEyIiwicHMiOiJbXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXXQubWUvUmFpdjJtbXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#NixAI
+# 瑞士
+ss://eyJhZGQiOiIxNTUuMjU0LjM1LjIxNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3MDNhMWI2Yy1hMDFlLTQ1ZjgtOTA0MC1jMjljYmIwMjM1ZTEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUxNDA5IiwicHMiOiJAb25lX3Nob3Bfb2ZmaWNpYWwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+# 瑞士
+ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&encryption=none&host=Et3ch-007.Zed23.wEB1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#🔓Config
+# 瑞士
+ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#🌐
+# 瑞士
+vmess://eyJhZGQiOiIxNTUuMjU0LjM1LjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NzJiMDk3Zi1lNWI2LTQwNTAtOGY3MC0yYWQ2OTc5YzA5M2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5OTEyIiwicHMiOiLwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#NixAI
+# 瑞士
+vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2F%3Fed%3D2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#🌐
+# 瑞士
+ss://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+# 瑞士
+ss://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&security=tls&encryption=none&fp=chrome&type=ws#%40HiByeVPNNBot%F0%9F%91%88%F0%9F%8C%BF%F0%9F%92%8E
+# 瑞士
+ss://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🌐
+# 瑞士
+vless://SVNTEAM@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🌐
+# 瑞士
+vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🌐
+# 瑞士
+ss://e617e005-87c0-48a9-a499-6f9a134bdf1a@45.87.155.14:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+# 瑞士
+ss://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=51.79.103.225&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3`
+# 瑞士
+vmess://eyJhZGQiOiIxNTUuMjU0LjM1LjIxNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3MDNhMWI2Yy1hMDFlLTQ1ZjgtOTA0MC1jMjljYmIwMjM1ZTEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUxNDA5IiwicHMiOiJAb25lX3Nob3Bfb2ZmaWNpYWwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
