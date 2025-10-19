@@ -1,29 +1,21 @@
-# Australia - 13 items
-# Generated at 2025-10-19 01:00:58
+# Australia - 9 items
+# Generated at 2025-10-19 12:20:44
 
 # 澳大利亚
-vmess://eyJhZGQiOiI2OS40Mi4yMjAuMTkzIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6ImRlLTIuc3R1bm5lbC5jYyIsImlkIjoiMzUzMDIwMzUtMzAyMC00NTM1LWEwMzUtMzEyMDM1MzAyMDM1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBpY3YycmF5Iiwic2N5Ijoibm9uZSIsInNuaSI6ImRlLTIuc3R1bm5lbC5jYyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#🌐
+vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS50b3JvYi5uZXRiYXpjaGFuZWxsLmlyLiIsImlkIjoiZWEyYjBiYTgtNDgwMC00YTVkLWFmYTQtMzBkZTEzYjc5ZDJkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2Q0NDMiLCJwb3J0IjoiODAiLCJwcyI6IkFsbC0tQFYycmF5QWxwaGEtLTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 # 澳大利亚
-ss://eyJhZGQiOiI2OS40Mi4yMjAuMTkzIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6ImRlLTIuc3R1bm5lbC5jYyIsImlkIjoiMzUzMDIwMzUtMzAyMC00NTM1LWEwMzUtMzEyMDM1MzAyMDM1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBpY3YycmF5Iiwic2N5Ijoibm9uZSIsInNuaSI6ImRlLTIuc3R1bm5lbC5jYyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#🌐
+vless://96a91265-3cb5-49c1-b5ad-842082519b2e@164.92.252.121:443?type=grpc&encryption=none&serviceName=&authority=&security=none#NixAI
+# 澳大利亚
+vless://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
 # 澳大利亚
 vless://a6d73ecd-9b8a-49d8-ba8a-bbbf5849b242@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dIGNified-drIVER.oNEEat.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
 # 澳大利亚
 ss://96a91265-3cb5-49c1-b5ad-842082519b2e@164.92.252.121:443?type=grpc&encryption=none&serviceName=&authority=&security=none#NixAI
 # 澳大利亚
-vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS50b3JvYi5uZXRiYXpjaGFuZWxsLmlyLiIsImlkIjoiZWEyYjBiYTgtNDgwMC00YTVkLWFmYTQtMzBkZTEzYjc5ZDJkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2Q0NDMiLCJwb3J0IjoiODAiLCJwcyI6IkFsbC0tQFYycmF5QWxwaGEtLTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-# 澳大利亚
-ss://eyJhZGQiOiI2OS40Mi4yMjAuMTkzIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6ImRlLTIuc3R1bm5lbC5jYyIsImlkIjoiMzUzMDIwMzUtMzAyMC00NTM1LWEwMzUtMzEyMDM1MzAyMDM1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBpY3YycmF5Iiwic2N5Ijoibm9uZSIsInNuaSI6ImRlLTIuc3R1bm5lbC5jYyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#🔓Config
-# 澳大利亚
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🌐
-# 澳大利亚
-vmess://eyJhZGQiOiI2OS40Mi4yMjAuMTkzIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6ImRlLTIuc3R1bm5lbC5jYyIsImlkIjoiMzUzMDIwMzUtMzAyMC00NTM1LWEwMzUtMzEyMDM1MzAyMDM1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBpY3YycmF5Iiwic2N5Ijoibm9uZSIsInNuaSI6ImRlLTIuc3R1bm5lbC5jYyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#🔓Config
-# 澳大利亚
-ss://a6d73ecd-9b8a-49d8-ba8a-bbbf5849b242@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dIGNified-drIVER.oNEEat.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
+ss://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
 # 澳大利亚
 ss://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS50b3JvYi5uZXRiYXpjaGFuZWxsLmlyLiIsImlkIjoiZWEyYjBiYTgtNDgwMC00YTVkLWFmYTQtMzBkZTEzYjc5ZDJkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2Q0NDMiLCJwb3J0IjoiODAiLCJwcyI6IkFsbC0tQFYycmF5QWxwaGEtLTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 # 澳大利亚
-vless://96a91265-3cb5-49c1-b5ad-842082519b2e@164.92.252.121:443?type=grpc&encryption=none&serviceName=&authority=&security=none#NixAI
+ss://a6d73ecd-9b8a-49d8-ba8a-bbbf5849b242@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dIGNified-drIVER.oNEEat.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
 # 澳大利亚
-ss://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
-# 澳大利亚
-vless://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🌐
