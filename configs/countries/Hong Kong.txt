@@ -1,29 +1,19 @@
-# Hong Kong - 13 items
-# Generated at 2025-10-19 12:20:44
+# Hong Kong - 8 items
+# Generated at 2025-10-20 00:58:55
 
 # 香港
-ss://85bfc9cf-7842-41e2-9f88-3dac8091d1f1@154.56.121.98:21145?security=reality&encryption=none&pbk=PosV0yJDhK8JVsMobbX0mSh5yIsiNy8qtO64MAvdHmw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=aa657761b0#🔓Config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#🌐
 # 香港
-vless://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%201-1
-# 香港
-ss://85bfc9cf-7842-41e2-9f88-3dac8091d1f1@154.56.121.98:21145?security=reality&encryption=none&pbk=PosV0yJDhK8JVsMobbX0mSh5yIsiNy8qtO64MAvdHmw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=aa657761b0#🌐
-# 香港
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVG51WV9VMjF6VThGUGtDR1hkZDhB@68.183.236.145:1080#%40V2_MOD_SHOP%20-%20%E2%9A%A1%20%7C`
-# 香港
-ss://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%201-11
+vless://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 # 香港
 ss://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%201-1
+# 香港
+vless://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%201-11
+# 香港
+vless://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%201-1
 # 香港
 trojan://ef269dbc-0486-451f-b94b-d0c354bc3f1c@tuntro001.instconn.com:443?security=tls&sni=awshk.686911.xyz&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD
 # 香港
 ss://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 # 香港
-vless://85bfc9cf-7842-41e2-9f88-3dac8091d1f1@154.56.121.98:21145?security=reality&encryption=none&pbk=PosV0yJDhK8JVsMobbX0mSh5yIsiNy8qtO64MAvdHmw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=aa657761b0#🌐
-# 香港
-vless://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-# 香港
-vless://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%201-11
-# 香港
-vless://85bfc9cf-7842-41e2-9f88-3dac8091d1f1@154.56.121.98:21145?security=reality&encryption=none&pbk=PosV0yJDhK8JVsMobbX0mSh5yIsiNy8qtO64MAvdHmw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=aa657761b0#🔓Config
-# 香港
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#🌐
+ss://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%201-11
