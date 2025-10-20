@@ -1,51 +1,51 @@
 # Hong Kong - 24 items
-# Generated at 2025-10-20 08:48:42
+# Generated at 2025-10-20 12:24:12
 
-# 香港
-ss://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 # 香港
 ss://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 # 香港
-vless://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%201-11
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@36.50.90.241:35951?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 # 香港
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 # 香港
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@221.125.10.8:57537?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 香港
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@36.50.90.241:35951?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 香港
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@60.249.114.181:26398?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 香港
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@210.61.97.241:81?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 香港
 vless://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%201-1
-# 香港
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#🌐
-# 香港
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@175.29.23.5:7000?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 香港
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@210.6.207.42:18622?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 香港
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@210.61.97.241:81?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 香港
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@210.6.207.42:18622?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%40freecodes%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 香港
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@36.50.90.241:35951?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 香港
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@210.6.207.42:18622?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 香港
-ss://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%201-1
-# 香港
-ss://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%201-11
-# 香港
-vless://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-# 香港
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@60.249.114.181:26398?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-# 香港
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@210.6.207.42:18622?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%40freecodes%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 # 香港
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@221.125.10.8:57537?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 # 香港
-trojan://ef269dbc-0486-451f-b94b-d0c354bc3f1c@tuntro001.instconn.com:443?security=tls&sni=awshk.686911.xyz&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD
+ss://f61a4285-7264-4d07-9408-7b9ba1922c26@60.249.114.181:26398?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+# 香港
+ss://f61a4285-7264-4d07-9408-7b9ba1922c26@210.6.207.42:18622?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%40freecodes%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+# 香港
+ss://f61a4285-7264-4d07-9408-7b9ba1922c26@221.125.10.8:57537?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+# 香港
+ss://f61a4285-7264-4d07-9408-7b9ba1922c26@175.29.23.5:7000?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 # 香港
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@175.29.23.5:7000?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+# 香港
+ss://f61a4285-7264-4d07-9408-7b9ba1922c26@210.6.207.42:18622?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+# 香港
+ss://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+# 香港
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@60.249.114.181:26398?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+# 香港
+ss://f61a4285-7264-4d07-9408-7b9ba1922c26@210.61.97.241:81?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+# 香港
+vless://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%201-11
+# 香港
+ss://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%201-1
+# 香港
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#🌐
+# 香港
+trojan://ef269dbc-0486-451f-b94b-d0c354bc3f1c@tuntro001.instconn.com:443?security=tls&sni=awshk.686911.xyz&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD
+# 香港
+ss://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%201-11
+# 香港
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@210.61.97.241:81?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+# 香港
+ss://f61a4285-7264-4d07-9408-7b9ba1922c26@36.50.90.241:35951?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+# 香港
+vless://80bbf37b-3b05-4cd9-9c8b-e4dca684d566@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+# 香港
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@210.6.207.42:18622?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+# 香港
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@210.6.207.42:18622?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%40freecodes%2F%3Fed%3D2560#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29

@@ -1,33 +1,29 @@
-# Australia - 15 items
-# Generated at 2025-10-20 08:48:42
+# Australia - 13 items
+# Generated at 2025-10-20 12:24:12
 
-# 澳大利亚
-ss://ff4074d2-895c-4b4a-9a63-24af58f8001a@91.99.179.41:10138?type=grpc&encryption=none&serviceName=%2F@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D9%87%D8%B1+%D8%B1%D9%88%D8%B2+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84++%0A%F0%9F%91%89+%40amirw_shop_q
-# 澳大利亚
-ss://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
-# 澳大利亚
-ss://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS50b3JvYi5uZXRiYXpjaGFuZWxsLmlyLiIsImlkIjoiZWEyYjBiYTgtNDgwMC00YTVkLWFmYTQtMzBkZTEzYjc5ZDJkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2Q0NDMiLCJwb3J0IjoiODAiLCJwcyI6IkFsbC0tQFYycmF5QWxwaGEtLTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-# 澳大利亚
-vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/2IBbZjAugSH41qc5?ed&security=tls&encryption=none&alpn=h2
-# 澳大利亚
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🌐
-# 澳大利亚
-vless://a6d73ecd-9b8a-49d8-ba8a-bbbf5849b242@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dIGNified-drIVER.oNEEat.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
-# 澳大利亚
-vless://ff4074d2-895c-4b4a-9a63-24af58f8001a@91.99.179.41:10138?type=grpc&encryption=none&serviceName=%2F@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D9%87%D8%B1+%D8%B1%D9%88%D8%B2+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84++%0A%F0%9F%91%89+%40amirw_shop_q
-# 澳大利亚
-vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS50b3JvYi5uZXRiYXpjaGFuZWxsLmlyLiIsImlkIjoiZWEyYjBiYTgtNDgwMC00YTVkLWFmYTQtMzBkZTEzYjc5ZDJkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2Q0NDMiLCJwb3J0IjoiODAiLCJwcyI6IkFsbC0tQFYycmF5QWxwaGEtLTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-# 澳大利亚
-ss://a6d73ecd-9b8a-49d8-ba8a-bbbf5849b242@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dIGNified-drIVER.oNEEat.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
-# 澳大利亚
-vless://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
-# 澳大利亚
-ss://6b437afc-62b3-40ba-9112-ee667a783c3d@104.21.112.1:2087?path=/yIrauDCc9sJkOqqO?ed=2560&security=tls&encryption=none&alpn=h2
-# 澳大利亚
-ss://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/2IBbZjAugSH41qc5?ed&security=tls&encryption=none&alpn=h2
-# 澳大利亚
-vless://6b437afc-62b3-40ba-9112-ee667a783c3d@104.21.112.1:2087?path=/yIrauDCc9sJkOqqO?ed=2560&security=tls&encryption=none&alpn=h2
 # 澳大利亚
 ss://ff4074d2-895c-4b4a-9a63-24af58f8001a@91.99.179.41:10138?type=grpc&encryption=none&serviceName=%2F@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D9%87%D8%B1+%D8%B1%D9%88%D8%B2+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84++%0A%F0%9F%91%89+%40amirw_shop_q`
 # 澳大利亚
+vless://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
+# 澳大利亚
+ss://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS50b3JvYi5uZXRiYXpjaGFuZWxsLmlyLiIsImlkIjoiZWEyYjBiYTgtNDgwMC00YTVkLWFmYTQtMzBkZTEzYjc5ZDJkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2Q0NDMiLCJwb3J0IjoiODAiLCJwcyI6IkFsbC0tQFYycmF5QWxwaGEtLTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+# 澳大利亚
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🌐
+# 澳大利亚
+ss://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
+# 澳大利亚
+vless://a6d73ecd-9b8a-49d8-ba8a-bbbf5849b242@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dIGNified-drIVER.oNEEat.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
+# 澳大利亚
+ss://6b437afc-62b3-40ba-9112-ee667a783c3d@104.21.112.1:2087?path=/yIrauDCc9sJkOqqO?ed=2560&security=tls&encryption=none&alpn=h2
+# 澳大利亚
+ss://a6d73ecd-9b8a-49d8-ba8a-bbbf5849b242@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dIGNified-drIVER.oNEEat.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
+# 澳大利亚
+vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS50b3JvYi5uZXRiYXpjaGFuZWxsLmlyLiIsImlkIjoiZWEyYjBiYTgtNDgwMC00YTVkLWFmYTQtMzBkZTEzYjc5ZDJkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2Q0NDMiLCJwb3J0IjoiODAiLCJwcyI6IkFsbC0tQFYycmF5QWxwaGEtLTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+# 澳大利亚
+vless://6b437afc-62b3-40ba-9112-ee667a783c3d@104.21.112.1:2087?path=/yIrauDCc9sJkOqqO?ed=2560&security=tls&encryption=none&alpn=h2
+# 澳大利亚
+vless://ff4074d2-895c-4b4a-9a63-24af58f8001a@91.99.179.41:10138?type=grpc&encryption=none&serviceName=%2F@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D9%87%D8%B1+%D8%B1%D9%88%D8%B2+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84++%0A%F0%9F%91%89+%40amirw_shop_q
+# 澳大利亚
 vless://ff4074d2-895c-4b4a-9a63-24af58f8001a@91.99.179.41:10138?type=grpc&encryption=none&serviceName=%2F@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D9%87%D8%B1+%D8%B1%D9%88%D8%B2+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84++%0A%F0%9F%91%89+%40amirw_shop_q`
+# 澳大利亚
+ss://ff4074d2-895c-4b4a-9a63-24af58f8001a@91.99.179.41:10138?type=grpc&encryption=none&serviceName=%2F@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D9%87%D8%B1+%D8%B1%D9%88%D8%B2+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84++%0A%F0%9F%91%89+%40amirw_shop_q
