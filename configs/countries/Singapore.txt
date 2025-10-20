@@ -1,69 +1,89 @@
-# Singapore - 33 items
-# Generated at 2025-10-20 00:58:55
+# Singapore - 43 items
+# Generated at 2025-10-20 08:48:42
 
-# 新加坡
-ss://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-vless://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-ss://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-ss://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9F%87%B3%F0%9F%87%B1%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN
-# 新加坡
-ss://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-vless://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9F%90%A5%F0%9F%AA%BF%F0%9F%A6%8B4
-# 新加坡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSG9NQ1pQR2F6M25YcWc1UWNwM1h5@h110vpnde2.outlinekeys.net:53122#VL-0723-031
-# 新加坡
-ss://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-vless://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_net%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
-# 新加坡
-ss://71fe993e-0b00-4a03-9064-9aa38a107f6a@uk111m-lomin.mongral.ir:4444?security=reality&encryption=none&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=a3#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-vless://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
 vless://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
-vless://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-ss://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-# 新加坡
-vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-# 新加坡
-ss://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%3E%3E%40ShadowsocksM%3A%3ASG
-# 新加坡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbENJNDRDSGNGTHp2MkxxS1phSmJC@79.133.180.201:31613#VL-0723-041
-# 新加坡
-vless://310f218f-150a-4813-9a6d-e60245e7646d@84.247.149.142:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Xy7JFC_lOgqFQ0EMc8tAgll1uPYVswdHJAiYB9nwgjg&sid=d490a0c05121c115&type=grpc&serviceName=2bc2d2fb643af0374b27c5ec#%3E%3E%40DailyV2RY%3A%3ASG
-# 新加坡
 ss://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_net%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
+# 新加坡
+vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 # 新加坡
 ss://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
-ss://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?path=/?ed=2560?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=azadnet-5uh.pages.dev&fp=random&type=ws&sni=azadnet-5uh.pages.dev#NixAI
 # 新加坡
-ss://310f218f-150a-4813-9a6d-e60245e7646d@84.247.149.142:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Xy7JFC_lOgqFQ0EMc8tAgll1uPYVswdHJAiYB9nwgjg&sid=d490a0c05121c115&type=grpc&serviceName=2bc2d2fb643af0374b27c5ec#%3E%3E%40DailyV2RY%3A%3ASG
+vless://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9F%90%A5%F0%9F%AA%BF%F0%9F%A6%8B3
 # 新加坡
-vless://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+ss://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
-vless://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%3E%3E%40v2rayngvpn%3A%3ADE
 # 新加坡
-ss://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9F%90%A5%F0%9F%AA%BF%F0%9F%A6%8B4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSG9NQ1pQR2F6M25YcWc1UWNwM1h5@h110vpnde2.outlinekeys.net:53122#VL-0723-031
+# 新加坡
+ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+# 新加坡
+vless://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_net%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
+# 新加坡
+ss://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=azadnet-dbi.pages.dev&sni=azadnet-dbi.pages.dev&fp=random&path=/?ed=2560#NixAI
 # 新加坡
 vless://71fe993e-0b00-4a03-9064-9aa38a107f6a@uk111m-lomin.mongral.ir:4444?security=reality&encryption=none&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=a3#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
-vless://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9F%87%B3%F0%9F%87%B1%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN
+ss://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
 vless://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#%3E%3E%40v2rayng_fast%3A%3ARU
+vless://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9F%87%B3%F0%9F%87%B1%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN
 # 新加坡
-vless://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+ss://71fe993e-0b00-4a03-9064-9aa38a107f6a@uk111m-lomin.mongral.ir:4444?security=reality&encryption=none&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=a3#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=azadnet-dbi.pages.dev&sni=azadnet-dbi.pages.dev&fp=random&path=/?ed=2560#NixAI
+# 新加坡
+ss://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9F%90%A5%F0%9F%AA%BF%F0%9F%A6%8B4
+# 新加坡
+vless://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+vless://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
 ss://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
-ss://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbENJNDRDSGNGTHp2MkxxS1phSmJC@79.133.180.201:31613#VL-0723-041
+# 新加坡
+ss://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%3E%3E%40v2rayngvpn%3A%3ADE
+# 新加坡
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?path=/?ed=2560?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=azadnet-5uh.pages.dev&fp=random&type=ws&sni=azadnet-5uh.pages.dev#NixAI
+# 新加坡
+ss://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9F%90%A5%F0%9F%AA%BF%F0%9F%A6%8B3
+# 新加坡
+vless://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+# 新加坡
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#%3E%3E%40v2rayng_fast%3A%3ARU
+# 新加坡
+vless://310f218f-150a-4813-9a6d-e60245e7646d@84.247.149.142:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Xy7JFC_lOgqFQ0EMc8tAgll1uPYVswdHJAiYB9nwgjg&sid=d490a0c05121c115&type=grpc&serviceName=2bc2d2fb643af0374b27c5ec#%3E%3E%40DailyV2RY%3A%3ASG
+# 新加坡
+ss://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%3E%3E%40ShadowsocksM%3A%3ASG
+# 新加坡
+ss://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%3E%3E%40ShadowsocksM%3A%3ASG
+# 新加坡
+vless://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+vless://349c60ae-4bf8-4466-a245-0334f2adc719@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9F%87%B3%F0%9F%87%B1%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN
+# 新加坡
+vless://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=7650f522feeb047d#%F0%9F%90%A5%F0%9F%AA%BF%F0%9F%A6%8B4
+# 新加坡
+ss://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+# 新加坡
+vless://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://310f218f-150a-4813-9a6d-e60245e7646d@84.247.149.142:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Xy7JFC_lOgqFQ0EMc8tAgll1uPYVswdHJAiYB9nwgjg&sid=d490a0c05121c115&type=grpc&serviceName=2bc2d2fb643af0374b27c5ec#%3E%3E%40DailyV2RY%3A%3ASG
