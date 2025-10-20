@@ -10,13 +10,5 @@ https://raw.githubusercontent.com/Joker-funland/V2ray-configs/refs/heads/main/vl
 https://raw.githubusercontent.com/SonzaiEkkusu/V2RayDumper/refs/heads/main/config.txt
 https://raw.githubusercontent.com/lennon81280/NixAI-Free-V2ray-Tested/refs/heads/master/v2ray_links.html
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/yudou66.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/blues.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://goclash.topmarco.tech/sb
 https://gcore.jsdelivr.net/gh/aews/jd/v20929.txt
