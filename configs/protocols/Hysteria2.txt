@@ -1,4 +1,4 @@
 # Hysteria2 - 1 items
-# Generated at 2025-10-20 12:24:12
+# Generated at 2025-10-21 00:55:50
 
 hy2://571ec94e-613c-430a-93de-397d3d237475@103.136.150.23:22153/?insecure=1&sni=hsxg.huasuan666.top#Telegram+%7C+Payam_Nsi
