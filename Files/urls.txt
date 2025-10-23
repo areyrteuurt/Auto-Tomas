@@ -1,5 +1,4 @@
 https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_BASE64.txt
-https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/v2ray.txt
 https://raw.githubusercontent.com/Awmiroosen/awmirx-v2ray/refs/heads/main/blob/main/v2-sub.txt
 https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt
 https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt
@@ -9,4 +8,3 @@ https://raw.githubusercontent.com/Mhdiqpzx/Mahdi-VIP/refs/heads/main/Mahdi-Vip.t
 https://raw.githubusercontent.com/Joker-funland/V2ray-configs/refs/heads/main/vless.txt
 https://raw.githubusercontent.com/SonzaiEkkusu/V2RayDumper/refs/heads/main/config.txt
 https://raw.githubusercontent.com/lennon81280/NixAI-Free-V2ray-Tested/refs/heads/master/v2ray_links.html
-https://goclash.topmarco.tech/sb
