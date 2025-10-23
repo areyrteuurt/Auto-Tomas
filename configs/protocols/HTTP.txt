@@ -1,4 +1,0 @@
-# HTTP - 1 items
-# Generated at 2025-10-23 00:55:23
-
-http://www.gstatic.com/generate_204"
