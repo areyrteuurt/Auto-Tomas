@@ -1,37 +1,41 @@
-# Australia - 17 items
-# Generated at 2025-10-23 01:26:40
+# Australia - 19 items
+# Generated at 2025-10-23 12:24:17
 
 # 澳大利亚
-vmess://eyJhZGQiOiI0Ni4yNTAuMjMzLjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhYmRkNzZjNy0xMTZkLTQxZjItODUzOC0xMTIzOWRkZTVmNDMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiQFYycmF5TkdWUE4gXHUwMDNjXHUwMDNkINqp2KfZhtmB24zaryDYsdin24zar9in2YYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://23fbb088-b679-4f4d-c5fc-496b88cf3894@209.38.202.218:443?type=grpc&encryption=none&serviceName=&authority=&security=none#NixAI
 # 澳大利亚
-ss://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
-# 澳大利亚
-ss://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/2IBbZjAugSH41qc5?ed&security=tls&encryption=none&alpn=h2
-# 澳大利亚
-vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/2IBbZjAugSH41qc5?ed&security=tls&alpn=h2
-# 澳大利亚
-vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/2IBbZjAugSH41qc5?ed&security=tls&encryption=none&alpn=h2
-# 澳大利亚
-ss://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/2IBbZjAugSH41qc5?ed&security=tls&alpn=h2
-# 澳大利亚
-vless://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
-# 澳大利亚
-vless://a6d73ecd-9b8a-49d8-ba8a-bbbf5849b242@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dIGNified-drIVER.oNEEat.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
-# 澳大利亚
-vless://97c02cbb-eef4-427c-bb25-a5720886b006@androidauthority.com:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
-# 澳大利亚
-ss://eyJhZGQiOiI0Ni4yNTAuMjMzLjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhYmRkNzZjNy0xMTZkLTQxZjItODUzOC0xMTIzOWRkZTVmNDMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiQFYycmF5TkdWUE4gXHUwMDNjXHUwMDNkINqp2KfZhtmB24zaryDYsdin24zar9in2YYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-# 澳大利亚
-ss://97c02cbb-eef4-427c-bb25-a5720886b006@androidauthority.com:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
+vless://23fbb088-b679-4f4d-c5fc-496b88cf3894@209.38.202.218:443?type=grpc&encryption=none&serviceName=&authority=&security=none#NixAI
 # 澳大利亚
 vless://2e23b585-a486-4541-83d8-5832a1409c6e@31.207.44.210:32155/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=6-b7u_t7wG_jbda_lucHW4Au9biBl1E0tA2Zkqm8mSw&sid=737af772#%3E%3E%40oneclickvpnkeys%3A%3ANL
 # 澳大利亚
-vless://6f1eebdf-4cb5-40c4-96e5-bf8b5d0a79ba@www.rexo.online:8880?security=&encryption=none&authority=iranserver.com&type=grpc&serviceName=iranserver.com#NixAI
+ss://03a806fa-3d03-43db-9915-843d2570dc46@91.99.179.41:10138?type=grpc&encryption=none&serviceName=%2F@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D9%87%D8%B1+%D8%B1%D9%88%D8%B2+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84++%0A%F0%9F%91%89+%40amirw_shop_q
+# 澳大利亚
+vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/2IBbZjAugSH41qc5?ed&security=tls&encryption=none&alpn=h2
+# 澳大利亚
+ss://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/2IBbZjAugSH41qc5?ed&security=tls&encryption=none&alpn=h2
+# 澳大利亚
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&flow=&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#%3E%3E%40oneclickvpnkeys%3A%3ARU
+# 澳大利亚
+vless://97c02cbb-eef4-427c-bb25-a5720886b006@androidauthority.com:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
 # 澳大利亚
 ss://2e23b585-a486-4541-83d8-5832a1409c6e@31.207.44.210:32155/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=6-b7u_t7wG_jbda_lucHW4Au9biBl1E0tA2Zkqm8mSw&sid=737af772#%3E%3E%40oneclickvpnkeys%3A%3ANL
 # 澳大利亚
-ss://6f1eebdf-4cb5-40c4-96e5-bf8b5d0a79ba@www.rexo.online:8880?security=&encryption=none&authority=iranserver.com&type=grpc&serviceName=iranserver.com#NixAI
+vless://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
+# 澳大利亚
+ss://97c02cbb-eef4-427c-bb25-a5720886b006@androidauthority.com:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
+# 澳大利亚
+vless://03a806fa-3d03-43db-9915-843d2570dc46@91.99.179.41:10138?type=grpc&encryption=none&serviceName=%2F@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D9%87%D8%B1+%D8%B1%D9%88%D8%B2+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84++%0A%F0%9F%91%89+%40amirw_shop_q
+# 澳大利亚
+ss://eyJhZGQiOiI0Ni4yNTAuMjMzLjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhYmRkNzZjNy0xMTZkLTQxZjItODUzOC0xMTIzOWRkZTVmNDMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiQFYycmF5TkdWUE4gXHUwMDNjXHUwMDNkINqp2KfZhtmB24zaryDYsdin24zar9in2YYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+# 澳大利亚
+ss://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&flow=&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#%3E%3E%40oneclickvpnkeys%3A%3ARU
+# 澳大利亚
+ss://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
+# 澳大利亚
+vless://6f1eebdf-4cb5-40c4-96e5-bf8b5d0a79ba@www.rexo.online:8880?security=&encryption=none&authority=iranserver.com&type=grpc&serviceName=iranserver.com#NixAI
+# 澳大利亚
+vmess://eyJhZGQiOiI0Ni4yNTAuMjMzLjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhYmRkNzZjNy0xMTZkLTQxZjItODUzOC0xMTIzOWRkZTVmNDMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiQFYycmF5TkdWUE4gXHUwMDNjXHUwMDNkINqp2KfZhtmB24zaryDYsdin24zar9in2YYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 # 澳大利亚
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🌐
 # 澳大利亚
-ss://a6d73ecd-9b8a-49d8-ba8a-bbbf5849b242@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dIGNified-drIVER.oNEEat.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
+ss://6f1eebdf-4cb5-40c4-96e5-bf8b5d0a79ba@www.rexo.online:8880?security=&encryption=none&authority=iranserver.com&type=grpc&serviceName=iranserver.com#NixAI

@@ -1,45 +1,57 @@
-# Singapore - 21 items
-# Generated at 2025-10-23 01:26:40
+# Singapore - 27 items
+# Generated at 2025-10-23 12:24:17
 
 # 新加坡
-vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%F0%9F%9F%A2%20Telegram%3A%20%40Proxy_Tunnel
-# 新加坡
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=azadnet-2f7.pages.dev&fp=random&type=ws&host=azadnet-2f7.pages.dev&path=/?ed=2560#NixAI
-# 新加坡
-vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-# 新加坡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#%3E%3E%40v2rayng_fast%3A%3ARU
-# 新加坡
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=azadnet-dbi.pages.dev&sni=azadnet-dbi.pages.dev&fp=random&path=/?ed=2560#NixAI
-# 新加坡
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=%2F%3Fed%3D2560#VL-0729-05
-# 新加坡
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=azadnet-2f7.pages.dev&fp=random&type=ws&host=azadnet-2f7.pages.dev&path=/?ed=2560#NixAI
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?path=/?ed=2560?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=azadnet-5uh.pages.dev&fp=random&type=ws&sni=azadnet-5uh.pages.dev#NixAI
 # 新加坡
 ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
-ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-# 新加坡
-vless://c709d7a4-35b4-469c-b0f3-b8fd92614b65@world-of.ru:8443?security=reality&encryption=none&pbk=WvzrHrw813BCSgvVSB4plCU_EQo1_URrC_fi4SjktUY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a36c0f#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=/?ed=2560#NixAI
 # 新加坡
-ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=/?ed=2560#NixAI
-# 新加坡
-vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-# 新加坡
-ss://c709d7a4-35b4-469c-b0f3-b8fd92614b65@world-of.ru:8443?security=reality&encryption=none&pbk=WvzrHrw813BCSgvVSB4plCU_EQo1_URrC_fi4SjktUY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a36c0f#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=azadnet-dbi.pages.dev&sni=azadnet-dbi.pages.dev&fp=random&path=/?ed=2560#NixAI
-# 新加坡
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=%2F%3Fed%3D2560#VL-0729-05
-# 新加坡
-ss://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 # 新加坡
 ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%F0%9F%9F%A2%20Telegram%3A%20%40Proxy_Tunnel
 # 新加坡
+ss://a2088892-07c5-4c54-8a10-4a4b6ebefab6@waifu.kurumi.biz.id:80/?type=ws&encryption=none&flow=&host=discord.com&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3ASG
+# 新加坡
+ss://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+# 新加坡
+vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%F0%9F%9F%A2%20Telegram%3A%20%40Proxy_Tunnel
+# 新加坡
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#%3E%3E%40v2rayng_fast%3A%3ARU
+# 新加坡
+vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+# 新加坡
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=/?ed=2560#NixAI
+# 新加坡
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?path=/?ed=2560?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=azadnet-5uh.pages.dev&fp=random&type=ws&sni=azadnet-5uh.pages.dev#NixAI
+# 新加坡
+ss://c709d7a4-35b4-469c-b0f3-b8fd92614b65@world-of.ru:8443?security=reality&encryption=none&pbk=WvzrHrw813BCSgvVSB4plCU_EQo1_URrC_fi4SjktUY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a36c0f#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#🌐
+# 新加坡
+ss://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#%3E%3E%40oneclickvpnkeys%3A%3AAM
+# 新加坡
+vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
+# 新加坡
+vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+# 新加坡
+ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+# 新加坡
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=%2F%3Fed%3D2560#VL-0729-05
+# 新加坡
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#🔓Config
+# 新加坡
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#%3E%3E%40oneclickvpnkeys%3A%3AAM
+# 新加坡
 vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+# 新加坡
+vless://a2088892-07c5-4c54-8a10-4a4b6ebefab6@waifu.kurumi.biz.id:80/?type=ws&encryption=none&flow=&host=discord.com&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3ASG
+# 新加坡
+vless://c709d7a4-35b4-469c-b0f3-b8fd92614b65@world-of.ru:8443?security=reality&encryption=none&pbk=WvzrHrw813BCSgvVSB4plCU_EQo1_URrC_fi4SjktUY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a36c0f#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+# 新加坡
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=%2F%3Fed%3D2560#VL-0729-05

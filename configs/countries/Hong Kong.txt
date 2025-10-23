@@ -1,37 +1,43 @@
-# Hong Kong - 17 items
-# Generated at 2025-10-23 01:26:40
+# Hong Kong - 20 items
+# Generated at 2025-10-23 12:24:17
 
+# 香港
+ss://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443?security=reality&encryption=none&pbk=GofDu1_VYmj-QvNZZShKrPEw5_rAVDpxohAwZwJ8cjw&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=ad.mail.ru&sid=a60d#%3E%3E%40v2rayngvpn%3A%3ADE
+# 香港
+ss://hopev2ray-hopev2ray-hopev2ray@5.75.202.253:47713/?type=tcp&encryption=none&flow=&sni=Zula.ir&fp=chrome&security=reality&pbk=pS2RI8JETm4avuyyZl4qaZO0KrE4YX9xIOmHkqMmJH4&sid=fc#%3E%3E%40oneclickvpnkeys%3A%3AXX
+# 香港
+hy2://c85c5422-97a7-4e9a-a9dc-6e16d474fe8c@hg1.xiaohuolongjc.top:37771/?insecure=1&sni=hg1.xiaohuolongjc.top#%3E%3E%40oneclickvpnkeys%3A%3AHK
 # 香港
 vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?encryption=none&security=tls&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev&type=ws&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#VL-0729-04
 # 香港
-ss://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ad.mail.ru&fp=chrome&security=reality&pbk=GofDu1_VYmj-QvNZZShKrPEw5_rAVDpxohAwZwJ8cjw&sid=a60d#%3E%3E%40oneclickvpnkeys%3A%3ADE
-# 香港
-ss://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?encryption=none&security=tls&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev&type=ws&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#VL-0729-04
-# 香港
-vmess://eyJhZGQiOiIzMS4xODQuMTY2LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJteWtldC5pciIsImlkIjoiOGEwOTdhZTItZWVmYi00OTkzLWI1NGItMmY1M2Y2MzNlYjUyIiwibmV0IjoidGNwIiwicGF0aCI6Ii94MXp3UDQ1cDBGV2pMUWl5TUwiLCJwb3J0IjoiMzQ2NTAiLCJwcyI6IkhlYWRfdCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoibXlrZXQuaXIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://17108cd5-ddcf-4b6e-bb43-36a711a01366@sourceforge.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%204.4
 # 香港
 ss://17108cd5-ddcf-4b6e-bb43-36a711a01366@medium.com:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%204.44
 # 香港
-vless://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443?security=reality&encryption=none&pbk=GofDu1_VYmj-QvNZZShKrPEw5_rAVDpxohAwZwJ8cjw&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=ad.mail.ru&sid=a60d#%3E%3E%40v2rayngvpn%3A%3ADE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#🌐
+# 香港
+ss://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?encryption=none&security=tls&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev&type=ws&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#VL-0729-04
+# 香港
+vless://hopev2ray-hopev2ray-hopev2ray@5.75.202.253:47713/?type=tcp&encryption=none&flow=&sni=Zula.ir&fp=chrome&security=reality&pbk=pS2RI8JETm4avuyyZl4qaZO0KrE4YX9xIOmHkqMmJH4&sid=fc#%3E%3E%40oneclickvpnkeys%3A%3AXX
 # 香港
 ss://17108cd5-ddcf-4b6e-bb43-36a711a01366@sourceforge.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%204.4
 # 香港
-ss://81caa837-c213-4731-a02e-662380ad1e2f@104.17.147.22:443?encryption=none&security=tls&sni=cxrolvpn.freev2-edb.workers.dev&alpn=http%2F1.1&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=%2FVeJJ5MwyXaAbhkV8%3Fed%3D2560#VL-0729-013
-# 香港
-vless://17108cd5-ddcf-4b6e-bb43-36a711a01366@medium.com:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%204.44
-# 香港
-ss://eyJhZGQiOiIzMS4xODQuMTY2LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJteWtldC5pciIsImlkIjoiOGEwOTdhZTItZWVmYi00OTkzLWI1NGItMmY1M2Y2MzNlYjUyIiwibmV0IjoidGNwIiwicGF0aCI6Ii94MXp3UDQ1cDBGV2pMUWl5TUwiLCJwb3J0IjoiMzQ2NTAiLCJwcyI6IkhlYWRfdCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoibXlrZXQuaXIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ad.mail.ru&fp=chrome&security=reality&pbk=GofDu1_VYmj-QvNZZShKrPEw5_rAVDpxohAwZwJ8cjw&sid=a60d#%3E%3E%40oneclickvpnkeys%3A%3ADE
 # 香港
 vless://81caa837-c213-4731-a02e-662380ad1e2f@104.17.147.22:443?encryption=none&security=tls&sni=cxrolvpn.freev2-edb.workers.dev&alpn=http%2F1.1&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=%2FVeJJ5MwyXaAbhkV8%3Fed%3D2560#VL-0729-013
 # 香港
-ss://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443?security=reality&encryption=none&pbk=GofDu1_VYmj-QvNZZShKrPEw5_rAVDpxohAwZwJ8cjw&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=ad.mail.ru&sid=a60d#%3E%3E%40v2rayngvpn%3A%3ADE
+vmess://eyJhZGQiOiIzMS4xODQuMTY2LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJteWtldC5pciIsImlkIjoiOGEwOTdhZTItZWVmYi00OTkzLWI1NGItMmY1M2Y2MzNlYjUyIiwibmV0IjoidGNwIiwicGF0aCI6Ii94MXp3UDQ1cDBGV2pMUWl5TUwiLCJwb3J0IjoiMzQ2NTAiLCJwcyI6IkhlYWRfdCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoibXlrZXQuaXIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 # 香港
 vless://17108cd5-ddcf-4b6e-bb43-36a711a01366@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 # 香港
 ss://17108cd5-ddcf-4b6e-bb43-36a711a01366@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 # 香港
-vless://17108cd5-ddcf-4b6e-bb43-36a711a01366@sourceforge.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%204.4
+vless://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443?security=reality&encryption=none&pbk=GofDu1_VYmj-QvNZZShKrPEw5_rAVDpxohAwZwJ8cjw&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=ad.mail.ru&sid=a60d#%3E%3E%40v2rayngvpn%3A%3ADE
 # 香港
-vless://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ad.mail.ru&fp=chrome&security=reality&pbk=GofDu1_VYmj-QvNZZShKrPEw5_rAVDpxohAwZwJ8cjw&sid=a60d#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://17108cd5-ddcf-4b6e-bb43-36a711a01366@medium.com:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%204.44
 # 香港
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#🌐
+ss://eyJhZGQiOiIzMS4xODQuMTY2LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJteWtldC5pciIsImlkIjoiOGEwOTdhZTItZWVmYi00OTkzLWI1NGItMmY1M2Y2MzNlYjUyIiwibmV0IjoidGNwIiwicGF0aCI6Ii94MXp3UDQ1cDBGV2pMUWl5TUwiLCJwb3J0IjoiMzQ2NTAiLCJwcyI6IkhlYWRfdCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoibXlrZXQuaXIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+# 香港
+ss://81caa837-c213-4731-a02e-662380ad1e2f@104.17.147.22:443?encryption=none&security=tls&sni=cxrolvpn.freev2-edb.workers.dev&alpn=http%2F1.1&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=%2FVeJJ5MwyXaAbhkV8%3Fed%3D2560#VL-0729-013
+# 香港
+ss://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ad.mail.ru&fp=chrome&security=reality&pbk=GofDu1_VYmj-QvNZZShKrPEw5_rAVDpxohAwZwJ8cjw&sid=a60d#%3E%3E%40oneclickvpnkeys%3A%3ADE
