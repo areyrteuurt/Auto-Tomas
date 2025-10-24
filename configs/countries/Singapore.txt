@@ -1,75 +1,67 @@
-# Singapore - 36 items
-# Generated at 2025-10-24 00:52:15
+# Singapore - 32 items
+# Generated at 2025-10-24 12:23:59
 
 # 新加坡
-ss://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=azadnet-dbi.pages.dev&sni=azadnet-dbi.pages.dev&fp=random&path=/?ed=2560#NixAI
 # 新加坡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#🌐
-# 新加坡
-ss://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn2.parsgit.
-# 新加坡
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=%2F%3Fed%3D2560#VL-0729-05
-# 新加坡
-ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%F0%9F%9F%A2%20Telegram%3A%20%40Proxy_Tunnel
-# 新加坡
-vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-# 新加坡
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=azadnet-dbi.pages.dev&fp=random&type=ws&host=azadnet-dbi.pages.dev&path=/?ed=2560#NixAI
-# 新加坡
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=/?ed=2560#NixAI
-# 新加坡
-ss://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=%2F%3Fed%3D2560#VL-0729-05
-# 新加坡
-ss://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86
-# 新加坡
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#%3E%3E%40oneclickvpnkeys%3A%3AAM
-# 新加坡
-vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%F0%9F%9F%A2%20Telegram%3A%20%40Proxy_Tunnel
-# 新加坡
-vless://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%E2%9A%A1%20%40skypro_vpn
-# 新加坡
-vless://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86
-# 新加坡
-vless://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-# 新加坡
-ss://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-&security=&encryption=none&host=webde3.parsgit.com.&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%E2%9A%A1%20%40tik7net_vpn
-# 新加坡
-vless://a2088892-07c5-4c54-8a10-4a4b6ebefab6@waifu.kurumi.biz.id:80/?type=ws&encryption=none&flow=&host=discord.com&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3ASG
 # 新加坡
 ss://a2088892-07c5-4c54-8a10-4a4b6ebefab6@waifu.kurumi.biz.id:80/?type=ws&encryption=none&flow=&host=discord.com&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3ASG
 # 新加坡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#%3E%3E%40v2rayng_fast%3A%3ARU
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=%2F%3Fed%3D2560#VL-0729-05
 # 新加坡
-vless://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn2.parsgit.
+vless://310f218f-150a-4813-9a6d-e60245e7646d@84.247.149.142:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=Xy7JFC_lOgqFQ0EMc8tAgll1uPYVswdHJAiYB9nwgjg&sid=d490a0c05121c115#%3E%3E%40oneclickvpnkeys%3A%3ASG
 # 新加坡
-ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 # 新加坡
 ss://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 # 新加坡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-# 新加坡
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=azadnet-dbi.pages.dev&fp=random&type=ws&host=azadnet-dbi.pages.dev&path=/?ed=2560#NixAI
-# 新加坡
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?path=/?ed=2560&security=tls&encryption=none&host=azadnet-4n9.pages.dev&fp=random&type=ws&sni=azadnet-4n9.pages.dev#NixAI
+vless://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn2.parsgit.
 # 新加坡
 vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#🔓Config
-# 新加坡
-ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://a2088892-07c5-4c54-8a10-4a4b6ebefab6@waifu.kurumi.biz.id:80/?type=ws&encryption=none&flow=&host=discord.com&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3ASG
 # 新加坡
 vless://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
-ss://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#%3E%3E%40oneclickvpnkeys%3A%3AAM
+vless://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86
 # 新加坡
 vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 # 新加坡
-vless://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-&security=&encryption=none&host=webde3.parsgit.com.&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%E2%9A%A1%20%40tik7net_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#🔓Config
 # 新加坡
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?path=/?ed=2560&security=tls&encryption=none&host=azadnet-4n9.pages.dev&fp=random&type=ws&sni=azadnet-4n9.pages.dev#NixAI
+vless://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 # 新加坡
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=/?ed=2560#NixAI
+ss://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn2.parsgit.
 # 新加坡
-ss://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%E2%9A%A1%20%40skypro_vpn
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#%3E%3E%40oneclickvpnkeys%3A%3AAM
+# 新加坡
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#%3E%3E%40v2rayng_fast%3A%3ARU
+# 新加坡
+ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#%3E%3E%40oneclickvpnkeys%3A%3AAM
+# 新加坡
+vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500/?type=grpc&encryption=none&flow=&sni=www.ebay.com&fp=chrome&security=reality&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e#%3E%3E%40oneclickvpnkeys%3A%3ASA
+# 新加坡
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#🌐
+# 新加坡
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=azadnet-dbi.pages.dev&sni=azadnet-dbi.pages.dev&fp=random&path=/?ed=2560#NixAI
+# 新加坡
+ss://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://310f218f-150a-4813-9a6d-e60245e7646d@84.247.149.142:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=Xy7JFC_lOgqFQ0EMc8tAgll1uPYVswdHJAiYB9nwgjg&sid=d490a0c05121c115#%3E%3E%40oneclickvpnkeys%3A%3ASG
+# 新加坡
+ss://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3ASG
+# 新加坡
+ss://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500/?type=grpc&encryption=none&flow=&sni=www.ebay.com&fp=chrome&security=reality&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e#%3E%3E%40oneclickvpnkeys%3A%3ASA
+# 新加坡
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=98e2f18d.azadnet-ce1.pages.dev&type=ws&host=98e2f18d.azadnet-ce1.pages.dev&path=%2F%3Fed%3D2560#VL-0729-05
+# 新加坡
+ss://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+# 新加坡
+ss://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86
+# 新加坡
+ss://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+# 新加坡
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
