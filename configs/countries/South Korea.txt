@@ -1,35 +1,51 @@
-# South Korea - 16 items
-# Generated at 2025-10-23 12:24:17
+# South Korea - 24 items
+# Generated at 2025-10-24 00:52:15
 
 # 韩国
-vless://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.ebay.com&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&fp=chrome#%3E%3E%40DailyV2RY%3A%3AKR
-# 韩国
-ss://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:443/?type=grpc&encryption=none&flow=&serviceName=aec69a9d2944dd7468412f47&sni=www.microsoft.com&fp=safari&security=reality&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5#%3E%3E%40oneclickvpnkeys%3A%3ACH
-# 韩国
-ss://b47f6da1-e784-493f-9dcb-4d7a90c618d8@151.240.19.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yimg.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#%F0%9F%87%A9%F0%9F%87%AATelegram%3A%40tik7net_vpn
 # 韩国
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🌐
 # 韩国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyUFhvaWtJTmJTRkRCZUR4NUJ6S2k3@77.83.246.74:443#%3E%3E%40shadowproxy66%3A%3APL
-# 韩国
-ss://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.ebay.com&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&fp=chrome#%3E%3E%40DailyV2RY%3A%3AKR
-# 韩国
-ss://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5&type=tcp&flow=xtls-rprx-vision#%3E%3E%40DailyV2RY%3A%3ACH
-# 韩国
-vless://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5&type=grpc&serviceName=aec69a9d2944dd7468412f47#%3E%3E%40DailyV2RY%3A%3ACH
-# 韩国
-vless://b47f6da1-e784-493f-9dcb-4d7a90c618d8@151.240.19.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yimg.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFR
-# 韩国
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🌐
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 # 韩国
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyUFhvaWtJTmJTRkRCZUR4NUJ6S2k3@77.83.246.74:443#%40V2_MOD_SHOP%20-%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%9A%A1%20%7C
 # 韩国
-ss://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&sid=9d90d7ada8#%3E%3E%40DailyV2RY%3A%3AIE
+ss://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5&type=tcp&flow=xtls-rprx-vision#%3E%3E%40DailyV2RY%3A%3ACH
+# 韩国
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyUFhvaWtJTmJTRkRCZUR4NUJ6S2k3@77.83.246.74:443#%3E%3E%40shadowproxy66%3A%3APL
+# 韩国
+ss://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi2qnYp9mG2YHbjNqvINin2LXZhNuM2Kcg2KrZiCDahtmG2YTYjCDYp9uM2YbYpyDYqNqG2Ycg2KjYp9iy24zZhyDwn4ep8J+HqvCfh6vwn4euIEBSYXlwaG9yaWFIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoicHV0aWhiLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+# 韩国
+ss://0667820d-f8a9-4652-a3b9-efadc06af433@162.159.152.155:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=random&type=ws&sni=sni.aizrf.com#🌍
+# 韩国
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🌐
 # 韩国
 vless://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:443/?type=grpc&encryption=none&flow=&serviceName=aec69a9d2944dd7468412f47&sni=www.microsoft.com&fp=safari&security=reality&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5#%3E%3E%40oneclickvpnkeys%3A%3ACH
 # 韩国
-vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&sid=9d90d7ada8#%3E%3E%40DailyV2RY%3A%3AIE
+ss://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5&type=grpc&serviceName=aec69a9d2944dd7468412f47#%3E%3E%40DailyV2RY%3A%3ACH
+# 韩国
+ss://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:443/?type=grpc&encryption=none&flow=&serviceName=aec69a9d2944dd7468412f47&sni=www.microsoft.com&fp=safari&security=reality&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5#%3E%3E%40oneclickvpnkeys%3A%3ACH
+# 韩国
+vmess://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi2qnYp9mG2YHbjNqvINin2LXZhNuM2Kcg2KrZiCDahtmG2YTYjCDYp9uM2YbYpyDYqNqG2Ycg2KjYp9iy24zZhyDwn4ep8J+HqvCfh6vwn4euIEBSYXlwaG9yaWFIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoicHV0aWhiLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+# 韩国
+ss://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&sid=9d90d7ada8#%3E%3E%40DailyV2RY%3A%3AIE
+# 韩国
+vless://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.ebay.com&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&fp=chrome#%3E%3E%40DailyV2RY%3A%3AKR
 # 韩国
 vless://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5&type=tcp&flow=xtls-rprx-vision#%3E%3E%40DailyV2RY%3A%3ACH
 # 韩国
-ss://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5&type=grpc&serviceName=aec69a9d2944dd7468412f47#%3E%3E%40DailyV2RY%3A%3ACH
+ss://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.ebay.com&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&fp=chrome#%3E%3E%40DailyV2RY%3A%3AKR
+# 韩国
+ss://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#%F0%9F%87%A9%F0%9F%87%AATelegram%3A%40tik7net_vpn
+# 韩国
+vless://b47f6da1-e784-493f-9dcb-4d7a90c618d8@151.240.19.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yimg.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFR
+# 韩国
+vless://0667820d-f8a9-4652-a3b9-efadc06af433@162.159.152.155:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=random&type=ws&sni=sni.aizrf.com#🌍
+# 韩国
+ss://b47f6da1-e784-493f-9dcb-4d7a90c618d8@151.240.19.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yimg.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFR
+# 韩国
+vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&sid=9d90d7ada8#%3E%3E%40DailyV2RY%3A%3AIE
+# 韩国
+ss://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+# 韩国
+vless://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5&type=grpc&serviceName=aec69a9d2944dd7468412f47#%3E%3E%40DailyV2RY%3A%3ACH
