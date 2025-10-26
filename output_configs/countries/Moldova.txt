@@ -14,7 +14,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?security=&encrypti
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AMD
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AMD
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.139:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AMD
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=none&encryption=none&authority=-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&type=grpc#%3E%3E%40v2rayngvpn%3A%3AMD
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AMD
@@ -42,6 +41,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638968569914906705.ahvaz-blkaft-aaag.i
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AMD
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AMD
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AMD
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇲🇩[Telegram:NetifyVPN]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AMD
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AMD
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AMD
@@ -57,7 +57,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?security=&encry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AMD
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AMD
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.139:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AMD
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=none&encryption=none&authority=-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&type=grpc#%3E%3E%40v2rayngvpn%3A%3AMD
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AMD
@@ -85,3 +84,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638968569914906705.ahvaz-blkaft-aaa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AMD
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AMD
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AMD
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇲🇩[Telegram:NetifyVPN]
