@@ -1,0 +1,2 @@
+ss://7fb5e59d-9e51-4f87-955a-fdde5fb34697@104.244.78.95:2083?path=%2FFree-VPN-CF-Geo-Project%2FLU2&security=tls&encryption=none&host=joss.krikkrik.web.id&fp=randomized&type=ws&sni=joss.krikkrik.web.id#%5B%40v2FreeHub%5D%20Vless%20%F0%9F%87%B1%F0%9F%87%BA%20WS%20TLS
+vless://7fb5e59d-9e51-4f87-955a-fdde5fb34697@104.244.78.95:2083?path=%2FFree-VPN-CF-Geo-Project%2FLU2&security=tls&encryption=none&host=joss.krikkrik.web.id&fp=randomized&type=ws&sni=joss.krikkrik.web.id#%5B%40v2FreeHub%5D%20Vless%20%F0%9F%87%B1%F0%9F%87%BA%20WS%20TLS

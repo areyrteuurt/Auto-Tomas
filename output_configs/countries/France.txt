@@ -2,45 +2,35 @@ ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encrypti
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#%3E%3E%40ShadowsocksM%3A%3AFR
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3AFR
-ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=&encryption=none&host=t.me%2Fv2line&type=ws#%F0%9F%92%80N%CE%9ETISHI%CE%A3LD%F0%9F%94%A5%F0%9F%87%AB%F0%9F%87%B7
-ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn&type=ws#NixAI Free Servers - 🇫🇷
-ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&type=ws#NixAI Free Servers - 🇫🇷
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&type=ws&note=@freeOnlineVPN#NixAI Free Servers - 🇫🇷
-ss://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?encryption=none&security=tls&fp=chrome&allowInsecure=1&type=ws&path=/holhclws#NixAI Free Servers - 🇫🇷
 ss://465c9707-5517-442d-a5f3-624eec09cccd@23.162.152.241:443/?type=grpc&encryption=none&flow=&serviceName=4bb3a74bca23310487d67556&sni=www.microsoft.com&fp=safari&security=reality&pbk=nve8tt_uzlKv_MuDIaiqNku_8zVcWoRfY0bMA0WYwkw&sid=acbf1304fb5ea6e6#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://465c9707-5517-442d-a5f3-624eec09cccd@23.162.152.241:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=nve8tt_uzlKv_MuDIaiqNku_8zVcWoRfY0bMA0WYwkw&sid=acbf1304fb5ea6e6&type=grpc&serviceName=4bb3a74bca23310487d67556#%3E%3E%40DailyV2RY%3A%3AFR
+ss://4faf59bf-f92c-4ec9-bb8a-58a58708b0c6@realdom-fr.panelfreedom.com:20810?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com&note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%5B%F0%9F%87%AB%F0%9F%87%B7%5Dt.me%2FRaiv2mmr
 ss://8062ddd7-fdee-485d-8948-c6e5df168fe9@173.212.209.56:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=ks1Ud3HgMftMPFrUpu7dJboFGyFXB74d4EaXaO4283Q&fp=chrome#%3E%3E%40DailyV2RY%3A%3AFR
+ss://93a6409e-b7cb-49b0-ad37-e6196cf3492a@103.82.101.179:443?path=%2FFree-VPN-CF-Geo-Project%2FFR1&security=tls&encryption=none&host=joss.krikkrik.web.id&fp=randomized&type=ws&sni=joss.krikkrik.web.id#%5B%40v2FreeHub%5D%20Vless%20%F0%9F%87%AB%F0%9F%87%B7%20WS%20TLS
 ss://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dash.cloudflare.com&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&fp=chrome#%3E%3E%40DailyV2RY%3A%3AFR
 ss://b47f6da1-e784-493f-9dcb-4d7a90c618d8@151.240.19.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yimg.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://b7437f7a-783f-4e6f-a555-a2a589f42b5a@103.249.133.69:443?security=reality&encryption=none&pbk=eAKw1k-H2cuw0AsjNH-3RG2RBHOZCPz8qQp-i5W-Zkk&headerType=none&fp=chrome&spx=%2FxrQx9jFZGyeAGmS&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=61#%F0%9F%87%AB%F0%9F%87%B7%20pro%20%7C%20%40confegraigan
 ss://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&encryption=none&headerType=none&type=tcp&sni=vpn-srv-2.circlevpn.net#%3E%3E%40configV2rayNG%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.184:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.185:8880/?type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.185:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.101:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.146:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.149:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.149:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.149:8880?security=&fp=chrome&type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.152:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.164:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.149:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.153:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.165:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.165:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.165:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.165:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.176:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.191:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.191:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.192:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.192:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.193:8880?security=none&encryption=none&fp=chrome&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -53,94 +43,90 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.101:8880?encryption=none&security=none&type=grpc&mode=gun#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.101:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.101:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.101:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.101:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.101:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.101:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.104:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880/?type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880?encryption=none&security=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880?security=&fp=chrome&type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.108:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.143:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?encryption=none&security=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?security=&fp=chrome&type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.143:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.228:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.228:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.228:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.228:8880?security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%2022
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.228:8880?security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.35:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880/?type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880/?type=grpc&encryption=none&flow=#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?encryption=none&security=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayng_fast%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?security=&fp=chrome&type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.123:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=none&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880?encryption=none&security=none&fp=chrome&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%F0%9F%8D%93%20%40xixv2ray
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880/?type=grpc&encryption=none&flow=#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?security=none&encryption=none&fp=chrome&type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?security=&fp=chrome&type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.169:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.172:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.162:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.227:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=&encryption=none&authority=/?Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=none&encryption=none&authority=/?Join---MTMVPN---Join---MTMVPN---Join---MTMVPN---Join---MTMVPN&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=none&encryption=none&authority=/?Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=none&encryption=none&authority=/?Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc&serviceName=#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=none&encryption=none&authority=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=none&encryption=none&authority=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&type=grpc&note=@freeOnlineVPN#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880/?type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.98:8880?encryption=none&security=none&type=grpc&mode=gun#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?security=&fp=chrome&type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880/?type=grpc&encryption=none&flow=#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#NixAI Free Servers - 🇫🇷
@@ -148,11 +134,11 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=non
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.214:8880?type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.218:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AFR
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?encryption=none&security=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880/?type=grpc&encryption=none&flow=#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?mode=gun&security=none&encryption=none&authority=?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=grpc#NixAI Free Servers - 🇫🇷
@@ -160,67 +146,62 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?mode=gun&security=no
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?security=&fp=chrome&type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.228:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880/?type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880/?type=grpc&encryption=none&flow=#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?security=&fp=chrome&type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.112:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?encryption=none&security=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?encryption=none&security=none&type=grpc&mode=gun#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?security=&fp=chrome&type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?security=none&encryption=none&fp=chrome&type=grpc&path=/#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?encryption=none&fp=chrome&type=grpc&path=/#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.126:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?security=&fp=chrome&type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.135:8880?encryption=none&security=none&type=grpc&mode=gun#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.135:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.136:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.139:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.139:8880?encryption=none&security=none&type=grpc&mode=gun#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.27:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.27:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.27:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.27:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.4:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880/?type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880/?type=grpc&encryption=none&flow=#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.71:8880?security=&encryption=none&fp=chrome&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%2056
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.71:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.71:8880?security=&encryption=none&fp=chrome&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%2056`
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.71:8880?security=&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.77:8880?type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880/?type=grpc&encryption=none&flow=#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?encryption=none&security=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?security=&fp=chrome&type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.95:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.96:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930975302281795.helsinki-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
@@ -239,7 +220,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraacq.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraacq.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860213179.lisbon-prx-dnraacq.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%92%80N%CE%9ETISHI%CE%A3LD%F0%9F%94%A5%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
@@ -283,28 +263,44 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638967640653061122.qazvin-blkaft-aaap.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638968694370353878.lisbon-blkaft-aaaw.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638969264971593315.abadan-blkaft-aaaw.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638969264971601053.abadan-blkaft-aaaw.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AFR
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970161971646527.prague-blkaft-aaay.info:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970161971646527.prague-blkaft-aaay.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970161971646527.prague-blkaft-aaay.info:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452850318.helsinki-blkaft-aaax.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452850318.helsinki-blkaft-aaax.info:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452850318.helsinki-blkaft-aaax.info:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452850318.helsinki-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452850318.helsinki-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452860730.helsinki-blkaft-aaax.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452860730.helsinki-blkaft-aaax.info:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452860730.helsinki-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452867164.helsinki-blkaft-aaax.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452867164.helsinki-blkaft-aaax.info:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452867164.helsinki-blkaft-aaax.info:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452867164.helsinki-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?encryption=none&security=none&fp=chrome&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?security=&fp=chrome&type=grpc&encryption=none#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.68:8880?encryption=none&security=none&type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.155:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.188:8880?type=grpc#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?type=grpc&path=/#NixAI Free Servers - 🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?type=grpc#NixAI Free Servers - 🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.65:8880?security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%2024
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.65:8880?security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%206
 ss://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#%3E%3E%40FreakConfig%3A%3AFR
-ss://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Join---PLANB-PROXY&type=ws#NixAI Free Servers - 🇫🇷
-ss://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=/vless/&security=none&encryption=none&type=ws#NixAI Free Servers - 🇫🇷
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%3E%3E%40ShadowsocksM%3A%3AFR
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#%3E%3E%40ShadowsocksM%3A%3AFR
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3AFR
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=&encryption=none&host=t.me%2Fv2line&type=ws#%F0%9F%92%80N%CE%9ETISHI%CE%A3LD%F0%9F%94%A5%F0%9F%87%AB%F0%9F%87%B7
 vless://465c9707-5517-442d-a5f3-624eec09cccd@23.162.152.241:443/?type=grpc&encryption=none&flow=&serviceName=4bb3a74bca23310487d67556&sni=www.microsoft.com&fp=safari&security=reality&pbk=nve8tt_uzlKv_MuDIaiqNku_8zVcWoRfY0bMA0WYwkw&sid=acbf1304fb5ea6e6#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://465c9707-5517-442d-a5f3-624eec09cccd@23.162.152.241:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=nve8tt_uzlKv_MuDIaiqNku_8zVcWoRfY0bMA0WYwkw&sid=acbf1304fb5ea6e6&type=grpc&serviceName=4bb3a74bca23310487d67556#%3E%3E%40DailyV2RY%3A%3AFR
+vless://4faf59bf-f92c-4ec9-bb8a-58a58708b0c6@realdom-fr.panelfreedom.com:20810?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com&note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%5B%F0%9F%87%AB%F0%9F%87%B7%5Dt.me%2FRaiv2mmr
 vless://8062ddd7-fdee-485d-8948-c6e5df168fe9@173.212.209.56:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=ks1Ud3HgMftMPFrUpu7dJboFGyFXB74d4EaXaO4283Q&fp=chrome#%3E%3E%40DailyV2RY%3A%3AFR
+vless://93a6409e-b7cb-49b0-ad37-e6196cf3492a@103.82.101.179:443?path=%2FFree-VPN-CF-Geo-Project%2FFR1&security=tls&encryption=none&host=joss.krikkrik.web.id&fp=randomized&type=ws&sni=joss.krikkrik.web.id#%5B%40v2FreeHub%5D%20Vless%20%F0%9F%87%AB%F0%9F%87%B7%20WS%20TLS
 vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dash.cloudflare.com&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&fp=chrome#%3E%3E%40DailyV2RY%3A%3AFR
 vless://b47f6da1-e784-493f-9dcb-4d7a90c618d8@151.240.19.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yimg.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -369,7 +365,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.71:8880?security=&encryption=none&fp=chrome&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%2056
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.71:8880?security=&encryption=none&fp=chrome&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%2056`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930975302281795.helsinki-drc-tusabu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
@@ -389,7 +384,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraacq.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860213179.lisbon-prx-dnraacq.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%92%80N%CE%9ETISHI%CE%A3LD%F0%9F%94%A5%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
@@ -437,7 +431,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.65:8880?security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%2024
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.65:8880?security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%206
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#%3E%3E%40FreakConfig%3A%3AFR
 vmess://eyJhZGQiOiI1MS4yNTUuMTczLjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY2MDg2MTVjLTAzZmUtNDcyYy05YWVlLTk3MzkxOTQ2MDk1YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiI+PkBGcmVha0NvbmZpZzo6RlIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1MS4zOC4xOTEuMTAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk2ZGI3ZTU3LTUzMTQtNDU2MC1iNzA4LTI0NDY2NzBkZmEyOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiI+PkBGcmVha0NvbmZpZzo6RlIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9

@@ -3,7 +3,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2clY2NHI5Z0wyUmxHOTZrZDlZT2tN@172.237.82.96:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprcWtVOE9pVXlnRkFtZjRMaDkySkFN@172.237.82.133:41447#%3E%3E%40v2nodes%3A%3ASG
 ss://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASG
 ss://a2088892-07c5-4c54-8a10-4a4b6ebefab6@waifu.kurumi.biz.id:80/?type=ws&encryption=none&flow=&host=discord.com&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3ASG
-ss://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?encryption=none&security=none&type=tcp&headerType=none#NixAI Free Servers - 🇸🇬
 ss://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASG
 ss://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3ASG
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASG
