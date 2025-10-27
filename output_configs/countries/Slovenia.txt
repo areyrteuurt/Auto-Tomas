@@ -1,2 +1,0 @@
-ss://0d0782a3-2c62-4936-b893-5790188778ea@170.114.46.175:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&path=%2F&security=tls&encryption=none&type=ws&sni=smrtwtsm.confappha.com#🇸🇮[Telegram:NetifyVPN]
-vless://0d0782a3-2c62-4936-b893-5790188778ea@170.114.46.175:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&path=%2F&security=tls&encryption=none&type=ws&sni=smrtwtsm.confappha.com#🇸🇮[Telegram:NetifyVPN]
