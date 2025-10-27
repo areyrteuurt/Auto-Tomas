@@ -1,7 +1,11 @@
+ss://74c0af7c-8482-4b4e-b067-ea456a80cdb7@lt.monkeyisland.life:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.monkeyisland.life&sid=08aa0813199a4c38#%F0%9F%87%B1%F0%9F%87%B9%20pro%20-%20%40confegraigan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.187-0199`
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?encryption=none&type=grpc&path=/#NixAI Free Servers - 🇱🇹
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇱🇹[Telegram:NetifyVPN]
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880/?type=grpc&encryption=none&flow=#NixAI Free Servers - 🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#NixAI Free Servers - 🇱🇹
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#NixAI Free Servers - 🇱🇹
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#NixAI Free Servers - 🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?security=&encryption=none&type=grpc#NixAI Free Servers - 🇱🇹
+vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@lt.monkeyisland.life:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.monkeyisland.life&sid=08aa0813199a4c38#%F0%9F%87%B1%F0%9F%87%B9%20pro%20-%20%40confegraigan
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇱🇹[Telegram:NetifyVPN]
