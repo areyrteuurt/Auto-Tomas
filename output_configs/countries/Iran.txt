@@ -1,7 +1,6 @@
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#@Rayan_Config-IFI-7mwOF-@iranfreeinternet_bot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#@Rayan_Config-IFI-0XEDI-@iranfreeinternet_bot
-ss://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&host=%2F%3F&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#All-%40IRAN_V2RAY1
 ss://d36f457f-17a9-4891-a113-322ec6792917@57.128.163.127:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#All-%40IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
@@ -10,7 +9,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
-vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&host=%2F%3F&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#All-%40IRAN_V2RAY1
 vless://d36f457f-17a9-4891-a113-322ec6792917@57.128.163.127:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#All-%40IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
