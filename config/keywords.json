@@ -216,10 +216,13 @@
 
   "Vmess": ["vmess:\\/\\/[^ \\n\\r<\"']+"],
   "Vless": ["vless:\\/\\/[^ \\n\\r<\"']+"],
+  "SS": ["ss:\\/\\/[^ \\n\\r<\"']+"],  
   "Trojan": ["trojan:\\/\\/[^ \\n\\r<\"']+"],
   "ShadowSocks": ["ss:\\/\\/[^ \\n\\r<\"']+"],
   "ShadowSocksR": ["ssr:\\/\\/[^ \\n\\r<\"']+"],
   "Tuic": ["tuic:\\/\\/[^ \\n\\r<\"']+"],
+  "Hysteria": ["hy:\\/\\/[^ \\n\\r<\"']+"],
+  "Hysteria1": ["hy1:\\/\\/[^ \\n\\r<\"']+"],
   "Hysteria2": ["hy2:\\/\\/[^ \\n\\r<\"']+"],
   "WireGuard": ["wireguard:\\/\\/[^ \\n\\r<\"']+"]
 }
