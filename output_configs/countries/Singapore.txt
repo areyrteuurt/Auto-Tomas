@@ -1,10 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVG51WV9VMjF6VThGUGtDR1hkZDhB@68.183.236.145:1080#%3E%3E%40v2ray1_ng%3A%3ASG
 ss://YWVzLTI1Ni1nY206NjQ0ODVlMTgtOWI1ZC00ZTliLWFiMmYtMDM2MTJjMjAxMWIw@node1.mangging.com:10060#%3E%3E%40v2nodes%3A%3ASG
-ss://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?encryption=none&security=none&type=tcp&headerType=none#NixAI Free Servers - 🇸🇬
-ss://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=&encryption=none&headerType=none&type=tcp#NixAI Free Servers - 🇸🇬
-ss://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&encryption=none&headerType=none&type=tcp#NixAI Free Servers - 🇸🇬
-ss://cc1cf382-0b0a-4ad7-8f46-4a708dd713ec@41.sahanwickramasinghe.shop:443?security=tls&path=/#NixAI Free Servers - 🇸🇬
-ss://eyJhZGQiOiI2OC4xODMuMjM2LjE0NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiZGlzY29yZC5jb20iLCJpZCI6IjMzOTNjYzllLTc0OTgtNDk0Mi05YmM0LWM2ZGE3MzA4MGZkOSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7jwn4esU0coQXphZE5ldC50Lm1lKSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3YWlmdS5rdXJ1bWkuYml6LmlkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#NixAI Free Servers - 🇸🇬
 ss://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vmess://eyJhZGQiOiIxMDkuMTIzLjIzNS4yNDQiLCJhaWQiOiIwIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNzJkYzY0Mi01NmVjLTQ1NmYtYWExOC05MzBhMjc0MjI4ZjUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiPj5ARGFpbHlWMlJZOjpTRyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoidGNwIiwidiI6IjIifQ

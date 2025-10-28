@@ -1,7 +1,3 @@
 ss://74c0af7c-8482-4b4e-b067-ea456a80cdb7@lt.monkeyisland.life:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.monkeyisland.life&sid=08aa0813199a4c38#%F0%9F%87%B1%F0%9F%87%B9%20pro%20-%20%40confegraigan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.237.185.89:990#%3E%3E%40free4allVPN%3A%3ALT
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#NixAI Free Servers - 🇱🇹
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇱🇹
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#NixAI Free Servers - 🇱🇹
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇱🇹
 vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@lt.monkeyisland.life:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.monkeyisland.life&sid=08aa0813199a4c38#%F0%9F%87%B1%F0%9F%87%B9%20pro%20-%20%40confegraigan
