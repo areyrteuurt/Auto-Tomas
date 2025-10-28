@@ -1,11 +1,11 @@
-# 📊 提取结果 (最后更新: 2025-10-28 12:15:30 CST)
+# 📊 提取结果 (最后更新: 2025-10-28 13:51:31 CST)
 
 此文件是自动生成的。
 
 ## 📋 统计概览
 
-- **配置总数**: 6612
-- **有数据的协议数**: 6
+- **配置总数**: 4166
+- **有数据的协议数**: 5
 - **国家相关配置数**: 698
 - **有配置的国家数**: 58
 
@@ -20,11 +20,10 @@
 | 协议 | 总数 | 链接 |
 |---|---|---|
 | Hysteria2 | 8 | [`Hysteria2.txt`](output_configs/protocols/Hysteria2.txt) |
-| SS | 2254 | [`SS.txt`](output_configs/protocols/SS.txt) |
-| ShadowSocks | 2254 | [`ShadowSocks.txt`](output_configs/protocols/ShadowSocks.txt) |
+| ShadowSocks | 2158 | [`ShadowSocks.txt`](output_configs/protocols/ShadowSocks.txt) |
 | Trojan | 49 | [`Trojan.txt`](output_configs/protocols/Trojan.txt) |
-| Vless | 1846 | [`Vless.txt`](output_configs/protocols/Vless.txt) |
-| Vmess | 201 | [`Vmess.txt`](output_configs/protocols/Vmess.txt) |
+| Vless | 1746 | [`Vless.txt`](output_configs/protocols/Vless.txt) |
+| Vmess | 205 | [`Vmess.txt`](output_configs/protocols/Vmess.txt) |
 
 ## 🌍 国家文件 (包含配置)
 
