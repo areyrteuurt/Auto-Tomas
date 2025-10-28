@@ -32,9 +32,8 @@ logging.basicConfig(level=logging.INFO,
 # --- 协议类别 ---  
 PROTOCOL_CATEGORIES = [
     "Vmess", "Vless", "Trojan", "ShadowSocks", "ShadowSocksR",
-    "Tuic", "Hysteria2", "WireGuard", "Hysteria", "NaiveProxy", 
-    "SS", "SSROld", "SSRNew", "Shadowsocks2022", "TrojanGo",
-    "Hysteria1", "Snell"
+    "Tuic", "Hysteria2", "WireGuard", "Hysteria", 
+    "SS", "Hysteria1"
 ]
 # 预编译协议前缀列表，提高性能
 PROTOCOL_PREFIXES = [p.lower() + "://" for p in PROTOCOL_CATEGORIES]
@@ -302,8 +301,7 @@ def should_filter_config(config):
     
     # 使用更全面的协议关键词列表，确保新添加的协议类型也能被识别
     common_protocol_keywords = ['vmess', 'vless', 'trojan', 'ss://', 'ssr://', 
-                               'tuic', 'hy2', 'wireguard', 'hysteria', 'snell',
-                               'ss2022', 'trojan-go', 'naiveproxy', 'shadowsocks2022',
+                               'tuic', 'hy2', 'wireguard', 'hysteria',
                                'hysteria1']
     
     # 优化协议关键词检查逻辑，使用更高效的集合查找
