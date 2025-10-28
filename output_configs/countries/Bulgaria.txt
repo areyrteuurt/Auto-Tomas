@@ -1,2 +1,7 @@
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?security=&fp=chrome&type=grpc&encryption=none#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.26:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇧🇬
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.26:8880?security=none&encryption=none&type=grpc&path=/#NixAI Free Servers - 🇧🇬
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.65:8880?mode=gun&security=&encryption=none&type=grpc#NixAI Free Servers - 🇧🇬
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.65:8880?mode=gun&security=none&encryption=none&type=grpc#NixAI Free Servers - 🇧🇬
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.65:8880?security=&encryption=none&type=grpc#NixAI Free Servers - 🇧🇬
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?security=&fp=chrome&type=grpc&encryption=none#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC

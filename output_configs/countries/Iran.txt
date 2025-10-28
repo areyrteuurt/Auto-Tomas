@@ -1,3 +1,27 @@
+ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+ss://43613c34-ea2c-4a8e-9189-7c84c1668990@195.238.240.67:895?encryption=none&security=tls&sni=speedtest.net&fp=chrome&allowInsecure=1&type=ws&host=speedtest.net&path=/#NixAI Free Servers - 🇮🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#@Rayan_Config-IFI-7mwOF-@iranfreeinternet_bot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#@Rayan_Config-IFI-0XEDI-@iranfreeinternet_bot
-ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=&encryption=none&host=speedtest.net&type=ws#NixAI Free Servers - 🇮🇷
+ss://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&host=%2F%3F&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#All-%40IRAN_V2RAY1
+ss://d36f457f-17a9-4891-a113-322ec6792917@57.128.163.127:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#All-%40IRAN_V2RAY1
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraacq.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80/?type=ws&encryption=none&path=/#NixAI Free Servers - 🇮🇷
+ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=&encryption=none&type=ws#NixAI Free Servers - 🇮🇷
+ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&fp=chrome&type=ws#NixAI Free Servers - 🇮🇷
+ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&type=ws#NixAI Free Servers - 🇮🇷
+ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?type=ws&path=/#NixAI Free Servers - 🇮🇷
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&host=%2F%3F&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#All-%40IRAN_V2RAY1
+vless://d36f457f-17a9-4891-a113-322ec6792917@57.128.163.127:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#All-%40IRAN_V2RAY1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraacq.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-%40IRAN_V2RAY1
+vmess://eyJhZGQiOiJzYWxhbWRhc2guYmVkb25lbWFyei5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg5ZGU4YzE3LTliNDEtNDYzMi05YTBiLTQ0MGY4NTA1NDhmZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ0IiwicHMiOiJBbGwtQElSQU5fVjJSQVkxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
