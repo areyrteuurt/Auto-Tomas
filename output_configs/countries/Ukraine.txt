@@ -1,2 +1,0 @@
-ss://97c02cbb-eef4-427c-bb25-a5720886b006@45.87.155.14:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://97c02cbb-eef4-427c-bb25-a5720886b006@45.87.155.14:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
