@@ -112,35 +112,21 @@ def get_vmess_name(vmess_config):
         # 移除前缀
         encoded_part = vmess_config[8:]
         
-        # 尝试解码
-        try:
-            # 添加必要的填充
-            padded = encoded_part + '=' * ((4 - len(encoded_part) % 4) % 4)
-            decoded = base64.b64decode(padded).decode('utf-8')
-        except Exception:
-            # 如果标准解码失败，尝试URL解码后再base64解码
-            try:
-                encoded_part = unquote(encoded_part)
-                padded = encoded_part + '=' * ((4 - len(encoded_part) % 4) % 4)
-                decoded = base64.b64decode(padded).decode('utf-8')
-            except Exception as e:
-                logging.debug(f"解析VMess名称失败: {type(e).__name__}: {e}")
-                return None
+        # 先尝试标准解码
+        padded = encoded_part + '=' * ((4 - len(encoded_part) % 4) % 4)
+        decoded = base64.b64decode(padded).decode('utf-8')
         
-        # 解析JSON并尝试获取名称
-        try:
-            vmess_data = json.loads(decoded)
-            # 尝试从不同字段获取名称
-            for name_field in ['ps', 'name', 'remarks', 'tag']:
-                if name_field in vmess_data and isinstance(vmess_data[name_field], str):
-                    return vmess_data[name_field].strip()
-        except Exception as e:
-            logging.debug(f"解析VMess名称失败: {type(e).__name__}: {e}")
-            return None
+        # 解析JSON并获取名称
+        vmess_data = json.loads(decoded)
+        # 尝试从不同字段获取名称
+        for name_field in ['ps', 'name', 'remarks', 'tag']:
+            if name_field in vmess_data and isinstance(vmess_data[name_field], str):
+                return vmess_data[name_field].strip()
         
         return None
     except Exception as e:
-        logging.debug(f"解析VMess名称失败: {type(e).__name__}: {e}")
+        # 捕获所有异常，简化错误处理
+        logging.debug(f"VMess名称提取失败: {e}")
         return None
 
 def get_ssr_name(ssr_config):
@@ -209,28 +195,20 @@ def get_trojan_name(trojan_config):
         # Trojan URL 格式: trojan://password@hostname:port#name
         # 检查是否有 # 后的名称部分
         if '#' in trojan_config:
-            try:
-                name_part = trojan_config.split('#', 1)[1]
-                return unquote(name_part).strip()
-            except Exception as e:
-                logging.debug(f"解析Trojan名称失败: {type(e).__name__}: {e}")
-                pass
+            name_part = trojan_config.split('#', 1)[1]
+            return unquote(name_part).strip()
         
         # 尝试从URL路径或查询参数中提取名称
         parts = trojan_config.split('?')
         if len(parts) > 1:
-            try:
-                params = parse_qs(parts[1])
-                for name_key in ['name', 'remarks', 'ps']:
-                    if name_key in params:
-                        return unquote(params[name_key][0]).strip()
-            except Exception as e:
-                logging.debug(f"解析Trojan名称失败: {type(e).__name__}: {e}")
-                pass
+            params = parse_qs(parts[1])
+            for name_key in ['name', 'remarks', 'ps']:
+                if name_key in params:
+                    return unquote(params[name_key][0]).strip()
         
         return None
     except Exception as e:
-        logging.debug(f"解析Trojan名称失败: {type(e).__name__}: {e}")
+        logging.debug(f"Trojan名称提取失败: {e}")
         return None
 
 def get_vless_name(vless_config):
@@ -248,24 +226,16 @@ def get_vless_name(vless_config):
         
         # 检查是否有 # 后的名称部分
         if '#' in vless_config:
-            try:
-                name_part = vless_config.split('#', 1)[1]
-                return unquote(name_part).strip()
-            except Exception as e:
-                logging.debug(f"解析VLESS名称失败: {type(e).__name__}: {e}")
-                pass
+            name_part = vless_config.split('#', 1)[1]
+            return unquote(name_part).strip()
         
         # 尝试从URL查询参数中提取名称
         parts = vless_config.split('?')
         if len(parts) > 1:
-            try:
-                params = parse_qs(parts[1])
-                for name_key in ['name', 'remarks', 'ps']:
-                    if name_key in params:
-                        return unquote(params[name_key][0]).strip()
-            except Exception as e:
-                logging.debug(f"解析VLESS名称失败: {type(e).__name__}: {e}")
-                pass
+            params = parse_qs(parts[1])
+            for name_key in ['name', 'remarks', 'ps']:
+                if name_key in params:
+                    return unquote(params[name_key][0]).strip()
         
         return None
     except Exception as e:
@@ -464,100 +434,40 @@ def find_matches(text, categories_data):
     return matches
 
 def save_to_file(directory, category_name, items_set, error_stats=None):
-    """将项目集合保存到指定目录的文本文件中，带有重试机制和备选目录支持"""
+    """将项目集合保存到指定目录的文本文件中"""
     if error_stats is None:
         error_stats = {'file_save': 0}
         
-    if not items_set:
-        logging.debug(f"跳过空集合的保存: {category_name}")
+    # 验证items_set是否为可迭代对象且不为空
+    if not items_set or not hasattr(items_set, '__iter__') or isinstance(items_set, (str, dict)):
+        logging.warning(f"跳过保存: {category_name}，无效的数据类型或空集合")
         return False, 0
     
-    # 验证items_set是否为可迭代对象
-    if not hasattr(items_set, '__iter__') or isinstance(items_set, (str, dict)):
-        logging.error(f"无效的items_set类型: {type(items_set)}, 预期为可迭代集合")
-        error_stats['file_save'] += 1
-        return False, 0
-        
-    # 确保目录存在
     try:
-        # 使用绝对路径确保文件位置正确
-        directory_abs = os.path.abspath(directory)
-        file_path = os.path.join(directory_abs, f"{category_name}.txt")
-        count = len(items_set)
+        # 确保目录存在
+        os.makedirs(directory, exist_ok=True)
         
-        # 尝试写入文件，最多重试3次
-        max_retries = 3
-        saved = False
+        # 构建完整的文件路径
+        file_path = os.path.join(directory, f"{category_name}.txt")
         
-        for retry in range(max_retries):
-            try:
-                # 确保目录存在（在每次重试前再次检查）
-                os.makedirs(directory_abs, exist_ok=True)
-                
-                # 写入排序后的项目，每行一个
-                with open(file_path, 'w', encoding='utf-8') as f:
-                    for item in sorted(list(items_set)): 
-                        # 确保item是字符串
-                        if isinstance(item, str):
-                            f.write(f"{item}\n")
-                        else:
-                            try:
-                                f.write(f"{str(item)}\n")
-                                logging.debug(f"已将非字符串配置转换为字符串: {type(item)}")
-                            except Exception as inner_e:
-                                logging.warning(f"无法写入配置项: {item}, 错误: {inner_e}")
-                
-                # 验证文件是否成功写入
-                if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
-                    saved = True
-                    logging.info(f"已保存 {count} 项到 {file_path}")
-                    break
+        # 将集合转换为列表并排序
+        sorted_items = sorted(list(items_set))
+        count = len(sorted_items)
+        
+        # 写入文件
+        with open(file_path, 'w', encoding='utf-8') as f:
+            for item in sorted_items:
+                if isinstance(item, str):
+                    f.write(f"{item}\n")
                 else:
-                    logging.warning(f"文件已创建但可能为空: {file_path}")
-                    if retry < max_retries - 1:
-                        logging.warning(f"正在重试 ({retry+1}/{max_retries})")
-                        time.sleep(0.5)  # 等待0.5秒后重试
-            except (PermissionError, OSError, IOError) as write_error:
-                if retry < max_retries - 1:
-                    logging.warning(f"保存文件失败，正在重试 ({retry+1}/{max_retries}): {file_path}, 错误: {write_error}")
-                    time.sleep(0.5)  # 等待0.5秒后重试
-                else:
-                    logging.error(f"保存文件失败，已达到最大重试次数: {file_path}, 错误: {write_error}")
+                    # 简单类型转换
+                    f.write(f"{str(item)}\n")
         
-        # 如果保存失败，尝试使用备选目录
-        if not saved:
-            try:
-                fallback_dir = os.path.join(os.getcwd(), os.path.basename(directory))
-                os.makedirs(fallback_dir, exist_ok=True)
-                fallback_path = os.path.join(fallback_dir, f"{category_name}.txt")
-                
-                with open(fallback_path, 'w', encoding='utf-8') as f:
-                    for item in sorted(list(items_set)):
-                        if isinstance(item, str):
-                            f.write(f"{item}\n")
-                        else:
-                            try:
-                                f.write(f"{str(item)}\n")
-                            except Exception:
-                                pass
-                
-                logging.warning(f"已使用备选目录保存 {count} 项: {fallback_path}")
-                return True, count
-            except Exception as fallback_e:
-                logging.error(f"备选目录保存也失败: {fallback_e}")
-                error_stats['file_save'] += 1
-                return False, 0
-                
-        return saved, count
-    except IOError as e:
-        error_stats['file_save'] += 1
-        logging.error(f"写入文件失败 {file_path}: {e}")
-        return False, 0
+        logging.info(f"已保存 {count} 项到 {file_path}")
+        return True, count
     except Exception as e:
-        error_stats['file_save'] += 1
-        logging.error(f"保存文件时发生未知错误 {file_path}: {e}")
-        import traceback
-        logging.debug(f"错误详情: {traceback.format_exc()}")
+        error_stats['file_save'] = error_stats.get('file_save', 0) + 1
+        logging.error(f"保存文件失败 {directory}/{category_name}.txt: {e}")
         return False, 0
 
 # --- 使用旗帜图像生成简单的README函数 ---
@@ -1128,21 +1038,12 @@ async def main():
     
     # 生成README文件
     try:
-        # 确保README目录存在
-        readme_dir = os.path.dirname(os.path.abspath(README_FILE))
-        if readme_dir and not os.path.exists(readme_dir):
-            os.makedirs(readme_dir, exist_ok=True)
+        # README文件通常在根目录，无需额外的目录检查
         generate_simple_readme(protocol_counts, country_counts, categories_data, use_local_paths=False)
-        # 确保README文件被正确写入
-        if os.path.exists(README_FILE):
-            logging.info(f"README文件已成功生成: {os.path.abspath(README_FILE)}")
-        else:
-            logging.error(f"README文件生成后不存在: {os.path.abspath(README_FILE)}")
+        logging.info(f"README文件已生成: {os.path.abspath(README_FILE)}")
     except Exception as e:
         logging.error(f"生成README文件时出错: {e}")
-        import traceback
-        logging.error(f"错误详情: {traceback.format_exc()}")
-        # 继续执行，不中断程序
+        # 简化异常处理，移除详细堆栈跟踪（仅在调试模式需要）
     
     # 计算统计信息 - 使用直接统计的总数更准确
     protocol_config_count = total_protocol_configs  # 使用直接统计的变量，而不是重新计算
@@ -1166,200 +1067,60 @@ async def main():
             except Exception as e:
                 logging.warning(f"获取README修改时间失败: {e}")
         
-        # 增强的详细日志内容，记录完整执行流程
-        # 计算平均响应时间和执行总时间
-        avg_response_time = response_times_sum[0] / response_times_count[0] if response_times_count[0] > 0 else 0
-        logging.debug(f"响应时间统计: 平均={avg_response_time:.2f}s, 最大={response_times['max']:.2f}s, 最小={response_times['min']:.2f}s, 样本数={response_times_count[0]}")
-        
-        # 计算执行总时间
-        if execution_time.get('start'):
-            execution_time['total'] = (datetime.now() - execution_time['start']).total_seconds()
-        
-        log_entry = f"""========== GitHub Action 执行日志 - {log_timestamp} ==========
+        # 简化的日志内容，保留核心统计信息
+        log_entry = f"""========== 执行日志 - {log_timestamp} ==========
 
-[程序启动信息]
-- 程序版本: V1.0
-- 执行环境: Python {platform.python_version()}
-- 操作系统: {platform.system()} {platform.release()}
-- 执行路径: {os.getcwd()}
-- 环境变量状态: {'GITHUB_ACTIONS变量存在' if 'GITHUB_ACTIONS' in os.environ else 'GITHUB_ACTIONS变量不存在'}
-
-[配置加载情况]
-- URL列表文件: {os.path.abspath('config/urls.txt') if os.path.exists('config/urls.txt') else 'urls.txt'}
-- 国家关键词文件: {os.path.abspath('config/keywords.json') if os.path.exists('config/keywords.json') else 'keywords.json'}
-- 初始URL总数: {len(urls)}
-
-[网络请求详情]
-- 成功获取的URL数: {success_count}/{len(urls)}
-- 失败的URL数: {len(urls) - success_count}
-- 平均响应时间: {f"{avg_response_time:.2f}秒" if avg_response_time > 0 else 'N/A'}
-- 最长响应时间: {f"{response_times['max']:.2f}秒" if response_times['max'] > 0 else 'N/A'}
-- 最短响应时间: {f"{response_times['min']:.2f}秒" if response_times['min'] < float('inf') else 'N/A'}
-- 响应时间样本数: {response_times_count[0]}
-
-[页面处理详情]
-- 处理的页面总数: {processed_pages}
-- 跳过的无效页面: {len(fetched_pages) - processed_pages}
+[基本统计信息]
+- 总URL数: {len(urls)}
+- 成功获取URL数: {success_count}
+- 失败URL数: {len(urls) - success_count}
 - 找到的配置总数: {found_configs}
 - 过滤掉的无效配置: {filtered_out_configs}
-- 过滤配置占比: {f"{filtered_out_configs/found_configs:.1%}" if found_configs > 0 else 'N/A'}
 
-[配置过滤统计]
-- URL编码检查过滤: {filter_stats.get('url_encoding', 0)}
-- 长度限制过滤: {filter_stats.get('length', 0)}
-- 协议关键词过滤: {filter_stats.get('protocol', 0)}
-- 格式验证过滤: {filter_stats.get('format', 0)}
-- 过滤分类详情: {filter_stats}
-- 总过滤数: {sum(filter_stats.values())}
-
-[国家关联详情]
-- 处理的国家关键词: {len(country_keywords_for_naming) if 'country_keywords_for_naming' in locals() else 'N/A'}
+[保存统计]
+- 协议配置总数: {protocol_config_count}
+- 协议配置文件数: {protocols_saved}
+- 国家配置文件数: {countries_saved}
 - 有配置的国家数量: {countries_with_configs}
-- 国家相关配置总数: {total_country_configs}
-- 平均每个国家配置数: {f"{total_country_configs/countries_with_configs:.1f}" if countries_with_configs > 0 else '0'}
 
-[目录处理信息]
-- 输出目录: {os.path.abspath(OUTPUT_DIR)}
-- 国家配置目录: {os.path.abspath(country_dir)}
-- 协议配置目录: {os.path.abspath(protocol_dir)}
-- 目录创建状态: {'成功' if os.path.exists(OUTPUT_DIR) else '失败'}
-- 目录权限检查: {'可写' if os.path.exists(OUTPUT_DIR) and os.access(OUTPUT_DIR, os.W_OK) else '不可写' if os.path.exists(OUTPUT_DIR) else '目录不存在'}
-
-[文件保存详情]
-- 保存的协议配置总数: {protocol_config_count}
-- 保存的协议配置文件数: {protocols_saved}
-- 保存的国家配置文件数: {countries_saved}
-- 平均每个协议配置数: {f"{protocol_config_count/protocols_saved:.1f}" if protocols_saved > 0 else '0'}
-- 保存状态: {'成功' if protocols_saved > 0 or countries_saved > 0 else '失败'}
-
-[README生成]
-- README文件路径: {os.path.abspath(README_FILE)}
-- README更新时间: {readme_update_time}
-- README文件大小: {os.path.getsize(README_FILE) if os.path.exists(README_FILE) else 'N/A'}字节
-
-[错误和异常信息]
+[错误统计]
 - URL请求错误: {error_stats.get('url_request', 0)}
-- 配置解析错误: {error_stats.get('config_parse', 0)}
 - 文件保存错误: {error_stats.get('file_save', 0)}
-- 目录创建错误: {error_stats.get('dir_create', 0)}
-- 错误统计详情: {error_stats}
-- 总错误数: {sum(error_stats.values())}
 
-[资源使用情况]
-- 内存使用: {resource_stats.get('memory', 'N/A')}
-- CPU使用率: {resource_stats.get('cpu', 'N/A')}
+[执行信息]
 - 执行总时间: {execution_time.get('total', 'N/A')}秒
-- 执行开始时间: {execution_time.get('start', 'N/A').strftime('%Y-%m-%d %H:%M:%S') if hasattr(execution_time.get('start', None), 'strftime') else 'N/A'}
-
-[GitHub Actions运行信息]
-- 运行编号: {os.environ.get('GITHUB_RUN_NUMBER', 'N/A')}
-- 运行ID: {os.environ.get('GITHUB_RUN_ID', 'N/A')}
-- 工作流名称: {os.environ.get('GITHUB_WORKFLOW', 'N/A')}
-- 分支名称: {os.environ.get('GITHUB_REF', 'N/A')}
-- 提交SHA: {os.environ.get('GITHUB_SHA', 'N/A')}
+- 输出目录: {os.path.abspath(OUTPUT_DIR)}
 ====================================================\n\n"""
         
-        # 确保日志文件所在目录存在
+        # 确保日志目录存在
         log_dir = os.path.dirname(UPDATE_LOG_FILE)
         if log_dir:
             os.makedirs(log_dir, exist_ok=True)
-            logging.debug(f"确保日志目录存在: {log_dir}")
         
-        # 改进的文件更新策略：在文件保存时就确保更新，而不是事后批量修改时间戳
+        # 写入日志文件
         try:
-            # 确保output_configs文件夹存在
-            output_dir_abs = os.path.abspath(OUTPUT_DIR)
-            if not os.path.exists(output_dir_abs):
-                try:
-                    os.makedirs(output_dir_abs, exist_ok=True)
-                    logging.info(f"创建了输出目录: {output_dir_abs}")
-                except (PermissionError, OSError) as inner_e:
-                    logging.error(f"无法创建输出目录: {inner_e}")
-                    # 尝试使用当前工作目录作为备选
-                    current_dir = os.getcwd()
-                    output_dir_abs = os.path.join(current_dir, OUTPUT_DIR)
-                    os.makedirs(output_dir_abs, exist_ok=True)
-                    logging.warning(f"已切换到备选目录: {output_dir_abs}")
-            
-            # 创建标记文件来强制更新目录状态
-            timestamp_file = os.path.join(output_dir_abs, ".timestamp")
-            with open(timestamp_file, "w", encoding='utf-8') as f:
-                f.write(datetime.now(tz=pytz.timezone('Asia/Shanghai')).isoformat())
-            logging.info(f"创建了时间戳标记文件: {timestamp_file}")
-            
-            # 同时为两个子目录创建标记文件
-            for subdir in [PROTOCOL_SUBDIR, COUNTRY_SUBDIR]:
-                subdir_path = os.path.join(output_dir_abs, subdir)
-                try:
-                    # 确保子目录存在
-                    os.makedirs(subdir_path, exist_ok=True)
-                    subdir_timestamp = os.path.join(subdir_path, ".timestamp")
-                    with open(subdir_timestamp, "w", encoding='utf-8') as f:
-                        f.write(datetime.now(tz=pytz.timezone('Asia/Shanghai')).isoformat())
-                    logging.info(f"为{subdir}子目录创建了时间戳标记文件: {subdir_timestamp}")
-                except (PermissionError, OSError) as inner_e:
-                    logging.warning(f"无法为{subdir}子目录创建时间戳文件: {inner_e}")
-                    
+            with open(UPDATE_LOG_FILE, 'a', encoding='utf-8') as f:
+                f.write(log_entry)
+            logging.info(f"更新日志已写入: {UPDATE_LOG_FILE}")
         except Exception as e:
-            logging.warning(f"更新output_configs标记文件失败: {e}")
-            import traceback
-            logging.warning(f"错误详情: {traceback.format_exc()}")
+            logging.error(f"写入更新日志时出错: {e}")
         
-        # 另外，在save_to_file函数中已经处理了文件的实际写入，
-        # 这里的标记文件只是为了确保目录结构也能显示为已更新
-        
-        # 使用绝对路径确保文件写入正确位置
-        update_log_abs_path = os.path.abspath(UPDATE_LOG_FILE)
+        # 简单的日志大小控制
         try:
-            # 确保日志文件目录存在
-            log_dir = os.path.dirname(update_log_abs_path)
-            if log_dir and not os.path.exists(log_dir):
-                os.makedirs(log_dir, exist_ok=True)
-                logging.debug(f"创建了日志目录: {log_dir}")
-            
-            # 尝试写入日志文件，最多重试3次
-            max_retries = 3
-            for retry in range(max_retries):
-                try:
-                    with open(update_log_abs_path, 'a', encoding='utf-8') as f:
-                        f.write(log_entry)
-                    logging.info(f"更新日志已写入: {update_log_abs_path}")
-                    break
-                except (PermissionError, OSError) as write_error:
-                    if retry < max_retries - 1:
-                        logging.warning(f"写入日志文件失败，正在重试 ({retry+1}/{max_retries}): {write_error}")
-                        time.sleep(1)  # 等待1秒后重试
-                    else:
-                        logging.error(f"写入日志文件失败，已达到最大重试次数: {write_error}")
-                        # 尝试使用备选位置
-                        fallback_log_path = os.path.join(os.getcwd(), 'update_log.txt')
-                        with open(fallback_log_path, 'a', encoding='utf-8') as f:
-                            f.write(log_entry)
-                        logging.warning(f"已使用备选位置写入日志: {fallback_log_path}")
-        except Exception as write_e:
-            logging.error(f"日志写入过程中出错: {write_e}")
-        
-        # 简单的日志大小控制 - 只保留最近30条日志
-        try:
-            if os.path.exists(update_log_abs_path):
-                with open(update_log_abs_path, 'r', encoding='utf-8') as f:
+            if os.path.exists(UPDATE_LOG_FILE):
+                with open(UPDATE_LOG_FILE, 'r', encoding='utf-8') as f:
                     content = f.read()
                 
                 # 按分隔符分割日志条目
                 entries = content.split("====================================================\n\n")
-                # 过滤掉空条目
                 entries = [e for e in entries if e.strip()]
                 
-                # 只保留最近30条
-                if len(entries) > 30:
-                    try:
-                        with open(update_log_abs_path, 'w', encoding='utf-8') as f:
-                            f.write("====================================================\n\n".join(entries[-30:]) + "====================================================\n\n")
-                        logging.debug(f"已清理旧日志，保留最近{min(30, len(entries))}条")
-                    except Exception as clean_e:
-                        logging.warning(f"清理旧日志时写入失败: {clean_e}")
-        except Exception as inner_e:
-            logging.warning(f"清理旧日志时出错: {inner_e}")
+                # 只保留最近10条日志
+                if len(entries) > 10:
+                    with open(UPDATE_LOG_FILE, 'w', encoding='utf-8') as f:
+                        f.write("====================================================\n\n".join(entries[-10:]) + "====================================================\n\n")
+        except Exception as e:
+            logging.warning(f"清理旧日志时出错: {e}")
             
     except Exception as e:
         logging.error(f"写入更新日志时出错: {e}")
