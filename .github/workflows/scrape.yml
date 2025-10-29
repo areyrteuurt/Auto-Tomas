@@ -1,4 +1,4 @@
-name: V2Ray Scraper
+name: Scrape-By-Country
 
 on:
   workflow_dispatch:
@@ -7,14 +7,21 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
-  scrape-and-commit:
+  scrape-and-update:
     runs-on: ubuntu-latest
+    concurrency:
+      group: main-workflow
+      cancel-in-progress: true
 
     steps:
       - name: 📥 Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
 
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5
@@ -25,24 +32,48 @@ jobs:
       - name: ⚙️ Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt # <-- pytz هم نصب می‌شود
+          pip install -r ./config/requirements.txt
+          pip list
 
       - name: 🕸️ Run scraping script
-        run: python scraper.py
+        run: python ./config/scraper.py
+        env:
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+
+      - name: 🔍 Verify generated files
+        run: |
+          echo "Verifying file existence..."
+          ls -la
+          ls -la output_configs/
+          ls -la output_configs/countries/ || echo "Countries directory not found"
+          ls -la output_configs/protocols/ || echo "Protocols directory not found"
+          cat update_log.txt || echo "Update log not found"
 
       - name: 🔧 Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global core.autocrlf false
+
+      - name: 📝 Prepare git add command
+        run: |
+          echo "Adding all generated files to git..."
+          # 确保添加output_configs下的所有文件，包括子目录
+          git add --force output_configs/ README.md update_log.txt
+
+      - name: ⏰ Set commit time to CST format
+        run: |
+          # 使用TZ环境变量临时设置时区为Asia/Shanghai，然后格式化为CST
+          CURRENT_TIME=$(TZ='Asia/Shanghai' date +"%Y-%m-%d %H:%M:%S CST")
+          echo "CURRENT_TIME=$CURRENT_TIME" >> $GITHUB_ENV
 
       - name: ⬆️ Commit and Push Changes
         run: |
-          git add output_configs/ README.md #
-
-          if git diff --staged --quiet; then
-            echo "No changes detected. Skipping commit."
-          else
-            echo "Changes detected. Committing and pushing..."
-            git commit -m "docs: Update README and config files [skip ci]"
-            git push
-          fi
+          # 使用--force参数确保所有变更都被添加，包括目录中的文件
+          git add --force output_configs/
+          
+          echo "Committing changes..."
+          git commit --date="$CURRENT_TIME" -m "docs: Update configs and README - $CURRENT_TIME"
+          
+          echo "Pushing changes..."
+          git push origin main
