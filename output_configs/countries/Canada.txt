@@ -3,8 +3,6 @@ ss://40d9faec-3130-4e69-bb77-210193e65598@51.222.87.29:8081/?type=tcp&encryption
 ss://5f60f4be-c6b1-4b07-ae9f-30cdcefe1759@us6.candyfans.win:443?path=%2Fnmzuws&security=tls&encryption=none&host=us6.candyfans.win&type=ws&sni=us6.candyfans.win#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://852650c3-8ae5-4b75-8613-02a197a89309@us8.candyfans.win:443?path=%2Fzonnws&security=tls&encryption=none&host=us8.candyfans.win&type=ws&sni=us8.candyfans.win#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%3E%3E%40free4allVPN%3A%3ACA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#🇨🇦[By
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#🇨🇦[openproxylist.com]
 ss://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80?path=%2Fvless%2F&security=&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#🇨🇦[By
 ss://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80?path=%2Fvless%2F&security=&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#🇨🇦[openproxylist.com]
