@@ -1,4 +1,4 @@
-# 🚀 Auto-Tomas
+# 🚀 Scrape-By-Country
 
 <p align="center">
   <img src="https://img.shields.io/github/license/areyrteuurt/Auto-Tomas?style=flat-square&color=blue" alt="License" />
@@ -13,14 +13,14 @@
   <img src="https://img.shields.io/badge/language-中文%20%26%20English-007EC6?style=flat-square" alt="Language" />
 </p>
 
-## 最后更新: 09:34 2025-10-30
+## 最后更新: 09:55 2025-10-30
 
 ---
 
 ## 📖 关于项目
 这个项目自动从各种来源收集和分类VPN配置（如V2Ray、Trojan和Shadowsocks等不同协议）。我们的目标是为用户提供最新且可靠的配置。
 
-> **注意:** 为了保证质量，过长或包含不必要字符（如大量`%25`）的配置将被过滤。
+
 
 ---
 
@@ -125,11 +125,11 @@
 如果您想参与项目，可以：
 - 推荐新的配置收集来源（`urls.txt`文件）。
 - 添加新的协议或国家模式（`key.json`文件）。
-- 通过在 [GitHub](https://github.com/areyrteuurt/Auto-Tomas) 上提交Pull Request或Issue来帮助改进项目。
+- 通过在 [GitHub](https://github.com/Eleven1985/Scrape-By-Country) 上提交Pull Request或Issue来帮助改进项目。
 
 ---
 
 ## 📢 注意事项
 - 本项目仅用于教育和研究目的。
 - 请根据您所在国家的法律负责任地使用配置。
-- 如遇问题或建议，请使用 [Issues](https://github.com/areyrteuurt/Auto-Tomas/issues) 部分。
+- 如遇问题或建议，请使用 [Issues](https://github.com/Eleven1985/Scrape-By-Country/issues) 部分。
