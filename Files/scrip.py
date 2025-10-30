@@ -158,7 +158,7 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 
     total_configs = sum(protocol_counts.values())
 
-    md_content = f"""# 🚀 V2Ray AutoConfig
+    md_content = f"""# 🚀 Auto-Tomas
 
 <p align="center">
   <img src="https://img.shields.io/github/license/{github_repo_path}?style=flat-square&color=blue" alt="License" />
