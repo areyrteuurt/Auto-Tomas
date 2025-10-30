@@ -146,7 +146,7 @@ def save_to_file(directory, category_name, items_set):
         logging.error(f"Failed to write file {file_path}: {e}")
         return False, 0
 
-def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, github_repo_path="Eleven1985/Scrape-By-Country", github_branch="main"):
+def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, github_repo_path="areyrteuurt/Auto-Tomas", github_branch="main"):
     tz = pytz.timezone('Asia/Shanghai')
     now = datetime.now(tz)
     time_str = now.strftime("%H:%M")
@@ -158,7 +158,7 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 
     total_configs = sum(protocol_counts.values())
 
-    md_content = f"""# 🚀 Scrape-By-Country
+    md_content = f"""# 🚀 Auto-Tomas
 
 <p align="center">
   <img src="https://img.shields.io/github/license/{github_repo_path}?style=flat-square&color=blue" alt="License" />
@@ -271,14 +271,14 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 如果您想参与项目，可以：
 - 推荐新的配置收集来源（`urls.txt`文件）。
 - 添加新的协议或国家模式（`key.json`文件）。
-- 通过在 [GitHub](https://github.com/Eleven1985/Scrape-By-Country) 上提交Pull Request或Issue来帮助改进项目。
+- 通过在 [GitHub](https://github.com/areyrteuurt/Auto-Tomas) 上提交Pull Request或Issue来帮助改进项目。
 
 ---
 
 ## 📢 注意事项
-- 本项目仅用于教育和研究目的。
+- 本项目仅用于学习和研究目的。
 - 请根据您所在国家的法律负责任地使用配置。
-- 如遇问题或建议，请使用 [Issues](https://github.com/Eleven1985/Scrape-By-Country/issues) 部分。
+- 如遇问题或建议，请使用 [Issues](https://github.com/areyrteuurt/Auto-Tomas/issues) 部分。
 """
 
 
