@@ -1,2 +1,0 @@
-ss://b2da8ac2-ab74-4732-a659-4d3086c8d53b@brazil.yourvpn.me:443?security=reality&encryption=none&pbk=8OEXJ9qwGxfH6GGYKbP7QUkQlr3bUKrrn0dYqRPsIDM&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9a05#VlessBrazil
-vless://b2da8ac2-ab74-4732-a659-4d3086c8d53b@brazil.yourvpn.me:443?security=reality&encryption=none&pbk=8OEXJ9qwGxfH6GGYKbP7QUkQlr3bUKrrn0dYqRPsIDM&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9a05#VlessBrazil
