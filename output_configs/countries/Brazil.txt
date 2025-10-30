@@ -1,4 +1,2 @@
-ss://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?encryption=none&security=none&type=ws&host=---NetifyVPN---NetifyVPN---NetifyVPN---NetifyVPN---NetifyVPN&path=%2Fvless%2F#🇧🇷[By
-ss://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?encryption=none&security=none&type=ws&host=---NetifyVPN---NetifyVPN---NetifyVPN---NetifyVPN---NetifyVPN&path=%2Fvless%2F#🇧🇷[openproxylist.com]
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?encryption=none&security=none&type=ws&host=---NetifyVPN---NetifyVPN---NetifyVPN---NetifyVPN---NetifyVPN&path=%2Fvless%2F#🇧🇷[By
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?encryption=none&security=none&type=ws&host=---NetifyVPN---NetifyVPN---NetifyVPN---NetifyVPN---NetifyVPN&path=%2Fvless%2F#🇧🇷[openproxylist.com]
+ss://b2da8ac2-ab74-4732-a659-4d3086c8d53b@brazil.yourvpn.me:443?security=reality&encryption=none&pbk=8OEXJ9qwGxfH6GGYKbP7QUkQlr3bUKrrn0dYqRPsIDM&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9a05#VlessBrazil
+vless://b2da8ac2-ab74-4732-a659-4d3086c8d53b@brazil.yourvpn.me:443?security=reality&encryption=none&pbk=8OEXJ9qwGxfH6GGYKbP7QUkQlr3bUKrrn0dYqRPsIDM&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9a05#VlessBrazil

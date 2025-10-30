@@ -1,3 +1,4 @@
+trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#%3E%3E%40configV2rayNG%3A%3AGB
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443/?type=tcp&security=tls&sni=45.32.28.232&allowInsecure=1#Trojan
 trojan://BxceQaOe@36.150.215.237:1821?allowInsecure=1#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@36.150.215.241:27409?allowInsecure=1#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
@@ -10,7 +11,6 @@ trojan://BxceQaOe@58.152.53.3:443?allowInsecure=1#🇭🇰[By
 trojan://BxceQaOe@58.152.53.3:443?allowInsecure=1#🇭🇰[openproxylist.com]
 trojan://D%2BelR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#%3E%3E%40configV2rayNG%3A%3AAE
 trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254/?type=tcp&security=tls&sni=fluxfloss.click#%3E%3E%40oneclickvpnkeys%3A%3AAE
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%3E%3E%40configV2rayNG%3A%3AXX
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%3E%3E%40configV2rayNG%3A%3AXX
 trojan://adbac894-90b9-4913-b77e-a715a8d4ebc8@oss-cn-shanghai.letssepub.com:20021?allowInsecure=0&sni=dingding-doc.com#%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.131.243:2381?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
@@ -19,3 +19,9 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.131.243:3161?allowInsecure=1&sn
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.131.243:4452?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.131.243:5041?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.131.243:5321?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://telegram-id-privatevpns@13.37.153.174:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[By
+trojan://telegram-id-privatevpns@13.37.153.174:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com]
+trojan://telegram-id-privatevpns@3.67.21.75:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[By
+trojan://telegram-id-privatevpns@3.67.21.75:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com]
+trojan://telegram-id-privatevpns@3.79.254.11:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[By
+trojan://telegram-id-privatevpns@3.79.254.11:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com]
