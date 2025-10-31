@@ -1,2 +1,0 @@
-ss://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2F&security=tls&encryption=none&host=paS-kaLE-AGhA.pageS.deV&fp=chrome&type=ws&sni=paS-kaLE-AGhA.pageS.deV#%F0%9F%87%A7%F0%9F%87%B7_BR_%E5%B7%B4%E8%A5%BF
-vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2F&security=tls&encryption=none&host=paS-kaLE-AGhA.pageS.deV&fp=chrome&type=ws&sni=paS-kaLE-AGhA.pageS.deV#%F0%9F%87%A7%F0%9F%87%B7_BR_%E5%B7%B4%E8%A5%BF

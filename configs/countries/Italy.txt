@@ -1,2 +1,0 @@
-ss://48bbb385-8877-4b2d-8f42-d81df401725d@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://48bbb385-8877-4b2d-8f42-d81df401725d@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
