@@ -1,3 +1,4 @@
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%E8%8B%B1%E5%9B%BD
 hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&obfs=salamander&obfs-password=khameniiko@smad@ret#%F0%9F%87%AC%F0%9F%87%A7%20-%20GB%20-%20%40freeOnlineVPN
 hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret#%F0%9F%87%AC%F0%9F%87%A7%20-%20GB%20-%20%40freeOnlineVPN%20%234
 ss://2f27d301-2947-4655-b4a2-75fe8bbda77f@138.68.147.150:8880?type=ws&encryption=none&path=%2F&host=&security=none#%3E%3E%40DailyV2RY%3A%3AGB
