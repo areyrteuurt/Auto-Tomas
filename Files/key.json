@@ -221,7 +221,5 @@
   "ShadowSocksR": ["ssr:\\/\\/[^ \\n\\r<\"']+"],
   "Tuic": ["tuic:\\/\\/[^ \\n\\r<\"']+", "tuic5:\\/\\/[^ \\n\\r<\"']+"],
   "Hysteria2": ["hy2:\\/\\/[^ \\n\\r<\"']+", "hysteria2:\\/\\/[^ \\n\\r<\"']+"],
-  "Hysteria1": ["hy1:\\/\\/[^ \\n\\r<\"']+",
-  "Hysteria": ["hy:\\/\\/[^ \\n\\r<\"']+",
   "WireGuard": ["wireguard:\\/\\/[^ \\n\\r<\"']+"]
 }
