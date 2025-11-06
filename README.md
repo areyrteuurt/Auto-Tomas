@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/language-中文%20%26%20English-007EC6?style=flat-square" alt="Language" />
 </p>
 
-## 最后更新: 09:18 2025-11-06
+## 最后更新: 16:23 2025-11-06
 
 ---
 
@@ -50,10 +50,9 @@
 | <img src="https://flagcdn.com/w20/fr.png" width="20" alt="France flag">  France (法国) | 2 | [`France.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/France.txt) |
 | <img src="https://flagcdn.com/w20/de.png" width="20" alt="Germany flag">  Germany (德国) | 6 | [`Germany.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Germany.txt) |
 | <img src="https://flagcdn.com/w20/ie.png" width="20" alt="Ireland flag">  Ireland (爱尔兰) | 1 | [`Ireland.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Ireland.txt) |
-| <img src="https://flagcdn.com/w20/jp.png" width="20" alt="Japan flag">  Japan (日本) | 1 | [`Japan.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Japan.txt) |
+| <img src="https://flagcdn.com/w20/jp.png" width="20" alt="Japan flag">  Japan (日本) | 2 | [`Japan.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Japan.txt) |
 | <img src="https://flagcdn.com/w20/pl.png" width="20" alt="Poland flag">  Poland (波兰) | 2 | [`Poland.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Poland.txt) |
 | <img src="https://flagcdn.com/w20/sg.png" width="20" alt="Singapore flag">  Singapore (新加坡) | 1 | [`Singapore.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Singapore.txt) |
-| <img src="https://flagcdn.com/w20/tw.png" width="20" alt="Taiwan flag">  Taiwan (台湾) | 1 | [`Taiwan.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Taiwan.txt) |
 | <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag">  USA (美国) | 4 | [`USA.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/USA.txt) |
 </div>
 
