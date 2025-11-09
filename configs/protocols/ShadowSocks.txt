@@ -6,9 +6,7 @@ ss://71d5d46d-4133-4fd9-bbab-e8cd9838a4f3@91.107.208.24:8080?path=%2FPayamerShop
 ss://908e8778-5dbe-4f58-bb4b-5fe39e149ad1@5.189.221.162:8443?path=%2F&security=tls&encryption=none&host=p52ll.qwepsvip.top&fp=chrome&type=ws&sni=p52ll.qwepsvip.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZlEwc0l2T2VUMGNIdHU0MUdQUENm@51.79.199.47:51043/?outline=1#Singapore🇲🇨🇲🇨
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZaVplVFEydllMYlRnNkl0MWNHVFRN@germany.ownvpnnaing.store:8133/?outline=1#GERMANY🇧🇪🇧🇪
-ss://YWVzLTEyOC1nY206MDBmN2Q1ZjMtNDUyNC00NGNhLTk5Y2ItYTdhMzU1YjE4OGNh@sg.fasthou.icu:33112#🇭🇰
 ss://YWVzLTEyOC1nY206NTBhZmQzOWQtNzVkNS00M2QxLTgzMDktNTkzMmQzNzRiM2Fl@sg.fasthou.icu:33115#🇯🇵
-ss://YWVzLTEyOC1nY206NzQ3NzI3OGYtMTlmOC00ZDg4LWE2NzAtODdlOTk3NjczN2Vj@sg.fasthou.icu:33116#🇯🇵
 ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@hkg24-20250621185858bb8394.singdns.com:23341#香港流媒体专享
 ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@hkg24-20250621190455900606.singdns.com:23342#香港
 ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@wujiehanguo01.singdns.com:25798#韩国
