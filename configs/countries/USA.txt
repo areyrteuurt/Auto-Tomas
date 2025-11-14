@@ -1,3 +1,4 @@
+ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@wujieusa01.singdns.com:23344#美国
 ss://bcccdd9c-6630-44fd-f2e7-26353ccdb91e@5.78.60.170:45325?security=none&encryption=none&host=quic.cloud&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B2%20USA%201
 ss://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20USA%202
 vless://bcccdd9c-6630-44fd-f2e7-26353ccdb91e@5.78.60.170:45325?security=none&encryption=none&host=quic.cloud&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B2%20USA%201
