@@ -1,0 +1,1 @@
+hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?insecure=1&sni=d.eans.top#https%3A//t.me/Selinc
