@@ -1,0 +1,1 @@
+trojan://559b90ec-b620-4255-80a5-c64b8d3ffe6c@195.85.59.95:8443?sni=cdn-node-oss-64.paofu.de&type=ws&path=%2Fprofile%2Fsharenode&host=cdn-node-oss-64.paofu.de#%F0%9F%87%A9%F0%9F%87%B0_DK_%E4%B8%B9%E9%BA%A6

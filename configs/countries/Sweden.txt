@@ -1,5 +1,5 @@
+hysteria2://05d0e442-5d3d-4fa7-a21f-b1bfa82e46cc@us.xn--9kqx4sc0n.shop:21363?insecure=0#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#%F0%9F%87%B8%F0%9F%87%AA%20-%20SE%20-%20%40freeOnlineVPN%20%232
-hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#%F0%9F%87%B8%F0%9F%87%AA%20-%20SE%20-%20%40freeOnlineVPN%20%234
 ss://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
 ss://fafd4d2b-558e-7ae5-8e95-cde87e74ca95@sweden.marzxo.biz:8090?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
 trojan://72a9357f-8841-4229-ad79-c3fdee0aae51@193.180.211.52:443?sni=joss.dus.biz.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F193.180.211.52%3D443&fp=randomized#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
