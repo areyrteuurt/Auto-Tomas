@@ -1,2 +1,6 @@
 ss://bf3e8944-8d26-47de-8748-b9aa74cce974@188.253.21.154:40721?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d&spx=%2F&type=tcp&headerType=none#%E5%9C%9F%E8%80%B3%E5%85%B6
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7%20TR-2
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638960551311079415.rasht-blkaft-aaak.info:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7%20TR-3
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@188.253.21.154:40721?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d&spx=%2F&type=tcp&headerType=none#%E5%9C%9F%E8%80%B3%E5%85%B6
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7%20TR-2
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960551311079415.rasht-blkaft-aaak.info:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7%20TR-3
