@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/github/last-commit/areyrteuurt/Auto-Tomas?style=flat-square" alt="Last Commit" />
   <br>
   <img src="https://img.shields.io/github/issues/areyrteuurt/Auto-Tomas?style=flat-square" alt="GitHub Issues" />
-  <img src="https://img.shields.io/badge/Configs-1831-blue?style=flat-square" alt="Total Configs" />
+  <img src="https://img.shields.io/badge/Configs-1833-blue?style=flat-square" alt="Total Configs" />
   <img src="https://img.shields.io/github/stars/areyrteuurt/Auto-Tomas?style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Project Status" />
   <img src="https://img.shields.io/badge/language-中文%20%26%20English-007EC6?style=flat-square" alt="Language" />
 </p>
 
-## 最后更新: 16:24 2025-11-20
+## 最后更新: 00:22 2025-11-21
 
 ---
 
@@ -25,17 +25,17 @@
 ---
 
 ## 📁 协议配置
-目前有 1831 个配置可用。
+目前有 1833 个配置可用。
 
 <div align="center">
 
 | 协议 | 数量 | 下载链接 |
 |:-------:|:-----:|:------------:|
 | Hysteria2 | 147 | [`Hysteria2.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/protocols/Hysteria2.txt) |
-| ShadowSocks | 799 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/protocols/ShadowSocks.txt) |
+| ShadowSocks | 800 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/protocols/ShadowSocks.txt) |
 | Trojan | 139 | [`Trojan.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/protocols/Trojan.txt) |
-| Vless | 597 | [`Vless.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/protocols/Vless.txt) |
-| Vmess | 149 | [`Vmess.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/protocols/Vmess.txt) |
+| Vless | 599 | [`Vless.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/protocols/Vless.txt) |
+| Vmess | 148 | [`Vmess.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/protocols/Vmess.txt) |
 </div>
 
 ---
@@ -54,7 +54,7 @@
 | <img src="https://flagcdn.com/w20/cn.png" width="20" alt="China flag">  China (中国) | 4 | [`China.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/China.txt) |
 | <img src="https://flagcdn.com/w20/fi.png" width="20" alt="Finland flag">  Finland (芬兰) | 2 | [`Finland.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Finland.txt) |
 | <img src="https://flagcdn.com/w20/fr.png" width="20" alt="France flag">  France (法国) | 26 | [`France.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/France.txt) |
-| <img src="https://flagcdn.com/w20/de.png" width="20" alt="Germany flag">  Germany (德国) | 42 | [`Germany.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Germany.txt) |
+| <img src="https://flagcdn.com/w20/de.png" width="20" alt="Germany flag">  Germany (德国) | 44 | [`Germany.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Germany.txt) |
 | <img src="https://flagcdn.com/w20/is.png" width="20" alt="Iceland flag">  Iceland (冰岛) | 2 | [`Iceland.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Iceland.txt) |
 | <img src="https://flagcdn.com/w20/id.png" width="20" alt="Indonesia flag">  Indonesia (印度尼西亚) | 1 | [`Indonesia.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Indonesia.txt) |
 | <img src="https://flagcdn.com/w20/ir.png" width="20" alt="Iran flag">  Iran (伊朗) | 26 | [`Iran.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Iran.txt) |
@@ -62,7 +62,7 @@
 | <img src="https://flagcdn.com/w20/jp.png" width="20" alt="Japan flag">  Japan (日本) | 42 | [`Japan.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Japan.txt) |
 | <img src="https://flagcdn.com/w20/lt.png" width="20" alt="Lithuania flag">  Lithuania (立陶宛) | 2 | [`Lithuania.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Lithuania.txt) |
 | <img src="https://flagcdn.com/w20/me.png" width="20" alt="Montenegro flag">  Montenegro (黑山) | 2 | [`Montenegro.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Montenegro.txt) |
-| <img src="https://flagcdn.com/w20/nl.png" width="20" alt="Netherlands flag">  Netherlands (荷兰) | 42 | [`Netherlands.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Netherlands.txt) |
+| <img src="https://flagcdn.com/w20/nl.png" width="20" alt="Netherlands flag">  Netherlands (荷兰) | 41 | [`Netherlands.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Netherlands.txt) |
 | <img src="https://flagcdn.com/w20/ph.png" width="20" alt="Philippines flag">  Philippines (菲律宾) | 2 | [`Philippines.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Philippines.txt) |
 | <img src="https://flagcdn.com/w20/pl.png" width="20" alt="Poland flag">  Poland (波兰) | 2 | [`Poland.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Poland.txt) |
 | <img src="https://flagcdn.com/w20/ro.png" width="20" alt="Romania flag">  Romania (罗马尼亚) | 4 | [`Romania.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Romania.txt) |
@@ -75,7 +75,7 @@
 | <img src="https://flagcdn.com/w20/tw.png" width="20" alt="Taiwan flag">  Taiwan (台湾) | 18 | [`Taiwan.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Taiwan.txt) |
 | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="Turkey flag">  Turkey (土耳其) | 2 | [`Turkey.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Turkey.txt) |
 | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK flag">  UK (英国) | 12 | [`UK.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/UK.txt) |
-| <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag">  USA (美国) | 368 | [`USA.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/USA.txt) |
+| <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag">  USA (美国) | 370 | [`USA.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/USA.txt) |
 | <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine flag">  Ukraine (乌克兰) | 1 | [`Ukraine.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Ukraine.txt) |
 | <img src="https://flagcdn.com/w20/vn.png" width="20" alt="Vietnam flag">  Vietnam (越南) | 3 | [`Vietnam.txt`](https://raw.githubusercontent.com/areyrteuurt/Auto-Tomas/refs/heads/main/configs/countries/Vietnam.txt) |
 </div>
