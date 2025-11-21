@@ -1,2 +1,0 @@
-ss://b41bfc57-24af-42c7-a791-89e7099958c5@ro.otunnel.icu:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.orange.ro&fp=chrome&pbk=_e4RpYgOhpfmdPLtqzEzSbEnl0a6moiCKtU9DXK0phI&sid=bc60d5de&allowInsecure=1&type=tcp&headerType=none#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
-vless://b41bfc57-24af-42c7-a791-89e7099958c5@ro.otunnel.icu:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.orange.ro&fp=chrome&pbk=_e4RpYgOhpfmdPLtqzEzSbEnl0a6moiCKtU9DXK0phI&sid=bc60d5de&allowInsecure=1&type=tcp&headerType=none#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
