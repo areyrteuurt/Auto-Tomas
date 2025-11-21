@@ -1,2 +1,0 @@
-ss://00000000-0000-4000-8000-000000000000@45.134.14.213:12932?encryption=none&security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=%2F%40Marisa_kristi#%E8%8F%B2%E5%BE%8B%E5%AE%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vless://00000000-0000-4000-8000-000000000000@45.134.14.213:12932?encryption=none&security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=%2F%40Marisa_kristi#%E8%8F%B2%E5%BE%8B%E5%AE%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29

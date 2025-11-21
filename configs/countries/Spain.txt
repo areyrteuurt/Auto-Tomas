@@ -1,6 +1,0 @@
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.134:8880?type=grpc&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-13
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.144:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-20
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.156:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-15
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.134:8880?type=grpc&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-13
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.144:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.156:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-15
