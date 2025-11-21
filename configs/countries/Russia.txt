@@ -13,10 +13,8 @@ ss://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@85.193.91.193:2053?encryption=none&sec
 ss://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@95.163.242.122:2053?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#%E4%BF%84%E7%BD%97%E6%96%AF%28yudou6677.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA==@45.14.245.2:443#%E4%BF%84%E7%BD%97%E6%96%AF%28yudou6677.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA@45.14.245.2:443#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZnd1Zk9tSjlFTGZONHVtemNIQmZW@194.87.82.28:12224#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF_2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#%E4%BF%84%E7%BD%97%E6%96%AF%28yudou6677.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ@213.159.66.206:443#%E4%BF%84%E7%BD%97%E6%96%AF
-ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF_1
 ss://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@178.236.244.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kinopoisk.ru&fp=chrome&pbk=3LwULpxLmY98y-IDJAeOwZzlVo5s5BnzKz4D5A7lQn4&sid=586207ca3cf8d389&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://id8567660651@178.130.43.35:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=0IGwg1a5Gz3UdIbftPAkdWM6Qwy5EeoHEKqzx7GA_kQ&sid=8643&spx=%2F11i8kFFdlH5ahmL&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?&security=tls&fp=chrome&sni=cdn.filterai.ru&type=ws&headerType=none&host=cdn.filterai.ru&path=%2Fwebsocketpl#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
