@@ -1,10 +1,4 @@
-ss://39e5cc2f-1294-4a42-bb58-306a8be785e1@62.60.148.21:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=BkAG_uWeUj7BCHqYjrz1JyH0TMvO_KywubV7WJN17ho&sid=ee6f3e8f44b1f0b6&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOWI4NTIxOC1kYTM3LTQyYTctODkwNi02N2JhYjgxMDI1MmM=@slur.izenny.com:32009#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOWI4NTIxOC1kYTM3LTQyYTctODkwNi02N2JhYjgxMDI1MmM=@slur.izenny.com:55407#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYjhhMGU2Yi01ZmQ3LTQzNWQtOTU1OC01Yzg2YjA2NzljNGQ=@slur.izenny.com:40063#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYjhhMGU2Yi01ZmQ3LTQzNWQtOTU1OC01Yzg2YjA2NzljNGQ=@slur.izenny.com:48907#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYjhhMGU2Yi01ZmQ3LTQzNWQtOTU1OC01Yzg2YjA2NzljNGQ@slur.izenny.com:57577#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-trojan://BxceQaOe@116.49.237.130:2673?sni=t.me%2Fripaojiedian&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-trojan://BxceQaOe@58.152.26.173:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@103.219.103.217:21712#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@103.219.103.217:23344#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+trojan://BxceQaOe@219.79.165.55:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.110.206:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-vless://39e5cc2f-1294-4a42-bb58-306a8be785e1@62.60.148.21:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=BkAG_uWeUj7BCHqYjrz1JyH0TMvO_KywubV7WJN17ho&sid=ee6f3e8f44b1f0b6&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
