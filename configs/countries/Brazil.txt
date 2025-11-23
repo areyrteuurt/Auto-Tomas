@@ -1,0 +1,1 @@
+trojan://V8cbmRo4T2Qd%2BJwW@216.238.120.105:16555?security=tls&headerType=none&type=tcp&sni=qdsbwfvjal.zwodhfgqaps.click#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-2

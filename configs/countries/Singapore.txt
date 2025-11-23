@@ -8,6 +8,8 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2173?allowInsecure=0&sni
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:5321?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://BxceQaOe@116.49.237.130:1691?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
 trojan://BxceQaOe@116.49.237.130:381?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293?security=tls&headerType=none&type=tcp&sni=zmbvgixwdqusy.advudjng.click#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-7
+trojan://aWgKDJmn2q.hv=51@139.180.143.191:10293?security=tls&headerType=none&type=tcp&sni=zmbvgixwdqusy.advudjng.click#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-6
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.51.29:2760?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.136.130:5552?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.214.6:2760?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian

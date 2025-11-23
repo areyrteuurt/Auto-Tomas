@@ -1,3 +1,4 @@
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790/?type=tcp&security=tls&sni=runningshoes.purpletornado.click#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1
 trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/138.124.30.8=443#%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
 trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?security=tls&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F138.124.30.8%3D443#%E7%BE%8E%E5%9B%BD%28yudou678.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?security=tls&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F138.124.30.8%3D443#US
@@ -62,8 +63,11 @@ trojan://5596928d-e1a0-41ef-9b3e-9afa0c82be82@bestcdn5.868863.xyz:2053?security=
 trojan://5596928d-e1a0-41ef-9b3e-9afa0c82be82@bestcdn5.868863.xyz:8443?security=tls&sni=17637032715249.796812.xyz&type=ws&host=17637032719158.796812.xyz&path=%2Fagraeabtegrrh#%E7%BE%8E%E5%9B%BD
 trojan://5596928d-e1a0-41ef-9b3e-9afa0c82be82@bestcdn5.868863.xyz:8443?security=tls&sni=17637032719986.206355.xyz&type=ws&host=17637032717300.206355.xyz&path=%2Fvideomuaawe#%E7%BE%8E%E5%9B%BD
 trojan://5c8c8b61-9b24-4c5a-b6ad-f6560df2e9d3@89.28.236.243:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/89.28.236.243=443#DK_speednode_0013
+trojan://5fbEkKmVOdAY%2B8_-@217.69.10.156:16288?security=tls&headerType=none&type=tcp&sni=sweetdream.sweetthunder.click#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-1805
+trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288/?type=tcp&security=tls&sni=sweetdream.sweetthunder.click#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-1691
 trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/45.159.251.8=81#PT_speednode_0099
 trojan://94a81dc7-e8e6-46e5-838d-84ca142b88b2@94.131.123.74:443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/94.131.123.74=443&host=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&headerType=none&type=tcp&sni=softpillow.silentrocket.click#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-2607
 trojan://BxceQaOe@116.49.237.130:1691?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
 trojan://BxceQaOe@116.49.237.130:381?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@153.121.51.147:5156?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
@@ -86,7 +90,13 @@ trojan://D3OJA7xY5U@209.200.246.53:10785?security=reality&sni=cloudflare.com&fp=
 trojan://Fn9TZuYXiFYhsyp65T@os-2.rise-fuji.com:443?allowInsecure=1&sni=os-2.rise-fuji.com#DE_speednode_0012
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@hk3.t.sgateway.link:5223?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pod-hk-z1.psusercontent.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@psg2-ag.t.sgateway.link:5223?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pod-kr-g1.psusercontent.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+trojan://R_UGZWorVec%23sqyB@64.176.13.78:18010?security=tls&headerType=none&type=tcp&sni=ukmydxecn.jidxalgzyh.click#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B1%20CL-2
+trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536?security=tls&headerType=none&type=tcp&sni=smartphone.angrypiano.click#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BA%20AU-1
+trojan://V8cbmRo4T2Qd%2BJwW@216.238.120.105:16555?security=tls&headerType=none&type=tcp&sni=qdsbwfvjal.zwodhfgqaps.click#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-2
 trojan://ZZRSKlyjjAR36CS0CD8uYFBgNODpgTeC9A7aERSp3aFaq42na8KZzuDIn3D9Yw3xX3A6e@levuior.missionsec.us:443?sni=levuior.missionsec.us&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+trojan://ZyX%23rcLFldaPKHUC7NYm@217.170.194.222:13580/?type=tcp&security=tls&sni=aspryonktg.mthjfbiay.click#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-3
+trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293?security=tls&headerType=none&type=tcp&sni=zmbvgixwdqusy.advudjng.click#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-7
+trojan://aWgKDJmn2q.hv=51@139.180.143.191:10293?security=tls&headerType=none&type=tcp&sni=zmbvgixwdqusy.advudjng.click#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-6
 trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?path=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/158.178.206.197=8443&host=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?security=tls&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F109.169.76.23%3D443#%E7%BE%8E%E5%9B%BD%28yudou678.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
@@ -121,6 +131,7 @@ trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443?allowInsecure=0&sn
 trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443?security=tls&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F51.15.210.1%3D443#%E7%BE%8E%E5%9B%BD%28yudou678.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443?security=tls&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F51.15.210.1%3D443#US
 trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443?security=tls&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F51.15.210.1%3D443#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?security=tls&headerType=none&type=tcp&sni=quietplace.lazymountain.click#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B1%20CL-1
 trojan://eb7339c5-70e4-4c7b-b5ef-4128adc8136a@38.180.72.162:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/38.180.72.162=2053&host=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/81.22.132.183=443#NL_speednode_0097
 trojan://f583143c-2cbe-47f5-804d-27efa55442a1@81.91.214.162:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/81.91.214.162=443#CZ_speednode_0011
@@ -131,6 +142,7 @@ trojan://iwangjie@141.94.68.216:2053?security=tls&sni=nodes.830901.xyz&type=ws&h
 trojan://telegram-id-directvpn@3.127.91.148:22223?sni=trojan.burgerip.co.uk&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://telegram-id-directvpn@3.76.168.69:22223?sni=trojan.burgerip.co.uk&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://telegram-id-privatevpns@3.127.91.148:22222?sni=3.127.91.148&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
+trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-849
 trojan://trojan@104.24.57.5:443?security=tls&sni=azadnet2-dl4.pages.dev&type=ws&host=azadnet2-dl4.pages.dev&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://trojan@ip.sb:443/?type=ws&path=%2F%3Fed%3D2560%2F%3FJoin-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-&security=tls&sni=nixian.pages.dev#%5BOpenRay%5D%20Dynamic-2755
 trojan://vp0GmFj.yIw1RZrd@155.138.228.41:19313?encryption=none&security=tls&sni=raincoat.bluetigeraa.click&type=raw&headertype=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-1259
