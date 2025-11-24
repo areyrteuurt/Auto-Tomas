@@ -1,2 +1,6 @@
+ss://3ced94cb-7df6-44e5-b0c9-2cb2d7ec1688@176.124.206.205:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=_A94OkOy0oIRFQCQbEWkF1BJXHu1mwgOroq9ZvgbTHQ&sid=797266d9ff91c8c7&type=tcp&headerType=none#%E8%8A%AC%E5%85%B0
 ss://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://d42c146e-2ded-4b4a-8592-6459ac636910@fi4.srv.oplcdn.link:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ign.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%E8%8A%AC%E5%85%B0
+vless://3ced94cb-7df6-44e5-b0c9-2cb2d7ec1688@176.124.206.205:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=_A94OkOy0oIRFQCQbEWkF1BJXHu1mwgOroq9ZvgbTHQ&sid=797266d9ff91c8c7&type=tcp&headerType=none#%E8%8A%AC%E5%85%B0
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://d42c146e-2ded-4b4a-8592-6459ac636910@fi4.srv.oplcdn.link:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ign.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%E8%8A%AC%E5%85%B0
