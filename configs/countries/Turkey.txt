@@ -1,0 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZXBqU2JqdjJVcWw2VzRWZ2U3c0Rm@185.39.204.189:34085#%E5%9C%9F%E8%80%B3%E5%85%B6
+ss://a40b0a127d65404a9e15b31e1c0c352b@185.39.204.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.com&fp=chrome&pbk=8xKzWSx8JZFIJPRBaxbznHriYpsb5HWqIz9sdDmWgks&sid=aabbccdd&type=tcp&headerType=none#%E5%9C%9F%E8%80%B3%E5%85%B6
+trojan://0b5ea56a-056b-4917-9a47-b20ecfb78ad9@188.132.129.199:2053?security=tls&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F188.132.129.199%3D2053#%E5%9C%9F%E8%80%B3%E5%85%B6
+trojan://3c6c2cac-7e0a-462b-ae19-2e5e264d7fdf@46.183.186.57:443?security=tls&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F46.183.186.57%3D443#%E5%9C%9F%E8%80%B3%E5%85%B6
+vless://a40b0a127d65404a9e15b31e1c0c352b@185.39.204.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.com&fp=chrome&pbk=8xKzWSx8JZFIJPRBaxbznHriYpsb5HWqIz9sdDmWgks&sid=aabbccdd&type=tcp&headerType=none#%E5%9C%9F%E8%80%B3%E5%85%B6

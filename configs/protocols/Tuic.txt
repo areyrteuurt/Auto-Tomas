@@ -1,0 +1,1 @@
+tuic://e715f8e2-664c-4f6e-bb71-56d967cebb96%3Ae715f8e2-664c-4f6e-bb71-56d967cebb96@sgtuic01.yydzx.xyz:13580?sni=sgtuic01.yydzx.xyz&alpn=h3&congestion_control=bbr#US

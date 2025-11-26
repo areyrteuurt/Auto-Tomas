@@ -1,0 +1,2 @@
+trojan://e683d757-b855-44c3-b0b6-22586444914a@86.107.197.239:443?security=tls&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F86.107.197.239%3D443#%E6%8D%B7%E5%85%8B
+trojan://f583143c-2cbe-47f5-804d-27efa55442a1@81.91.214.162:443?security=tls&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F81.91.214.162%3D443#%E6%8D%B7%E5%85%8B

@@ -1,0 +1,2 @@
+ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.13.178:443?encryption=none&security=reality&sni=www.primevideo.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none#%E6%B3%B0%E5%9B%BD
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.13.178:443?encryption=none&security=reality&sni=www.primevideo.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none#%E6%B3%B0%E5%9B%BD
