@@ -1,5 +1,4 @@
 hysteria2://52d0cb21-56da-4f00-862f-be01b66446a8@bx1.nezhasu.com:443?sni=bx1.nezhasu.com&insecure=0&mport=50000-65535#%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF-saopaulo
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@bx1.nezhasu.com:443?sni=bx1.nezhasu.com&insecure=0&mport=50000-65535#%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF-saopaulo
 ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?encryption=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&type=tcp&headerType=none#%E5%B7%B4%E8%A5%BF
-trojan://V8cbmRo4T2Qd%2BJwW@216.238.120.105:16555?security=tls&headerType=none&type=tcp&sni=qdsbwfvjal.zwodhfgqaps.click#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-2
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?encryption=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&type=tcp&headerType=none#%E5%B7%B4%E8%A5%BF
