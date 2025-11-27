@@ -1,4 +1,2 @@
-ss://2aa86edb-46b0-4e8a-a4d1-ecafd02c6a87@38.180.86.181:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=safari&security=reality&pbk=H63nqyeGx9NIt3kM76ve35tfZkSWVxvqcRbWso8bBxY&sid=c59eceaa2b96df02#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AA%20BE-1
 trojan://0a477acf-1f95-47cb-b4a5-a627b4c57de3@34.22.190.30:443?security=tls&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F34.22.190.30%3D443#%E6%AF%94%E5%88%A9%E6%97%B6
 trojan://fea8b7a7-cc83-4a78-a3fc-bbce9cc89ddb@34.22.190.30:443?security=tls&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F34.22.190.30%3D443#%E6%AF%94%E5%88%A9%E6%97%B6
-vless://2aa86edb-46b0-4e8a-a4d1-ecafd02c6a87@38.180.86.181:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=safari&security=reality&pbk=H63nqyeGx9NIt3kM76ve35tfZkSWVxvqcRbWso8bBxY&sid=c59eceaa2b96df02#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AA%20BE-1
