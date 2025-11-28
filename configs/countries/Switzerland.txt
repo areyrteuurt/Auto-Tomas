@@ -1,2 +1,0 @@
-ss://6923b959-c65f-764c-b072-94711382d716@64.110.104.30:443?encryption=none&security=tls&sni=s2.sni565.netlib.re&alpn=h3&fp=random&type=ws&host=s2.sni565.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
-vless://6923b959-c65f-764c-b072-94711382d716@64.110.104.30:443?encryption=none&security=tls&sni=s2.sni565.netlib.re&alpn=h3&fp=random&type=ws&host=s2.sni565.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
