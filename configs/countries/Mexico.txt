@@ -1,4 +1,4 @@
 hysteria2://52d0cb21-56da-4f00-862f-be01b66446a8@gy5.nezhasu.com:443?sni=gy5.nezhasu.com&insecure=0&mport=50000-65535#%E5%85%AC%E7%9B%8A%E9%99%90%E9%80%9F%C2%B7%E5%A2%A8%E8%A5%BF%E5%93%A5Queretaro-1
-hysteria2://52d0cb21-56da-4f00-862f-be01b66446a8@gy6.nezhasu.com:443?sni=gy6.nezhasu.com&insecure=0&mport=50000-65535#%E5%85%AC%E7%9B%8A%E9%99%90%E9%80%9F%C2%B7%E5%A2%A8%E8%A5%BF%E5%93%A5Queretaro-2
+hysteria2://52d0cb21-56da-4f00-862f-be01b66446a8@gy6.nezhasu.com:443?sni=gy6.nezhasu.com&insecure=0&mport=50000-65535#%E5%A2%A8%E8%A5%BF%E5%93%A5
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy5.nezhasu.com:443?sni=gy5.nezhasu.com&insecure=0&mport=50000-65535#%E5%85%AC%E7%9B%8A%E9%99%90%E9%80%9F%C2%B7%E5%A2%A8%E8%A5%BF%E5%93%A5Queretaro-1
-hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy6.nezhasu.com:443?sni=gy6.nezhasu.com&insecure=0&mport=50000-65535#%E5%85%AC%E7%9B%8A%E9%99%90%E9%80%9F%C2%B7%E5%A2%A8%E8%A5%BF%E5%93%A5Queretaro-2
+hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy6.nezhasu.com:443?sni=gy6.nezhasu.com&insecure=0&mport=50000-65535#%E5%A2%A8%E8%A5%BF%E5%93%A5

@@ -1,0 +1,1 @@
+trojan://2af761ca-a375-4a12-a68f-c4307db89f59@193.181.208.28:8443?path=/Free-VPN-CF-Geo-Project/193.181.208.28=8443&security=tls&host=joss.gpj.web.id&fp=chrome&type=ws&sni=joss.gpj.web.id#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%B0%20DK-1
