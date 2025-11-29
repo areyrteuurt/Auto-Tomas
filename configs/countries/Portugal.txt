@@ -1,3 +1,1 @@
-ss://a09a840d-7b45-41ee-ad9c-906be8c1f376@31.129.22.210:19715?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=BRDKbzGeFFqPvPx__gK4PCWRyN5VzCMrojCO2exV_TM&sid=dee9c72462339a4b&type=tcp&headerType=none#%E8%91%A1%E8%90%84%E7%89%99
 trojan://e501a180-c9a4-4f49-b082-77e9b3db6407@5.182.39.243:443?path=/Free-VPN-CF-Geo-Project/5.182.39.243=443&security=tls&host=joss.gpj.web.id&fp=chrome&type=ws&sni=joss.gpj.web.id#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B9%20PT-1
-vless://a09a840d-7b45-41ee-ad9c-906be8c1f376@31.129.22.210:19715?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=BRDKbzGeFFqPvPx__gK4PCWRyN5VzCMrojCO2exV_TM&sid=dee9c72462339a4b&type=tcp&headerType=none#%E8%91%A1%E8%90%84%E7%89%99
