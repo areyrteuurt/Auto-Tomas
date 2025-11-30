@@ -1,2 +1,1 @@
-trojan://c8aaa748-74ba-4443-84e0-231e61fb83fd@194.87.45.19:8443?path=/Free-VPN-CF-Geo-Project/194.87.45.19=8443&security=tls&host=joss.gpj.web.id&fp=chrome&type=ws&sni=joss.gpj.web.id#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-2
 trojan://fa115af5-0647-4549-acd9-5166695ea2de@185.114.72.31:2053?security=tls&sni=joss.gpj.web.id&allowInsecure=1&type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F185.114.72.31%3D2053#%E8%A5%BF%E7%8F%AD%E7%89%99

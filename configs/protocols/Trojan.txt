@@ -1,6 +1,9 @@
 trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#%E6%9C%AA%E7%9F%A5%20TROJAN-452%40free-nodes
+trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-2
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-8
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&allowInsecure=1&type=tcp&headerType=none#TR%20TROJAN-75%40free-nodes
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&type=tcp&headerType=none&path=/#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-9
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?type=raw&headerType=none&security=tls&sni=runningshoes.purpletornado.click#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-11
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#%E6%9C%AA%E7%9F%A5%20TROJAN-442%40free-nodes
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#CA%20TROJAN-66%40free-nodes
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19201?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-520%40free-nodes
@@ -52,10 +55,12 @@ trojan://21e10785-99c6-316e-a184-a03384ee06e5@hn.xiaohouzi.club:18835?security=t
 trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:16082?security=tls&sni=nh-hinet06.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-483%40free-nodes
 trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:18831?security=tls&sni=avas01.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-560%40free-nodes
 trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:47651?security=tls&sni=$hnm.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-514%40free-nodes
+trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@104.16.148.11:443?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&host=cm3-bpg.filegear-sg.me&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-6955
+trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@104.16.148.244:443?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&host=cm3-bpg.filegear-sg.me&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-6954
 trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@104.16.148.3:443?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&host=cm3-bpg.filegear-sg.me&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-6964
+trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@104.16.148.6:443?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&host=cm3-bpg.filegear-sg.me&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-6959
 trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@104.16.148.9:443?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&host=cm3-bpg.filegear-sg.me&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-6963
 trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@104.16.149.6:443?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&host=cm3-bpg.filegear-sg.me&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-6956
-trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@104.16.149.8:443?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&host=cm3-bpg.filegear-sg.me&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-6957
 trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@cf.877774.xyz:2087?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&host=cm3-bpg.filegear-sg.me&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443#%5BOpenRay%5D%20Dynamic-5006
 trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@mfa.gov.ua:2096?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&host=cm3-bpg.filegear-sg.me&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443#%5BOpenRay%5D%20Dynamic-4855
 trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@time.is:8443/?type=ws&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443&security=tls&sni=cm3-bpg.filegear-sg.me#%5BOpenRay%5D%20Dynamic-6941
@@ -234,7 +239,6 @@ trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@212.90.123.130:28443?security=tls#
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@62.210.254.72:28443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-524%40free-nodes
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@89.163.220.99:28443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-158%40free-nodes
 trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-368%40free-nodes
-trojan://77936dc1-12c0-4fd0-956e-af4e7cd4937b@77.83.246.133:24443?path=/Free-VPN-CF-Geo-Project/77.83.246.133=24443&security=tls&host=joss.gpj.web.id&fp=chrome&type=ws&sni=joss.gpj.web.id#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-5
 trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?security=tls&sni=nika2.hdfy2.foriran.trade&type=grpc&serviceName=M9hnxw1wCQSfVHaiznU#%E6%9C%AA%E7%9F%A5%20TROJAN-154%40free-nodes
 trojan://7b06d22a8a7c764f@211.72.35.153:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-633%40free-nodes
 trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-604%40free-nodes
@@ -370,7 +374,6 @@ trojan://Gl123qwe@us.playstone.info:23443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJ
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-479%40free-nodes
 trojan://Hu4CFM0wJ3@38.150.13.140:57063?security=tls&sni=38.150.13.140#%E6%9C%AA%E7%9F%A5%20TROJAN-629%40free-nodes
 trojan://JeSDlzqBCKqUCmDskZDSIvgscdvOYWbd@gkifo-8-tr-0.tw-tpe-hinet-0-0.o-two.xyz:889?security=tls&sni=o-two.bond#%E6%9C%AA%E7%9F%A5%20TROJAN-301%40free-nodes
-trojan://M7v%w11Se*@amanm.wsone.icu:443?security=tls&sni=amanm.wsone.icu&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-25
 trojan://M7v%w11Se*@qfdfsg.wsone.icu:443?security=tls&sni=qfdfsg.wsone.icu&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%A9%20ID-1
 trojan://M7v%w11Se*@tttyder.wsone.icu:443?security=tls&sni=tttyder.wsone.icu&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-26
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@hk3.t.sgateway.link:5223?allowInsecure=0&sni=pod-hk-z1.psusercontent.com#%E6%9C%AA%E7%9F%A5%20TROJAN-160%40free-nodes
@@ -398,6 +401,7 @@ trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacompl
 trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.23:443?security=tls&sni=reooec.freetrade.link#%E6%9C%AA%E7%9F%A5%20TROJAN-454%40free-nodes
 trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@121.78.213.3:443?security=tls&sni=httah.freetrade.link#%E6%9C%AA%E7%9F%A5%20TROJAN-333%40free-nodes
 trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@47.52.101.237:443?security=tls&sni=httah.freetrade.link#%E6%9C%AA%E7%9F%A5%20TROJAN-416%40free-nodes
+trojan://ZyX%23rcLFldaPKHUC7NYm@217.170.194.222:13580?security=tls&sni=aspryonktg.mthjfbiay.click&allowInsecure=1&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-5
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store#%E6%9C%AA%E7%9F%A5%20TROJAN-260%40free-nodes
 trojan://a13820c547fa34c5c45515c12f0cd576@zz6.91js.pw:10051?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-282%40free-nodes
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@212.90.123.133:28443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-502%40free-nodes
@@ -453,7 +457,6 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.87:443?security=tls&sni=www.
 trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.53.162:443?security=tls&sni=fe2.update.microsoft.com#%E6%9C%AA%E7%9F%A5%20TROJAN-568%40free-nodes
 trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.53.214:443?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-507%40free-nodes
 trojan://c53647f3153f784b3c695ffbe5fb43c0@60.82.70.104:443?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-595%40free-nodes
-trojan://c8aaa748-74ba-4443-84e0-231e61fb83fd@194.87.45.19:8443?path=/Free-VPN-CF-Geo-Project/194.87.45.19=8443&security=tls&host=joss.gpj.web.id&fp=chrome&type=ws&sni=joss.gpj.web.id#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-2
 trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@20.24.192.3:20712?security=tls&sni=ssl.ssl12.xyz#%E6%9C%AA%E7%9F%A5%20TROJAN-433%40free-nodes
 trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-531%40free-nodes
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#%E6%9C%AA%E7%9F%A5%20TROJAN-488%40free-nodes
@@ -480,7 +483,6 @@ trojan://e2afc128-ca51-39b6-897c-eb2649825df9@twb-zf.jiashumao.net:25888?securit
 trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes#%E6%9C%AA%E7%9F%A5%20TROJAN-261%40free-nodes
 trojan://e4af2638-bb12-4e4a-84f1-a032e23ca63f@usla.mjt000.com:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-423%40free-nodes
 trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@172.67.157.220:443?security=tls&sni=6666YHjU.777159.xYz&alpn=http%2F1.1&type=ws&host=6666YHjU.777159.xYz&path=%2FdilyfCPEmLvYr5hYXD#%F0%9F%87%BA%F0%9F%87%B8US_10%20%7C%20%E2%AC%87%EF%B8%8F%203.6MB%2Fs
-trojan://e501a180-c9a4-4f49-b082-77e9b3db6407@5.182.39.243:443?path=/Free-VPN-CF-Geo-Project/5.182.39.243=443&security=tls&host=joss.gpj.web.id&fp=chrome&type=ws&sni=joss.gpj.web.id#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B9%20PT-1
 trojan://e683d757-b855-44c3-b0b6-22586444914a@86.107.197.239:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/86.107.197.239=443#%E6%9C%AA%E7%9F%A5%20TROJAN-175%40free-nodes
 trojan://e683d757-b855-44c3-b0b6-22586444914a@86.107.197.239:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/86.107.197.239=443#%E6%9C%AA%E7%9F%A5%20TROJAN-232%40free-nodes
 trojan://e683d757-b855-44c3-b0b6-22586444914a@86.107.197.239:443?security=tls&sni=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A5%20TROJAN-466%40free-nodes
