@@ -13,7 +13,6 @@ ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&secu
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.227.159:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-1293
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-1341
 ss://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@192.46.237.165:443?encryption=none&security=tls&sni=bp.hexo.cloudns.ch&type=ws&host=bp.hexo.cloudns.ch&path=%2Fproxyip%3Dproxyip.sg.cmliussss.net#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-1776
-ss://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@89.19.44.48:2053?encryption=none&security=tls&sni=bp.suoni.nyc.mn&fp=random&type=ws&host=bp.suoni.nyc.mn&path=%2Fproxyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-1889
 ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@49.12.210.182:443?&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&headerType=none&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 ss://5b096788-3938-405d-aabe-6b8dd610675f@87.236.38.23:45134?security=none&encryption=none&host=p30afzar.com&headerType=none&type=tcp#Germany%203
 ss://5f39f871-2fae-446e-99ad-719fa8be687c@194.61.31.126:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=L3UuY_lketYWBrW_naLct9-VFIAGwdtMplkubdHdEHQ&sid=ce874361e8dfcd4e&type=grpc&authority=&serviceName=78e691d782c9b9b2cd3c5621&mode=gun#%E5%BE%B7%E5%9B%BD
@@ -23,6 +22,7 @@ ss://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@185.58.159.206:443?encryption=none&sec
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=holo.mrconfigur.site&type=ws&sni=holo.mrconfigur.site#DE%20VLESS-134%40free-nodes
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=kahoo.mrconfigur.site&type=ws&sni=kahoo.mrconfigur.site#DE%20VLESS-119%40free-nodes
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=piaz.mrconfigur.site&type=ws&sni=piaz.mrconfigur.site#DE%20VLESS-107%40free-nodes
+ss://953bcea6-dd81-4c9a-a20a-053805f48195@de.ufavpn.ru:9443?encryption=none&security=tls&sni=ger.ufavpn.ru&type=ws&path=%2Fupdate#%E5%BE%B7%E5%9B%BD%28yudou6677.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 ss://Warpi-Free-Vpn-In-GooglePlay@188.245.197.0:443?type=tcp&encryption=none&security=none#DE%20VLESS-71%40free-nodes
 ss://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
 ss://Warpi-Free-Vpn-In-GooglePlay@91.99.80.114:443?type=tcp&encryption=none&security=none#DE%20VLESS-40%40free-nodes
@@ -33,6 +33,7 @@ ss://b127d2d2-277a-491e-bf80-2e8688fa85e2@178.17.51.244:443?security=reality&enc
 ss://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@91.107.139.110:8880?encryption=none&type=grpc&mode=gun&security=none#DE%20VLESS-123%40free-nodes
 ss://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@sea-daisy.unity4world.ir:8880?mode=gun&security=none&encryption=none&type=grpc#DE%20VLESS-93%40free-nodes
 ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@178.250.191.11:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&spx=/--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#DE%20VLESS-68%40free-nodes
+trojan://17178783-0dd7-4544-bf6b-e0694a1e3da7@141.94.222.214:2053?security=tls&sni=joss.gpj.web.id&type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F141.94.222.214%3D2053#%E5%BE%B7%E5%9B%BD%28yudou6677.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://17178783-0dd7-4544-bf6b-e0694a1e3da7@141.94.222.214:2053?security=tls&sni=joss.gpj.web.id&type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F141.94.222.214%3D2053#DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://a25e963f-8f68-4b28-8c11-5d721f616434@62.60.246.168:443?security=tls&sni=joss.gpj.web.id&allowInsecure=1&type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F62.60.246.168%3D443#%E5%BE%B7%E5%9B%BD
 vless://006f752c-42fe-41dd-a224-e2f7c48b72a9@de.shvurgceo.online:14357?security=reality&encryption=none&pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=ab12cd34#DE%20VLESS-116%40free-nodes
@@ -49,7 +50,6 @@ vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&s
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.227.159:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-1293
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-1341
 vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@192.46.237.165:443?encryption=none&security=tls&sni=bp.hexo.cloudns.ch&type=ws&host=bp.hexo.cloudns.ch&path=%2Fproxyip%3Dproxyip.sg.cmliussss.net#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-1776
-vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@89.19.44.48:2053?encryption=none&security=tls&sni=bp.suoni.nyc.mn&fp=random&type=ws&host=bp.suoni.nyc.mn&path=%2Fproxyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-1889
 vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@49.12.210.182:443?&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&headerType=none&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 vless://5b096788-3938-405d-aabe-6b8dd610675f@87.236.38.23:45134?security=none&encryption=none&host=p30afzar.com&headerType=none&type=tcp#Germany%203
 vless://5f39f871-2fae-446e-99ad-719fa8be687c@194.61.31.126:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=L3UuY_lketYWBrW_naLct9-VFIAGwdtMplkubdHdEHQ&sid=ce874361e8dfcd4e&type=grpc&authority=&serviceName=78e691d782c9b9b2cd3c5621&mode=gun#%E5%BE%B7%E5%9B%BD
@@ -59,6 +59,7 @@ vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@185.58.159.206:443?encryption=none&
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=holo.mrconfigur.site&type=ws&sni=holo.mrconfigur.site#DE%20VLESS-134%40free-nodes
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=kahoo.mrconfigur.site&type=ws&sni=kahoo.mrconfigur.site#DE%20VLESS-119%40free-nodes
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=piaz.mrconfigur.site&type=ws&sni=piaz.mrconfigur.site#DE%20VLESS-107%40free-nodes
+vless://953bcea6-dd81-4c9a-a20a-053805f48195@de.ufavpn.ru:9443?encryption=none&security=tls&sni=ger.ufavpn.ru&type=ws&path=%2Fupdate#%E5%BE%B7%E5%9B%BD%28yudou6677.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 vless://Warpi-Free-Vpn-In-GooglePlay@188.245.197.0:443?type=tcp&encryption=none&security=none#DE%20VLESS-71%40free-nodes
 vless://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
 vless://Warpi-Free-Vpn-In-GooglePlay@91.99.80.114:443?type=tcp&encryption=none&security=none#DE%20VLESS-40%40free-nodes
