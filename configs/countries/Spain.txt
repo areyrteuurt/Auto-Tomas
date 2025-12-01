@@ -1,1 +1,0 @@
-trojan://fa115af5-0647-4549-acd9-5166695ea2de@185.114.72.31:2053?security=tls&sni=joss.gpj.web.id&allowInsecure=1&type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F185.114.72.31%3D2053#%E8%A5%BF%E7%8F%AD%E7%89%99

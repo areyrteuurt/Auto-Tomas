@@ -1,1 +1,0 @@
-trojan://de3bc763-2fc6-46aa-aec7-a52a0d1c0550@38.180.72.65:8443?security=tls&sni=joss.gpj.web.id&allowInsecure=1&type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F38.180.72.65%3D8443#%E4%B8%B9%E9%BA%A6

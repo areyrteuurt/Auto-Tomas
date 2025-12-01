@@ -1,2 +1,0 @@
-hysteria2://52d0cb21-56da-4f00-862f-be01b66446a8@bx1.nezhasu.com:443?sni=bx1.nezhasu.com&insecure=0&mport=50000-65535#%E5%B7%B4%E8%A5%BF
-hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@bx1.nezhasu.com:443?sni=bx1.nezhasu.com&insecure=0&mport=50000-65535#%E5%B7%B4%E8%A5%BF

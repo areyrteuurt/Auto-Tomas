@@ -1,6 +1,4 @@
 ss://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@172.234.96.64:8443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-2608
 ss://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053?security=tls&sni=joss.gpj.web.id&allowInsecure=1&type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F95.182.120.208%3D2053#%E7%91%9E%E5%85%B8
-trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053?security=tls&sni=joss.gpj.web.id&allowInsecure=1&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F95.182.120.208%3D2053#%E7%91%9E%E5%85%B8
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@172.234.96.64:8443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-2608
 vless://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
