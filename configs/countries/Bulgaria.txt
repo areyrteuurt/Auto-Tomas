@@ -1,0 +1,2 @@
+ss://c1853115-eb6b-4592-b01f-05037d33505d@bg.fasssst.ru:443?security=reality&type=tcp&sni=bg.fasssst.ru&fp=chrome&flow=xtls-rprx-vision&sid=f5b76860a3c9c3f5&pbk=v5phvruLtbRahHL0xJtl77s4sXHiuSHzUTPq2znyCF4&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-1
+vless://c1853115-eb6b-4592-b01f-05037d33505d@bg.fasssst.ru:443?security=reality&type=tcp&sni=bg.fasssst.ru&fp=chrome&flow=xtls-rprx-vision&sid=f5b76860a3c9c3f5&pbk=v5phvruLtbRahHL0xJtl77s4sXHiuSHzUTPq2znyCF4&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-1

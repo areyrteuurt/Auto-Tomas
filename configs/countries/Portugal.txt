@@ -1,0 +1,4 @@
+ss://f868f2de-95b4-4dd3-bc96-b0afdd77e655@5.182.39.243:443?path=/Free-VPN-CF-Geo-Project/5.182.39.243=443&security=tls&encryption=none&host=joss.gpj4.web.id&fp=chrome&type=ws&sni=joss.gpj4.web.id#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B9%20PT-1
+trojan://6c7d536e-1ecf-448d-83c1-3044dd89ceac@5.182.39.57:443?host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F5.182.39.57%3D443&security=tls&sni=joss.gpj4.web.id&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B9%20PT-3
+trojan://6c7d536e-1ecf-448d-83c1-3044dd89ceac@5.182.39.57:443?path=/Free-VPN-CF-Geo-Project/5.182.39.57=443&security=tls&host=joss.gpj4.web.id&fp=chrome&type=ws&sni=joss.gpj4.web.id#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B9%20PT-2
+vless://f868f2de-95b4-4dd3-bc96-b0afdd77e655@5.182.39.243:443?path=/Free-VPN-CF-Geo-Project/5.182.39.243=443&security=tls&encryption=none&host=joss.gpj4.web.id&fp=chrome&type=ws&sni=joss.gpj4.web.id#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B9%20PT-1
