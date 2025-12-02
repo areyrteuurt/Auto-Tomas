@@ -1,6 +1,8 @@
 hysteria2://2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d@4e215c13-t48f40-tdh9w7-ahsb.hk1.hyhuawei.com:443?sni=4e215c13-t48f40-tdh9w7-ahsb.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://33629870-e57e-11ec-bb74-f23c9164ca5d@7ece7c19-t44ps0-th3q8a-1iyov.hk1.hyhuawei.com:443?sni=7ece7c19-t44ps0-th3q8a-1iyov.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://33629870-e57e-11ec-bb74-f23c9164ca5d@d753f91c-t4a9s0-th3q8a-1iyov.hk1.hyhuawei.com:443?sni=d753f91c-t4a9s0-th3q8a-1iyov.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
+hysteria2://3e3201b3-8d9a-4007-a7db-fcf00833e947@th.518181.xyz:55518?insecure=1&sni=ovo.1234567890spcloud.com#%F0%9F%87%B9%F0%9F%87%AD_TH_%E6%B3%B0%E5%9B%BD
+hysteria2://3e3201b3-8d9a-4007-a7db-fcf00833e947@tw.518181.xyz:55518?insecure=1&sni=ovo.1234567890spcloud.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 hysteria2://467f2940-77cd-11ee-b5ed-f23c9164ca5d@2185b8c5-t48f40-t6v6ki-1phla.hk1.hyhuawei.com:443?sni=2185b8c5-t48f40-t6v6ki-1phla.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://64617ed2-4823-11ef-9f2d-f23c9164ca5d@0bc36274-t48f40-tk30wc-eyem.hk1.hyhuawei.com:443?sni=0bc36274-t48f40-tk30wc-eyem.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com:443?sni=aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
