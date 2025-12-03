@@ -73,7 +73,6 @@ trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.1
 trojan://IVbaY8SreK4gCPp%23wB1dJ@91.247.164.140:21427?security=tls&sni=synapticsconce.invisiblesandwich.click&fp=chrome&type=tcp&headerType=none&host=synapticsconce.invisiblesandwich.click#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7%20TR-29
 trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?security=tls&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-26
 trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?security=tls&sni=hyfuuf6.wsone.icu#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-28
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?security=tls&sni=hyfuuf6.wsone.icu&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-27
 trojan://M7v%w11Se*@tttyder.wsone.icu:443?security=tls&sni=tttyder.wsone.icu#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-29
 trojan://M7v%w11Se*@tttyder.wsone.icu:443?security=tls&sni=tttyder.wsone.icu&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-26
 trojan://R_UGZWorVec%23sqyB@64.176.13.78:18010?security=tls&sni=ukmydxecn.jidxalgzyh.click&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B1%20CL-2
