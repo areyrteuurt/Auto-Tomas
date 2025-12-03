@@ -1,3 +1,5 @@
 trojan://z-H_x58nS%3DVUaw.o@216.238.94.42:19939?security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BD%20MX-2
 trojan://z-H_x58nS=VUaw.o@216.238.94.42:19939?security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BD%20MX-4
+trojan://z-H_x58nS=VUaw.o@216.238.94.42:19939?security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click&fp=chrome&type=tcp&path=%2f#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BD%20MX-5
+trojan://z-H_x58nS=VUaw.o@216.238.94.42:19939?security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click&path=%2f#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BD%20MX-6
 trojan://z-H_x58nS=VUaw.o@216.238.94.42:19939?type=tcp&security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click&fp=chrome&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BD%20MX-3

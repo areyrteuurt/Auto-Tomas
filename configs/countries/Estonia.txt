@@ -1,2 +1,0 @@
-trojan://e5e79b65-c5fd-4b06-8f56-6bf8c44a61d9@193.42.112.66:2053?host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F193.42.112.66%3D2053&security=tls&sni=joss.gpj4.web.id&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-2
-trojan://e5e79b65-c5fd-4b06-8f56-6bf8c44a61d9@193.42.112.66:2053?path=/Free-VPN-CF-Geo-Project/193.42.112.66=2053&security=tls&host=joss.gpj4.web.id&fp=chrome&type=ws&sni=joss.gpj4.web.id#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1
