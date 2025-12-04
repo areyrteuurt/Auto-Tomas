@@ -1,2 +1,0 @@
-ss://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&type=tcp&sni=discordapp.com&fp=chrome&flow=xtls-rprx-vision&sid=50c860b05993532d&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1
-vless://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&type=tcp&sni=discordapp.com&fp=chrome&flow=xtls-rprx-vision&sid=50c860b05993532d&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1
