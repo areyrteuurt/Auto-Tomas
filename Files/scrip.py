@@ -223,7 +223,7 @@ def save_to_file(directory, category_name, items_set):
         logging.error(f"Failed to write file {file_path}: {e}")
         return False, 0
 
-def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, github_repo_path="Eleven1985/Scrape-By-Country", github_branch="main"):
+def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, github_repo_path="areyrteuurt/Auto-Tomas", github_branch="main"):
     tz = pytz.timezone('Asia/Shanghai')
     now = datetime.now(tz)
     time_str = now.strftime("%H:%M")
