@@ -1,5 +1,4 @@
 ss://3b73f4dc-f616-4896-9fcf-dcb2de5af8a3@free2.tharuwa.store:80?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-34
-ss://69310d96-7045-c206-a2d0-f8ae6e49b726@172.86.83.44:42935?security=tls&type=ws&path=%2Fproxyip%3Dtw.sni2025.netlib.re&host=act12.sni565.netlib.re&alpn=h3&sni=act12.sni565.netlib.re&fp=random&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-37
 ss://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#%253E%253E%2540oneclickvpnkeys%3A%3ASG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.89.142.56:990#%253E%253E%2540OutlineVpnOfficial%3A%3ASG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGUnVvZ0wwTzNEYzVBMVhFMjI5MTRD@77.83.241.86:24014/?outline=1#Singapore🇸🇬🇸🇬
@@ -23,7 +22,6 @@ trojan://BxceQaOe@43.198.90.142:2673?sni=t.me/ripaojiedian#%F0%9F%87%B8%F0%9F%87
 trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293?security=tls&sni=zmbvgixwdqusy.advudjng.click&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-7
 trojan://aWgKDJmn2q.hv=51@139.180.143.191:10293?security=tls&sni=zmbvgixwdqusy.advudjng.click&type=tcp&headerType=none&path=%2f#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-27
 vless://3b73f4dc-f616-4896-9fcf-dcb2de5af8a3@free2.tharuwa.store:80?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-34
-vless://69310d96-7045-c206-a2d0-f8ae6e49b726@172.86.83.44:42935?security=tls&type=ws&path=%2Fproxyip%3Dtw.sni2025.netlib.re&host=act12.sni565.netlib.re&alpn=h3&sni=act12.sni565.netlib.re&fp=random&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-37
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#%253E%253E%2540oneclickvpnkeys%3A%3ASG
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%253E%253E%2540ShadowsocksM%3A%3ASG
 vless://b00ccd6a-894b-402f-af29-f480b6eda36d@9.sahanwickramasinghevip.shop:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=aka.ms#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-38
