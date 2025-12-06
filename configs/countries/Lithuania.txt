@@ -1,2 +1,1 @@
-ss://4aa980fb-b1f8-45ca-90d0-46ebeca227a0@5.199.170.22:22230?security=reality&type=tcp&sni=apple.com&fp=qq&flow=xtls-rprx-vision&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9%20LT-1
-vless://4aa980fb-b1f8-45ca-90d0-46ebeca227a0@5.199.170.22:22230?security=reality&type=tcp&sni=apple.com&fp=qq&flow=xtls-rprx-vision&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9%20LT-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw%3D%3D@45.12.136.170:443#%3E%3E%40DailyV2RY%3A%3ALT

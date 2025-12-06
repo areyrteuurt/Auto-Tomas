@@ -1,2 +1,0 @@
-ss://SayferVPN_784602_134494844@sb1.sayfer.tech:443?security=reality&encryption=none&pbk=KqFueUU8WsHt_PRDxcdygYGoQyGwIaKZRA7hUhxMdEc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=ff730c385102#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B8%20RS-1
-vless://SayferVPN_784602_134494844@sb1.sayfer.tech:443?security=reality&encryption=none&pbk=KqFueUU8WsHt_PRDxcdygYGoQyGwIaKZRA7hUhxMdEc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=ff730c385102#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B8%20RS-1
