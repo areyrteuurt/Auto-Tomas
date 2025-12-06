@@ -1,2 +1,0 @@
-ss://6a753f74-b279-44d7-a442-b5cbc425569f@ua.griffon-guard.com:8443?security=reality&type=tcp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-1
-vless://6a753f74-b279-44d7-a442-b5cbc425569f@ua.griffon-guard.com:8443?security=reality&type=tcp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-1

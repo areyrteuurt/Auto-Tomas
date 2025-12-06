@@ -3,4 +3,3 @@ trojan://z-H_x58nS=VUaw.o@216.238.94.42:19939?security=tls&sni=xuhyqrwofidgl.zwo
 trojan://z-H_x58nS=VUaw.o@216.238.94.42:19939?security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click&fp=chrome&type=tcp&path=%2f#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BD%20MX-5
 trojan://z-H_x58nS=VUaw.o@216.238.94.42:19939?security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click&path=%2f#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BD%20MX-6
 trojan://z-H_x58nS=VUaw.o@216.238.94.42:19939?type=tcp&security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click&fp=chrome&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BD%20MX-3
-vmess://eyJhZGQiOiIyMTYuMjM4Ljg5LjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFhNWFhZmMwLTY0ODItNDUxZC1mZTc2LTY4NzViNzgxODU3OSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTcyODMiLCJwcyI6Ij4+QG9uZWNsaWNrdnBua2V5czo6TVgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0

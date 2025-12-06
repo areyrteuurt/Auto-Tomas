@@ -1,5 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#%F0%9F%87%AE%F0%9F%87%B3India%20%2329682%20%2F%20OutlineKeys.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%3E%3E%40ShadowsocksM%3A%3AIN
-trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?security=tls&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-26
-trojan://M7v%w11Se*@tttyder.wsone.icu:443?security=tls&sni=tttyder.wsone.icu#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-29
-trojan://M7v%w11Se*@tttyder.wsone.icu:443?security=tls&sni=tttyder.wsone.icu&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-26
+vmess://eyJhZGQiOiJlYmMuem9vbS51cyIsImFpZCI6IjAiLCJmcCI6IiIsImhvc3QiOiJub2RlNC5ydHhjb25maWd6LmNvbSIsImlkIjoiNDRlNTc0ODUtZWNjYy00NmVmLTgwOGYtY2QxN2FjODEwMDE4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9ATWFsaW5kYTYxMDQiLCJwb3J0Ijo4NDQzLCJzY3kiOiJhdXRvIiwic25pIjoibm9kZTQucnR4Y29uZmlnei5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmM1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSU4iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
