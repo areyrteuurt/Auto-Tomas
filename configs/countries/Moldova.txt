@@ -1,0 +1,2 @@
+ss://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=%2Faymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#MD%F0%9F%87%B2%F0%9F%87%A9%40kia_Net
+vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=%2Faymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#MD%F0%9F%87%B2%F0%9F%87%A9%40kia_Net
