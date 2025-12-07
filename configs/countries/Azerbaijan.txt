@@ -1,0 +1,2 @@
+ss://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BF%20AZ-1
+vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BF%20AZ-1
