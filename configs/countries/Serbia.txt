@@ -1,0 +1,2 @@
+ss://SayferVPN_311950_399850197@45.15.160.183:443?security=reality&encryption=none&pbk=KqFueUU8WsHt_PRDxcdygYGoQyGwIaKZRA7hUhxMdEc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=ff730c385102#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B8%20RS-1
+vless://SayferVPN_311950_399850197@45.15.160.183:443?security=reality&encryption=none&pbk=KqFueUU8WsHt_PRDxcdygYGoQyGwIaKZRA7hUhxMdEc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=ff730c385102#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B8%20RS-1
