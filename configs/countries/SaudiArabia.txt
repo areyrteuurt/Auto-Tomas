@@ -1,0 +1,2 @@
+ss://e03b538a-91c9-4d3c-a2cb-8a6b1d8df54f@213.165.63.234:62728?security=reality&type=tcp&sni=yandex.ru&fp=chrome&sid=d8edfadb35ecdf00&pbk=ITde_Ktn7SlHLykmQ4vzVXLXZd0J7ZxuS3Oc4bNHFg8&encryption=none#%F0%9F%87%B8%F0%9F%87%A6_SA_%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF
+vless://e03b538a-91c9-4d3c-a2cb-8a6b1d8df54f@213.165.63.234:62728?security=reality&type=tcp&sni=yandex.ru&fp=chrome&sid=d8edfadb35ecdf00&pbk=ITde_Ktn7SlHLykmQ4vzVXLXZd0J7ZxuS3Oc4bNHFg8&encryption=none#%F0%9F%87%B8%F0%9F%87%A6_SA_%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF
