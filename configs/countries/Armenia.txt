@@ -1,0 +1,2 @@
+ss://c44d64d3-bc91-43ba-9d59-3a0906e7a2bd@91.132.132.109:8443?security=reality&encryption=none&pbk=wWi-AH24-O27OYXsaT390rLPZY9hqBRYuvBGIZ9vzkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2%20AM-1
+vless://c44d64d3-bc91-43ba-9d59-3a0906e7a2bd@91.132.132.109:8443?security=reality&encryption=none&pbk=wWi-AH24-O27OYXsaT390rLPZY9hqBRYuvBGIZ9vzkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2%20AM-1
