@@ -6,6 +6,8 @@ hysteria2://2d8c38cc-fc12-11ef-94aa-f23c913c8d2b@369741ab-t48f40-tbpu76-1thmd.hk
 hysteria2://33629870-e57e-11ec-bb74-f23c9164ca5d@d753f91c-t4a9s0-th3q8a-1iyov.hk1.hyhuawei.com:443?sni=d753f91c-t4a9s0-th3q8a-1iyov.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://34f0cf42-0f8a-11ec-a8bf-f23c91cfbbc9@21d94221-t6pb40-tdps9l-155d9.hk2.hyhuawei.com:443?sni=21d94221-t6pb40-tdps9l-155d9.hk2.hyhuawei.com&mport=30000-60000#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@11c6c1ec-t6r5s0-tdfzix-fm2v.hk2.hyhuawei.com:443?sni=11c6c1ec-t6r5s0-tdfzix-fm2v.hk2.hyhuawei.com&mport=30000-60000#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+hysteria2://40d572ec-7f67-11ed-bf1f-f23c913c8d2b@27ea0e8b-t6ngg0-t7x08i-1i87l.hk1.hyhuawei.com:443?sni=27ea0e8b-t6ngg0-t7x08i-1i87l.hk1.hyhuawei.com&mport=30000-60000#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+hysteria2://40e084d6-0316-11f0-90e2-f23c913c8d2b@ea74117f-t6ngg0-thd0h1-1rz5s.hk1.hyhuawei.com:443?insecure=1&sni=ea74117f-t6ngg0-thd0h1-1rz5s.hk1.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 hysteria2://467f2940-77cd-11ee-b5ed-f23c9164ca5d@2185b8c5-t48f40-t6v6ki-1phla.hk1.hyhuawei.com:443?sni=2185b8c5-t48f40-t6v6ki-1phla.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://48e51dfa-db8f-11ed-a23f-f23c91369f2d@21230cae-t6r5s0-tk4rx8-1n7d9.hk2.hyhuawei.com:443?sni=21230cae-t6r5s0-tk4rx8-1n7d9.hk2.hyhuawei.com&mport=30000-60000#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 hysteria2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@f92321f2-t6r5s0-t7vzvm-1j0a4.hk2.hyhuawei.com:443?sni=f92321f2-t6r5s0-t7vzvm-1j0a4.hk2.hyhuawei.com&mport=30000-60000#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
@@ -14,6 +16,7 @@ hysteria2://602e99aa-718d-11eb-b77b-f23c913c8d2b@89ac33ca-t6pb40-tbcla6-194tt.hk
 hysteria2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@7ae29732-t6t0g0-tkp3tl-1s09x.hk2.hyhuawei.com:443?sni=7ae29732-t6t0g0-tkp3tl-1s09x.hk2.hyhuawei.com&mport=30000-60000#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 hysteria2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@836370d5-t6r5s0-tkp3tl-1s09x.hk2.hyhuawei.com:443?sni=836370d5-t6r5s0-tkp3tl-1s09x.hk2.hyhuawei.com&mport=30000-60000#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 hysteria2://64617ed2-4823-11ef-9f2d-f23c9164ca5d@0bc36274-t48f40-tk30wc-eyem.hk1.hyhuawei.com:443?sni=0bc36274-t48f40-tk30wc-eyem.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
+hysteria2://676c67c6-5e73-11ee-9a79-f23c9164ca5d@fe12b722-t53wg0-tcp4th-1c4g6.hk1.hyhuawei.com:443?insecure=1&sni=fe12b722-t53wg0-tcp4th-1c4g6.hk1.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 hysteria2://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com:443?sni=aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@hk1.oomz.ru:50000?sni=bing.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@hk2.oomz.ru:50000?sni=bing.com&insecure=1#%E9%A6%99%E6%B8%AF
@@ -38,6 +41,7 @@ hysteria2://d6abdbda-fe9d-11ec-bb74-f23c9164ca5d@1efe8341-t6pb40-td95qh-1isea.hk
 hysteria2://de003c72-0157-11ef-86da-f23c91cfbbc9@407b0f79-t6r5s0-tm3dx0-1r9dt.hk2.hyhuawei.com:443?sni=407b0f79-t6r5s0-tm3dx0-1r9dt.hk2.hyhuawei.com&mport=30000-60000#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 hysteria2://dfb6b402-f422-11ef-80e5-f23c9164ca5d@a4509d29-t44ps0-tcsjnd-1tff5.hk1.hyhuawei.com:443?sni=a4509d29-t44ps0-tcsjnd-1tff5.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://dongtaiwang.com@163.172.21.105:5355?sni=www.bing.com&insecure=1#%E6%B3%95%E5%9B%BD
+hysteria2://dongtaiwang.com@195.154.206.231:33880?insecure=1&sni=apple.com#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 hysteria2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880?sni=apple.com&alpn=h3&insecure=1#Hysteria2%E8%8A%82%E7%82%B93-ipv6
 hysteria2://e168c43e-c6d9-11ed-a8bf-f23c91cfbbc9@29d44efc-t6pb40-tfeciy-1iddy.hk2.hyhuawei.com:443?sni=29d44efc-t6pb40-tfeciy-1iddy.hk2.hyhuawei.com&mport=30000-60000#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 hysteria2://e168c43e-c6d9-11ed-a8bf-f23c91cfbbc9@ca7ed722-t48f40-tfeciy-1iddy.hk1.hyhuawei.com:443?sni=ca7ed722-t48f40-tfeciy-1iddy.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
