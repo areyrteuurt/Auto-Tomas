@@ -1,0 +1,2 @@
+ss://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@185.155.96.155:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stats.vk-portal.net&allowInsecure=1&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1
+vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@185.155.96.155:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stats.vk-portal.net&allowInsecure=1&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1
