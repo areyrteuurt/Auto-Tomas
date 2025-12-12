@@ -1,0 +1,2 @@
+ss://47ab07bb-442b-453d-a418-759516aecb23@151.101.241.242:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-1
+vless://47ab07bb-442b-453d-a418-759516aecb23@151.101.241.242:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-1
