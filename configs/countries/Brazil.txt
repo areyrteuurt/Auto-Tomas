@@ -1,2 +1,4 @@
 ss://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://252b23d1-29cd-4835-be46-81c2999e2eec@bra2.hackkcah.xyz:3442?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc-notls-service#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-1
 vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://252b23d1-29cd-4835-be46-81c2999e2eec@bra2.hackkcah.xyz:3442?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc-notls-service#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-1

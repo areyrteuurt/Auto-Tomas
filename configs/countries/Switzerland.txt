@@ -1,4 +1,2 @@
-ss://3f5eba46-f9c9-4d49-985c-2a4345da4f5a@104.16.52.146:80?encryption=none&security=none&type=ws&host=billowing-recipe-c066-ppal03.kerocel835.workers.dev&path=/?ed=2560#✊🏻Ch:
-ss://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch:
-vless://3f5eba46-f9c9-4d49-985c-2a4345da4f5a@104.16.52.146:80?encryption=none&security=none&type=ws&host=billowing-recipe-c066-ppal03.kerocel835.workers.dev&path=/?ed=2560#✊🏻Ch:
-vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch:
+ss://d6b62381-8d75-4a0c-9946-bf8f40772afe@45.141.119.10:2443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-1
+vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@45.141.119.10:2443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-1

@@ -1,0 +1,2 @@
+ss://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465/?type=grpc&encryption=none&flow=&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&security=reality&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&sid=4c11446008#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1
+vless://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465/?type=grpc&encryption=none&flow=&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&security=reality&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&sid=4c11446008#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1
