@@ -1,0 +1,2 @@
+ss://b9c20ba9-da82-4082-a97a-977b4fbed67b@199.232.25.242:80?path=/&security=none&encryption=none&host=greencp3.global.ssl.fastly.net&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AA%20IE-1
+vless://b9c20ba9-da82-4082-a97a-977b4fbed67b@199.232.25.242:80?path=/&security=none&encryption=none&host=greencp3.global.ssl.fastly.net&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AA%20IE-1
