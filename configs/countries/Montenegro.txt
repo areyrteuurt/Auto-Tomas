@@ -1,8 +1,2 @@
-ss://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&allowInsecure=1&type=ws&path=/#t.me/v2Line
-ss://397cca10-b921-44ee-baf5-5ffa58ae03ba@clyde.ns.cloudflare.com:443?path=/ltyhduws&security=tls&encryption=none&host=639009270246638675.golf-amsiy.info&allowinsecure=0&type=ws&sni=639009270246638675.golf-amsiy.info#t.me/entryNET/config=1851199911088946
-ss://7f674fcd-fb20-4cae-b444-29eeb716e78a@185.234.59.89:443?security=reality&type=tcp&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=d3b13f31&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&encryption=none#[🇷🇺]t.me/ConfigsHub
-ss://ded39de0-6d5e-426b-90e8-b7dfeced29b2@62.113.42.65:42275/?type=tcp&encryption=none&flow=&sni=eh.vk.com&fp=chrome&security=reality&pbk=5Z8mktBAXgz88xCibv79NncelOS-3WAunfZNKnJRdUM&sid=08#t.me/entryNET/config=1851222561301219
-vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&allowInsecure=1&type=ws&path=/#t.me/v2Line
-vless://397cca10-b921-44ee-baf5-5ffa58ae03ba@clyde.ns.cloudflare.com:443?path=/ltyhduws&security=tls&encryption=none&host=639009270246638675.golf-amsiy.info&allowinsecure=0&type=ws&sni=639009270246638675.golf-amsiy.info#t.me/entryNET/config=1851199911088946
-vless://7f674fcd-fb20-4cae-b444-29eeb716e78a@185.234.59.89:443?security=reality&type=tcp&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=d3b13f31&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&encryption=none#[🇷🇺]t.me/ConfigsHub
-vless://ded39de0-6d5e-426b-90e8-b7dfeced29b2@62.113.42.65:42275/?type=tcp&encryption=none&flow=&sni=eh.vk.com&fp=chrome&security=reality&pbk=5Z8mktBAXgz88xCibv79NncelOS-3WAunfZNKnJRdUM&sid=08#t.me/entryNET/config=1851222561301219
+ss://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?path=/&security=&encryption=none&host=speedtest.net&type=ws#t.me/entryNET/config=1851318825988802
+vless://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?path=/&security=&encryption=none&host=speedtest.net&type=ws#t.me/entryNET/config=1851318825988802
