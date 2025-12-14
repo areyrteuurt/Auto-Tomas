@@ -1,2 +1,4 @@
 ss://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://50fbba8b-5854-4dd9-8003-5556aec1778a@1.pandaserver654.ir:3696?security=reality&type=tcp&sni=www.stackoverflow.com&fp=firefox&sid=33552dae47b33e54&pbk=Jsvqk8hSyL-JT5-sasABrFsbQmafOp-wMy85Y8Xm1T0&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-1
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://50fbba8b-5854-4dd9-8003-5556aec1778a@1.pandaserver654.ir:3696?security=reality&type=tcp&sni=www.stackoverflow.com&fp=firefox&sid=33552dae47b33e54&pbk=Jsvqk8hSyL-JT5-sasABrFsbQmafOp-wMy85Y8Xm1T0&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-1

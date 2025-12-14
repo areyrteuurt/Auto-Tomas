@@ -1,2 +1,8 @@
-ss://bf92bdef-ab8d-4481-8798-2d39023357b2@swiss.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=swiss.video.intfreed.ru&sid=7755e972daf8eec8#%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
-vless://bf92bdef-ab8d-4481-8798-2d39023357b2@swiss.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=swiss.video.intfreed.ru&sid=7755e972daf8eec8#%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
+ss://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch:
+ss://590dfbde-f8c8-429b-b947-39bb767ddd9c@172.64.92.243:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch:
+ss://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch:
+ss://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch:
+vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch:
+vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@172.64.92.243:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch:
+vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch:
+vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch:

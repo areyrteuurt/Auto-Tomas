@@ -1,2 +1,2 @@
-ss://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?path=/&security=&encryption=none&host=speedtest.net&type=ws#t.me/entryNET/config=1851318825988802
-vless://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?path=/&security=&encryption=none&host=speedtest.net&type=ws#t.me/entryNET/config=1851318825988802
+ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#[🇨🇦]t.me/ConfigsHub
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#[🇨🇦]t.me/ConfigsHub
