@@ -1,4 +1,6 @@
-ss://58b80215-7692-4cca-8da9-16e65fc28151@185.236.25.242:8443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=b88841a3&pbk=B7oEk3bsUoMrpkpIcTsCQnZour3qfbgUuhOk9aWWbFk&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
+ss://10c5cbd0-397a-4a65-b86b-3d63562580d9@tunnyl.ru:8443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=b88841a3&pbk=B7oEk3bsUoMrpkpIcTsCQnZour3qfbgUuhOk9aWWbFk&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
 ss://891aa116-105d-468c-8cbf-0919166137cf@betty.ns.cloudflare.com:443?path=%2Fsdxldyws&security=tls&encryption=none&host=639012600874811538.discovery-amsjc.info&type=ws&sni=639012600874811538.discovery-amsjc.info#Spain%20```
-vless://58b80215-7692-4cca-8da9-16e65fc28151@185.236.25.242:8443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=b88841a3&pbk=B7oEk3bsUoMrpkpIcTsCQnZour3qfbgUuhOk9aWWbFk&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
+trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F#%F0%9F%87%AA%F0%9F%87%B8%20_ES_%E8%A5%BF%E7%8F%AD%E7%89%99
+trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
+vless://10c5cbd0-397a-4a65-b86b-3d63562580d9@tunnyl.ru:8443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=b88841a3&pbk=B7oEk3bsUoMrpkpIcTsCQnZour3qfbgUuhOk9aWWbFk&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
 vless://891aa116-105d-468c-8cbf-0919166137cf@betty.ns.cloudflare.com:443?path=%2Fsdxldyws&security=tls&encryption=none&host=639012600874811538.discovery-amsjc.info&type=ws&sni=639012600874811538.discovery-amsjc.info#Spain%20```
