@@ -2,7 +2,7 @@ ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@liubu9.sin
 trojan://BxceQaOe@219.78.209.224:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 trojan://trojan@45.192.222.112:8443/?type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=store.timimi.dpdns.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 trojan://trojan@45.192.222.112:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#_CN_%E4%B8%AD%E5%9B%BD
-trojan://trojan@45.192.222.112:8443?sni=store.timimi.dpdns.org#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD2
+trojan://trojan@45.192.222.112:8443?sni=store.timimi.dpdns.org#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD3
 vmess://ewogICAgImFkZCI6ICIxNC4xNy43MS4yMzciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbWcxNC4zNjBidXlpbWcuY29tIiwKICAgICJpZCI6ICI4MjUzOWViNy0xOGM4LTQ4ZDAtYmI5Yy01NWQxYjZlNDdmNTkiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvb2JqIiwKICAgICJwb3J0IjogNDEzMTksCiAgICAicHMiOiAi8J+HqPCfh7NDTi0xNC4xNy43MS4yMzctMjg4MiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTJkXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICJ2MzAuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MzAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInYzMC5oZGFjZC5jb20iLCAidGxzIjogIiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5Lit5Zu9IOmYv+mHjOS6kSIsImFkZCI6IjguMjE4LjExNi4yNiIsInBvcnQiOiIzMjIyOCIsInR5cGUiOiJub25lIiwiaWQiOiJlNDc2N2U5Zi1lZDAwLTRmMzEtYTk4NC1hOTE4YmRkOWIwOWMiLCJhaWQiOiIwIiwibmV0Ijoibm9uZSIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
