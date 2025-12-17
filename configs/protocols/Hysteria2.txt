@@ -3,6 +3,7 @@ hysteria2://33629870-e57e-11ec-bb74-f23c9164ca5d@d753f91c-t4a9s0-th3q8a-1iyov.hk
 hysteria2://467f2940-77cd-11ee-b5ed-f23c9164ca5d@2185b8c5-t48f40-t6v6ki-1phla.hk1.hyhuawei.com:443?sni=2185b8c5-t48f40-t6v6ki-1phla.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://64617ed2-4823-11ef-9f2d-f23c9164ca5d@0bc36274-t48f40-tk30wc-eyem.hk1.hyhuawei.com:443?sni=0bc36274-t48f40-tk30wc-eyem.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com:443?sni=aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com&insecure=1#%E9%A6%99%E6%B8%AF
+hysteria2://7a88d322-eb4a-4a59-8c62-8c60d76abf4b@161.33.185.230:28253?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@hk1.oomz.ru:50000?sni=bing.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@hk2.oomz.ru:50000?sni=bing.com&insecure=1#%E9%A6%99%E6%B8%AF
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@sg3.oomz.ru:30000?sni=bing.com&insecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1
