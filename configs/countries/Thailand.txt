@@ -1,2 +1,3 @@
 ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?path=%2F&security=&encryption=none&host=t.me%2Fv2Line&type=ws#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%AD%20TH-1
 vless://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?path=%2F&security=&encryption=none&host=t.me%2Fv2Line&type=ws#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%AD%20TH-1
+vmess://eyJ2IjpudWxsLCJwcyI6IltPcGVuUmF5XSDwn4e58J+HrSBUSC0yIiwiYWRkIjoiNDcuODEuMzMuMTgzIiwicG9ydCI6NDQzLCJpZCI6ImNkNjZlZWVhLTY0M2YtNDgyNi1hNGYzLTBkMmY1N2E1YWQwNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibjE3NDkwMzI5MTcua3p4ZHMuY24iLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6Im4xNzQ5MDMyOTE3Lmt6eGRzLmNuIiwiZnAiOm51bGwsIm5hbWUiOiLwn4e58J+HrSBUSCAxIn0=

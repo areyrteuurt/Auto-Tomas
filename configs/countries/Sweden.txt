@@ -8,6 +8,7 @@ trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=tcp&security=tls&sni=softpill
 trojan://tRxkV-KcTuypP%3D8Yj6Bgd@70.34.220.34:25599/?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-2643
 trojan://tRxkV-KcTuypP=8Yj6Bgd@70.34.220.34:25599?security=tls&sni=cryptographiccupcake.silentrocket.click#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-2647
 trojan://tRxkV-KcTuypP=8Yj6Bgd@70.34.220.34:25599?security=tls&sni=cryptographiccupcake.silentrocket.click&path=%2f#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-2649
+trojan://tRxkV-KcTuypP=8Yj6Bgd@70.34.220.34:25599?security=tls&sni=cryptographiccupcake.silentrocket.click&type=tcp&path=%2f#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-2656
 trojan://tRxkV-KcTuypP=8Yj6Bgd@70.34.220.34:25599?type=raw&headerType=none&security=tls&fp=chrome&sni=cryptographiccupcake.silentrocket.click#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-2655
 vless://Bia---v2rayNGcloud---@194.104.94.7:443?mode=gun&security=reality&encryption=none&pbk=vo3IPWJCrDQ3fnrQ8zzh40xRM2vy-9w30UuiHLjZbn4&fp=firefox&type=grpc&serviceName=-@v2rayNGcloud--@v2rayNGcloud--@v2rayNGcloud--@v2rayNGcloud--@v2rayNGcloud--&sni=docker.com#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-2654
 vless://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden

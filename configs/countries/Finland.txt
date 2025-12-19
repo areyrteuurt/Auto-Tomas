@@ -1,4 +1,5 @@
 ss://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#%F0%9F%87%AB%F0%9F%87%AE_FI_%E8%8A%AC%E5%85%B0
 ss://aee540f8-fb73-4ee7-98f9-125d4d1d41ff@fi5.tunnely.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi5.tunnely.ru&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-5
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 vless://aee540f8-fb73-4ee7-98f9-125d4d1d41ff@fi5.tunnely.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi5.tunnely.ru&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-5
