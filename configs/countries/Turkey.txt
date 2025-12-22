@@ -1,4 +1,3 @@
-trojan://BxceQaOe@219.79.214.159:443?allowInsecure=1&sni=t.me%2Fripaojiedian#TR%20TROJAN-90%20%7C%20free-nodes
 trojan://BxceQaOe@58.152.26.107:443?sni=t.me%252Fripaojiedian#TR%20TROJAN-27%20%7C%20free-nodes
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#TR%20TROJAN-58%20%7C%20free-nodes
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#TR%20TROJAN-05%20%7C%20free-nodes

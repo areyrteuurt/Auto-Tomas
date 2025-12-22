@@ -1,5 +1,0 @@
-trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?path=%2F&security=tls&sni=quietplace.lazymountain.click#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B1%20CL-6
-trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?security=tls&sni=quietplace.lazymountain.click#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B1%20CL-3
-trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?security=tls&sni=quietplace.lazymountain.click&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B1%20CL-1
-trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?type=raw&headerType=none&security=tls&sni=quietplace.lazymountain.click#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B1%20CL-4
-trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?type=tcp&security=tls&sni=quietplace.lazymountain.click&fp=chrome&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B1%20CL-7

@@ -1,2 +1,0 @@
-ss://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&type=tcp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BF%20AZ-1
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&type=tcp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BF%20AZ-1
