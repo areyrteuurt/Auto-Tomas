@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
+trojan://249454d267254a52ab3c8b7906bc12ab@176.125.240.167:9443?security=reality&sni=apple.com&pbk=mvXhdnqrOTuyX9K9Hm7632OJCFGdFwkBpw56X-aKn20&sid=aabbccdd&type=tcp&fp=random#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%A9%20MD-1
