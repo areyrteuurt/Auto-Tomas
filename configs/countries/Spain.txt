@@ -1,0 +1,2 @@
+ss://fef9d39c-fb20-4921-8eb5-1e80806a18cd@tunnyl.ru:8443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=b88841a3&pbk=B7oEk3bsUoMrpkpIcTsCQnZour3qfbgUuhOk9aWWbFk&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
+vless://fef9d39c-fb20-4921-8eb5-1e80806a18cd@tunnyl.ru:8443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=b88841a3&pbk=B7oEk3bsUoMrpkpIcTsCQnZour3qfbgUuhOk9aWWbFk&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
