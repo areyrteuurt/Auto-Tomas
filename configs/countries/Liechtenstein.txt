@@ -1,4 +1,2 @@
 ss://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#%F0%9F%87%B1%F0%9F%87%AE%20Liechtenstein%20%F0%9F%94%A5
-ss://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=v1bsy2b9q5-451516735-direct.bahame.co&alpn=h2,http/1.1&fp=chrome&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%AE%20LI-1
 vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#%F0%9F%87%B1%F0%9F%87%AE%20Liechtenstein%20%F0%9F%94%A5
-vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=v1bsy2b9q5-451516735-direct.bahame.co&alpn=h2,http/1.1&fp=chrome&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%AE%20LI-1
