@@ -1,2 +1,0 @@
-ss://a48ac360-6114-a334-d678-6c267114e106@103.175.79.10:993?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0%20PK-1
-vless://a48ac360-6114-a334-d678-6c267114e106@103.175.79.10:993?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0%20PK-1

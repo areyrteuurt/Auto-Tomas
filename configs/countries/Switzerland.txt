@@ -1,2 +1,0 @@
-ss://c42e4667-ca09-4769-b544-89a8da730daf@ch3.tunnely.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ch3.tunnely.ru&fp=chrome&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-1
-vless://c42e4667-ca09-4769-b544-89a8da730daf@ch3.tunnely.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ch3.tunnely.ru&fp=chrome&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-1
