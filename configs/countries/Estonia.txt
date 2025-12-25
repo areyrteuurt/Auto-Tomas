@@ -1,2 +1,0 @@
-ss://ac47c90c-fef0-40f4-a335-ca11efa2d96b@144.31.178.137:1080?security=reality&type=tcp&sni=api.avito.ru&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1
-vless://ac47c90c-fef0-40f4-a335-ca11efa2d96b@144.31.178.137:1080?security=reality&type=tcp&sni=api.avito.ru&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1
