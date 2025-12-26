@@ -1,2 +1,0 @@
-ss://9e894e86-cdae-4894-b39a-246a59c89448@31.57.56.213:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AA%20IE-1
-vless://9e894e86-cdae-4894-b39a-246a59c89448@31.57.56.213:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AA%20IE-1
