@@ -1,2 +1,0 @@
-ss://68897862-05f8-40cf-bf4b-a176d185547e@tunnyl.ru:443?security=reality&encryption=none&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&headerType=&fp=random&spx=%2F&type=tcp&sni=google.com&sid=0f1d6a#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
-vless://68897862-05f8-40cf-bf4b-a176d185547e@tunnyl.ru:443?security=reality&encryption=none&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&headerType=&fp=random&spx=%2F&type=tcp&sni=google.com&sid=0f1d6a#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1

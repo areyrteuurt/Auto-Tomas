@@ -1,2 +1,0 @@
-ss://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.49:443?&security=tls&fp=chrome&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws&headerType=none&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2FTelegram%3A%40AZARBAYJAB1%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-1
-vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.49:443?&security=tls&fp=chrome&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws&headerType=none&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2FTelegram%3A%40AZARBAYJAB1%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-1
