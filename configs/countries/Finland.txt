@@ -1,8 +1,6 @@
-ss://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-13
+ss://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-15
 ss://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443?type=tcp&security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&fp=chrome&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-12
 ss://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://fd0f42af-ab70-4959-b906-ec292d6964b2@hield.ru:3389?type=tcp&encryption=none&security=reality&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&fp=ios&sni=google.com&sid=0274c94d298e&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-14
-vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-13
+vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-15
 vless://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443?type=tcp&security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&fp=chrome&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-12
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://fd0f42af-ab70-4959-b906-ec292d6964b2@hield.ru:3389?type=tcp&encryption=none&security=reality&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&fp=ios&sni=google.com&sid=0274c94d298e&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-14

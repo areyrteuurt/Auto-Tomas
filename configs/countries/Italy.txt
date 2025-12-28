@@ -1,2 +1,0 @@
-ss://7db2fbe9-b42a-4435-b823-2b0b52cbe753@84.17.58.152:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-2
-vless://7db2fbe9-b42a-4435-b823-2b0b52cbe753@84.17.58.152:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-2
