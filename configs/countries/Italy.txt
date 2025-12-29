@@ -1,0 +1,2 @@
+ss://8e2cc81d-7ac4-4352-a7b5-bbfcfa81e49e@185.248.144.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-1
+vless://8e2cc81d-7ac4-4352-a7b5-bbfcfa81e49e@185.248.144.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-1
