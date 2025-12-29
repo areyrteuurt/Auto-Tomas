@@ -1,8 +1,1 @@
-trojan://15b641c6-9abf-456b-8441-8662f5ab99c7@green2.cdntencentmusic.com:35502?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
-trojan://3d7d3041-275b-4238-a7ed-faa24700c204@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE3
-trojan://404a16fa-9eb0-42ed-8f18-65eba7202f05@green2.cdntencentmusic.com:35501?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE5
-trojan://5a2c16f9@104.17.162.3:443?sni=snippets.kkii.eu.org#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE6
-trojan://5a2c16f9@172.64.229.83:443?sni=snippets.kkii.eu.org#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE7
-trojan://87a0f7a0-4733-45a6-92b2-9a689fb4f354@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
-trojan://913d0c8a-1c21-4fe2-9ce3-1d98f0db12e0@green2.cdntencentmusic.com:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
-trojan://913d0c8a-1c21-4fe2-9ce3-1d98f0db12e0@green2.cdntencentmusic.com:31102?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE4
+trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?security=tls&sni=snippets.kkii.eu.org&insecure=0&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F#%E5%8F%B0%E6%B9%BE%E8%8A%82%E7%82%B9
