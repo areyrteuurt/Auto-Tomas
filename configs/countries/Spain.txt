@@ -1,2 +1,1 @@
-ss://23d94ce7-81fe-4a37-935d-0fa980485c51@nl1.jugploer.icu:443?&security=reality&flow=xtls-rprx-vision&pbk=do5W1A_cUiSkYzmQK1xCcky0LZEU6UQh9eSnz-LyJ0o&fp=chrome&sni=nl1.jugploer.icu&type=tcp&headerType=none&host=nl1.jugploer.icu&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
-vless://23d94ce7-81fe-4a37-935d-0fa980485c51@nl1.jugploer.icu:443?&security=reality&flow=xtls-rprx-vision&pbk=do5W1A_cUiSkYzmQK1xCcky0LZEU6UQh9eSnz-LyJ0o&fp=chrome&sni=nl1.jugploer.icu&type=tcp&headerType=none&host=nl1.jugploer.icu&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
+trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&path=%2F#%E8%A5%BF%E7%8F%AD%E7%89%99
