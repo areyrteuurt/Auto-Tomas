@@ -1,1 +1,2 @@
-trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&path=%2F#%E8%A5%BF%E7%8F%AD%E7%89%99
+ss://705ca378-8940-44ac-8887-bd706007106b@tunnyl.ru:443?security=reality&type=tcp&sni=google.com&fp=random&sid=0f1d6a&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
+vless://705ca378-8940-44ac-8887-bd706007106b@tunnyl.ru:443?security=reality&type=tcp&sni=google.com&fp=random&sid=0f1d6a&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
