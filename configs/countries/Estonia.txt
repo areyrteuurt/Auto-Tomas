@@ -1,0 +1,2 @@
+ss://e9bb4797-555e-45dc-9495-d5702739b837@216.144.231.93:8443?security=reality&type=tcp&sni=ign.com&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1
+vless://e9bb4797-555e-45dc-9495-d5702739b837@216.144.231.93:8443?security=reality&type=tcp&sni=ign.com&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1
