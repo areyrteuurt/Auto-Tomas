@@ -1,13 +1,9 @@
-ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#@IRAN_V2RAY1
-ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#@IRAN_V2RAY1
+ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#@IRAN_V2RAY1
 ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#All--@IRAN_V2RAY1
 ss://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?path=/db10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&fp=chrome&type=ws&sni=dabaius2.sylu.net#@IRAN_V2RAY1
 ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#%E4%BC%8A%E6%9C%97
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97
-ss://turboo-server@85.133.206.34:6200?path=/ed=2560&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-1
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#@IRAN_V2RAY1
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#@IRAN_V2RAY1
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#@IRAN_V2RAY1
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#All--@IRAN_V2RAY1
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?path=/db10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&fp=chrome&type=ws&sni=dabaius2.sylu.net#@IRAN_V2RAY1
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#%E4%BC%8A%E6%9C%97
-vless://turboo-server@85.133.206.34:6200?path=/ed=2560&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-1

@@ -1,0 +1,2 @@
+ss://e5866002-8f9d-421d-8a10-bfcc76026aaa@s9.tapsi.ovh:2974/?type=ws&encryption=none&flow=&host=skyroom.online,gharar.ir,igap.net&path=/#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BF%20AZ-1
+vless://e5866002-8f9d-421d-8a10-bfcc76026aaa@s9.tapsi.ovh:2974/?type=ws&encryption=none&flow=&host=skyroom.online,gharar.ir,igap.net&path=/#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BF%20AZ-1

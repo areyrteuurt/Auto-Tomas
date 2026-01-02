@@ -1,2 +1,0 @@
-ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.36.0:2083?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=tls&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇺🇲TM
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.36.0:2083?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=tls&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇺🇲TM
