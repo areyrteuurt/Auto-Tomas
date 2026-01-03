@@ -1,2 +1,0 @@
-ss://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BF%20AZ-1
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BF%20AZ-1

@@ -1,6 +1,6 @@
-ss://51209cce-e3f4-4237-a157-d75b83fcdd66@145.239.31.99:7005?security=reality&encryption=none&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-85
-ss://717ad7ec-7e9c-4ec4-aaaf-489a0a3ff3d6@pl1.vpnreal.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=xUBjC2vNXBrDnJ3rVvQl2CYPvugp3VeVC5NN9ukRojU&sid=e3ebde1f3c9c2b7c#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-79
+ss://695620b8-7429-78d5-5813-98b65c1c63f4@95.40.61.115:443?encryption=none&security=tls&sni=soos.frii.site&type=ws&host=soos.frii.site&path=%2Fproxyip%3Dsjc.o00o.ooo#PL%E6%B3%A2%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 ss://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?encryption=none&flow=xtls-rprx-vision&security=reality&sni=modily.net&fp=firefox&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&sid=8c01e365&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-83
+ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.101:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-86
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.108:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-7
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.109:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-49
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.114:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-27
@@ -17,8 +17,11 @@ ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.14:8880/?type=ws&encryptio
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.150:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-25
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.155:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-55
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.15:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-53
+ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.162:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-87
+ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.166:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-90
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.169:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-56
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.171:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-67
+ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.175:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-89
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.189:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-52
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.191:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-70
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.193:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-73
@@ -26,6 +29,7 @@ ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.195:8880/?type=ws&encrypti
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.203:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-26
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.206:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-16
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.213:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-21
+ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.214:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-88
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.220:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-72
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.222:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-18
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.223:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-10
@@ -56,9 +60,9 @@ ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.82:8880/?type=ws&encryptio
 ss://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.83:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-40
 ss://908e8778-5dbe-4f58-bb4b-5fe39e149ad1@5.189.221.162:8443?path=%2F&security=tls&encryption=none&host=p52ll.qwepsvip.top&fp=chrome&type=ws&sni=p52ll.qwepsvip.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%202
 ss://fe21e399-ec6f-4cb5-8441-e911178665b1@185.136.132.171:24170?security=reality&encryption=none&pbk=VsmNi1ZMXVOwhCWpbCp51w-D_DzrxWX4jgfpcU0S9G4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=speedtest.net&sid=2fb2106a629b#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
-vless://51209cce-e3f4-4237-a157-d75b83fcdd66@145.239.31.99:7005?security=reality&encryption=none&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-85
-vless://717ad7ec-7e9c-4ec4-aaaf-489a0a3ff3d6@pl1.vpnreal.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=xUBjC2vNXBrDnJ3rVvQl2CYPvugp3VeVC5NN9ukRojU&sid=e3ebde1f3c9c2b7c#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-79
+vless://695620b8-7429-78d5-5813-98b65c1c63f4@95.40.61.115:443?encryption=none&security=tls&sni=soos.frii.site&type=ws&host=soos.frii.site&path=%2Fproxyip%3Dsjc.o00o.ooo#PL%E6%B3%A2%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?encryption=none&flow=xtls-rprx-vision&security=reality&sni=modily.net&fp=firefox&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&sid=8c01e365&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-83
+vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.101:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-86
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.108:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-7
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.109:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-49
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.114:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-27
@@ -75,8 +79,11 @@ vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.14:8880/?type=ws&encryp
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.150:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-25
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.155:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-55
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.15:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-53
+vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.162:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-87
+vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.166:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-90
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.169:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-56
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.171:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-67
+vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.175:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-89
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.189:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-52
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.191:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-70
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.193:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-73
@@ -84,6 +91,7 @@ vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.195:8880/?type=ws&encry
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.203:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-26
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.206:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-16
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.213:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-21
+vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.214:8880?host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-88
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.220:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-72
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.222:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-18
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.223:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-10

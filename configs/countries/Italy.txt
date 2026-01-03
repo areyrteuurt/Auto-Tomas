@@ -1,2 +1,0 @@
-ss://turboo-server@server.ultra-irancell.com:80?security=none&type=ws&path=%2Fed%3D2560&host=turboo-server.io&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-2
-vless://turboo-server@server.ultra-irancell.com:80?security=none&type=ws&path=%2Fed%3D2560&host=turboo-server.io&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-2
