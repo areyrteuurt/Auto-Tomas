@@ -1,3 +1,1 @@
-ss://aaeddbf5-a9df-4931-b231-08909eed7501@p1anel.lormarb.ir:53762?type=ws&encryption=none&path=/&host=&security=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
 trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&path=%2F#%E8%A5%BF%E7%8F%AD%E7%89%99
-vless://aaeddbf5-a9df-4931-b231-08909eed7501@p1anel.lormarb.ir:53762?type=ws&encryption=none&path=/&host=&security=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1

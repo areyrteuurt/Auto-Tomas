@@ -1,6 +1,2 @@
-ss://2f30aa44-c87c-e73d-a715-0813c68ee9b2@italy.ipirjshs.dai.is.vtuix.ir:7676?path=%2F&security=&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-3
-ss://b81c61f9-51d5-48a4-84a6-1715f41d89fb@ita01-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-1
 ss://turboo-server@server.ultra-irancell.com:80?security=none&type=ws&path=%2Fed%3D2560&host=turboo-server.io&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-2
-vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@italy.ipirjshs.dai.is.vtuix.ir:7676?path=%2F&security=&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-3
-vless://b81c61f9-51d5-48a4-84a6-1715f41d89fb@ita01-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-1
 vless://turboo-server@server.ultra-irancell.com:80?security=none&type=ws&path=%2Fed%3D2560&host=turboo-server.io&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-2
