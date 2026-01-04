@@ -1,2 +1,3 @@
+trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=raw&headerType=none&security=tls&sni=tttyder.wsone.icu#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-3
 trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042/?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-1
 trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?type=raw&headerType=none&security=tls&sni=www.fuzzyfeelergauge.click#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-2

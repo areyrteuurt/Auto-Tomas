@@ -1,2 +1,4 @@
+ss://08c7f096-d057-4d53-82fd-c739d372887b@83.228.226.116:3470?path=%2F%3Fed%3D2048&security=none&encryption=none&host=skyroom.online&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-2
 ss://e500b0a1-dffa-4983-9217-484913715071@144.31.216.16:444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=chrome&pbk=wMbKwMppoyj--v07kQdzy73hrnQ2MaM_WfVf4zVqJko&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-1
+vless://08c7f096-d057-4d53-82fd-c739d372887b@83.228.226.116:3470?path=%2F%3Fed%3D2048&security=none&encryption=none&host=skyroom.online&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-2
 vless://e500b0a1-dffa-4983-9217-484913715071@144.31.216.16:444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=chrome&pbk=wMbKwMppoyj--v07kQdzy73hrnQ2MaM_WfVf4zVqJko&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-1
