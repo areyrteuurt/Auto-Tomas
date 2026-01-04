@@ -1,2 +1,0 @@
-ss://d4e9f2a2-0703-44b4-baf8-7092b17618ea@uae.stealthmode.space:8744?encryption=none&type=ws&headerType=none&path=%2FNama%3Fed%3D2048#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-1
-vless://d4e9f2a2-0703-44b4-baf8-7092b17618ea@uae.stealthmode.space:8744?encryption=none&type=ws&headerType=none&path=%2FNama%3Fed%3D2048#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-1
