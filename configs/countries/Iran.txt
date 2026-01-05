@@ -1,8 +1,8 @@
+ss://056d677f-00ed-47ec-bbda-fcc8d1d1284f@45.94.213.139:4040?security=none&type=tcp&headerType=&path=&host=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYjdjMXlza0dlV0YzcXNsMlozWnRo@217.60.63.96:443#%E4%BC%8A%E6%9C%97
 ss://d4e9f2a2-0703-44b4-baf8-7092b17618ea@uae.stealthmode.space:8744?encryption=none&type=ws&headerType=none&path=%2FNama%3Fed%3D2048#%F0%9F%87%AE%F0%9F%87%B7%20IR%20-%20%F0%9F%87%A6%F0%9F%87%AA%20AE%20%5B%E2%85%93%20%D8%A8%D9%87%D8%A7%5D
 ss://da616dac-b2a0-4cd5-b647-579f10bb5501@s1.tun.fin.cloudnsas.ir:443?encryption=none&security=none&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97
-ss://e63533ef-a440-4668-88b5-f0a3ec40e852@45.131.4.11:80?path=/3ojVvmilz7JGgBxe3V&security=none&encryption=none&host=plain-cake-5553.stock-slick-yonder.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-4
+vless://056d677f-00ed-47ec-bbda-fcc8d1d1284f@45.94.213.139:4040?security=none&type=tcp&headerType=&path=&host=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-1
 vless://d4e9f2a2-0703-44b4-baf8-7092b17618ea@uae.stealthmode.space:8744?encryption=none&type=ws&headerType=none&path=%2FNama%3Fed%3D2048#%F0%9F%87%AE%F0%9F%87%B7%20IR%20-%20%F0%9F%87%A6%F0%9F%87%AA%20AE%20%5B%E2%85%93%20%D8%A8%D9%87%D8%A7%5D
 vless://da616dac-b2a0-4cd5-b647-579f10bb5501@s1.tun.fin.cloudnsas.ir:443?encryption=none&security=none&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97
-vless://e63533ef-a440-4668-88b5-f0a3ec40e852@45.131.4.11:80?path=/3ojVvmilz7JGgBxe3V&security=none&encryption=none&host=plain-cake-5553.stock-slick-yonder.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-4

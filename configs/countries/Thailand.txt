@@ -1,1 +1,1 @@
-trojan://pUF+zmIw0QuRESBPLofx7eOj6Xc49@38.54.82.205:27877/?type=tcp&security=tls&sni=www.metaphysicalmagnet.click#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%AD%20TH-1
+trojan://pUF+zmIw0QuRESBPLofx7eOj6Xc49@38.54.82.205:27877?security=tls&sni=www.metaphysicalmagnet.click#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%AD%20TH-2

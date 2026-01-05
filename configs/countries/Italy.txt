@@ -1,0 +1,2 @@
+ss://056d677f-00ed-47ec-bbda-fcc8d1d1284f@it.armanstore2.sbs:7044?security=tls&type=ws&headerType=&path=/@armanstore2----@armanstore2----@armanstore2----@armanstore2&host=telewebion.com&sni=marzban852.kharmanblackchurchcat.com&fp=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-1
+vless://056d677f-00ed-47ec-bbda-fcc8d1d1284f@it.armanstore2.sbs:7044?security=tls&type=ws&headerType=&path=/@armanstore2----@armanstore2----@armanstore2----@armanstore2&host=telewebion.com&sni=marzban852.kharmanblackchurchcat.com&fp=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-1

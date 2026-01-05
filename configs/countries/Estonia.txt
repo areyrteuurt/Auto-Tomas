@@ -1,2 +1,0 @@
-ss://e9dbc178-3656-40f8-8833-5023f306ef1d@185.155.96.155:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stats.vk-portal.net&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1
-vless://e9dbc178-3656-40f8-8833-5023f306ef1d@185.155.96.155:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stats.vk-portal.net&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-1

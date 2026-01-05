@@ -1,3 +1,0 @@
-ss://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80/?type=ws&encryption=none&host=ov-canada1.09vpn.com&path=%2Fvless%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-1
-trojan://c2aac3ed49d245fa82d19b8ca425e8aa@45.12.109.195:9443?security=reality&sni=apple.com&pbk=fxliAsoyHnNvF2cMQs8UI2_76R955n7aAGX9bqm1zx0&sid=aabbccdd&type=tcp&fp=random#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-2
-vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80/?type=ws&encryption=none&host=ov-canada1.09vpn.com&path=%2Fvless%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-1
