@@ -1,0 +1,2 @@
+ss://3b259973-5f12-4fa8-8f2a-edb61e4b9258@141.227.134.105:7005?security=reality&encryption=none&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-1
+vless://3b259973-5f12-4fa8-8f2a-edb61e4b9258@141.227.134.105:7005?security=reality&encryption=none&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-1
