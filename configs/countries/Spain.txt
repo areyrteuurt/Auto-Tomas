@@ -1,3 +1,5 @@
-ss://0c762c58-708f-4609-aea2-a21a31883183@subscription.lormarb.ir:53762?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-6
+ss://3eb830aa-18a4-4f1e-81fa-0a40a0493b08@subscription.lormarb.ir:53762?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-8
+ss://bde6fd83-36fa-43dd-a275-73a49a501785@subscription.lormarb.ir:53762?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-7
 trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&path=%2F#%E8%A5%BF%E7%8F%AD%E7%89%99
-vless://0c762c58-708f-4609-aea2-a21a31883183@subscription.lormarb.ir:53762?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-6
+vless://3eb830aa-18a4-4f1e-81fa-0a40a0493b08@subscription.lormarb.ir:53762?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-8
+vless://bde6fd83-36fa-43dd-a275-73a49a501785@subscription.lormarb.ir:53762?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-7
