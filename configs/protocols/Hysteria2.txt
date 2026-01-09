@@ -1,1 +1,1 @@
-hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?sni=dd.ircybersec.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1#%E7%91%9E%E5%85%B8
+hysteria2://dongtaiwang.com@89.144.35.25:33550?sni=apple.com&alpn=h3&insecure=1#Hysteria2%E8%8A%82%E7%82%B93

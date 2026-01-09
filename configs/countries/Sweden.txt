@@ -1,4 +1,3 @@
-hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?sni=dd.ircybersec.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1#%E7%91%9E%E5%85%B8
 ss://772d810c-4886-4475-81b2-2673b682c778@77.91.84.103:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=HLFSR9-jdtfNAwTx3Sf5JKR4cuuhZqUcOlzjPzIsvXQ&sni=google.com&sid=9cb177f23e2edd#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-5
 ss://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
 ss://d73a9db0-24b5-4592-8ff0-4f0b5329b39f@se.locations-service.com:3039?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-7

@@ -1,8 +1,7 @@
 ss://087d8602-503b-4091-9f05-44c20792083c@185.143.233.235:80?path=%2F&security=none&encryption=none&host=oon.visaups.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-25
-ss://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=8j3f7HD37h.PaGES.dEV#IR--%40V2rayAlpha-18
+ss://087d8602-503b-4091-9f05-44c20792083c@185.143.234.235:80?host=oon.visaups.ir&path=%2F&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-28
+ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@CDN.TORPROSPEED.IR:2082?path=%2F%3Fed%3D2048&security=&encryption=none&host=FINLAND.SODOGODPING.IR&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYjdjMXlza0dlV0YzcXNsMlozWnRo@217.60.63.96:443#%E4%BC%8A%E6%9C%97
-ss://da616dac-b2a0-4cd5-b647-579f10bb5501@s1.tun.fin.cloudnsas.ir:443?encryption=none&security=none&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97
 vless://087d8602-503b-4091-9f05-44c20792083c@185.143.233.235:80?path=%2F&security=none&encryption=none&host=oon.visaups.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-25
-vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=8j3f7HD37h.PaGES.dEV#IR--%40V2rayAlpha-18
-vless://da616dac-b2a0-4cd5-b647-579f10bb5501@s1.tun.fin.cloudnsas.ir:443?encryption=none&security=none&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97
+vless://087d8602-503b-4091-9f05-44c20792083c@185.143.234.235:80?host=oon.visaups.ir&path=%2F&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-28
+vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@CDN.TORPROSPEED.IR:2082?path=%2F%3Fed%3D2048&security=&encryption=none&host=FINLAND.SODOGODPING.IR&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-27
