@@ -1,2 +1,0 @@
-ss://854eea7a-c834-4f62-9e17-ae63d1086f36@ro1.instavpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=tradingview.com&sid=868419504747f6de#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B4%20RO-3
-vless://854eea7a-c834-4f62-9e17-ae63d1086f36@ro1.instavpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=tradingview.com&sid=868419504747f6de#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B4%20RO-3

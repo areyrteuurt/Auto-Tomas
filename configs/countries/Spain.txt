@@ -1,7 +1,7 @@
-ss://0a2092de-6913-4b46-9af1-0d6c987ec06f@subscription.lormarb.ir:53762?path=%2F&security=&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-2
-ss://0b3dc0af-9ca6-4542-ac1a-513d0e3b8eaa@subscription.lormarb.ir:53762?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
-ss://87bc27e7-30ef-4e0a-b7da-f712df496f9c@subscription.lormarb.ir:53762?encryption=none&host=&path=/&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-3
+ss://0a2092de-6913-4b46-9af1-0d6c987ec06f@subscription.lormarb.ir:53762?encryption=none&type=ws&path=%2F&security=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
+ss://0b3dc0af-9ca6-4542-ac1a-513d0e3b8eaa@subscription.lormarb.ir:53762/?type=ws&%3Bencryption=none&%3Bhost=subscription.lormarb.ir&%3Bpath=/#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-2
+ss://3eb830aa-18a4-4f1e-81fa-0a40a0493b08@subscription.lormarb.ir:53762?type=ws&path=%2F&host=subscription.lormarb.ir#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-3
 trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&path=%2F#%E8%A5%BF%E7%8F%AD%E7%89%99
-vless://0a2092de-6913-4b46-9af1-0d6c987ec06f@subscription.lormarb.ir:53762?path=%2F&security=&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-2
-vless://0b3dc0af-9ca6-4542-ac1a-513d0e3b8eaa@subscription.lormarb.ir:53762?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
-vless://87bc27e7-30ef-4e0a-b7da-f712df496f9c@subscription.lormarb.ir:53762?encryption=none&host=&path=/&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-3
+vless://0a2092de-6913-4b46-9af1-0d6c987ec06f@subscription.lormarb.ir:53762?encryption=none&type=ws&path=%2F&security=none#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-1
+vless://0b3dc0af-9ca6-4542-ac1a-513d0e3b8eaa@subscription.lormarb.ir:53762/?type=ws&%3Bencryption=none&%3Bhost=subscription.lormarb.ir&%3Bpath=/#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-2
+vless://3eb830aa-18a4-4f1e-81fa-0a40a0493b08@subscription.lormarb.ir:53762?type=ws&path=%2F&host=subscription.lormarb.ir#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-3
