@@ -1,0 +1,2 @@
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?host=cnmfangbinxingnmsl.cnm-fangbinxing--nmsl.workers.dev&path=%2F&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-1
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?host=cnmfangbinxingnmsl.cnm-fangbinxing--nmsl.workers.dev&path=%2F&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-1
