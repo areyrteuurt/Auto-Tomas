@@ -1,4 +1,2 @@
-ss://793ba358-8df3-40dd-b60c-035b7b45afe5@141.11.37.185:48677?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-1
 ss://b81c61f9-51d5-48a4-84a6-1715f41d89fb@ita01-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-6
-vless://793ba358-8df3-40dd-b60c-035b7b45afe5@141.11.37.185:48677?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-1
 vless://b81c61f9-51d5-48a4-84a6-1715f41d89fb@ita01-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-6
