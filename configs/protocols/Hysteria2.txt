@@ -1,3 +1,5 @@
 hysteria2://dongtaiwang.com@89.144.35.25:33550?sni=apple.com&alpn=h3&insecure=1#Hysteria2%E8%8A%82%E7%82%B93
+hysteria2://e3c9c176-7ce6-40c8-9206-ff5ea72b1f0a@fq-kr.mxtn.net:21585?insecure=0#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
+hysteria2://e3c9c176-7ce6-40c8-9206-ff5ea72b1f0a@fq-us.mxtn.net:21646?insecure=0#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
 hysteria2://xtGIM7iEx9@91.107.190.166:8443?sni=dash.cloudflare.com&obfs=salamander&obfs-password=KLSADFIU43%23%24&insecure=1#DE
 hysteria2://yhqy5AHofQq@channel4.saghetalaie.homes:46914?sni=www.google.com&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&insecure=1#LV

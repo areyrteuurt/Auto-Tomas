@@ -1,3 +1,2 @@
 ss://d5d5b641-dd56-4f39-9754-8d3c45cc2c5e@45.89.105.24:4443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-3
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=raw&headerType=none&security=tls&sni=hyfuuf6.wsone.icu#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-4
 vless://d5d5b641-dd56-4f39-9754-8d3c45cc2c5e@45.89.105.24:4443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-3
