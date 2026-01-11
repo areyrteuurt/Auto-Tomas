@@ -1,4 +1,5 @@
 hysteria2://e3c9c176-7ce6-40c8-9206-ff5ea72b1f0a@fq-us.mxtn.net:21646?insecure=0#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
+ss://06e5efcd-9a5e-42c8-9307-bcdf901e0f83@57.128.235.192:2082?host=sr1.cloud-files-uploader.com&path=%2F&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-168
 ss://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@144.31.1.121:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn17.suio.me&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-152
 ss://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn17.suio.me&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-142
 ss://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn23.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn23.suio.me#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-115
@@ -101,6 +102,7 @@ ss://b81c61f9-51d5-48a4-84a6-1715f41d89fb@pol01-ss01.tcp-reset-club.net:8443?enc
 ss://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-154
 ss://d5d5b641-dd56-4f39-9754-8d3c45cc2c5e@45.82.255.32:4443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-157
 ss://fe21e399-ec6f-4cb5-8441-e911178665b1@185.136.132.171:24170?security=reality&encryption=none&pbk=VsmNi1ZMXVOwhCWpbCp51w-D_DzrxWX4jgfpcU0S9G4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=speedtest.net&sid=2fb2106a629b#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
+vless://06e5efcd-9a5e-42c8-9307-bcdf901e0f83@57.128.235.192:2082?host=sr1.cloud-files-uploader.com&path=%2F&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-168
 vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@144.31.1.121:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn17.suio.me&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-152
 vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn17.suio.me&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-142
 vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn23.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn23.suio.me#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-115
