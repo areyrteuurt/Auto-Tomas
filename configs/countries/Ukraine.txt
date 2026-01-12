@@ -1,0 +1,2 @@
+ss://00a85603-d8c6-437d-a8bd-ea521107bd87@89.110.73.241:443?encryption=none&security=tls&sni=danfeng.ye.gs&type=ws&host=danfeng.ye.gs&path=%2F%3Fed%3D2560#%E4%B9%8C%E5%85%8B%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://00a85603-d8c6-437d-a8bd-ea521107bd87@89.110.73.241:443?encryption=none&security=tls&sni=danfeng.ye.gs&type=ws&host=danfeng.ye.gs&path=%2F%3Fed%3D2560#%E4%B9%8C%E5%85%8B%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
