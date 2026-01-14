@@ -1,1 +1,3 @@
+ss://d15305f0-ad4f-4424-88d5-53e0b593fbe4@cornsilk.qzz.io:443?encryption=none&security=tls&sni=cornsilk.qzz.io&type=ws&host=cornsilk.qzz.io&path=%2F134.195.137.107%3A22473#IN%E5%8D%B0%E5%BA%A6%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=raw&headerType=none&security=tls&sni=tttyder.wsone.icu#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-4
+vless://d15305f0-ad4f-4424-88d5-53e0b593fbe4@cornsilk.qzz.io:443?encryption=none&security=tls&sni=cornsilk.qzz.io&type=ws&host=cornsilk.qzz.io&path=%2F134.195.137.107%3A22473#IN%E5%8D%B0%E5%BA%A6%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
