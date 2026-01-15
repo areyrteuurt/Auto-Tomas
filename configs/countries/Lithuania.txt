@@ -1,2 +1,0 @@
-ss://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@78.153.131.56:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=PpW2d0u6AJyavek1rQ4GMo-oFE51TqpPEBKnKUTlJV4&sid=a20d3ed244c76426#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9%20LT-1
-vless://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@78.153.131.56:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=PpW2d0u6AJyavek1rQ4GMo-oFE51TqpPEBKnKUTlJV4&sid=a20d3ed244c76426#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9%20LT-1
