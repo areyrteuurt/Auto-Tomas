@@ -1,0 +1,2 @@
+ss://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?security=none&type=tcp%20&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AA%20BE-1
+vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?security=none&type=tcp%20&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AA%20BE-1
