@@ -1,0 +1,2 @@
+ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF
+vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF
