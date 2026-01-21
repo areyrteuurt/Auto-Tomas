@@ -1,2 +1,4 @@
 ss://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443?&security=reality&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&fp=chrome&sni=live.com&type=tcp&headerType=none&host=live.com&path=%2F#%F0%9F%87%A9%F0%9F%87%B0_DK_%E4%B8%B9%E9%BA%A6
+ss://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443?flow=xtls-rprx-vision&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&security=tls&sni=live.com#%F0%9F%87%A9%F0%9F%87%B0_DK_%E4%B8%B9%E9%BA%A6
 vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443?&security=reality&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&fp=chrome&sni=live.com&type=tcp&headerType=none&host=live.com&path=%2F#%F0%9F%87%A9%F0%9F%87%B0_DK_%E4%B8%B9%E9%BA%A6
+vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443?flow=xtls-rprx-vision&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&security=tls&sni=live.com#%F0%9F%87%A9%F0%9F%87%B0_DK_%E4%B8%B9%E9%BA%A6
