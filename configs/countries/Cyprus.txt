@@ -1,2 +1,6 @@
 ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?host=cnmfangbinxing.cnm-fang-binxing-nmsl.workers.dev&path=%2F&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-1
+ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?host=cnmfangbinxing.cnm-fang-binxing-nmsl.workers.dev&path=%2F&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-2
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?host=cnmfangbinxing.cnm-fang-binxing-nmsl.workers.dev&path=%2F&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-1
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?host=cnmfangbinxing.cnm-fang-binxing-nmsl.workers.dev&path=%2F&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-2
