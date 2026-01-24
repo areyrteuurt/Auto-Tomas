@@ -1,6 +1,4 @@
 ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97
-ss://e8ec9972-fd55-4508-885a-739be724921e@85.133.204.186:5757?path=%2F&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-1
 ss://efdd92c0-c32d-4039-a564-374abaa5d8ce@85.133.204.131:2024?encryption=none&security=none&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97
 vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97
-vless://e8ec9972-fd55-4508-885a-739be724921e@85.133.204.186:5757?path=%2F&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-1
 vless://efdd92c0-c32d-4039-a564-374abaa5d8ce@85.133.204.131:2024?encryption=none&security=none&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97

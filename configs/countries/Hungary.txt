@@ -1,3 +1,5 @@
 ss://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%BA%20HU-7
+ss://4fe214fb-048e-431f-b939-4518dc9df6a2@217.13.104.115:4249?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=NzoS8wtHAWEmypXGdwW01bN0LpDzr-Lw2HRRopKsLxY&sid=a20d3ed244c76426#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%BA%20HU-8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWRjMGQ3Y2JiNjUwYmMzQDEwOS42MS4zOS4xNTA6MTEyMDE=#%F0%9F%87%AD%F0%9F%87%BA_HU_%E5%8C%88%E7%89%99%E5%88%A9
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%BA%20HU-7
+vless://4fe214fb-048e-431f-b939-4518dc9df6a2@217.13.104.115:4249?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=NzoS8wtHAWEmypXGdwW01bN0LpDzr-Lw2HRRopKsLxY&sid=a20d3ed244c76426#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%BA%20HU-8
