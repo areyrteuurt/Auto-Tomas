@@ -1,0 +1,2 @@
+ss://9d817aab-913d-427c-a627-270826f7caad@107.189.31.214:4443?security=reality&type=tcp&headerType=&path=&host=&sni=speed.cloudflare.com&fp=chrome&pbk=-iE1Jni3N2G1FxpUi-C9zvpI8MEgGMLpYeKkVUOvZCQ&sid=492730ada51ce8c2#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BA%20LU-1
+vless://9d817aab-913d-427c-a627-270826f7caad@107.189.31.214:4443?security=reality&type=tcp&headerType=&path=&host=&sni=speed.cloudflare.com&fp=chrome&pbk=-iE1Jni3N2G1FxpUi-C9zvpI8MEgGMLpYeKkVUOvZCQ&sid=492730ada51ce8c2#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BA%20LU-1
