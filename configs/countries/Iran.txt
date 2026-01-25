@@ -1,4 +1,12 @@
+ss://12a5b498-9045-440e-8c5f-50cbb34a4c66@85.133.204.89:1919?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-4
+ss://2ebc8374-8e30-49c9-be13-c11533387a06@85.133.204.89:1919?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-3
+ss://32e1e3bf-54eb-4cdb-822a-ef66fb24a13d@fin.zerosulution.com:2000?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=firefox&pbk=Q-394d0JQhk1CJYBNTxmwoZHHDl1xj5r8egsesyIZmA&sid=a98e1de9#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-1
 ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97
+ss://df668ca2-1095-428d-9fa4-dcbcad14a7a1@85.133.204.89:1919?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2
 ss://efdd92c0-c32d-4039-a564-374abaa5d8ce@85.133.204.131:2024?encryption=none&security=none&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97
+vless://12a5b498-9045-440e-8c5f-50cbb34a4c66@85.133.204.89:1919?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-4
+vless://2ebc8374-8e30-49c9-be13-c11533387a06@85.133.204.89:1919?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-3
+vless://32e1e3bf-54eb-4cdb-822a-ef66fb24a13d@fin.zerosulution.com:2000?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=firefox&pbk=Q-394d0JQhk1CJYBNTxmwoZHHDl1xj5r8egsesyIZmA&sid=a98e1de9#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-1
 vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97
+vless://df668ca2-1095-428d-9fa4-dcbcad14a7a1@85.133.204.89:1919?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2
 vless://efdd92c0-c32d-4039-a564-374abaa5d8ce@85.133.204.131:2024?encryption=none&security=none&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97
