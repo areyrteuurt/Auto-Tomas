@@ -1,5 +1,4 @@
-ss://32e1e3bf-54eb-4cdb-822a-ef66fb24a13d@Itw.zerosulution.com:7567?security=reality&type=tcp&headerType=&path=&host=&sni=excoino.com&fp=firefox&pbk=DSF9EhsLMGd7Clgh7PhrY4AmCxIYtCnATRrzA2sVTis&sid=abb50e&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-4
-ss://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#%F0%9F%87%AE%F0%9F%87%B9%20IT%201131ms
+ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
 ss://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-5
 ss://3ae15044-79fd-436d-a5ef-ce680bcfca56@84.17.58.152:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-3
 ss://5f065092-549f-4632-9e8b-55a86aa809bc@Itw.love-speed.sbs:7567?security=reality&type=tcp&headerType=&path=&host=&sni=excoino.com&fp=firefox&pbk=DSF9EhsLMGd7Clgh7PhrY4AmCxIYtCnATRrzA2sVTis&sid=abb50e&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-8
@@ -8,8 +7,7 @@ ss://c38e6142-9223-47ef-84ce-2a84a308cafb@217.12.219.53:443/?type=tcp&encryption
 ss://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?security=reality&sni=stackoverflow.com&type=tcp&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-10
 ss://e6af2417-0a79-4521-aa2a-de1c2f105188@it-ip.gameirani.com:500?security=reality&encryption=none&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&headerType=none&fp=firefox&type=tcp&sni=stackoverflow.com&sid=bea5eb2fcf6b183c#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-6
 trojan://TurbooServer@146.75.53.125:80?type=ws&host=jone-turboo-server.com&path=%2Fed%3D25#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-9
-vless://32e1e3bf-54eb-4cdb-822a-ef66fb24a13d@Itw.zerosulution.com:7567?security=reality&type=tcp&headerType=&path=&host=&sni=excoino.com&fp=firefox&pbk=DSF9EhsLMGd7Clgh7PhrY4AmCxIYtCnATRrzA2sVTis&sid=abb50e&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-4
-vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#%F0%9F%87%AE%F0%9F%87%B9%20IT%201131ms
+vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
 vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-5
 vless://3ae15044-79fd-436d-a5ef-ce680bcfca56@84.17.58.152:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-3
 vless://5f065092-549f-4632-9e8b-55a86aa809bc@Itw.love-speed.sbs:7567?security=reality&type=tcp&headerType=&path=&host=&sni=excoino.com&fp=firefox&pbk=DSF9EhsLMGd7Clgh7PhrY4AmCxIYtCnATRrzA2sVTis&sid=abb50e&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-8

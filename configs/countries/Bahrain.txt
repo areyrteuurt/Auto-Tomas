@@ -1,0 +1,1 @@
+trojan://M7v%25w11Se%2A@blaab.wsone.icu:443?security=tls&sni=blaab.wsone.icu&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AD%20BH-1
