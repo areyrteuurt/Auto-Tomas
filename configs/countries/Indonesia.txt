@@ -2,4 +2,5 @@ trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?security=tls&sni=qfdfsg.wsone.icu&t
 trojan://nodes-b211f28a@43.229.254.152:2083?security=tls&sni=node-id-1.v2sv.top#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%A9%20ID-4
 trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?security=tls&type=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%A9%20ID-3
 trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-id-1.v2sv.top#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%A9%20ID-2
+vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQHByb3h5X2thZmVl8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJpZCI6IjIzODUwOTlmLTMwMWItNDMzZi04MzBkLWEyZmQwYWM1NWY1NyIsImFscG4iOiIiLCJob3N0Ijoibm9kZS1pZC0xLnYyc3YudG9wIiwic25pIjoid3d3LmZhY2Vib29rLmNvbSIsInBzIjoiW09wZW5SYXldIPCfh67wn4epIElELTEiLCJwb3J0IjoiODQ0MyIsImFkZCI6Im5vZGUtaWQtMS52MnN2LnRvcCIsInBhdGgiOiIvd3MiLCJuZXQiOiJ3cyIsInNjeSI6ImF1dG8iLCJ0bHMiOiJ0bHMifQ==
