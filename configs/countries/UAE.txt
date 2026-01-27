@@ -1,6 +1,0 @@
-ss://8b97d81f-88d3-4e30-8d15-db2383006059@geteway-UE.ziro100vn.sbs:5960?security=reality&type=tcp&headerType=&path=&host=zowe.ir&sni=refersion.com&fp=firefox&pbk=KjviN_sXJt82LPa76eGPjWBmuX6yNH6tWwygVCns600&sid=040127d4a2dc96cb#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-11
-ss://efd90743-5f99-4c63-b0c8-8ee84cf30150@31.57.228.162:80?host=minoomizban.ir&path=%2Fws&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-10
-ss://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?path=/ws&security=none&encryption=none&host=minoomizban.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-7
-vless://8b97d81f-88d3-4e30-8d15-db2383006059@geteway-UE.ziro100vn.sbs:5960?security=reality&type=tcp&headerType=&path=&host=zowe.ir&sni=refersion.com&fp=firefox&pbk=KjviN_sXJt82LPa76eGPjWBmuX6yNH6tWwygVCns600&sid=040127d4a2dc96cb#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-11
-vless://efd90743-5f99-4c63-b0c8-8ee84cf30150@31.57.228.162:80?host=minoomizban.ir&path=%2Fws&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-10
-vless://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?path=/ws&security=none&encryption=none&host=minoomizban.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-7
