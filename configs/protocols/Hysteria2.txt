@@ -1,0 +1,2 @@
+hysteria2://6dfbef3b-f718-4053-806f-c9657e2fd943@us.jljd.xyz:12345?sni=us.jljd.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=0#%E7%BE%8E%E5%9C%8B
+hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@kr2.miyazono-kaori.com:42382?sni=kr2.miyazono-kaori.com&obfs=salamander&obfs-password=rVYx28ncsHBinunc&insecure=0#%F0%9F%87%B0%F0%9F%87%B7KR_1%20%7C%20%E2%AC%87%EF%B8%8F%205.4MB%2Fs

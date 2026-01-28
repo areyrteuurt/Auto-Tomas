@@ -1,4 +1,2 @@
-ss://00000000-0000-4000-8000-000000000000@185.212.113.56:2050?encryption=none&security=tls&sni=ennyfe.zipgd3vx91o.ddns-ip.net&type=ws&host=ennyfe.zipgd3vx91o.ddns-ip.net&path=%2F%40Marisa_kristi#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-4
 ss://@Banana_Network@91.239.65.42:10100?security=reality&encryption=none&pbk=2zN5MhusgST2q3NBD1gglc6xTaoTPP9Tmjb9k374QCw&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=refersion.com#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-5
-vless://00000000-0000-4000-8000-000000000000@185.212.113.56:2050?encryption=none&security=tls&sni=ennyfe.zipgd3vx91o.ddns-ip.net&type=ws&host=ennyfe.zipgd3vx91o.ddns-ip.net&path=%2F%40Marisa_kristi#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-4
 vless://@Banana_Network@91.239.65.42:10100?security=reality&encryption=none&pbk=2zN5MhusgST2q3NBD1gglc6xTaoTPP9Tmjb9k374QCw&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=refersion.com#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-5

@@ -1,2 +1,0 @@
-ss://f8bc2269-aa3a-492f-8153-ea6baf2a5486@bg.persiatmconnect.com:1264?security=reality&encryption=none&pbk=MC8GyNm4YuqcDlKpl2nxAcDl8tdSTPu1JTrfkuwlHH4&headerType=none&fp=firefox&type=tcp&sni=store.steampowered.com&sid=9fbd63352707#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-1
-vless://f8bc2269-aa3a-492f-8153-ea6baf2a5486@bg.persiatmconnect.com:1264?security=reality&encryption=none&pbk=MC8GyNm4YuqcDlKpl2nxAcDl8tdSTPu1JTrfkuwlHH4&headerType=none&fp=firefox&type=tcp&sni=store.steampowered.com&sid=9fbd63352707#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-1
