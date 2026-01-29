@@ -1,2 +1,4 @@
+ss://6e7894ac-fc10-4ceb-8fee-41d4cabca8f3@40.172.60.168:5555?encryption=none&security=none&type=raw&headertype=none#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-2
 ss://79df85dd-cb40-4b32-828e-f38d918d85e3@www.vidboxco.ir:2053?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=&sni=test2.iranvatanam.com&fp=chrome&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-1
+vless://6e7894ac-fc10-4ceb-8fee-41d4cabca8f3@40.172.60.168:5555?encryption=none&security=none&type=raw&headertype=none#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-2
 vless://79df85dd-cb40-4b32-828e-f38d918d85e3@www.vidboxco.ir:2053?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=&sni=test2.iranvatanam.com&fp=chrome&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-1

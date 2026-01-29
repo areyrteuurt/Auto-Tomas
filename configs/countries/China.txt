@@ -1,6 +1,11 @@
+ss://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@154.218.15.198:443?&security=tls&fp=random&sni=snip.ere.de5.net&type=ws&headerType=none&host=snip.ere.de5.net&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+ss://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@154.218.15.1:443?&security=tls&fp=random&sni=snip.ere.de5.net&type=ws&headerType=none&host=snip.ere.de5.net&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 ss://6dfbef3b-f718-4053-806f-c9657e2fd943@hkfree.jljd.xyz:11229?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=python.org&pbk=nRUFKXfldeXh6hIoO6hAeBC3NtUHhaHyNkOeNGyjsjk&sid=fcc5f0e9#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZDY4ZDkxZi1jY2M1LTRjMDAtYjFmNi0wZDc2NDkzN2Y0ZjY@mofacpdd.til69.com:26921#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMjcyZGU0OGM1M2UwYTU3QDE1NC4yMDUuMTQ3LjIzNzoxMTIwMQ==#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNGJhZmE1ZjU5ZmMzMzlmQDE1Ni4yNDQuMzYuMTA1OjExMjAx#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMWU0NDJmMS04YWJiLTRkZjYtOWM2ZS1kZGQxMTQyMjRiM2E@mbqg940.26i6c42.rkzn8ni.vm331.cn:10237#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMWU0NDJmMS04YWJiLTRkZjYtOWM2ZS1kZGQxMTQyMjRiM2E@mbqg940.26i6c42.rkzn8ni.vm331.cn:10702#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 ss://a742029a-2561-49bc-a22e-3ae614d21016@ipel.zheshe002.com:60003?security=reality&type=vless&sni=www.douyin.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-2
 ss://a742029a-2561-49bc-a22e-3ae614d21016@sssvipcheng.ippp2026el.com:60010?security=reality&type=vless&sni=www.douyin.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-3
 ss://a742029a-2561-49bc-a22e-3ae614d21016@sssvipcheng.ippp2026el.com:61088?security=reality&type=vless&sni=www.douyin.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-4
@@ -16,9 +21,14 @@ ss://a742029a-2561-49bc-a22e-3ae614d21016@zhe03.2uuzhe.com:30659?security=realit
 ss://a742029a-2561-49bc-a22e-3ae614d21016@zhe03.2uuzhe.com:33048?security=reality&type=vless&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-14
 ss://a742029a-2561-49bc-a22e-3ae614d21016@zhe03.2uuzhe.com:47531?security=reality&type=vless&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-15
 ss://a742029a-2561-49bc-a22e-3ae614d21016@zhe03.2uuzhe.com:64293?security=reality&type=vless&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-16
-trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?allowInsecure=0&sni=www.nintendogames.net#_CN_%E4%B8%AD%E5%9B%BD
+trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%2Fripaojiedian#_CN_%E4%B8%AD%E5%9B%BD
+trojan://BxceQaOe@219.76.135.98:443?sni=t.me/ripaojiedian#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
+trojan://BxceQaOe@58.152.53.45:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 trojan://BxceQaOe@58.152.53.45:443?allowInsecure=1&sni=t.me%2Fripaojiedian#_CN_%E4%B8%AD%E5%9B%BD
+vless://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@154.218.15.198:443?&security=tls&fp=random&sni=snip.ere.de5.net&type=ws&headerType=none&host=snip.ere.de5.net&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+vless://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@154.218.15.1:443?&security=tls&fp=random&sni=snip.ere.de5.net&type=ws&headerType=none&host=snip.ere.de5.net&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 vless://6dfbef3b-f718-4053-806f-c9657e2fd943@hkfree.jljd.xyz:11229?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=python.org&pbk=nRUFKXfldeXh6hIoO6hAeBC3NtUHhaHyNkOeNGyjsjk&sid=fcc5f0e9#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-1
 vless://a742029a-2561-49bc-a22e-3ae614d21016@ipel.zheshe002.com:60003?security=reality&type=vless&sni=www.douyin.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-2
 vless://a742029a-2561-49bc-a22e-3ae614d21016@sssvipcheng.ippp2026el.com:60010?security=reality&type=vless&sni=www.douyin.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-3
