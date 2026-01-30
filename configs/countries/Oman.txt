@@ -1,0 +1,2 @@
+ss://bf66eaf9-707f-4d06-b12a-d108d449f09a@b2n.ir.irsf105.nic.stp.debian.org.ubuntu.ir.rahyabzamin.online:2010?type=tcp&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B4%F0%9F%87%B2%20OM-1
+vless://bf66eaf9-707f-4d06-b12a-d108d449f09a@b2n.ir.irsf105.nic.stp.debian.org.ubuntu.ir.rahyabzamin.online:2010?type=tcp&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B4%F0%9F%87%B2%20OM-1
