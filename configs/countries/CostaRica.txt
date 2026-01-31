@@ -1,2 +1,0 @@
-ss://c2ec9f9b-1b21-495b-b9f4-427e70f25b01@cd.prime-panell.pro:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/ws&sni=nnn2.primenet3.shop&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-1
-vless://c2ec9f9b-1b21-495b-b9f4-427e70f25b01@cd.prime-panell.pro:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/ws&sni=nnn2.primenet3.shop&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-1

@@ -1,4 +1,5 @@
-ss://6e7894ac-fc10-4ceb-8fee-41d4cabca8f3@40.172.60.168:5555?encryption=none&security=none&type=raw&headertype=none#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-2
-ss://e891333c-9f0e-46f7-ae2f-5e720698b407@iran.zone-server-irani.ir:443/?path=%2F31.192.238.71%3D2053&security=tls&encryption=none&host=afrcloud5.c01.kr&type=ws&sni=afrcloud5.c01.kr#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-3
-vless://6e7894ac-fc10-4ceb-8fee-41d4cabca8f3@40.172.60.168:5555?encryption=none&security=none&type=raw&headertype=none#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-2
-vless://e891333c-9f0e-46f7-ae2f-5e720698b407@iran.zone-server-irani.ir:443/?path=%2F31.192.238.71%3D2053&security=tls&encryption=none&host=afrcloud5.c01.kr&type=ws&sni=afrcloud5.c01.kr#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-3
+ss://7b3a08ba-b03f-41b8-ab69-0040f55eb5d0@94.140.0.0:80?type=ws&path=%2F%3Fed%3D2052&host=panelmarzban.persianfly.org&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-4
+ss://ff5bb51c-9648-4e19-9b05-5e515f852394@94.140.0.0:80?type=ws&path=%2F%3Fed%253D2052&host=panelmarzban.persianfly.org&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-5
+trojan://bpb-trojan@94.140.0.1:443?security=tls&sni=singbox.lu567890.us.kg&type=ws&path=%2Ftr%3Fed%3D2560&host=singbox.lu567890.us.kg#%F0%9F%87%A6%F0%9F%87%AA%20AE%20296ms
+vless://7b3a08ba-b03f-41b8-ab69-0040f55eb5d0@94.140.0.0:80?type=ws&path=%2F%3Fed%3D2052&host=panelmarzban.persianfly.org&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-4
+vless://ff5bb51c-9648-4e19-9b05-5e515f852394@94.140.0.0:80?type=ws&path=%2F%3Fed%253D2052&host=panelmarzban.persianfly.org&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-5
