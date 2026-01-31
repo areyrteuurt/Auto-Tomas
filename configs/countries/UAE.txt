@@ -1,5 +1,4 @@
 ss://7b3a08ba-b03f-41b8-ab69-0040f55eb5d0@94.140.0.0:80?type=ws&path=%2F%3Fed%3D2052&host=panelmarzban.persianfly.org&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-4
 ss://ff5bb51c-9648-4e19-9b05-5e515f852394@94.140.0.0:80?type=ws&path=%2F%3Fed%253D2052&host=panelmarzban.persianfly.org&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-5
-trojan://bpb-trojan@94.140.0.1:443?security=tls&sni=singbox.lu567890.us.kg&type=ws&path=%2Ftr%3Fed%3D2560&host=singbox.lu567890.us.kg#%F0%9F%87%A6%F0%9F%87%AA%20AE%20296ms
 vless://7b3a08ba-b03f-41b8-ab69-0040f55eb5d0@94.140.0.0:80?type=ws&path=%2F%3Fed%3D2052&host=panelmarzban.persianfly.org&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-4
 vless://ff5bb51c-9648-4e19-9b05-5e515f852394@94.140.0.0:80?type=ws&path=%2F%3Fed%253D2052&host=panelmarzban.persianfly.org&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-5
