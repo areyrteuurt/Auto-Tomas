@@ -1,2 +1,0 @@
-ss://f7ddcea8-95e3-48de-909f-bb5d3c47696b@62.122.217.56:668?type=tcp&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%BF%20UZ-4
-vless://f7ddcea8-95e3-48de-909f-bb5d3c47696b@62.122.217.56:668?type=tcp&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%BF%20UZ-4
