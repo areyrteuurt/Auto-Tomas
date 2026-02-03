@@ -18,6 +18,7 @@ ss://e108f3eb-4d3a-4e20-a09b-7008e333bc23@ind01-vlr01.tcp-reset-club.net:443?typ
 trojan://M7v%25w11Se%2A@amanm.wsone.icu:443?security=tls&sni=amanm.wsone.icu&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-5
 trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&sni=hyfuuf6.wsone.icu&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-4
 trojan://M7v%25w11Se*@tttyder.wsone.icu:443/?type=tcp&security=tls&sni=tttyder.wsone.icu&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-3
+trojan://M7v%w11Se*@amanm.wsone.icu:443?type=raw&headerType=none&security=tls&sni=amanm.wsone.icu#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-28
 trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=raw&headerType=none&security=tls&sni=tttyder.wsone.icu#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-12
 vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-India1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-14
 vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-India1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-15
