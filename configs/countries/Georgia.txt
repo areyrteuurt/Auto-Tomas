@@ -1,0 +1,2 @@
+ss://9abe324e-5e97-483f-9dd3-06675443e715@ge.quattro-tech.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=ge.quattro-tech.ru#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%AA%20GE-1
+vless://9abe324e-5e97-483f-9dd3-06675443e715@ge.quattro-tech.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=ge.quattro-tech.ru#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%AA%20GE-1

@@ -1,4 +1,6 @@
+ss://9abe324e-5e97-006c-9dd3-06675443e715@ng.quattro-tech.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=ng.quattro-tech.ru#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%AC%20NG-5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.255.123.166:990#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%AC%20NG-3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.255.123.110:990#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%AC%20NG-2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.255.123.166:990#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%AC%20NG-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAxODUuMjU1LjEyMy4xNjY6OTkw#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%AC%20NG-4
+vless://9abe324e-5e97-006c-9dd3-06675443e715@ng.quattro-tech.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=ng.quattro-tech.ru#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%AC%20NG-5
