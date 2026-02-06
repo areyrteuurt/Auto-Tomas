@@ -1,8 +1,4 @@
-ss://b3a0a76d-1794-4fd0-a283-bd4a0620bac9@104.233.9.176:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DWyOZG0Qq-HB0wNe5XCXG0R5QRehwjjnjKtBP6ICNQ8&sid=f3888f0a&sni=kino.playhav.top#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-3
-ss://e4840713-0708-4302-a5ff-7552c6362ed0@kino.playhav.top:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DWyOZG0Qq-HB0wNe5XCXG0R5QRehwjjnjKtBP6ICNQ8&sid=f3888f0a&sni=kino.playhav.top#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-4
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?allowInsecure=0&sni=83.143.87.9#%F0%9F%87%B3%F0%9F%87%B4%20%E6%8C%AA%E5%A8%81%20V2CROSS.COM
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B4%20%E6%8C%AA%E5%A8%81%20V2CROSS.COM
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?sni=83.143.87.9#%F0%9F%87%B3%F0%9F%87%B4NO%E6%8C%AA%E5%A8%81
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-1
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?type=raw&headerType=none&security=tls&sni=www.semanticstaplegun.click#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-2
-vless://b3a0a76d-1794-4fd0-a283-bd4a0620bac9@104.233.9.176:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DWyOZG0Qq-HB0wNe5XCXG0R5QRehwjjnjKtBP6ICNQ8&sid=f3888f0a&sni=kino.playhav.top#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-3
-vless://e4840713-0708-4302-a5ff-7552c6362ed0@kino.playhav.top:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DWyOZG0Qq-HB0wNe5XCXG0R5QRehwjjnjKtBP6ICNQ8&sid=f3888f0a&sni=kino.playhav.top#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-4
