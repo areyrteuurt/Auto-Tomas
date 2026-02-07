@@ -1,1 +1,0 @@
-hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com&alpn=h3&insecure=1&allowInsecure=1#%E5%BE%B7%E5%9B%BD%20%E9%BB%91%E6%A3%AE%E5%B7%9E%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%20%E2%80%94%20%E7%94%B2%E9%AA%A8%E6%96%87%E4%BA%91
