@@ -1,4 +1,2 @@
 ss://3653ade8-519a-4996-b572-7db5e9d808fe@144.31.203.54:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=randomized&pbk=VRZ6ZwSsMA9K5f7aoJ9KvQgQ4xoSaF792mcNbeh-TQ4&sid=7b89bc1f95&sni=vk.com&path=&host=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-2
-ss://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@91.148.134.83:8443?encryption=none&security=tls&sni=5465765525.ccfly.tech&fp=chrome&type=ws&host=5465765525.ccfly.tech&path=%2F%3Fed%3D2048#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-1
 vless://3653ade8-519a-4996-b572-7db5e9d808fe@144.31.203.54:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=randomized&pbk=VRZ6ZwSsMA9K5f7aoJ9KvQgQ4xoSaF792mcNbeh-TQ4&sid=7b89bc1f95&sni=vk.com&path=&host=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-2
-vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@91.148.134.83:8443?encryption=none&security=tls&sni=5465765525.ccfly.tech&fp=chrome&type=ws&host=5465765525.ccfly.tech&path=%2F%3Fed%3D2048#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-1
