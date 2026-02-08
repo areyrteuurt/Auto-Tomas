@@ -1,2 +1,0 @@
-ss://3653ade8-519a-4996-b572-7db5e9d808fe@144.31.203.54:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=randomized&pbk=VRZ6ZwSsMA9K5f7aoJ9KvQgQ4xoSaF792mcNbeh-TQ4&sid=7b89bc1f95&sni=vk.com&path=&host=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-2
-vless://3653ade8-519a-4996-b572-7db5e9d808fe@144.31.203.54:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=randomized&pbk=VRZ6ZwSsMA9K5f7aoJ9KvQgQ4xoSaF792mcNbeh-TQ4&sid=7b89bc1f95&sni=vk.com&path=&host=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-2
