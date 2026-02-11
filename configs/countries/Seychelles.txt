@@ -1,6 +1,4 @@
 ss://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-frns.certhost.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8%20SC-37
 ss://673b5b06-ceca-407b-968a-f5a112749506@ip.hamrahto.com:8443?security=tls&type=ws&headerType=&path=%2F&host=hm222.mutee.com.tr&sni=hm222.mutee.com.tr&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8%20SC-36
-ss://9b05e77f-e81f-4d5b-a2dc-7463a154b241@M6.FASTSPEEDS.IR:2083?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=arvan-sw2.ip-venzo.com#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8%20SC-35
 vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-frns.certhost.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8%20SC-37
 vless://673b5b06-ceca-407b-968a-f5a112749506@ip.hamrahto.com:8443?security=tls&type=ws&headerType=&path=%2F&host=hm222.mutee.com.tr&sni=hm222.mutee.com.tr&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8%20SC-36
-vless://9b05e77f-e81f-4d5b-a2dc-7463a154b241@M6.FASTSPEEDS.IR:2083?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=arvan-sw2.ip-venzo.com#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8%20SC-35

@@ -1,2 +1,4 @@
-ss://119292f4-a215-4a63-8a7f-d443d6526437@H3.FASTSPEEDS.IR:2083/?mode=multi&security=tls&encryption=none&authority=second.digishopcenter.ir&insecure=1&type=grpc&serviceName=Love&allowInsecure=1&sni=second.digishopcenter.ir#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-6
-vless://119292f4-a215-4a63-8a7f-d443d6526437@H3.FASTSPEEDS.IR:2083/?mode=multi&security=tls&encryption=none&authority=second.digishopcenter.ir&insecure=1&type=grpc&serviceName=Love&allowInsecure=1&sni=second.digishopcenter.ir#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-6
+ss://1e94155e-197c-443e-82e1-381eac475913@H3.FASTSPEEDS.IR:2053?path=%2Fws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=aslan-nuis.ip-venzo.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-7
+ss://45d4fcc8-edc5-46d6-a68c-7af6b9b33a72@H3.FASTSPEEDS.IR:2053?path=%2Fws&security=tls&encryption=none&type=ws&sni=aslan-ukp1.ip-venzo.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-8
+vless://1e94155e-197c-443e-82e1-381eac475913@H3.FASTSPEEDS.IR:2053?path=%2Fws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=aslan-nuis.ip-venzo.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-7
+vless://45d4fcc8-edc5-46d6-a68c-7af6b9b33a72@H3.FASTSPEEDS.IR:2053?path=%2Fws&security=tls&encryption=none&type=ws&sni=aslan-ukp1.ip-venzo.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-8
