@@ -5,7 +5,6 @@ ss://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?security=none&enc
 ss://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.198:26480?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-304
 ss://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.9.105.116:26480?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-303
 ss://2130291f-50e9-43d4-d415-c85b34134d4f@193.242.125.18:80?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-279
-ss://21a43220-4ee9-144a-79b9-135c0f9b6a6a@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-280
 ss://2d41e24c-5de9-4851-8c15-aef56cc8fa6d@tun.mr404io.site:7788?type=tcp&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-302
 ss://2eb2076e-8265-4ab7-899d-5b578003e6e9@85.198.8.35:12000?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-282
 ss://32c5b858-ea45-4bb7-b474-042ea949241c@85.133.195.132:199?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-292
@@ -14,13 +13,11 @@ ss://377a5ae1-5768-4212-8cde-85fb123685a3@ah.ah.ah.ah.ah.ah.ah.ah.ah.ah.ah.ah.ah
 ss://3b7edefb-f51d-4993-be36-cbbacb48cab4@kavosiprotocol.shop:2053?encryption=none&fp=chrome&pbk=xalxI64M2xfxq7Skn0Ocp8w2o-30ErW_tXPTCGka0zo&security=reality&sid=5c72e2b65629ca&sni=samsung.com&spx=%2FFKRZOf4rLdfc3XK&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-297
 ss://3b7edefb-f51d-4993-be36-cbbacb48cab4@kavosiprotocol.shop:2096?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=kavosiprotocol.shop&path=%2F&security=tls&sni=kavosiprotocol.shop&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-298
 ss://49492932-e922-4a83-bd57-78c3171a436c@10.lamineyamall.shop:23329?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-306
-ss://51a30267-bd64-4e2a-e343-4c9dbc530e34@45.82.136.144:31874?path=/&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-277
 ss://711e0d97-10eb-4437-a4a0-f558aec7ec20@pol2.creativelife.monster:37962?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-289
 ss://743a3bc7-ff11-4be5-8eed-0da3d7ccdeda@ger4.azadrah.drpingi.shop:443#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97-%3E%F0%9F%8F%B3%EF%B8%8F_unKnow_%E6%9C%AA%E7%9F%A5
 ss://7e2ca151-194c-4976-ad9a-86eebc21bc98@ir1.liteingshop.com:2091?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-300
 ss://94b55e3c-2b0c-4412-aded-372e92dfc110@Join-V2RayTz.xn--e1a0cn.xn--p1ai:11959?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-285
 ss://9903b6a8-9cd4-41c4-ba6c-1ce9eca225a9@Join-V2RayTz.xn--e1a0cn.xn--p1ai:11959?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-283
-ss://99c66c7d-d124-4573-b82a-b972e04c5138@185.231.113.179:55010?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-278
 ss://a4c6ec2d-e912-47a8-ab05-b34f861491bb@85.133.197.218:8880?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-307
 ss://a7d5f812-3a41-4504-a0c4-bc29aa44a7b5@store.digishopirt.sbs:3080?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-293
 ss://a9bdffe4-76ad-4b20-a68a-c5fef3485b97@194.145.119.119:3717?flow=&type=ws&host=soft98.ir&path=/&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-295
@@ -30,6 +27,7 @@ ss://e2cc585d-031f-4c2b-9457-47869fd07cf6@95.38.38.7:27801?security=none&encrypt
 ss://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop#%F0%9F%87%AE%F0%9F%87%B7%20IR%2034%20%40Outline_Vpn
 ss://e5567a8c-bc5d-4417-97a0-67fb80099788@pol2.creativelife.monster:37962?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-290
 ss://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?encryption=none&type=raw&headerType=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-301
+ss://ed811773-a07b-4922-8322-ae5c9b1d55c0@37.32.9.178:8080?encryption=none&type=tcp&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-311
 ss://f84ca8d7-ef38-4c82-b3a1-fd800bcf4ac5@pol2.creativelife.monster:37962?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-288
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0#IR-%40V2rayAlpha-58vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiSVItQFYycmF5QWxwaGEtNTkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiSVItQFYycmF5QWxwaGEtNjAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=♾نامحدود
 vless://00548df1-f4e4-4467-8de3-2bb37a41d8b7@92.114.50.193:47255?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-294
@@ -39,7 +37,6 @@ vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?security=none&
 vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.198:26480?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-304
 vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.9.105.116:26480?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-303
 vless://2130291f-50e9-43d4-d415-c85b34134d4f@193.242.125.18:80?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-279
-vless://21a43220-4ee9-144a-79b9-135c0f9b6a6a@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-280
 vless://2d41e24c-5de9-4851-8c15-aef56cc8fa6d@tun.mr404io.site:7788?type=tcp&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-302
 vless://2eb2076e-8265-4ab7-899d-5b578003e6e9@85.198.8.35:12000?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-282
 vless://32c5b858-ea45-4bb7-b474-042ea949241c@85.133.195.132:199?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-292
@@ -48,13 +45,11 @@ vless://377a5ae1-5768-4212-8cde-85fb123685a3@ah.ah.ah.ah.ah.ah.ah.ah.ah.ah.ah.ah
 vless://3b7edefb-f51d-4993-be36-cbbacb48cab4@kavosiprotocol.shop:2053?encryption=none&fp=chrome&pbk=xalxI64M2xfxq7Skn0Ocp8w2o-30ErW_tXPTCGka0zo&security=reality&sid=5c72e2b65629ca&sni=samsung.com&spx=%2FFKRZOf4rLdfc3XK&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-297
 vless://3b7edefb-f51d-4993-be36-cbbacb48cab4@kavosiprotocol.shop:2096?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=kavosiprotocol.shop&path=%2F&security=tls&sni=kavosiprotocol.shop&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-298
 vless://49492932-e922-4a83-bd57-78c3171a436c@10.lamineyamall.shop:23329?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-306
-vless://51a30267-bd64-4e2a-e343-4c9dbc530e34@45.82.136.144:31874?path=/&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-277
 vless://711e0d97-10eb-4437-a4a0-f558aec7ec20@pol2.creativelife.monster:37962?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-289
 vless://743a3bc7-ff11-4be5-8eed-0da3d7ccdeda@ger4.azadrah.drpingi.shop:443#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97-%3E%F0%9F%8F%B3%EF%B8%8F_unKnow_%E6%9C%AA%E7%9F%A5
 vless://7e2ca151-194c-4976-ad9a-86eebc21bc98@ir1.liteingshop.com:2091?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-300
 vless://94b55e3c-2b0c-4412-aded-372e92dfc110@Join-V2RayTz.xn--e1a0cn.xn--p1ai:11959?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-285
 vless://9903b6a8-9cd4-41c4-ba6c-1ce9eca225a9@Join-V2RayTz.xn--e1a0cn.xn--p1ai:11959?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-283
-vless://99c66c7d-d124-4573-b82a-b972e04c5138@185.231.113.179:55010?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-278
 vless://a4c6ec2d-e912-47a8-ab05-b34f861491bb@85.133.197.218:8880?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-307
 vless://a7d5f812-3a41-4504-a0c4-bc29aa44a7b5@store.digishopirt.sbs:3080?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-293
 vless://a9bdffe4-76ad-4b20-a68a-c5fef3485b97@194.145.119.119:3717?flow=&type=ws&host=soft98.ir&path=/&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-295
@@ -64,6 +59,7 @@ vless://e2cc585d-031f-4c2b-9457-47869fd07cf6@95.38.38.7:27801?security=none&encr
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop#%F0%9F%87%AE%F0%9F%87%B7%20IR%2034%20%40Outline_Vpn
 vless://e5567a8c-bc5d-4417-97a0-67fb80099788@pol2.creativelife.monster:37962?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-290
 vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?encryption=none&type=raw&headerType=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-301
+vless://ed811773-a07b-4922-8322-ae5c9b1d55c0@37.32.9.178:8080?encryption=none&type=tcp&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-311
 vless://f84ca8d7-ef38-4c82-b3a1-fd800bcf4ac5@pol2.creativelife.monster:37962?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-288
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh67wn4e3IElSLTI1NiIsImFkZCI6IjIxNy42MC4yNDcuMTA4IiwicG9ydCI6IjgwODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNGFiMGU0OTYtM2VmNS00M2ZkLTk4ODYtMTI0MzQ1NDFmYTQyIiwiYWlkIjoiMCIsIm5ldCI6InJhdyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh67wn4e3IElSLTI2NSIsImFkZCI6IjIxNy42MC4yNDcuMTA4IiwicG9ydCI6IjgwODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNGFiMGU0OTYtM2VmNS00M2ZkLTk4ODYtMTI0MzQ1NDFmYTQyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9

@@ -1,0 +1,2 @@
+ss://6fa4c714-14d4-408b-badd-50f7a23801cf@rs.nerpvpn.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a2bb&sni=store.steampowered.com#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B8%20RS-1
+vless://6fa4c714-14d4-408b-badd-50f7a23801cf@rs.nerpvpn.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a2bb&sni=store.steampowered.com#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B8%20RS-1
