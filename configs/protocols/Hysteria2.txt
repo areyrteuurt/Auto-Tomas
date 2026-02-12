@@ -1,2 +1,1 @@
-hysteria2://6dfbef3b-f718-4053-806f-c9657e2fd943@us.jljd.xyz:12345?sni=us.jljd.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E7%BE%8E%E5%9C%8B
 hysteria2://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@134.195.101.191:443?sni=www.apple.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_1%20%7C%20%E2%AC%87%EF%B8%8F%2010.0MB%2Fs
