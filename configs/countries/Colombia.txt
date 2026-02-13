@@ -1,0 +1,4 @@
+ss://feb1f090-3cba-49bd-801a-343db4ebf9de@144.31.203.249:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cRyfPg-_KmYl_kPBrsxCP6Yodugb6vs4jDEBmswxtVI&security=reality&sni=max.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-1
+ss://feb1f090-3cba-49bd-801a-343db4ebf9de@nl.spectrum.vu:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=cRyfPg-_KmYl_kPBrsxCP6Yodugb6vs4jDEBmswxtVI&sid=&sni=max.ru&path=&host=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-2
+vless://feb1f090-3cba-49bd-801a-343db4ebf9de@144.31.203.249:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cRyfPg-_KmYl_kPBrsxCP6Yodugb6vs4jDEBmswxtVI&security=reality&sni=max.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-1
+vless://feb1f090-3cba-49bd-801a-343db4ebf9de@nl.spectrum.vu:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=cRyfPg-_KmYl_kPBrsxCP6Yodugb6vs4jDEBmswxtVI&sid=&sni=max.ru&path=&host=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-2
