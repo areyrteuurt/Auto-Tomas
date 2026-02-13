@@ -1,4 +1,8 @@
+ss://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F3.FASTSPEEDS.IR:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns5.mehrsazi.ir#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-12
+ss://b2a34c06-1390-48af-8d8f-ece96440002b@H3.FASTSPEEDS.IR:2053?path=%2Fws&security=tls&encryption=none&type=ws&sni=aslan-locz.ip-venzo.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-11
 ss://bb8d67a9-1a7a-4e0f-97ae-28bd9d95b6f4@190.93.247.55:2052?path=%2Ft.me.V2RayyNGvpn%3Fed%3D1024&security=none&encryption=none&host=speak-teammates.rxpgain.top&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-10
 ss://c805b05e-339d-40e0-8787-432d97a27345@M3.FASTSPEEDS.IR:2053?security=tls&type=ws&headerType=&path=%2F&host=&sni=arvan-de1.ip-venzo.com&fp=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-9
+vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F3.FASTSPEEDS.IR:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns5.mehrsazi.ir#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-12
+vless://b2a34c06-1390-48af-8d8f-ece96440002b@H3.FASTSPEEDS.IR:2053?path=%2Fws&security=tls&encryption=none&type=ws&sni=aslan-locz.ip-venzo.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-11
 vless://bb8d67a9-1a7a-4e0f-97ae-28bd9d95b6f4@190.93.247.55:2052?path=%2Ft.me.V2RayyNGvpn%3Fed%3D1024&security=none&encryption=none&host=speak-teammates.rxpgain.top&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-10
 vless://c805b05e-339d-40e0-8787-432d97a27345@M3.FASTSPEEDS.IR:2053?security=tls&type=ws&headerType=&path=%2F&host=&sni=arvan-de1.ip-venzo.com&fp=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-9
