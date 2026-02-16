@@ -19,7 +19,6 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?encryption=none&se
 ss://94a03e9a-74d5-4036-95e9-563cc19355de@incdn3.suio.me:443?type=tcp&security=tls&fp=&sni=incdn3.suio.me&path=&host=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-61
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAxMDMuOTcuMjAzLjIyNzo5OTA=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTRhNmZkMjIwOWY2MmE3QDE4NS42Ny4xMjUuMTA5OjExMjAx#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-26
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMnk2Z0pkVFpxeVhORmI1cXJWdGEwQDY0LjIyNy4xNDQuMTkwOjUwNjkw#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-56
 ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNmQDgyLjE4MC4xNDYuMTczOjM1NjUy#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-42
 trojan://M7v%25w11Se%2A@amanm.wsone.icu:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-30
 trojan://M7v%25w11Se%2A@amanm.wsone.icu:443?security=tls&sni=amanm.wsone.icu&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-5
