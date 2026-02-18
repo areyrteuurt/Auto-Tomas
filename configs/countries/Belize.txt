@@ -1,0 +1,2 @@
+ss://cb71f4a4-0194-4c10-9300-e2ce885665bb@G11.PRODNSSPEED10.IR:2053?security=tls&type=ws&headerType=&path=%2Flove&host=&sni=pol.followerarzon1.com&fp=#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%BF%20BZ-1
+vless://cb71f4a4-0194-4c10-9300-e2ce885665bb@G11.PRODNSSPEED10.IR:2053?security=tls&type=ws&headerType=&path=%2Flove&host=&sni=pol.followerarzon1.com&fp=#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%BF%20BZ-1
