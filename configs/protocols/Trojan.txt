@@ -183,6 +183,7 @@ trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?type=raw&headerType=none&se
 trojan://7LBbob9IutFObLxLf9Svc1HaV@hl-freedom-1.undef.network:443?host=hl-freedom-1.undef.network&path=/f2fc2a1f&security=tls&sni=hl-freedom-1.undef.network&type=ws#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-229
 trojan://7LBbob9IutFObLxLf9Svc1HaV@hl-freedom-1.undef.network:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-272
 trojan://7LBbob9IutFObLxLf9Svc1HaV@hl-freedom-1.undef.network:443?security=tls&type=ws&host=hl-freedom-1.undef.network&path=/f2fc2a1f#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-192
+trojan://7e4deecd-fc89-413b-80cc-c23d362e7cbb@vpnazadie.voicesofiran.org:80?security=none&insecure=0&allowInsecure=0&type=ws&host=voicesofiran.org&path=/trojan-ntls#%5BOpenRay%5D%20Dynamic-14838
 trojan://852a0251-7fbd-4a07-a365-352695af950c@220.130.58.136:31103?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BC%20TW-106
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@v2.dabache.top:443?security=tls&sni=_acme-challenge.sb.cloudns.biz&insecure=1&allowInsecure=1&type=ws&host=_acme-challenge.sb.cloudns.biz&path=%2F#%5BOpenRay%5D%20Dynamic-634
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560#%E7%BE%8E%E5%9C%8B
@@ -205,12 +206,11 @@ trojan://919f16d2-ae91-4589-8bb2-a672890e3537@xn--b6gac.eu.org:443?security=tls&
 trojan://919f16d2-ae91-4589-8bb2-a672890e3537@z.linglingqi.dpdns.org:443?security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.joeyblog.eu.org%2Fjoeyblog&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#%5BOpenRay%5D%20Dynamic-14119
 trojan://91f1ea30-394c-43cf-b407-d0987bcab9af@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@13.231.95.79:3373?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40stairnode
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.38.213:1281?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-969
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.70.134:400/?type=tcp&security=tls&sni=www.nintendogames.net#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-923
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.124.17:3423?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.132.38:193?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.138.24:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.231.103:400/?type=tcp&security=tls&sni=www.nintendogames.net#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-940
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
@@ -226,7 +226,6 @@ trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@yyyhhjki.taipei101.indevs.in:443?s
 trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@yyyhhjki.taipei101.indevs.in:443?security=tls&sni=YyYhHjKI.TAIPEi101.INdEVs.in&type=ws&path=%2FKlh0x8wtLpTGA5AqzZ2Mj&Host=YyYhHjKI.TAIPEi101.INdEVs.in#%5BOpenRay%5D%20Dynamic-13682
 trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?security=tls&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11859
 trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443?encryption=none&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#%5BOpenRay%5D%20Dynamic-12539
-trojan://ASXMj5VuLY@4.182.25.119:28279/?type=tcp&security=none#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9693
 trojan://BxceQaOe@112.120.31.135:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
 trojan://BxceQaOe@18.162.45.213:28680?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
 trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK%20TROJAN-29%20%7C%20free-nodes
@@ -245,7 +244,6 @@ trojan://M7v%25w11Se%2A@blaab.wsone.icu:443?security=tls&sni=blaab.wsone.icu&typ
 trojan://M7v%25w11Se%2A@dggg.wsone.icu:443?security=tls&sni=dggg.wsone.icu&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-3784
 trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&sni=hyfuuf6.wsone.icu&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-4
 trojan://M7v%w11Se*@amanm.wsone.icu:443?type=raw&headerType=none&security=tls&sni=amanm.wsone.icu#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-28
-trojan://N6SJSF67cu@dpbsvbpzzgev.eu-central-1.clawcloudrun.com:33509?security=reality&pbk=sk2_9JF636Jr70qVQveIA2CTmbjKzlouELs8RRJZPXU&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=06d7#%5BOpenRay%5D%20Dynamic-9694
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.96.3:443?security=tls&sni=mfyousheng.nl.eu.org&allowInsecure=true&type=ws&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11601
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11297
 trojan://RmhZQ47pEm@180.131.145.169:18718/?type=grpc&serviceName=&authority=&security=reality&pbk=asandNdBjV4KsNXq9fmPx4nM6QtjJV7MYTyBOrTZ4zY&fp=chrome&sni=www.tesla.com&sid=b7df2e7f077d&spx=/#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-12314
@@ -271,7 +269,6 @@ trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?sni=hl-freedom
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?sni=hl-freedom-2.undef.network&peer=hl-freedom-2.undef.network&security=tls#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-411
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?type=raw&headerType=none&security=tls#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-426
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?type=ws&path=%2Ff2fc2a1f&security=tls#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-254
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20V2CROSS.COM
 trojan://a77233e9-abe2-4246-972e-48802c4c04fa@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#%E5%8F%B0%E6%B9%BE%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://a9570330-769d-11ef-90dc-1577c1651679@104.18.1.196:443?security=tls&sni=sg-trojan.andfree.my.id&fp=chrome&type=ws&path=%2Fwelcome#%F0%9F%87%B8%F0%9F%87%ACSG_4%20%7C%20%E2%AC%87%EF%B8%8F%205.1MB%2Fs
 trojan://aZsk43TyWBpjt%40A@vpn.qinfen180.cn:443?security=tls&sni=vpn.qinfen180.cn&allowInsecure=1&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-144
@@ -284,6 +281,7 @@ trojan://b9bb332d-5e0d-41af-adac-49362dde8661@hhhnmjk.191268.xyz:443?security=tl
 trojan://b9bb332d-5e0d-41af-adac-49362dde8661@lll9.7777198.xyz:443?security=tls&sni=lll9.7777198.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=lll9.7777198.xyz&path=%2FQmR662lkasAQbt5Q2GkKGWRMg#%5BOpenRay%5D%20Dynamic-13329
 trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://byDSOLVPDd@47.245.156.232:49147?security=reality&sni=play.google.com&type=tcp&fp=chrome&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&sid=848ecf47e1b2#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9731
 trojan://byDSOLVPDd@47.245.158.221:49147?security=reality&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=848ecf47e1b2#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9725
 trojan://byDSOLVPDd@47.245.158.76:49147?security=reality&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=848ecf47e1b2#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9717
 trojan://byDSOLVPDd@47.245.158.76:49147?type=raw&headerType=none&security=reality&fp=chrome&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&sni=play.google.com&sid=848ecf47e1b2#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9723
@@ -337,6 +335,7 @@ trojan://fc3704d6-8e5e-443a-bd5b-20ec7cfbe990@yyyyu.taiwan2026.indevs.in:443?sec
 trojan://fc3704d6-8e5e-443a-bd5b-20ec7cfbe990@yyyyu.taiwan2026.indevs.in:443?type=ws&security=tls&path=%252FcSIyXrtyqeOFepMpfNkCk8&sni=yyyyu.taiwan2026.indevs.in&allowInsecure=1#%5BOpenRay%5D%20Dynamic-13875
 trojan://freedom@irancell.buzzmuzzpanel.online:443?security=tls&sni=047.eleCTROCelLco-Cf-047.woRkers.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=047.electrocellco-cf-047.workers.dev&path=%2FeyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11858
 trojan://fsJC%3Ca%292Atn;@104.18.8.232:2086?ed=2560&eh=Sec-WebSocket-Protocol&host=hamedp71.123hp.workers.dev&path=%2FeyJqdW5rIjoidm1qTWdrQzQxTyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12853
+trojan://humanity@104.17.131.88:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-14839
 trojan://humanity@104.18.11.110:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
 trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%40Proxy_sh
@@ -431,6 +430,10 @@ trojan://iwangjie@141.94.68.216:2053?type=ws&security=tls&path=%252F%253Fed%253D
 trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@94.131.122.254:443?security=tls&sni=hl-freedom-2.undef.network&type=ws&host=hl-freedom-2.undef.network&path=/f2fc2a1f#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-442
 trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@hl-freedom-2.undef.network:443/?type=ws&host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&sni=hl-freedom-2.undef.network#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-399
 trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@hl-freedom-2.undef.network:443?security=tls&type=ws&host=hl-freedom-2.undef.network&path=/f2fc2a1f#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-422
+trojan://jNiOgXGnqa@47.245.156.110:36659?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&sni=play.google.com&fp=chrome&pbk=eNSnSb9Keh3BCu6Q7EZtGh7dqf0hvPil8SpySuThymY&sid=4c876caa&allowInsecure=1&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9734
+trojan://jNiOgXGnqa@47.245.156.110:36659?note=---Telegram---@freenettir---Telegram---@freenettir---Telegram---@freenettir---Telegram---@freenettir---&security=reality&sni=play.google.com&fp=chrome&pbk=eNSnSb9Keh3BCu6Q7EZtGh7dqf0hvPil8SpySuThymY&sid=4c876caa&allowInsecure=1&type=tcp@freenettir#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9735
+trojan://jNiOgXGnqa@47.245.156.232:36659?security=reality&pbk=eNSnSb9Keh3BCu6Q7EZtGh7dqf0hvPil8SpySuThymY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=4c876caa#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9736
+trojan://jNiOgXGnqa@cbxpsntbsixt.eu-central-1.clawcloudrun.com:36659?security=reality&pbk=eNSnSb9Keh3BCu6Q7EZtGh7dqf0hvPil8SpySuThymY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=4c876caa#%5BOpenRay%5D%20Dynamic-9737
 trojan://jTT1K.bu%3C(7%26@www.speedtest.net:443?encryption=none&security=tls&sni=022.eleCTrOCEllCo-cf-022.wOrKeRs.DEV&alpn=http%2F1.1&fp=chrome&type=ws&host=022.electrocellco-cf-022.workers.dev&path=%2FeyJqdW5rIjoickdxMEZTZ2pCejVhIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%5BOpenRay%5D%20Dynamic-12027
 trojan://pUF+zmIw0QuRESBPLofx7eOj6Xc49@38.54.82.205:27877/?type=tcp&security=tls&sni=www.metaphysicalmagnet.click#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%AD%20TH-3
 trojan://pUF+zmIw0QuRESBPLofx7eOj6Xc49@38.54.82.205:27877?type=raw&headerType=none&security=tls&sni=www.metaphysicalmagnet.click#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%AD%20TH-4
@@ -453,6 +456,7 @@ trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&path=/&host=dns.g
 trojan://vpn@45.82.14.144:2025?sni=dns.google.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-88
 trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-48
 trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=0&sni=www.semanticstaplegun.click#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20V2CROSS.COM
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-1
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?type=raw&headerType=none&security=tls&sni=www.semanticstaplegun.click#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-2
 trojan://yoi9VG3vimwIPZf4hoYwWJ8SW@free-de-3.undef.network:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=free-de-3.undef.network&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
