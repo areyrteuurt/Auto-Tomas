@@ -2,5 +2,7 @@ ss://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s226.okgg.top:443?encryption=none&type
 ss://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s229.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s229.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u708330ub8e9s229.okgg.top&serviceName=&mode=&alpn=#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3%20VN-15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOTRmMGI2OTE2ZjY3YmRjQDM4LjU0LjE0LjE1NjoxMTIwMQ==#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3%20VN-10
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.136:38388#%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40stairnode
+ss://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%BB%F0%9F%87%B3%20VN%201895ms
 vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s226.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s226.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u708330u3491s226.okgg.top&serviceName=&mode=&alpn=#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3%20VN-16
 vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s229.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s229.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u708330ub8e9s229.okgg.top&serviceName=&mode=&alpn=#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3%20VN-15
+vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%BB%F0%9F%87%B3%20VN%201895ms
