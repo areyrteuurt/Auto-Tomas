@@ -1,4 +1,6 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.28:2053?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in#%F0%9F%87%B7%F0%9F%87%B4%20RO%201180ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.238:2096?encryption=none&security=tls&type=ws&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%20837ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.28:2053?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in#%F0%9F%87%B7%F0%9F%87%B4%20RO%201180ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.238:2096?encryption=none&security=tls&type=ws&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%20837ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.28:2053?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in#%F0%9F%87%B7%F0%9F%87%B4%20RO%201259ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%201170ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.238:2096?encryption=none&security=tls&type=ws&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%201565ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.28:2053?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in#%F0%9F%87%B7%F0%9F%87%B4%20RO%201259ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%201170ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.238:2096?encryption=none&security=tls&type=ws&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%201565ms
