@@ -1,2 +1,2 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.88.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev&fp=chrome#%F0%9F%87%B1%F0%9F%87%BA%20LU%203738ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.88.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev&fp=chrome#%F0%9F%87%B1%F0%9F%87%BA%20LU%203738ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.88.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev&fp=chrome#%F0%9F%87%B1%F0%9F%87%BA%20LU%20786ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.88.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev&fp=chrome#%F0%9F%87%B1%F0%9F%87%BA%20LU%20786ms
