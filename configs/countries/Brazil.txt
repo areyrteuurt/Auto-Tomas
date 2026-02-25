@@ -1,6 +1,6 @@
 ss://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&type=ws#%F0%9F%87%A7%F0%9F%87%B7_BR_%E5%B7%B4%E8%A5%BF
 ss://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&security=tls&sni=pq-brazil1.09vpn.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pq-brazil1.09vpn.com&path=%2Fvless%2F#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-16
-ss://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&security=tls&type=ws&host=pq-brazil1.09vpn.com&path=%2Fvless%2F&sni=pq-brazil1.09vpn.com&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7%20BR%202027ms
+ss://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&security=tls&type=ws&host=pq-brazil1.09vpn.com&path=%2Fvless%2F&sni=pq-brazil1.09vpn.com&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7%20BR%204475ms
 ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-21
 ss://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@77.111.101.80:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&sid=99#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-58
 ss://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@br.pineappled.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&sid=99#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-57
@@ -11,7 +11,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3QDE1Ny4xODUuMTczLjYwOjE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWFjZDk2MGFiOGUzNDA4QDE1Ny4xODUuMTczLjYwOjQ2NzI3#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-42
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.57.90:990#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-27
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#%F0%9F%87%A7%F0%9F%87%B7%20BR%201066ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#%F0%9F%87%A7%F0%9F%87%B7%20BR%202686ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990?#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-61
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-28
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201?#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-49
@@ -21,11 +21,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202?#%5B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202?note=@FreeOnlineVPN#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-63
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-30
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203?#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203?note=@FreeOnlineVPN#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-65
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203?type=tcp#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-54
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11204#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11204?#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-51
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11204?note=@FreeOnlineVPN#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-66
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-32
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205?#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205?note=@FreeOnlineVPN#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-67
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIwQDUuMTg4LjQuMTAzOjExMjA0#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-46
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIwQDUuMTg4LjQuMTAzOjExMjA1#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-37
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIwQDUuMTg4LjQuMTAzOjExMjAx#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-43
@@ -36,7 +39,7 @@ ss://e1628f52-dcbd-417c-90cc-e9266b28ea38@pq-brazil1.09vpn.com:8443?encryption=n
 ss://f24eed0b-d5e0-482c-849b-631f58fdb18c@147.45.116.84:37627?security=reality&encryption=none&pbk=Tzxy8nTg9MTQPSMUK4Tv-sNaynOzewMkGiP6yzGm6AQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=5e17e3dfab75a4d0#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-62
 vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&type=ws#%F0%9F%87%A7%F0%9F%87%B7_BR_%E5%B7%B4%E8%A5%BF
 vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&security=tls&sni=pq-brazil1.09vpn.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pq-brazil1.09vpn.com&path=%2Fvless%2F#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-16
-vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&security=tls&type=ws&host=pq-brazil1.09vpn.com&path=%2Fvless%2F&sni=pq-brazil1.09vpn.com&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7%20BR%202027ms
+vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&security=tls&type=ws&host=pq-brazil1.09vpn.com&path=%2Fvless%2F&sni=pq-brazil1.09vpn.com&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7%20BR%204475ms
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-21
 vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@77.111.101.80:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&sid=99#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-58
 vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@br.pineappled.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&sid=99#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-57

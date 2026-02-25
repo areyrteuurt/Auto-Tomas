@@ -1,6 +1,6 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.28:2053?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in#%F0%9F%87%B7%F0%9F%87%B4%20RO%20834ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%20837ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%20824ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.28:2053?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in#%F0%9F%87%B7%F0%9F%87%B4%20RO%20834ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%20837ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%20824ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%201100ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%202016ms
+ss://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B4%20RO-1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%201100ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F&sni=sni.jpmj.dev#%F0%9F%87%B7%F0%9F%87%B4%20RO%202016ms
+vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B4%20RO-1
