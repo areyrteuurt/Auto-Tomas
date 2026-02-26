@@ -1,2 +1,0 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%A7%F0%9F%87%BF%20BZ%20617ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%A7%F0%9F%87%BF%20BZ%20617ms
