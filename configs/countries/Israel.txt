@@ -6,4 +6,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEzQDUuMTg4LjIyNy4xODoxMTI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUA4OS40Ni4yMzkuMjMxOjk5MA==#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmU1OTVhZWI3YTZhMDM1QDE2My4xNzEuMjEzLjQ3OjEyMDI1#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-35
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1QDE2My4xNzEuMjEzLjQ2OjExMjAx#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-30
+ss://ec5796b3-678b-4b11-9c1d-a53171dfd897@195.20.17.182:443?security=reality&type=tcp&sni=www.python.org&fp=firefox&flow=xtls-rprx-vision&sid=ecd1c97d&pbk=2HWC3TKZmYDORsrGqTTOITNFBp6ANhwgERK6lPcVbic#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-37
 vless://309fa273-6579-4cb2-9143-7cad50401eba@77.91.74.179:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-4
+vless://ec5796b3-678b-4b11-9c1d-a53171dfd897@195.20.17.182:443?security=reality&type=tcp&sni=www.python.org&fp=firefox&flow=xtls-rprx-vision&sid=ecd1c97d&pbk=2HWC3TKZmYDORsrGqTTOITNFBp6ANhwgERK6lPcVbic#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-37
