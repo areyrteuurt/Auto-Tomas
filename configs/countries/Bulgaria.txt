@@ -1,12 +1,8 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@147.78.140.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%A7%F0%9F%87%AC%20BG%203893ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@192.145.29.138:443?encryption=none&security=tls&type=ws&path=%2F%3Fed%3D2560&sni=sni.111000.dynv6.net&fp=chrome#%F0%9F%87%A7%F0%9F%87%AC%20BG%207022ms
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-5
+ss://Telegram@193.148.59.145:8443?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%A7%F0%9F%87%AC%20BG%20831ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@193.135.174.135:990#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAzOC42MC4yNDcuMTUxOjk5MA==#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-4
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlZAMzguMTgwLjIuMTQxOjU0OTk=#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-11
-ss://cca7b91c-0085-4972-8c18-cfbe9be5d376@C18.PRODNSSPEED10.IR:2083?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Love&allowInsecure=0&sni=taran.mehrsazi.ir#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-10
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.78.140.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&sni=sni.jpmj.dev#%F0%9F%87%A7%F0%9F%87%AC%20BG%203893ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.145.29.138:443?encryption=none&security=tls&type=ws&path=%2F%3Fed%3D2560&sni=sni.111000.dynv6.net&fp=chrome#%F0%9F%87%A7%F0%9F%87%AC%20BG%207022ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-5
-vless://cca7b91c-0085-4972-8c18-cfbe9be5d376@C18.PRODNSSPEED10.IR:2083?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Love&allowInsecure=0&sni=taran.mehrsazi.ir#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-10
+vless://Telegram@193.148.59.145:8443?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%A7%F0%9F%87%AC%20BG%20831ms
