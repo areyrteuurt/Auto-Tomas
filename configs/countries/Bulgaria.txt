@@ -1,9 +1,12 @@
+ss://26524cce-d514-4014-a426-365fb266a14d@94.156.35.144:18836?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=_acme-challenge.443888.xyz&sni=_acme-challenge.443888.xyz&fp=random&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-12
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-5
-ss://Telegram@193.148.59.145:8443?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%A7%F0%9F%87%AC%20BG%201177ms
+ss://Telegram@193.148.59.145:8443?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%A7%F0%9F%87%AC%20BG%20939ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@193.135.174.135:990#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAzOC42MC4yNDcuMTUxOjk5MA==#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-4
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#%F0%9F%87%A7%F0%9F%87%AC%20BG%202598ms
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlZAMzguMTgwLjIuMTQxOjU0OTk=#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-11
+vless://26524cce-d514-4014-a426-365fb266a14d@94.156.35.144:18836?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=_acme-challenge.443888.xyz&sni=_acme-challenge.443888.xyz&fp=random&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-12
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AC%20BG-5
-vless://Telegram@193.148.59.145:8443?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%A7%F0%9F%87%AC%20BG%201177ms
+vless://Telegram@193.148.59.145:8443?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%A7%F0%9F%87%AC%20BG%20939ms
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjowLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsInBvcnQiOjE4MCwicHMiOiLwn4es8J+Hp19HQl/oi7Hlm70tPvCfh6fwn4esX0JHX+S/neWKoOWIqeS6miIsInNlY3VyaXR5IjoiYXV0byJ9

@@ -1,0 +1,2 @@
+ss://1f47ba31-eb58-4e53-ab48-77ee85a5ddbf@190.93.245.187:2083?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=gefhjb764hued.afghanestan.ir#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-1
+vless://1f47ba31-eb58-4e53-ab48-77ee85a5ddbf@190.93.245.187:2083?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=gefhjb764hued.afghanestan.ir#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B7%20CR-1
