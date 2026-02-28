@@ -1,4 +1,4 @@
-ss://Telegram@45.192.223.8:2096?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%B2%F0%9F%87%BA%20MU%201184ms
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.196.239.151:443#%F0%9F%87%B2%F0%9F%87%BA%20MU%201740ms
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.196.239.156:443#%F0%9F%87%B2%F0%9F%87%BA%20MU%201746ms
-vless://Telegram@45.192.223.8:2096?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%B2%F0%9F%87%BA%20MU%201184ms
+ss://Telegram@45.192.223.8:2096?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%B2%F0%9F%87%BA%20MU%201360ms
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.196.239.151:443#%F0%9F%87%B2%F0%9F%87%BA%20MU%201959ms
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.196.239.156:443#%F0%9F%87%B2%F0%9F%87%BA%20MU%201861ms
+vless://Telegram@45.192.223.8:2096?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%B2%F0%9F%87%BA%20MU%201360ms

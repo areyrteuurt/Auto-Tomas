@@ -1,2 +1,0 @@
-ss://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:8443?fp=chrome&security=tls&serviceName=grpc-vless&sni=deu469.unboundworld.org&type=grpc#%F0%9F%87%AE%F0%9F%87%B6_IQ_%E4%BC%8A%E6%8B%89%E5%85%8B
-vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:8443?fp=chrome&security=tls&serviceName=grpc-vless&sni=deu469.unboundworld.org&type=grpc#%F0%9F%87%AE%F0%9F%87%B6_IQ_%E4%BC%8A%E6%8B%89%E5%85%8B
