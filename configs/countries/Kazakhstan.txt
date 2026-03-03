@@ -17,6 +17,7 @@ ss://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&e
 ss://aa0cdb77-f1a7-42b8-a6e9-f814e3455137@185.5.74.245:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=nzXYaMxRF8wLEbJalccG2pztuObmhNevTgVBHzl1BC4&sid=41998c23&sni=www.apple.com#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-248
 ss://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-42
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@195.245.221.38:443#%F0%9F%87%B0%F0%9F%87%BF%20KZ%201874ms
+trojan://t7MyWAxNqnFmLuGtFao5Vm6DUtYxM36Y@kz1.nn-id.com:443?security=tls&type=tcp&path=&host=&sni=kz1.nn-id.com&fp=&alpn=h2%2Chttp/1.1#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-256
 trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-56
 trojan://vpn@45.82.14.144:2025?sni=dns.google.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-88
 trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-48
