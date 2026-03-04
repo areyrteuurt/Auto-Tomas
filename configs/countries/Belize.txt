@@ -1,0 +1,2 @@
+ss://bcb3c8f1-df50-4cb9-b9bf-50e6794e6e4e@X11.PRODNSSPEED10.IR:2082?path=%2F&security=none&encryption=none&host=avalin.sodogodping.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%BF%20BZ-1
+vless://bcb3c8f1-df50-4cb9-b9bf-50e6794e6e4e@X11.PRODNSSPEED10.IR:2082?path=%2F&security=none&encryption=none&host=avalin.sodogodping.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%BF%20BZ-1
