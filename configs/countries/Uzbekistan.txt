@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmM4MDFhN2NhYzVmMTM0@93.174.164.89:11201#%F0%9F%87%BA%F0%9F%87%BF%20UZ%201105ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmM4MDFhN2NhYzVmMTM0QDkzLjE3NC4xNjQuODk6MTEyMDE=#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%BF%20UZ-3
+ss://e5a33157-a449-4a25-8bd4-d2b02d66aa38@45.134.217.112:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%BF%20UZ-4
+vless://e5a33157-a449-4a25-8bd4-d2b02d66aa38@45.134.217.112:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%BF%20UZ-4
