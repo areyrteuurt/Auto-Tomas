@@ -1,2 +1,0 @@
-ss://46dbabb0-b074-46ff-83dd-08aab029309b@kg.quattro-tech.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=kg.quattro-tech.ru#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%AC%20KG-1
-vless://46dbabb0-b074-46ff-83dd-08aab029309b@kg.quattro-tech.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=kg.quattro-tech.ru#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%AC%20KG-1
