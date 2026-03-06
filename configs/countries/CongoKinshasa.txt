@@ -1,2 +1,0 @@
-ss://ec5796b3-678b-4b11-9c1d-a53171dfd897@178.253.32.192:8443?security=reality&flow=xtls-rprx-vision&sni=icloud.com&type=tcp&fp=safari&pbk=AxYlyUcDYmVY5zuzWnYUJdTIm6mr76P-RQJjwCgAazw&sid=43be8422bc11fb50#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A9%20CD-1
-vless://ec5796b3-678b-4b11-9c1d-a53171dfd897@178.253.32.192:8443?security=reality&flow=xtls-rprx-vision&sni=icloud.com&type=tcp&fp=safari&pbk=AxYlyUcDYmVY5zuzWnYUJdTIm6mr76P-RQJjwCgAazw&sid=43be8422bc11fb50#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A9%20CD-1
