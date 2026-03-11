@@ -4,5 +4,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47393#%F0%9F%87%BA%F0%9F%87%A6%20UA%201382ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#%F0%9F%87%BA%F0%9F%87%A6%20UA%201083ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47395#%F0%9F%87%BA%F0%9F%87%A6%20UA%201030ms
+ss://e1b7c66e-ba8f-4ac5-bcef-29f60750b8a8@185.147.27.6:843?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&pbk=mtBArpboH_OF7Z_tsIAmNlYTK5h0fjxVsZKz91KE03s&sid=825867&type=tcp#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-2
 vless://656c5e33-02bb-4287-b43f-68d09aca75c7@h.godno.win:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=5UXYTqkrmTeF5FI7WFHWpY0gJZbHF9PdYiqyWtx8Uwc&sid=836e5be9c015c975&sni=h.godno.win&spx=/#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-1
 vless://Telegram@46.202.30.8:2096?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%BA%F0%9F%87%A6%20UA%201287ms
+vless://e1b7c66e-ba8f-4ac5-bcef-29f60750b8a8@185.147.27.6:843?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&pbk=mtBArpboH_OF7Z_tsIAmNlYTK5h0fjxVsZKz91KE03s&sid=825867&type=tcp#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-2

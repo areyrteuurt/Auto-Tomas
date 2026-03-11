@@ -1,3 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.185.37:990#%F0%9F%87%B2%F0%9F%87%B0%20MK%20797ms
-ss://a774f61d-a518-4c61-902f-807797da6caf@maked.uivpn.info:44444?encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=4ZOgn1V-Dor3Fq4hjnKFHkKoEI20A8MUhw0jvJS6-Gk&sid=3456789abcde&spx=%2Fauth%2Fwelcome&type=grpc&authority=&serviceName=PassportAPI&mode=gun#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%B0%20MK-1
-vless://a774f61d-a518-4c61-902f-807797da6caf@maked.uivpn.info:44444?encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=4ZOgn1V-Dor3Fq4hjnKFHkKoEI20A8MUhw0jvJS6-Gk&sid=3456789abcde&spx=%2Fauth%2Fwelcome&type=grpc&authority=&serviceName=PassportAPI&mode=gun#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%B0%20MK-1
