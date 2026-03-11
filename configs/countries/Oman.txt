@@ -1,0 +1,2 @@
+ss://0c0f6c6f-d035-4cd1-97b9-fff39287ce04@143.204.111.65:443?encryption=none&type=ws&host=d1bezfxa40zhk8.cloudfront.net&path=/&security=tls&fp=chrome&sni=d1bezfxa40zhk8.cloudfront.net&alpn=http/1.1#%5BOpenRay%5D%20%F0%9F%87%B4%F0%9F%87%B2%20OM-1
+vless://0c0f6c6f-d035-4cd1-97b9-fff39287ce04@143.204.111.65:443?encryption=none&type=ws&host=d1bezfxa40zhk8.cloudfront.net&path=/&security=tls&fp=chrome&sni=d1bezfxa40zhk8.cloudfront.net&alpn=http/1.1#%5BOpenRay%5D%20%F0%9F%87%B4%F0%9F%87%B2%20OM-1
