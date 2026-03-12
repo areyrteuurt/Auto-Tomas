@@ -1,5 +1,6 @@
 ss://309fa273-6579-4cb2-9143-7cad50401eba@77.91.74.179:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-4
 ss://8b483e0a-4e76-406d-a36d-c7775f8306ff@isr.fastdbn.com:5001?type=grpc&security=reality&fp=qq&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=cdce15b3e2179ce8&sni=portal.3cx.com&mode=gun&serviceName=downloads.3cx.com&authority=downloads.3cx.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-37
+ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@212.80.205.244:8443?&security=tls&fp=random&alpn=http%2F1.1&sni=snippet.fgfw.ccwu.cc&type=ws&headerType=none&host=snippet.fgfw.ccwu.cc&path=%2Fdanfeng#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2QDE2My4xNzEuMjEzLjQ3OjQ2Mjgx#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2QDE2My4xNzEuMjEzLjQ3OjQ2Mjgy#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-32
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTVjNzVjMzVkN2VlOTI5QDE2My4xNzEuMjEzLjQ3OjE5NzAy#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-33
@@ -9,3 +10,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmU1OTVhZWI3YTZhMDM1QDE2My4xNzEuMjEzLjQ3OjE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1QDE2My4xNzEuMjEzLjQ2OjExMjAx#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-30
 vless://309fa273-6579-4cb2-9143-7cad50401eba@77.91.74.179:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-4
 vless://8b483e0a-4e76-406d-a36d-c7775f8306ff@isr.fastdbn.com:5001?type=grpc&security=reality&fp=qq&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=cdce15b3e2179ce8&sni=portal.3cx.com&mode=gun&serviceName=downloads.3cx.com&authority=downloads.3cx.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-37
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@212.80.205.244:8443?&security=tls&fp=random&alpn=http%2F1.1&sni=snippet.fgfw.ccwu.cc&type=ws&headerType=none&host=snippet.fgfw.ccwu.cc&path=%2Fdanfeng#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B1%20IL-38
