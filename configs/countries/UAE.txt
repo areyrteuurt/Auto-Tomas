@@ -1,5 +1,4 @@
 ss://30dc00c9-16c5-4573-b5b2-532940febfd6@89.35.73.250:443?encryption=none&security=reality&type=tcp&sni=www.refersion.com&flow=xtls-rprx-vision&fp=chrome&pbk=8VOdGYUHBgp6ICiOIRo0pjCiCbqO7c6e3MQlXprzjjY&sid=57b127e1#%F0%9F%87%A6%F0%9F%87%AA%20AE%202889ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjliYTNHd0RMLXJuNkRTUTBOLWF3SE5oY3V4YUhQMw@144.31.128.128:4487#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjliYTNHd0RMLXJuNkRTUTBOLWF3SE5oY3V4YUhQMw@144.31.128.128:4487?#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAxNDcuNzguMC4xODI6OTkw#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMVIzaEpFV2VRSkdKTDQyU2FZeTIyQ0MyMXVGdF8weQ@144.31.130.129:9443?#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-19
 vless://30dc00c9-16c5-4573-b5b2-532940febfd6@89.35.73.250:443?encryption=none&security=reality&type=tcp&sni=www.refersion.com&flow=xtls-rprx-vision&fp=chrome&pbk=8VOdGYUHBgp6ICiOIRo0pjCiCbqO7c6e3MQlXprzjjY&sid=57b127e1#%F0%9F%87%A6%F0%9F%87%AA%20AE%202889ms
