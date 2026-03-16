@@ -1,0 +1,1 @@
+trojan://ac1aQZFx47wGJ7sm7fhRmXGS29NbV1oP@poland.pryanik.net.ru:5443?security=reality&type=tcp&path=&host=&sni=sun6-21.userapi.com&fp=&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=&spx=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B6%20IQ-1
