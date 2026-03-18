@@ -30,6 +30,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SW9wblgwd3pFa3JjM1pjVlE5Nzh6@185.39.204.189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SW9wblgwd3pFa3JjM1pjVlE5Nzh6@185.39.204.189:34085/?outline=1#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7%20TR-275
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWliQDIwMy4yMDIuMjMyLjc4OjYwMjk5#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7%20TR-277
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMVIzaEpFV2VRSkdKTDQyU2FZeTIyQ0MyMXVGdF8weUAxNDQuMzEuMTMwLjk5Ojk0NDM=#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7%20TR-358
+ss://YWVzLTI1Ni1nY206U0lLeWtIZmttRHVz@185.141.219.112:8388#%E5%9C%9F%E8%80%B3%E5%85%B6%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 ss://a16bd0e2-ff2e-4e4c-a955-0c684255a065@tr.fasti.win:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tr.fasti.win&fp=chrome&pbk=CL1sSD1RH6k_68fMSltXd2-GhJQ-CX02VSBryK6rjmo&sid=12393b8b177a063d#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7%20TR-305
 ss://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&security=reality&sid=8bcfe256cf216fd8&sni=apple.com&type=tcp#TR%20VLESS-88%20%7C%20free-nodes
 ss://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7%20TR-67
