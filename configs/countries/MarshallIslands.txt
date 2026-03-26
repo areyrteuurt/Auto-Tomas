@@ -1,2 +1,0 @@
-ss://Telegram@185.207.197.8:2096?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%B2%F0%9F%87%AD%20MH%201267ms
-vless://Telegram@185.207.197.8:2096?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%B2%F0%9F%87%AD%20MH%201267ms

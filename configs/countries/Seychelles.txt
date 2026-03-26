@@ -1,3 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTJlNDIzYzU1OWVlZmQ0@156.244.19.94:11201#%F0%9F%87%B8%F0%9F%87%A8%20SC%201953ms
-ss://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?encryption=none&security=tls&type=ws&host=zh.hollowspot.ir&path=%2F&sni=zh.hollowspot.ir#%F0%9F%87%B8%F0%9F%87%A8%20SC%20824ms
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?encryption=none&security=tls&type=ws&host=zh.hollowspot.ir&path=%2F&sni=zh.hollowspot.ir#%F0%9F%87%B8%F0%9F%87%A8%20SC%20824ms
