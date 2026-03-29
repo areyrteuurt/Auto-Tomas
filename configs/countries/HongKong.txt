@@ -39,7 +39,10 @@ ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@8.223.63.150:443?pl
 ss://dbb66087-10c5-451e-8d97-ea179984bce2@79.141.169.152:443?type=tcp&encryption=none&security=reality&pbk=DV5H1RoEhSpU4YqZ6YIzl4NbCI6IGJGPLSCOCkkDR3A&fp=chrome&sni=www.cloudflare.com&sid=a7bf5154&spx=%2F&flow=xtls-rprx-vision#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-962
 trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@221.128.195.221:4419?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@54.168.243.160:21413?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40stairnode
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@54.178.73.158:921?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40stairnode
+trojan://BxceQaOe@18.162.154.71:921?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40stairnode
+trojan://BxceQaOe@18.163.28.243:921?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
 trojan://BxceQaOe@219.76.135.98:443?security=tls&allowInsecure=1&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF
 trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF
 trojan://BxceQaOe@54.168.70.136:6313?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
@@ -57,7 +60,6 @@ trojan://IL37892054@growing-tuna.rooster465.autos:443?type=raw&headerType=none&s
 trojan://IL37892054@growing-tuna.rooster465.autos:443?type=tcp&security=tls&sni=growing-tuna.rooster465.autos&fp=chrome&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-943
 trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-961
 trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&sni=nearby-muskrat.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-966
-trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&sni=nearby-muskrat.rooster465.autos&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&sni=nearby-muskrat.rooster465.autos&type=tcp&headerType=none#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://nodes-d2ac438d@31.192.233.38:8443?security=tls&sni=node-hk-1.v2sv.top&insecure=1&allowInsecure=1&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-965
 vless://1a8c4353-8aa9-4038-99a8-b613ad47000e@hke01.jumperservice.com:19001?security=reality&type=tcp&sni=www.speedtest.org&fp=chrome&flow=xtls-rprx-vision&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-893
