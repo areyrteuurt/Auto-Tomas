@@ -1,5 +1,6 @@
 ss://27f142d8-4ed4-5608-ac23-d0b47f4ee4cb@2.59.219.201:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=7wwQRVkoMP2NGEF_4T1q4sPfwy8_MVcRlDQ21cf3dgs&sid=3eb0d908b9fcdbdb&sni=dell.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-142
 ss://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&encryption=none&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=94f9#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTEA5NS44NS4yMzkuMjI1OjgzODg=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-143
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDM4LjE4MC4xNjEuMTIzOjgxMTk=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-91
 ss://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.239.225:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-140
 ss://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.239.4:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-141
