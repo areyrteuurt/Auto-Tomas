@@ -1,7 +1,9 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?path=/&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#[🏁]t.me/ConfigsHub
+ss://034a8324-8527-4c4a-97b3-7088dc41d766@snapp.ir:80?path=/&security=none&encryption=none&host=dl700tobi.sudoserver.ir&type=ws#[🇮🇷]t.me/ConfigsHub
+ss://4ba9a59a-fd53-4fcd-b206-69ce84abd6f2@verso.legion-bot.site:443?path=/vl/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=verso.legion-bot.site&type=ws&allowInsecure=0&sni=verso.legion-bot.site#[🇮🇷]t.me/ConfigsHub
 ss://8388434b-bbc8-4e00-b497-69a7f56f6e24@141.101.123.40:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&path=%2Fws#https%3A%2F%2Ft.me%2Fzyzzzoao%20%E2%9A%A1%EF%B8%8F
 ss://979b6822-d65a-400d-89f8-30391903ac20@transferwise.com:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&path=%2Fws#https%3A%2F%2Ft.me%2Fzyzzzoao%20%E2%9A%A1%EF%B8%8F
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&allowInsecure=1&type=tcp&headerType=none#https%3A%2F%2Ft.me%2Fzyzzzoao%20%E2%9A%A1%EF%B8%8F
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?path=/&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#[🏁]t.me/ConfigsHub
+vless://034a8324-8527-4c4a-97b3-7088dc41d766@snapp.ir:80?path=/&security=none&encryption=none&host=dl700tobi.sudoserver.ir&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://4ba9a59a-fd53-4fcd-b206-69ce84abd6f2@verso.legion-bot.site:443?path=/vl/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=verso.legion-bot.site&type=ws&allowInsecure=0&sni=verso.legion-bot.site#[🇮🇷]t.me/ConfigsHub
 vless://8388434b-bbc8-4e00-b497-69a7f56f6e24@141.101.123.40:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&path=%2Fws#https%3A%2F%2Ft.me%2Fzyzzzoao%20%E2%9A%A1%EF%B8%8F
 vless://979b6822-d65a-400d-89f8-30391903ac20@transferwise.com:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&path=%2Fws#https%3A%2F%2Ft.me%2Fzyzzzoao%20%E2%9A%A1%EF%B8%8F
