@@ -1,8 +1,6 @@
-ss://698bc4fc-2966-4dbf-bc4f-a0f1df66eab5@cdn8.api-rutube.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=transfiles.ru&fp=chrome&security=reality&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sid=#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-2
 ss://Telegram@46.202.30.8:2096?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%BA%F0%9F%87%A6%20UA%201287ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#%F0%9F%87%BA%F0%9F%87%A6%20UA%201091ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47393#%F0%9F%87%BA%F0%9F%87%A6%20UA%201382ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#%F0%9F%87%BA%F0%9F%87%A6%20UA%201083ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47395#%F0%9F%87%BA%F0%9F%87%A6%20UA%201030ms
-vless://698bc4fc-2966-4dbf-bc4f-a0f1df66eab5@cdn8.api-rutube.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=transfiles.ru&fp=chrome&security=reality&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sid=#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-2
 vless://Telegram@46.202.30.8:2096?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%BA%F0%9F%87%A6%20UA%201287ms
