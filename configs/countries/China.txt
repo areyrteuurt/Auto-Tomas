@@ -1,1 +1,2 @@
 trojan://BxceQaOe@58.152.25.253:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD%E4%B8%A8yoyapai.com
+vmess://eyJhZGQiOiIxMTQuMTMyLjYxLjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiYS4xODkuY24iLCJpZCI6ImI1ZmI2YjhjLWY2ZjgtNDU4ZC1hZDc1LWZkMzZmNTUyNzQ3NCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiW09wZW5SYXldIPCfh6jwn4ezIENOLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
