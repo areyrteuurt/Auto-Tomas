@@ -55,7 +55,7 @@ ss://2bcfbfba-b446-4ad5-93ad-72af9e008f61@188.114.96.3:443?encryption=none&type=
 ss://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=/&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16376
 ss://2f0f84ed-9e4c-40ef-8a6c-286839e11a63@104.18.40.152:8880?encryption=none&type=ws&security=none&path=%2F512&host=hmedrza.ghwhdr51.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16437
 ss://2f0f84ed-9e4c-40ef-8a6c-286839e11a63@172.64.147.104:8880?encryption=none&type=ws&security=none&path=%2F512&host=hmedrza.ghwhdr51.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16427
-ss://3393f372-5dc8-4a10-b9a8-e89d066993b7@cd2.phoneshop98.ir:2053?encryption=none&type=ws&security=tls&path=%2Fws%3Fed%3D2560&host=app.phonepanel.ir&sni=app.phonepanel.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17206
+ss://319e8542-109f-4c0c-89a0-bf10c41b3f1f@104.16.250.22:443?security=tls&sni=do-syd1.862400.xyz&type=ws&host=do-syd1.862400.xyz&path=%2Fannouncement%3Fed%3D2048&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17213
 ss://363a6072-05d7-48d5-8f19-312b05fdd9cd@104.18.13.229:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16850
 ss://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.16.250.22:80?type=ws&host=vip.yaml7.ggff.net&path=%2F&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16968
 ss://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16221
@@ -97,8 +97,6 @@ ss://5238a315-4427-4915-a1de-4978e3029a1c@104.17.147.22:2096?&security=tls&fp=ch
 ss://5238a315-4427-4915-a1de-4978e3029a1c@104.17.148.22:2096?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&host=long-mode-2783.sepna114.workers.dev&fp=chrome&sni=loNg-modE-2783.SEpna114.WOrkERs.dEV#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16368
 ss://53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80?path=%2F&security=&encryption=none&host=c.iamdt.dpdns.org&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16073
 ss://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80/?type=ws&encryption=none&flow=&host=long-forest-ac72.salari1382m.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-15971
-ss://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=%2Findex.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17106
-ss://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?encryption=none&type=ws&host=cdnhtzner.yas-baaq.ir&path=/index.html&security=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17105
 ss://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.254:80?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2048&host=sss.yaml7.ggff.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16712
 ss://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.49:80?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2048&host=sss.yaml7.ggff.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16713
 ss://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@162.159.237.139:80?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2048&host=sss.yaml7.ggff.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16715
@@ -177,6 +175,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUA0NS4xNTQuMjA0Ljc6OTkw#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12687
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUA3OS4xMjcuMjAwLjE2OTo5OTA=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12761
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAyMy45NS43Ni41OTo5OTA=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12688
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.233.170:989#%F0%9F%87%A8%F0%9F%87%A6%20CA%202195ms
 ss://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17074
 ss://a22bff60-a40a-4250-bde2-4c660e363b47@104.17.74.206:2096?encryption=none&type=ws&host=index.harmony702.workers.dev&path=%2Faxcp1cm75o7digvt&security=tls&alpn=http%2F1.1&sni=INdex.HArmony702.WoRkeRS.Dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-14530
 ss://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=/&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16542
@@ -208,6 +207,7 @@ ss://ce035748-9913-40c9-9fb6-c8389f7cdcf3@104.17.148.22:2083?allowInsecure=1&enc
 ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@172.67.65.241:443?security=tls&type=ws&path=%2Fproxyip%3DProxyIP.DE.owg.dpdns.org&host=3-7ny.pages.dev&sni=3-7ny.pages.dev&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17157
 ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cloudflare.idc.rocks:443?encryption=none&security=tls&sni=1-gjo.pages.dev&insecure=0&allowInsecure=0&type=ws&host=1-gjo.pages.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17034
 ss://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16588
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20CA%202227ms
 ss://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?security=tls&sni=azadnet-1ml.pages.dev&type=ws&host=azadnet-1ml.pages.dev&path=%2Fazadnet-1ml.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&fp=randomized#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11899
 ss://d082b5e0-2435-4599-b935-d2c2b70beb67@188.114.96.3:443?encryption=none&type=ws&security=tls&host=purple-mrvpn294x.mrvpnandamir294.workers.dev&fp=chrome&sni=purple-mrvpn294x.mrvpnandamir294.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16645
 ss://d082b5e0-2435-4599-b935-d2c2b70beb67@188.114.97.3:443?encryption=none&type=ws&security=tls&host=purple-mrvpn294x.mrvpnandamir294.workers.dev&fp=chrome&sni=purple-mrvpn294x.mrvpnandamir294.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16666
@@ -343,7 +343,7 @@ vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@188.114.96.3:443?encryption=none&ty
 vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=/&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16376
 vless://2f0f84ed-9e4c-40ef-8a6c-286839e11a63@104.18.40.152:8880?encryption=none&type=ws&security=none&path=%2F512&host=hmedrza.ghwhdr51.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16437
 vless://2f0f84ed-9e4c-40ef-8a6c-286839e11a63@172.64.147.104:8880?encryption=none&type=ws&security=none&path=%2F512&host=hmedrza.ghwhdr51.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16427
-vless://3393f372-5dc8-4a10-b9a8-e89d066993b7@cd2.phoneshop98.ir:2053?encryption=none&type=ws&security=tls&path=%2Fws%3Fed%3D2560&host=app.phonepanel.ir&sni=app.phonepanel.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17206
+vless://319e8542-109f-4c0c-89a0-bf10c41b3f1f@104.16.250.22:443?security=tls&sni=do-syd1.862400.xyz&type=ws&host=do-syd1.862400.xyz&path=%2Fannouncement%3Fed%3D2048&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17213
 vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@104.18.13.229:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16850
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.16.250.22:80?type=ws&host=vip.yaml7.ggff.net&path=%2F&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16968
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16221
@@ -385,8 +385,6 @@ vless://5238a315-4427-4915-a1de-4978e3029a1c@104.17.147.22:2096?&security=tls&fp
 vless://5238a315-4427-4915-a1de-4978e3029a1c@104.17.148.22:2096?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&host=long-mode-2783.sepna114.workers.dev&fp=chrome&sni=loNg-modE-2783.SEpna114.WOrkERs.dEV#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16368
 vless://53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80?path=%2F&security=&encryption=none&host=c.iamdt.dpdns.org&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16073
 vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80/?type=ws&encryption=none&flow=&host=long-forest-ac72.salari1382m.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-15971
-vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=%2Findex.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17106
-vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?encryption=none&type=ws&host=cdnhtzner.yas-baaq.ir&path=/index.html&security=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17105
 vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.254:80?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2048&host=sss.yaml7.ggff.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16712
 vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.49:80?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2048&host=sss.yaml7.ggff.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16713
 vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@162.159.237.139:80?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2048&host=sss.yaml7.ggff.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16715
