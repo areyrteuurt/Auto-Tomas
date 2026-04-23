@@ -1,4 +1,4 @@
-ss://42add63b-deda-4e71-aa48-ddd288181858@114.129.43.41:443?encryption=none&security=tls&type=ws&host=edtunnel-eiz.pages.dev&sni=edtunnel-eiz.pages.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%202253ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&sni=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%202276ms
-vless://42add63b-deda-4e71-aa48-ddd288181858@114.129.43.41:443?encryption=none&security=tls&type=ws&host=edtunnel-eiz.pages.dev&sni=edtunnel-eiz.pages.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%202253ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&sni=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%202276ms
+ss://42add63b-deda-4e71-aa48-ddd288181858@114.129.43.41:443?encryption=none&security=tls&type=ws&host=edtunnel-eiz.pages.dev&sni=edtunnel-eiz.pages.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%202080ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&sni=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%202071ms
+vless://42add63b-deda-4e71-aa48-ddd288181858@114.129.43.41:443?encryption=none&security=tls&type=ws&host=edtunnel-eiz.pages.dev&sni=edtunnel-eiz.pages.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%202080ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&sni=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%202071ms
