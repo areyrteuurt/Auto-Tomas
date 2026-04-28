@@ -1,8 +1,8 @@
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@195.26.229.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-1
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-2
-ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#%F0%9F%87%A8%F0%9F%87%BE%20CY%204495ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@134.255.210.49:990#%F0%9F%87%A8%F0%9F%87%BE%20CY%201856ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@91.148.135.31:990#%F0%9F%87%A8%F0%9F%87%BE%20CY%201861ms
+ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#%F0%9F%87%A8%F0%9F%87%BE%20CY%202310ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@134.255.210.49:990#%F0%9F%87%A8%F0%9F%87%BE%20CY%202000ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@91.148.135.31:990#%F0%9F%87%A8%F0%9F%87%BE%20CY%202195ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.26.229.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-2
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#%F0%9F%87%A8%F0%9F%87%BE%20CY%204495ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#%F0%9F%87%A8%F0%9F%87%BE%20CY%202310ms
