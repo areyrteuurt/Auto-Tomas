@@ -1,2 +1,3 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#%F0%9F%87%B3%F0%9F%87%B4%20NO%201701ms
 ss://cca617a2-ede0-4855-a2ef-cc7f218ba75d@long-forest.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=GFKdmtxlB5JubXEfTy6PNIeuqN8ys53SPwV3zat3Fzg&sid=3c6a5f13df37ed6e&sni=winter-pine.long-forest.ru&spx=/#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-15
 vless://cca617a2-ede0-4855-a2ef-cc7f218ba75d@long-forest.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=GFKdmtxlB5JubXEfTy6PNIeuqN8ys53SPwV3zat3Fzg&sid=3c6a5f13df37ed6e&sni=winter-pine.long-forest.ru&spx=/#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-15
