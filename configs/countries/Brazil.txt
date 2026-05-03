@@ -4,6 +4,7 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.133.35.30:8880?type=ws&security=no
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.57.90:990#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990?#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-61
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7%20BR%202408ms
 ss://f2f2ea82-25a8-4d6a-87a9-b8f09ba8eac2@45.194.71.234:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=50e09046c0c00159&sni=rbc.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-95
 ss://f2f2ea82-25a8-4d6a-87a9-b8f09ba8eac2@45.194.71.234:8443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=50e09046c0c00159&sni=rbc.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-96
 ss://f2f2ea82-25a8-4d6a-87a9-b8f09ba8eac2@pl-dp-01.online:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=50e09046c0c00159&sni=rbc.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-94
