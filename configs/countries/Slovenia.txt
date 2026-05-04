@@ -1,11 +1,6 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202541ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AE%20SI%202380ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AE%20SI%203551ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AE%20SI%202472ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202449ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AE%20SI%202475ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202541ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AE%20SI%202380ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AE%20SI%203551ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AE%20SI%202472ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202449ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202396ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AE%20SI%202315ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202345ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202396ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AE%20SI%202315ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202345ms
