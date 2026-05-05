@@ -1,7 +1,1 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202859ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AE%20SI%202265ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202205ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AE%20SI%202180ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202859ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AE%20SI%202265ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202205ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AE%20SI%202517ms
