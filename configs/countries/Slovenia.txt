@@ -1,8 +1,4 @@
-ss://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?encryption=none&security=none&type=ws&host=29.alij47649.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%AE%20SI%202261ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202163ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AE%20SI%201950ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202294ms
-vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?encryption=none&security=none&type=ws&host=29.alij47649.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%AE%20SI%202261ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202163ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AE%20SI%201950ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202294ms
+ss://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?encryption=none&security=none&type=ws&host=29.alij47649.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%AE%20SI%202187ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202193ms
+vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?encryption=none&security=none&type=ws&host=29.alij47649.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%AE%20SI%202187ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20SI%202193ms
