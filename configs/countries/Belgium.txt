@@ -1,2 +1,5 @@
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@150.251.147.97:8443?encryption=none&security=tls&type=ws&host=sni.111000.v6.army&path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3%3D&sni=sni.111000.v6.army#%F0%9F%87%A7%F0%9F%87%AA%20BE%201387ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AA%20BE%20969ms
 ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@128.127.180.105:443?type=ws&security=tls&fp=chrome&sni=1-jk1.pages.dev&host=1-jk1.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AA%20BE-3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.251.147.97:8443?encryption=none&security=tls&type=ws&host=sni.111000.v6.army&path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3%3D&sni=sni.111000.v6.army#%F0%9F%87%A7%F0%9F%87%AA%20BE%201387ms
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@128.127.180.105:443?type=ws&security=tls&fp=chrome&sni=1-jk1.pages.dev&host=1-jk1.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AA%20BE-3
