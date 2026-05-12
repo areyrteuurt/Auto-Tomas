@@ -1,6 +1,4 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.196.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome#%F0%9F%87%B2%F0%9F%87%AD%20MH%202682ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.199.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B2%F0%9F%87%AD%20MH%202435ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.199.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B2%F0%9F%87%AD%20MH%202304ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.196.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome#%F0%9F%87%B2%F0%9F%87%AD%20MH%202682ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.199.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B2%F0%9F%87%AD%20MH%202435ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.199.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B2%F0%9F%87%AD%20MH%202304ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.196.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome#%F0%9F%87%B2%F0%9F%87%AD%20MH%202109ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.199.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B2%F0%9F%87%AD%20MH%201834ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.196.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome#%F0%9F%87%B2%F0%9F%87%AD%20MH%202109ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.199.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%B2%F0%9F%87%AD%20MH%201834ms
