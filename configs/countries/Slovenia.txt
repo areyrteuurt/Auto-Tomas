@@ -1,3 +1,2 @@
-ss://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?encryption=none&security=none&type=ws&host=29.alij47649.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%AE%20SI%201682ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AE%20SI%201904ms
-vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?encryption=none&security=none&type=ws&host=29.alij47649.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%AE%20SI%201682ms
+ss://d61b605c-e186-483e-ae53-7deaf7c56098@vpn-1.usp-vpn.store:443?security=reality&encryption=none&echfq=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vpn-1.usp-vpn.store&sid=90cfb50d12729375#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AE%20SI-1
+vless://d61b605c-e186-483e-ae53-7deaf7c56098@vpn-1.usp-vpn.store:443?security=reality&encryption=none&echfq=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vpn-1.usp-vpn.store&sid=90cfb50d12729375#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AE%20SI-1
