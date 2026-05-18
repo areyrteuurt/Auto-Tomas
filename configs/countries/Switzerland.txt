@@ -1,4 +1,5 @@
 ss://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-110
+ss://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?encryption=none&security=tls&type=ws&host=edt2-lgy.pages.dev&path=%2F&sni=edt2-lgy.pages.dev#%F0%9F%87%A8%F0%9F%87%AD%20CH%206514ms
 ss://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&encryption=none&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=94f9#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@193.151.108.76:8388#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-126
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@193.151.108.76:8388?#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-130
@@ -21,6 +22,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@45.59.117.238:8443?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.192.102.55:443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-128
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.192.102.55:443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%E7%91%9E%E5%A3%AB%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com
 vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-110
+vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?encryption=none&security=tls&type=ws&host=edt2-lgy.pages.dev&path=%2F&sni=edt2-lgy.pages.dev#%F0%9F%87%A8%F0%9F%87%AD%20CH%206514ms
 vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&encryption=none&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=94f9#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-6
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@103.227.84.1:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-127
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-95
