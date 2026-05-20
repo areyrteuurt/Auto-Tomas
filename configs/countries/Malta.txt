@@ -1,6 +1,7 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B2%F0%9F%87%B9%20MT%201427ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F&sni=sni.111000.indevs.in#%F0%9F%87%B2%F0%9F%87%B9%20MT%201258ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B2%F0%9F%87%B9%20MT%202903ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B2%F0%9F%87%B9%20MT%201427ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F&sni=sni.111000.indevs.in#%F0%9F%87%B2%F0%9F%87%B9%20MT%201258ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B2%F0%9F%87%B9%20MT%202903ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B2%F0%9F%87%B9%20MT%201506ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F&sni=sni.111000.indevs.in#%F0%9F%87%B2%F0%9F%87%B9%20MT%201806ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B2%F0%9F%87%B9%20MT%202416ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989#%F0%9F%87%B2%F0%9F%87%B9%20MT%202280ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B2%F0%9F%87%B9%20MT%201506ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&path=%2F&sni=sni.111000.indevs.in#%F0%9F%87%B2%F0%9F%87%B9%20MT%201806ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&type=ws&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%B2%F0%9F%87%B9%20MT%202416ms
