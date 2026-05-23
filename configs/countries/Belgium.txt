@@ -1,3 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AA%20BE%204470ms
-ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@128.127.180.105:443?encryption=none&security=tls&type=ws&host=1-jk1.pages.dev&sni=1-jk1.pages.dev&fp=chrome#%F0%9F%87%A7%F0%9F%87%AA%20BE%201287ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@128.127.180.105:443?encryption=none&security=tls&type=ws&host=1-jk1.pages.dev&sni=1-jk1.pages.dev&fp=chrome#%F0%9F%87%A7%F0%9F%87%AA%20BE%201287ms
+ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@128.127.180.105:443?encryption=none&security=tls&type=ws&host=1-jk1.pages.dev&sni=1-jk1.pages.dev&fp=chrome#%F0%9F%87%A7%F0%9F%87%AA%20BE%201534ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@128.127.180.105:443?encryption=none&security=tls&type=ws&host=1-jk1.pages.dev&sni=1-jk1.pages.dev&fp=chrome#%F0%9F%87%A7%F0%9F%87%AA%20BE%201534ms
