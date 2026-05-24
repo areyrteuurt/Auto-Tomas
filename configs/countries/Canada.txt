@@ -133,6 +133,7 @@ ss://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80/?type=ws&encryption=n
 ss://57d94cf7-ca36-4c2a-bec5-90cf38588cda@15.223.121.250:41087?type=tcp&encryption=none&security=reality&pbk=aoGL5vNnsEuKoBXQFXyHTxjvcdAn3SxT4qUgV6aJxnw&fp=firefox&sni=www.tesla.com&sid=190d259bbd40d4c3&spx=/&flow=xtls-rprx-vision#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17568
 ss://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.19.229.21:2095?path=/ed=2560&security=none&encryption=none&host=Kingdom.turbooo-server.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17652
 ss://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.19.229.21:8443?path=/&security=tls&encryption=none&insecure=0&host=Kingdom.turbooo-server.com&type=ws&allowInsecure=0&sni=Kingdom.turbooo-server.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17651
+ss://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.145.59:80?type=ws&host=sss.yaml7.ggff.net&path=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17699
 ss://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.150.99:80?type=ws&host=sss.yaml7.ggff.net&path=/?ed=2048#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17322
 ss://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.254:80?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2048&host=sss.yaml7.ggff.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16712
 ss://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.49:80?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2048&host=sss.yaml7.ggff.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16713
@@ -640,6 +641,7 @@ vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80/?type=ws&encryptio
 vless://57d94cf7-ca36-4c2a-bec5-90cf38588cda@15.223.121.250:41087?type=tcp&encryption=none&security=reality&pbk=aoGL5vNnsEuKoBXQFXyHTxjvcdAn3SxT4qUgV6aJxnw&fp=firefox&sni=www.tesla.com&sid=190d259bbd40d4c3&spx=/&flow=xtls-rprx-vision#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17568
 vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.19.229.21:2095?path=/ed=2560&security=none&encryption=none&host=Kingdom.turbooo-server.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17652
 vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.19.229.21:8443?path=/&security=tls&encryption=none&insecure=0&host=Kingdom.turbooo-server.com&type=ws&allowInsecure=0&sni=Kingdom.turbooo-server.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17651
+vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.145.59:80?type=ws&host=sss.yaml7.ggff.net&path=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17699
 vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.150.99:80?type=ws&host=sss.yaml7.ggff.net&path=/?ed=2048#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17322
 vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.254:80?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2048&host=sss.yaml7.ggff.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16712
 vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.49:80?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2048&host=sss.yaml7.ggff.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16713
