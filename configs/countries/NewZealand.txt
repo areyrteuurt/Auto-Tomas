@@ -1,4 +1,4 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%201391ms
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&sni=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%203146ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%201391ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&sni=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%203146ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3FTelegram%40WangCai2%3D&sni=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%201047ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%201426ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3FTelegram%40WangCai2%3D&sni=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%201047ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&sni=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%BF%20NZ%201426ms
