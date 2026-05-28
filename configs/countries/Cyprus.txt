@@ -7,7 +7,6 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@77.37.33.40:8880?host=vms.lifetime57.w
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@77.37.33.40:8880?host=vms.lifetime57.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#%F0%9F%87%A8%F0%9F%87%BE_CY_%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@77.37.33.50:8880?host=vms.lifetime57.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-8
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-10
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?encryption=none&security=none&type=ws&host=cnmfangbinxingnmsl.cnm-fangbinxing--nmsl.workers.dev&path=%2F#%F0%9F%87%A8%F0%9F%87%BE%20CY%20821ms
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l12.l-itx.info:7443?type=grpc&headerType=none&security=reality&encryption=none&sni=colorlib.com&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&serviceName=xyz#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-11
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.239.72.30:8880?type=ws&security=none&host=vms.lifetime52.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-6
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime58.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-4
@@ -17,4 +16,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.37.33.40:8880?host=vms.lifetime5
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.37.33.40:8880?host=vms.lifetime57.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#%F0%9F%87%A8%F0%9F%87%BE_CY_%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.37.33.50:8880?host=vms.lifetime57.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-8
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BE%20CY-10
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?encryption=none&security=none&type=ws&host=cnmfangbinxingnmsl.cnm-fangbinxing--nmsl.workers.dev&path=%2F#%F0%9F%87%A8%F0%9F%87%BE%20CY%20821ms
