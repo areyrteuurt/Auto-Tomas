@@ -1,13 +1,4 @@
-hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@150.129.10.140:443?sni=s614.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-1298%20%7C%20free-nodes
-hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@[2a04:52c0:139:ea24:13b7:8f0a:5c2e:d649]:443?sni=ipv6s618.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-1282%20%7C%20free-nodes
-hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s473.okgfw.top:443?sni=s473.okgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-1312%20%7C%20free-nodes
-hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s545.ccgfw.online:443?sni=s545.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-1302%20%7C%20free-nodes
-hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s663.ccgfw.top:443?sni=s663.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#DE%20HY2-1287%20%7C%20free-nodes
-hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s667.ccgfw.top:443?sni=s667.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#DE%20HY2-1289%20%7C%20free-nodes
-hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s844.ccgfw.top:443?sni=s844.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-1326%20%7C%20free-nodes
-hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s888.okgfw.top:443?sni=s888.okgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-1305%20%7C%20free-nodes
-hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s893.ayxj.top:443?sni=s893.ayxj.top&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-1306%20%7C%20free-nodes
-hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s896.ayxj.top:443?sni=s896.ayxj.top&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-1307%20%7C%20free-nodes
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%E4%B8%AD%E5%9C%8B%E8%87%BA%E7%81%A3%E4%B8%A8yoyapai.com
 hysteria2://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@134.195.101.191:443?sni=www.apple.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_1%20%7C%20%E2%AC%87%EF%B8%8F%2010.0MB%2Fs
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?allow_insecure=1&allowInsecure=1&insecure=1&sni=vpn-jp-001.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-002.fastervpn.world:443?allow_insecure=1&allowInsecure=1&insecure=1&sni=vpn-jp-002.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
