@@ -1,2 +1,2 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime04.workers.dev&path=%2F#%F0%9F%87%B3%F0%9F%87%BF%20NZ%201877ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime04.workers.dev&path=%2F#%F0%9F%87%B3%F0%9F%87%BF%20NZ%201877ms
+ss://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?encryption=none&security=tls&type=ws&host=m.udemy.com.cyylr.eu.cc&path=%2Fid-tksi&sni=m.udemy.com.cyylr.eu.cc&fp=chrome#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20924ms
+vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?encryption=none&security=tls&type=ws&host=m.udemy.com.cyylr.eu.cc&path=%2Fid-tksi&sni=m.udemy.com.cyylr.eu.cc&fp=chrome#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20924ms
