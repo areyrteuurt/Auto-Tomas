@@ -1,2 +1,0 @@
-ss://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?encryption=none&security=tls&type=ws&host=m.udemy.com.cyylr.eu.cc&path=%2Fid-tksi&sni=m.udemy.com.cyylr.eu.cc&fp=chrome#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20924ms
-vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?encryption=none&security=tls&type=ws&host=m.udemy.com.cyylr.eu.cc&path=%2Fid-tksi&sni=m.udemy.com.cyylr.eu.cc&fp=chrome#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20924ms
