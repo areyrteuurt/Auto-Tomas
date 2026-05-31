@@ -1,5 +1,3 @@
-ss://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?&security=reality&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&sid=106c&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#%F0%9F%87%BA%F0%9F%87%A6%20%E4%B9%8C%E5%85%8B%E5%85%B0%20starcorenode.com
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.30:8880?type=ws&host=vms.lifetime07.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHbnpXUkFKTGlvYnB0MEJpaUVQTFNUQDEzMC4wLjIzMy4xMDA6MzM2MTA=#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-2
-vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?&security=reality&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&sid=106c&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#%F0%9F%87%BA%F0%9F%87%A6%20%E4%B9%8C%E5%85%8B%E5%85%B0%20starcorenode.com
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.30:8880?type=ws&host=vms.lifetime07.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-1
