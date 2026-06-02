@@ -1,3 +1,4 @@
+ss://14a59796-6db6-4c48-b4d5-2c7b875074c1@94.183.159.166:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&fp=firefox&pbk=rFb2hsGZE0KGim0_MMIfeKMnYTjKH2llqtN4uDUaTj0&sid=4d05e319b074645b&spx=%2Fapi%2Fv2&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-41
 ss://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@94.183.153.83:55013?security=reality&sni=www.digikala.com&type=raw&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sid=c385#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-7
 ss://27525e31-304b-4097-a5ce-3b947966d7a5@pg.nexorainnovationhub.ir:80?encryption=none&type=ws&path=%2F&host=germany2.lezzaluxa.ir#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-18
 ss://280cf6f3-fb18-4155-98bf-c03d7719fc4a@95.38.234.52:35439?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-38
@@ -27,6 +28,7 @@ ss://d430e22c-99f6-4256-b5fa-061ebf28f42d@serv35.strettenvpn.com:443?encryption=
 ss://d9771e9a-22f4-4ab7-9c30-034feab035ea@193.151.155.147:49944?security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-4
 ss://e13b6d1d-49c4-4c2a-97f4-31a6a699137d@185.143.234.234:2082?encryption=none&host=trk.sampc1.ir&path=%2Fping&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-28
 ss://ebc71567-3f9e-406e-af2f-e29d832036b0@c.garantitalaie.ir:17384?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-21
+vless://14a59796-6db6-4c48-b4d5-2c7b875074c1@94.183.159.166:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&fp=firefox&pbk=rFb2hsGZE0KGim0_MMIfeKMnYTjKH2llqtN4uDUaTj0&sid=4d05e319b074645b&spx=%2Fapi%2Fv2&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-41
 vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@94.183.153.83:55013?security=reality&sni=www.digikala.com&type=raw&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sid=c385#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-7
 vless://27525e31-304b-4097-a5ce-3b947966d7a5@pg.nexorainnovationhub.ir:80?encryption=none&type=ws&path=%2F&host=germany2.lezzaluxa.ir#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-18
 vless://280cf6f3-fb18-4155-98bf-c03d7719fc4a@95.38.234.52:35439?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-38
