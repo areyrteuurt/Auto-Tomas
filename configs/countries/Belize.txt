@@ -1,2 +1,4 @@
 ss://4a2657fb-da52-494f-8af8-92005b423b6f@k11.fastspeeds.ir:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&sni=f-watashi-r-jacket-o-people-jan.saft89.ir&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%BF%20BZ-3
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime07.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%87%A7%F0%9F%87%BF%20BZ%20655ms
 vless://4a2657fb-da52-494f-8af8-92005b423b6f@k11.fastspeeds.ir:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&sni=f-watashi-r-jacket-o-people-jan.saft89.ir&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%BF%20BZ-3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime07.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%87%A7%F0%9F%87%BF%20BZ%20655ms
