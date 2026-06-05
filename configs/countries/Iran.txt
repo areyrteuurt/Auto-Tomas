@@ -5,7 +5,6 @@ ss://653b782e-dbd8-4293-b950-b05128e8ac08@irpro.samanpy.ir:17555?security=none&e
 ss://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.233.122:80?security=none&type=ws&path=/ws&host=gre.greentab.ir&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-52
 ss://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.234.122:80?security=none&type=ws&path=/ws&host=gre.greentab.ir&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-53
 ss://70d47995-3b31-4da3-a76b-804df83c71ba@185.143.234.200:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.namavax.ir&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-55
-ss://7138233b-1e01-5507-b5de-f41286090bad@185.143.235.201:8880?security=none&allowInsecure=0&encryption=none&type=ws&host=sport.mr100tomani.ir&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-40
 ss://7938b3fe-1169-4ed2-86ad-748f104d55b3@185.143.235.253:2082?security=none&type=ws&headerType=&path=/TV&host=eLaHiToKoMaKkOn2.aRvHaMrAh.iR#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-64
 ss://7938b3fe-1169-4ed2-86ad-748f104d55b3@185.143.235.253:2095?security=none&type=ws&headerType=&path=/TV&host=eLaHiToKoMaKkOn.aRvHaMrAh.iR#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62
 ss://82458838-3510-4666-9b95-bcf503cc380c@185.143.234.235:8880?path=/download&security=none&encryption=none&host=dl.filmplus.top&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-45
@@ -24,7 +23,6 @@ vless://653b782e-dbd8-4293-b950-b05128e8ac08@irpro.samanpy.ir:17555?security=non
 vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.233.122:80?security=none&type=ws&path=/ws&host=gre.greentab.ir&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-52
 vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.234.122:80?security=none&type=ws&path=/ws&host=gre.greentab.ir&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-53
 vless://70d47995-3b31-4da3-a76b-804df83c71ba@185.143.234.200:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.namavax.ir&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-55
-vless://7138233b-1e01-5507-b5de-f41286090bad@185.143.235.201:8880?security=none&allowInsecure=0&encryption=none&type=ws&host=sport.mr100tomani.ir&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-40
 vless://7938b3fe-1169-4ed2-86ad-748f104d55b3@185.143.235.253:2082?security=none&type=ws&headerType=&path=/TV&host=eLaHiToKoMaKkOn2.aRvHaMrAh.iR#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-64
 vless://7938b3fe-1169-4ed2-86ad-748f104d55b3@185.143.235.253:2095?security=none&type=ws&headerType=&path=/TV&host=eLaHiToKoMaKkOn.aRvHaMrAh.iR#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62
 vless://82458838-3510-4666-9b95-bcf503cc380c@185.143.234.235:8880?path=/download&security=none&encryption=none&host=dl.filmplus.top&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-45

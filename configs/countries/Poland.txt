@@ -1,3 +1,4 @@
+ss://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1261
 ss://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1252
 ss://04648e46-bb05-48e8-8a0e-c8ba9f74ae43@54.38.136.47:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1253
 ss://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1254
@@ -46,6 +47,7 @@ trojan://Nova-Proxy@45.144.48.182:8443?fp=random&host=broad-lab-d61d.airdrop2014
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1233
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&sni=64.176.65.85&fp=chrome&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1204
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?type=tcp&security=tls&sni=64.176.65.85&fp=chrome&alpn=http%252F1.1&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1237
+vless://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1261
 vless://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1252
 vless://04648e46-bb05-48e8-8a0e-c8ba9f74ae43@54.38.136.47:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1253
 vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1254
