@@ -13,6 +13,7 @@ ss://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.98:4443?security=none&type=
 ss://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.99:4443?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1387
 ss://14a59796-6db6-4c48-b4d5-2c7b875074c1@46.226.161.7:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&fp=firefox&pbk=rFb2hsGZE0KGim0_MMIfeKMnYTjKH2llqtN4uDUaTj0&sid=4d05e319b074645b&spx=%2Fapi%2Fv2&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1370
 ss://17451fec-af94-4715-8c2f-7f6839130d0a@150.241.75.255:2040?security=reality&type=tcp&sni=tradingview.com&fp=qq&sid=53197c66aef53c44&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1369
+ss://1765d869-0315-4124-a385-744168f9dc20@31.22.91.203:7443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vega.relead.org&fp=chrome&pbk=qTfZpilVyQrFDIgxmEsd18Ph3c_-8O-R_af4o_WQ_Tg&sid=f74c6a18133e2e72&spx=/#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1391
 ss://1e865d4f-dfc3-5cae-bc29-344e2c971900@89.22.236.213:54346?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1313
 ss://1e865d4f-dfc3-5cae-bc29-344e2c971900@89.22.236.213:54346?type=tcp&encryption=none&fp=chrome&alpn=http%252F1.1&headerType=none&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1366
 ss://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@89.22.236.213:666?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1363
@@ -56,6 +57,7 @@ vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.98:4443?security=none&ty
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.99:4443?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1387
 vless://14a59796-6db6-4c48-b4d5-2c7b875074c1@46.226.161.7:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&fp=firefox&pbk=rFb2hsGZE0KGim0_MMIfeKMnYTjKH2llqtN4uDUaTj0&sid=4d05e319b074645b&spx=%2Fapi%2Fv2&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1370
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@150.241.75.255:2040?security=reality&type=tcp&sni=tradingview.com&fp=qq&sid=53197c66aef53c44&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1369
+vless://1765d869-0315-4124-a385-744168f9dc20@31.22.91.203:7443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vega.relead.org&fp=chrome&pbk=qTfZpilVyQrFDIgxmEsd18Ph3c_-8O-R_af4o_WQ_Tg&sid=f74c6a18133e2e72&spx=/#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1391
 vless://1e865d4f-dfc3-5cae-bc29-344e2c971900@89.22.236.213:54346?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1313
 vless://1e865d4f-dfc3-5cae-bc29-344e2c971900@89.22.236.213:54346?type=tcp&encryption=none&fp=chrome&alpn=http%252F1.1&headerType=none&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1366
 vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@89.22.236.213:666?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1363
