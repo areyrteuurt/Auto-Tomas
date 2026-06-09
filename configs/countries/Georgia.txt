@@ -1,2 +1,4 @@
+ss://36af4874-d6a3-4f7c-82a7-1cb724961b52@206.53.48.65:443?host=linek.perry.us.kg&path=%2Farchives%2Fproducts%2Fseller&security=tls&sni=linek.perry.us.kg&type=ws#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%AA%20GE-1
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%AC%F0%9F%87%AA_GE_%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@206.53.48.65:443?host=linek.perry.us.kg&path=%2Farchives%2Fproducts%2Fseller&security=tls&sni=linek.perry.us.kg&type=ws#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%AA%20GE-1
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%AC%F0%9F%87%AA_GE_%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A
