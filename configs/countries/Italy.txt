@@ -9,8 +9,6 @@ ss://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?security=none&type=ws
 ss://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?security=none&type=ws&path=/vless/&host=OV-Italy1.09vpn.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-151
 ss://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-64
 ss://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?type=ws&path=%2Fvless%2F&host=OV-Italy1.09vpn.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-90
-ss://1e5f79bd-0c18-492e-848c-b07b5b7d2afe@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-196
-ss://1e5f79bd-0c18-492e-848c-b07b5b7d2afe@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-213
 ss://20091933-9d08-4419-904f-0ce76c51f698@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-197
 ss://20091933-9d08-4419-904f-0ce76c51f698@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-214
 ss://2ea42ef7-13c4-4be8-8f16-45eb577657ec@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-198
@@ -26,14 +24,10 @@ ss://36af4874-d6a3-4f7c-82a7-1cb724961b52@89.46.70.46:443?fp=chrome&host=linek.p
 ss://3be38f92-c6ca-4845-b6d5-6ce191eb37c5@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-199
 ss://3be38f92-c6ca-4845-b6d5-6ce191eb37c5@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-216
 ss://4437ae12-60cd-4756-92b0-db747c2a2a79@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-200
-ss://4437ae12-60cd-4756-92b0-db747c2a2a79@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-217
 ss://476d4f2c-c5f9-4ae0-8241-2034cd7d403f@57.131.38.150:9443?encryption=none&type=ws&security=tls&path=%2Fstream%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&host=it.connfull.org&sni=it.connfull.org&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-234
 ss://503505f7-0a32-44cc-96f2-3d50aa6b6d02@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-201
 ss://503505f7-0a32-44cc-96f2-3d50aa6b6d02@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-218
-ss://5e240a97-08d5-45ce-845b-6f84bedfe991@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-208
-ss://5e240a97-08d5-45ce-845b-6f84bedfe991@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-219
 ss://6b32c7ea-02f9-4650-bb1b-b2020c1a830c@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-202
-ss://6b32c7ea-02f9-4650-bb1b-b2020c1a830c@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-220
 ss://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-58
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-141
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?encryption=none&type=grpc&mode=gun#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-100
@@ -70,6 +64,7 @@ ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.233:8880?mode=gun&security
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.233:8880?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-126
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?encryption=none&type=grpc&mode=gun#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-175
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-171
+ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?encryption=none&type=grpc&authority=%40v2rayNplus%40v2rayNplus%40v2rayNplus#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-250
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?mode=gun&security=none&encryption=none&authority=@v2rayNplus@v2rayNplus@v2rayNplus&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-193
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-189
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-180
@@ -133,6 +128,7 @@ ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&secur
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?security=none&allowInsecure=0&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-159
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-229
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?security=&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-165
+ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-251
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-110
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-109
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880/?type=grpc&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-96
@@ -143,9 +139,7 @@ ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?type=grpc&secur
 ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-59
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE4NS4yMTMuMjAuMTEwOjcwMDE=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-77
 ss://a41da15d-415d-4f6c-a20e-eaf253c4616d@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-203
-ss://a41da15d-415d-4f6c-a20e-eaf253c4616d@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-221
 ss://b520300b-2033-4e0a-b782-d42eaf070e3c@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-204
-ss://b520300b-2033-4e0a-b782-d42eaf070e3c@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-222
 ss://c37be39f-462a-4f30-8437-77bebddd3cf3@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-205
 ss://c37be39f-462a-4f30-8437-77bebddd3cf3@57.131.16.203:80?security=none&encryption=none&host=g&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-223
 ss://cb9c54f3-48bd-4a90-9472-f59684af93fe@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-206
@@ -155,7 +149,6 @@ ss://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?&security=tls
 ss://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&type=ws&path=/vless/&security=tls#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-71
 ss://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?type=ws&security=tls&sni=ov-italy1.09vpn.com&path=%2Fvless%2F&host=ov-italy1.09vpn.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-114
 ss://df60fb07-51a9-4725-9db6-e3c6a7d0530c@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-207
-ss://df60fb07-51a9-4725-9db6-e3c6a7d0530c@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-225
 ss://e60c727f-d6ee-4d6b-aea8-2ec6c9157214@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-209
 ss://e60c727f-d6ee-4d6b-aea8-2ec6c9157214@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-226
 ss://tbxjthftff@tbxjthftff-1952313922-direct.irgame.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=tbxjthftff-1952313922-direct.irgame.co#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-211
@@ -171,8 +164,6 @@ vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?security=none&type
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?security=none&type=ws&path=/vless/&host=OV-Italy1.09vpn.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-151
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-64
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?type=ws&path=%2Fvless%2F&host=OV-Italy1.09vpn.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-90
-vless://1e5f79bd-0c18-492e-848c-b07b5b7d2afe@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-196
-vless://1e5f79bd-0c18-492e-848c-b07b5b7d2afe@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-213
 vless://20091933-9d08-4419-904f-0ce76c51f698@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-197
 vless://20091933-9d08-4419-904f-0ce76c51f698@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-214
 vless://2ea42ef7-13c4-4be8-8f16-45eb577657ec@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-198
@@ -188,14 +179,10 @@ vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@89.46.70.46:443?fp=chrome&host=line
 vless://3be38f92-c6ca-4845-b6d5-6ce191eb37c5@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-199
 vless://3be38f92-c6ca-4845-b6d5-6ce191eb37c5@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-216
 vless://4437ae12-60cd-4756-92b0-db747c2a2a79@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-200
-vless://4437ae12-60cd-4756-92b0-db747c2a2a79@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-217
 vless://476d4f2c-c5f9-4ae0-8241-2034cd7d403f@57.131.38.150:9443?encryption=none&type=ws&security=tls&path=%2Fstream%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&host=it.connfull.org&sni=it.connfull.org&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-234
 vless://503505f7-0a32-44cc-96f2-3d50aa6b6d02@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-201
 vless://503505f7-0a32-44cc-96f2-3d50aa6b6d02@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-218
-vless://5e240a97-08d5-45ce-845b-6f84bedfe991@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-208
-vless://5e240a97-08d5-45ce-845b-6f84bedfe991@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-219
 vless://6b32c7ea-02f9-4650-bb1b-b2020c1a830c@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-202
-vless://6b32c7ea-02f9-4650-bb1b-b2020c1a830c@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-220
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-58
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-141
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?encryption=none&type=grpc&mode=gun#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-100
@@ -232,6 +219,7 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.233:8880?mode=gun&secur
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.233:8880?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-126
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?encryption=none&type=grpc&mode=gun#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-175
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-171
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?encryption=none&type=grpc&authority=%40v2rayNplus%40v2rayNplus%40v2rayNplus#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-250
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?mode=gun&security=none&encryption=none&authority=@v2rayNplus@v2rayNplus@v2rayNplus&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-193
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-189
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-180
@@ -295,6 +283,7 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?security=none&allowInsecure=0&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-159
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-229
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?security=&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-165
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-251
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-110
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-109
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880/?type=grpc&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-96
@@ -304,9 +293,7 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&sec
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?type=grpc&security=none&serviceName=&mode=0#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-72
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-59
 vless://a41da15d-415d-4f6c-a20e-eaf253c4616d@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-203
-vless://a41da15d-415d-4f6c-a20e-eaf253c4616d@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-221
 vless://b520300b-2033-4e0a-b782-d42eaf070e3c@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-204
-vless://b520300b-2033-4e0a-b782-d42eaf070e3c@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-222
 vless://c37be39f-462a-4f30-8437-77bebddd3cf3@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-205
 vless://c37be39f-462a-4f30-8437-77bebddd3cf3@57.131.16.203:80?security=none&encryption=none&host=g&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-223
 vless://cb9c54f3-48bd-4a90-9472-f59684af93fe@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-206
@@ -316,7 +303,6 @@ vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?&security=
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&type=ws&path=/vless/&security=tls#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-71
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?type=ws&security=tls&sni=ov-italy1.09vpn.com&path=%2Fvless%2F&host=ov-italy1.09vpn.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-114
 vless://df60fb07-51a9-4725-9db6-e3c6a7d0530c@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-207
-vless://df60fb07-51a9-4725-9db6-e3c6a7d0530c@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-225
 vless://e60c727f-d6ee-4d6b-aea8-2ec6c9157214@57.131.16.203:80?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-209
 vless://e60c727f-d6ee-4d6b-aea8-2ec6c9157214@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-226
 vless://tbxjthftff@tbxjthftff-1952313922-direct.irgame.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=tbxjthftff-1952313922-direct.irgame.co#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-211
