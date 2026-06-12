@@ -1,3 +1,2 @@
 ss://36af4874-d6a3-4f7c-82a7-1cb724961b52@185.86.77.181:8443?fp=chrome&host=linek.perry.us.kg&path=%2Falbum&security=tls&sni=linek.perry.us.kg&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWk5Sd3pZTjJxR3NQN2pxVGR2cHE1azZqM2c3aFUyZGJNNExrZDNuOVVveDMyNGluZjZQUFVpaDJRbzl3ZlhFb0dOQ0JoZERzclZ1dExtbXZVWmloTXNtc3VHcE11N1I@94.131.127.154:48877#%F0%9F%87%BA%F0%9F%87%A6%20%E4%B9%8C%E5%85%8B%E5%85%B0%20starcorenode.com
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@185.86.77.181:8443?fp=chrome&host=linek.perry.us.kg&path=%2Falbum&security=tls&sni=linek.perry.us.kg&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6%20UA-6
