@@ -1,4 +1,4 @@
-ss://2ba86dd7-efb0-45b9-928c-962e73448ae1@test.m610.ir:56527?authority=&encryption=none&security=none&serviceName=&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-147
+ss://0162e8f6-63d6-4a49-9acf-5d69aeb6fa49@test_driftnet_best_version_filter_iran2.driftneet.ir:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.oracle.com&fp=chrome&pbk=xMQLgFBYjy6i0PTxAAKVDQl14niGe3M0KVmfc1Xmw2I&sid=4eb4ed3e34e32e09&spx=/BhYWPwIQd7Gx8fL#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-154
 ss://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201338ms
 ss://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202292ms
 ss://6007967d-3449-4fb7-8f8d-2ec98598c7d5@ir.artmn.site:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.nimeshab.cloud&path=%2Fnimeshab&security=tls&sni=www.nimeshab.cloud&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-148
@@ -8,7 +8,7 @@ ss://c4af57fe-5e63-4018-aa47-a7ba24aea09b@109.162.131.102:55726?encryption=none&
 ss://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?encryption=none&type=ws&path=/&host=azsv3.ir5ive.ir#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-139
 ss://de8f907c-53cc-40da-b9eb-87775b31258e@185.143.233.222:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=free.tradepal.ir&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-153
 ss://fd10b5bd-cc2d-4de6-b4c4-03abcd79bd7e@31.56.89.53:9092?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-152
-vless://2ba86dd7-efb0-45b9-928c-962e73448ae1@test.m610.ir:56527?authority=&encryption=none&security=none&serviceName=&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-147
+vless://0162e8f6-63d6-4a49-9acf-5d69aeb6fa49@test_driftnet_best_version_filter_iran2.driftneet.ir:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.oracle.com&fp=chrome&pbk=xMQLgFBYjy6i0PTxAAKVDQl14niGe3M0KVmfc1Xmw2I&sid=4eb4ed3e34e32e09&spx=/BhYWPwIQd7Gx8fL#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-154
 vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201338ms
 vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202292ms
 vless://6007967d-3449-4fb7-8f8d-2ec98598c7d5@ir.artmn.site:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.nimeshab.cloud&path=%2Fnimeshab&security=tls&sni=www.nimeshab.cloud&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-148
