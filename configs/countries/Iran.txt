@@ -3,7 +3,7 @@ ss://1c95743d-e98c-4522-b137-4dbee5e49463@teno-finland1.tenoteq.com:10857?securi
 ss://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201338ms
 ss://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202292ms
 ss://5c628273-4f38-4ddd-ba6f-4fbcc05a5765@94.184.12.143:2082?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-158
-ss://6f4478b4-a854-4b08-bfc8-fb750010bfa8@185.143.234.235:8880?encryption=none&security=none&type=ws&host=ps.topmarket1.ir&path=%2FDL%3Fed%3D2053#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-150
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNdmhWS1FPekp4dWd5SkQ1dXY5TitiN2NRTnJXUmVIYTlNZ3JmT0U1SGlNPQ==@185.155.9.190:56985?type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-159
 ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0=@103.130.147.40:1122#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-98
 ss://a365a98b-b655-4480-886f-fcaad4956b7d@94.183.240.225:1003?flow=xtls-rprx-vision&fp=firefox&pbk=OyxvimJx2EPWwJv1nBGi0y60V6zM7q4t_zLOR991Xzc&security=reality&sid=8d&sni=soft98.ir&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-157
 ss://c4af57fe-5e63-4018-aa47-a7ba24aea09b@109.162.131.102:55726?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-151
@@ -15,7 +15,6 @@ vless://1c95743d-e98c-4522-b137-4dbee5e49463@teno-finland1.tenoteq.com:10857?sec
 vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201338ms
 vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202292ms
 vless://5c628273-4f38-4ddd-ba6f-4fbcc05a5765@94.184.12.143:2082?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-158
-vless://6f4478b4-a854-4b08-bfc8-fb750010bfa8@185.143.234.235:8880?encryption=none&security=none&type=ws&host=ps.topmarket1.ir&path=%2FDL%3Fed%3D2053#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-150
 vless://a365a98b-b655-4480-886f-fcaad4956b7d@94.183.240.225:1003?flow=xtls-rprx-vision&fp=firefox&pbk=OyxvimJx2EPWwJv1nBGi0y60V6zM7q4t_zLOR991Xzc&security=reality&sid=8d&sni=soft98.ir&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-157
 vless://c4af57fe-5e63-4018-aa47-a7ba24aea09b@109.162.131.102:55726?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-151
 vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?encryption=none&type=ws&path=/&host=azsv3.ir5ive.ir#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-139
