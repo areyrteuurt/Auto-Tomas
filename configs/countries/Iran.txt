@@ -14,6 +14,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4b3NOU29oNm9hMkNKd2hj@hfosy.Packetnet.de:414
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBU25Tdm52R3lhOHFFeEI2@opbvf.Packetnet.de:59546#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-188
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbVVxQUxDVkM4THY0VEdpR0JaYmRZQnNXeUtQSTF6VWpraDhzMlNHcU5nPQ==@e3.cover20.ir:56985#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-167
 ss://a1667f69-6ef0-4f4c-a4e6-3fe555d6da71@37.152.190.242:49194?path=%2F&security=&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185
+ss://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@45.131.4.246:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-189
 ss://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@45.131.4.246:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-184
 ss://cefd668f-5ef4-4133-9d17-58d12918cedf@vip.cafearef.ir:10001?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-171
 ss://cfa9b4ac-eea5-4872-8189-867bf602a984@188.121.117.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aparat.com&fp=chrome&pbk=5U7vDJyxuDbbn38pLhKeaCSU8D3XnWE58XJydRHn1AA&sid=3e&spx=/Paqmzy0fhrOfRgj&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-174
@@ -31,6 +32,7 @@ vless://@Net2ray@194.145.119.176:6666?security=none&encryption=none&headerType=n
 vless://@Net2ray@85.198.15.137:6666?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-175
 vless://@Net2ray@89.144.145.247:6666?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-170
 vless://a1667f69-6ef0-4f4c-a4e6-3fe555d6da71@37.152.190.242:49194?path=%2F&security=&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185
+vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@45.131.4.246:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-189
 vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@45.131.4.246:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-184
 vless://cefd668f-5ef4-4133-9d17-58d12918cedf@vip.cafearef.ir:10001?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-171
 vless://cfa9b4ac-eea5-4872-8189-867bf602a984@188.121.117.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aparat.com&fp=chrome&pbk=5U7vDJyxuDbbn38pLhKeaCSU8D3XnWE58XJydRHn1AA&sid=3e&spx=/Paqmzy0fhrOfRgj&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-174
