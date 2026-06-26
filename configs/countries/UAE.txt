@@ -1,9 +1,5 @@
 ss://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.140.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E9%98%BF%E8%81%94%E9%85%8B%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 ss://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.140.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-62
-ss://0058c215-ab1e-400c-a403-b5b2fda7e846@94.140.0.100:8080?type=ws&host=tr-cd.sublink-vip2.com&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-61
-ss://0058c215-ab1e-400c-a403-b5b2fda7e846@cd3.videobazi.com:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-58
-ss://0058c215-ab1e-400c-a403-b5b2fda7e846@cd4.videobazi.com:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-59
-ss://4e817899-2466-425c-a671-7ab5f25d08e8@130.94.45.81:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=eJlKZq9C1kDSoLaod29cDbS0OFBx9nOGsSQNwq2-fyk&security=reality&sid=ad041ff6&sni=www.microsoft.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-52
 ss://73bb419b-743f-4502-bfb5-08211272a325@94.140.0.100:80?path=/nexus&security=&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-65
 ss://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-64
 ss://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@94.140.0.100:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-68
@@ -17,10 +13,6 @@ trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&alpn=
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?type=tcp&security=tls&headerType=none&sni=38.60.202.163&fp=chrome&insecure=1&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-51
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.140.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E9%98%BF%E8%81%94%E9%85%8B%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.140.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-62
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@94.140.0.100:8080?type=ws&host=tr-cd.sublink-vip2.com&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-61
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd3.videobazi.com:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-58
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd4.videobazi.com:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-59
-vless://4e817899-2466-425c-a671-7ab5f25d08e8@130.94.45.81:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=eJlKZq9C1kDSoLaod29cDbS0OFBx9nOGsSQNwq2-fyk&security=reality&sid=ad041ff6&sni=www.microsoft.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-52
 vless://73bb419b-743f-4502-bfb5-08211272a325@94.140.0.100:80?path=/nexus&security=&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-65
 vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-64
 vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@94.140.0.100:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-68
