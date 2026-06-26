@@ -12,7 +12,6 @@ ss://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?type=tcp&headerTy
 ss://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@14.102.228.201:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-66
 ss://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@14.102.228.201:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-65
 ss://e026a9f0-e5fe-49a4-b8ad-f4a0f895442c@cz-smart.t1n2.com:443?type=tcp&security=reality&sni=cz-smart.t1n2.com&fp=firefox&flow=xtls-rprx-vision&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=c01fe3d45017db58#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-64
-ss://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.mimamo.ru:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.mimamo.ru#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-62
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-47
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B%E4%B8%A8yoyapai.com
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.235:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B%E4%B8%A8yoyapai.com
@@ -28,4 +27,3 @@ vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?type=tcp&heade
 vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@14.102.228.201:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-66
 vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@14.102.228.201:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-65
 vless://e026a9f0-e5fe-49a4-b8ad-f4a0f895442c@cz-smart.t1n2.com:443?type=tcp&security=reality&sni=cz-smart.t1n2.com&fp=firefox&flow=xtls-rprx-vision&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=c01fe3d45017db58#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-64
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.mimamo.ru:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.mimamo.ru#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-62
