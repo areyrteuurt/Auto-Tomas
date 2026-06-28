@@ -1,5 +1,4 @@
 ss://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.140.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-62
-ss://73bb419b-743f-4502-bfb5-08211272a325@94.140.0.100:80?path=/nexus&security=&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-65
 ss://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-64
 ss://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@94.140.0.100:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-68
 ss://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@94.140.0.100:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-66
@@ -10,7 +9,6 @@ trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?allowInsecure=1&in
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=38.60.202.163#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-71
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?type=tcp&security=tls&headerType=none&sni=38.60.202.163&fp=chrome&insecure=1&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-51
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.140.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-62
-vless://73bb419b-743f-4502-bfb5-08211272a325@94.140.0.100:80?path=/nexus&security=&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-65
 vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-64
 vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@94.140.0.100:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-68
 vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@94.140.0.100:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-66
