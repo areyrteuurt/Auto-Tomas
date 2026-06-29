@@ -1,13 +1,7 @@
 ss://8388434b-bbc8-4e00-b497-69a7f56f6e24@141.101.123.40:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&path=%2Fws#https%3A%2F%2Ft.me%2Fzyzzzoao%20%E2%9A%A1%EF%B8%8F
 ss://979b6822-d65a-400d-89f8-30391903ac20@transferwise.com:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&path=%2Fws#https%3A%2F%2Ft.me%2Fzyzzzoao%20%E2%9A%A1%EF%B8%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#t.me/ConfigFori
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#t.me/ConfigFori
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#https://t.me/v2rayNplus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#https://t.me/v2rayNplus
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#t.me/ConfigFori
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#t.me/ConfigFori
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#t.me/ConfigFori
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#t.me/ConfigFori
 trojan://114514@cf1.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
 trojan://114514@cf10.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
 trojan://114514@cf2.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
