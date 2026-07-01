@@ -1,4 +1,4 @@
 trojan://UexGnX2%2BRhN8PB6GMyUL-8fNYvR1%3DJBzxm@185.126.238.84:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%B7%20GR-2
 trojan://UexGnX2+RhN8PB6GMyUL-8fNYvR1%3DJBzxm@185.126.238.84:443/?type=tcp&security=tls&sni=185.126.238.84#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%B7%20GR-1
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.120:443?allowInsecure=0#%F0%9F%87%AC%F0%9F%87%B7%20%E5%B8%8C%E8%85%8A%20starcorenode.com%202
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443?allowInsecure=0#%F0%9F%87%AC%F0%9F%87%B7%20%E5%B8%8C%E8%85%8A%20starcorenode.com
+trojan://aR9EJWEB2Jp3m6xKJK%3DCt7kLyqFSU-iDBR@92.119.35.117:443?allowInsecure=0#%F0%9F%87%AC%F0%9F%87%B7%20%E5%B8%8C%E8%85%8A%20starcorenode.com
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.87:443?allowInsecure=0#%F0%9F%87%AC%F0%9F%87%B7%20%E5%B8%8C%E8%85%8A%20starcorenode.com%202
