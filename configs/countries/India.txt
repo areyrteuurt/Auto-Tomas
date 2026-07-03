@@ -2,6 +2,7 @@ ss://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.153.151:80?encryption=none&sec
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@143.110.247.61:2053?fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-218
 ss://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?path=%2F&security=&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-199
 ss://24d16a10-5919-486e-9651-a0983ede2060@138.252.100.85:32351?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-217
+ss://24d16a10-5919-486e-9651-a0983ede2060@138.252.100.85:33659?security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-220
 ss://5cae7714-9c61-4c5c-876e-c45a1cb13be4@138.252.100.85:32351?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-215
 ss://5cae7714-9c61-4c5c-876e-c45a1cb13be4@138.252.100.85:33659?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-214
 ss://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-169
@@ -26,6 +27,7 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.153.151:80?encryption=none&
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@143.110.247.61:2053?fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-218
 vless://249b3d88-f54d-482c-a42c-232f7aad3f7e@138.252.100.85:32351?path=%2F&security=&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-199
 vless://24d16a10-5919-486e-9651-a0983ede2060@138.252.100.85:32351?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-217
+vless://24d16a10-5919-486e-9651-a0983ede2060@138.252.100.85:33659?security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-220
 vless://5cae7714-9c61-4c5c-876e-c45a1cb13be4@138.252.100.85:32351?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-215
 vless://5cae7714-9c61-4c5c-876e-c45a1cb13be4@138.252.100.85:33659?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-214
 vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-169
