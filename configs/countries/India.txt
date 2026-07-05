@@ -7,6 +7,7 @@ ss://5cae7714-9c61-4c5c-876e-c45a1cb13be4@138.252.100.85:32351?encryption=none&h
 ss://5cae7714-9c61-4c5c-876e-c45a1cb13be4@138.252.100.85:33659?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-214
 ss://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-169
 ss://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@events.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&fp=qq&sni=deepl.com&sid=54ce&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-179
+ss://8820e16b-fbc2-49d3-90e4-eeeb8301c83c@151.101.158.71:80?security=none&type=ws&host=anycast.leslie.ch&path=%2F%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-221
 ss://9ff78c56-cd8b-4d2e-8a1e-b8671aacf57d@138.252.100.85:32351?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-200
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%20starcorenode.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZtQDEwMy4xMTEuMTE0LjYxOjI4MDYx#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-205
@@ -33,6 +34,7 @@ vless://5cae7714-9c61-4c5c-876e-c45a1cb13be4@138.252.100.85:32351?encryption=non
 vless://5cae7714-9c61-4c5c-876e-c45a1cb13be4@138.252.100.85:33659?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-214
 vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-169
 vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@events.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&fp=qq&sni=deepl.com&sid=54ce&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-179
+vless://8820e16b-fbc2-49d3-90e4-eeeb8301c83c@151.101.158.71:80?security=none&type=ws&host=anycast.leslie.ch&path=%2F%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-221
 vless://9ff78c56-cd8b-4d2e-8a1e-b8671aacf57d@138.252.100.85:32351?encryption=none&host=&path=%2F&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-200
 vless://b250af86-7f78-4e69-9e99-1f1ddfe27ea0@89.34.90.179:443?flow=xtls-rprx-vision&fp=firefox&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&security=reality&sid=671047edbaa38eef&sni=max.ru&spiderX=/&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-219
 vless://bcdc633c-b4af-4dba-bb63-5a2347e7c2bc@138.252.100.85:32351?encryption=none&host=&path=/&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-201

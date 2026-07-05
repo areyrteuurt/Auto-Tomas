@@ -140,6 +140,7 @@ hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@[2a13:29c0:fc75:90b0:df84:b8d4:
 hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@s491.ccgfw.online:443?sni=u691611us491.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-619%20%7C%20free-nodes
 hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@s8862.okgfw.top:443?sni=u691611u1b65ca8bs8860.gogocs.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#JP%20HY2-625%20%7C%20free-nodes
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%E4%B8%AD%E5%9C%8B%E8%87%BA%E7%81%A3%E4%B8%A8yoyapai.com
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-8942
 hysteria2://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@134.195.101.191:443?sni=www.apple.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_1%20%7C%20%E2%AC%87%EF%B8%8F%2010.0MB%2Fs
 hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?sni=gettestin.xxee.ru&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=2a7e8084206388f4#%E5%85%8D%E8%B2%BB%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com
 hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?sni=gettestin.xxee.ru&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=2a7e8084206388f4#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E8%98%AD%E4%B8%A8yoyapai.com
