@@ -1,5 +1,7 @@
 ss://1b39f4f3-75c0-4156-b478-2cd4699f56d1@188.121.104.79:18703?security=&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-281
 ss://224859e8-cc60-448b-858a-9aa2f03cbd3e@94.184.4.42:22797?type=ws&encryption=none&path=/&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-257
+ss://3ccfd1ea-27f6-4af7-a025-7dc1867ae214@193.39.9.123:9000?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-292
+ss://3ccfd1ea-27f6-4af7-a025-7dc1867ae214@x.pars-azad.shop:9000?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-288
 ss://3daa68f1-e240-4aea-a4c3-618924aab136@turk.sub-rock.ir:20364?security=none&encryption=mlkem768x25519plus.native.0rtt.eIiLH6iuP7Om3Ke9YT6waSNld7lQIqt_-AqAXCBtF2k&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-276
 ss://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201338ms
 ss://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202292ms
@@ -32,6 +34,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2ZHRhVkRlc2NLdGk0R3J3MERsTTdlMjhyenNDL0dYY3h
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqN0FHRVFRb2hHSnJ1MlgyZm9YbUI3NWZPK2UyVVhIRm02d2IzZHpVcFlrPQ==@n3.cover20.ir:55129#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-273
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#Tel-@NapsterNetvIrani🙂‍↕️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#IR-@V2rayAlpha-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHh2dTVIVHFCS3Bkc3NJQzRTYnZXQngzb2FnbDlEcA==@vip.zarins.ir:20700#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-289
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHh2dTVIVHFCS3Bkc3NJQzRTYnZXQngzb2FnbDlEcA==@vip3.zarins.ir:8080#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-290
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHh2dTVIVHFCS3Bkc3NJQzRTYnZXQngzb2FnbDlEcA==@vip6.zarins.ir:8088#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-291
 ss://YWVzLTI1Ni1nY206T1RrNE5HUTROVFpoTVRsalptTmtZekE0T0RFeU56ZGpOVFJqTmpKbEA5NS4zOC4xNzYuMTU0OjkxMTQ=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-272
 ss://a9b28e62-b9c0-489c-a801-61d5bd30f11a@s3.vahshat.xyz:80?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-240
 ss://a9f10366-5ce5-4805-8fc0-2f9b4f8e0421@free.xoorvip.ir:80?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-239
@@ -49,6 +54,8 @@ ss://e63533ef-a440-4668-88b5-f0a3ec40e852@45.131.4.11:80?path=%2F3ojVvmilz7JGgBx
 ss://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#%E4%BC%8A%E6%9C%97%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://1b39f4f3-75c0-4156-b478-2cd4699f56d1@188.121.104.79:18703?security=&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-281
 vless://224859e8-cc60-448b-858a-9aa2f03cbd3e@94.184.4.42:22797?type=ws&encryption=none&path=/&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-257
+vless://3ccfd1ea-27f6-4af7-a025-7dc1867ae214@193.39.9.123:9000?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-292
+vless://3ccfd1ea-27f6-4af7-a025-7dc1867ae214@x.pars-azad.shop:9000?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-288
 vless://3daa68f1-e240-4aea-a4c3-618924aab136@turk.sub-rock.ir:20364?security=none&encryption=mlkem768x25519plus.native.0rtt.eIiLH6iuP7Om3Ke9YT6waSNld7lQIqt_-AqAXCBtF2k&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-276
 vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201338ms
 vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202292ms
