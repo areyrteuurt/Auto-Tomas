@@ -3,11 +3,11 @@ ss://3ccfd1ea-27f6-4af7-a025-7dc1867ae214@193.39.9.123:9000?security=none&encryp
 ss://3ccfd1ea-27f6-4af7-a025-7dc1867ae214@x.pars-azad.shop:9000?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-288
 ss://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201338ms
 ss://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202292ms
+ss://84c17b99-0c79-48cc-82b8-3b6914801921@dlc-srv1.treenix-ping.com:9000?&packet-encoding=xudp&type=tcp&headerType=none&host=dlc-srv1.treenix-ping.com&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-302
 ss://84c17b99-0c79-48cc-82b8-3b6914801921@dlc-srv1.treenix-ping.com:9000?security=&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-300
 ss://9a11a034-5c17-4595-9145-317007b42e77@v.pvnetwork.ir:8880?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-295
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080?type=tcp&headerType=none#@hi_proxy_iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080?type=tcp&headerType=none#@hi_proxy_iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080?type=tcp&headerType=none#@hi_proxy_iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#IR-@V2rayAlpha-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHh2dTVIVHFCS3Bkc3NJQzRTYnZXQngzb2FnbDlEcA==@vip.zarins.ir:20700#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-289
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHh2dTVIVHFCS3Bkc3NJQzRTYnZXQngzb2FnbDlEcA==@vip3.zarins.ir:8080#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-290
@@ -23,6 +23,7 @@ vless://3ccfd1ea-27f6-4af7-a025-7dc1867ae214@193.39.9.123:9000?security=none&enc
 vless://3ccfd1ea-27f6-4af7-a025-7dc1867ae214@x.pars-azad.shop:9000?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-288
 vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201338ms
 vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202292ms
+vless://84c17b99-0c79-48cc-82b8-3b6914801921@dlc-srv1.treenix-ping.com:9000?&packet-encoding=xudp&type=tcp&headerType=none&host=dlc-srv1.treenix-ping.com&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-302
 vless://84c17b99-0c79-48cc-82b8-3b6914801921@dlc-srv1.treenix-ping.com:9000?security=&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-300
 vless://9a11a034-5c17-4595-9145-317007b42e77@v.pvnetwork.ir:8880?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-295
 vless://c9094367-13d9-4ea3-8e2e-0cbcfae82393@T3.digikalamagg.com:2096?path=/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=T3.digikalamagg.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-297
