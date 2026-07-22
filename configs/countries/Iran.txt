@@ -46,10 +46,8 @@ ss://9ef6db89-3cad-4c66-b38c-315730b5c336@185.143.234.122:80?path=%2F&security=n
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UzVSQ0k2Z0o2U1VPY2RuTnBjRWdSMVVWemlkKzhPOC8rRGNlVVNIRG5Gcz06aWZmZ2RQU1I4Zzc1dDQ5bjN4Q2I5K09HMldHSlRqVWhvaHBQb0hOVDU5OD0@94.101.184.47:2052#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-488
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdTQ3eEp2cDJfcEdiQTVjMTNBU0hLODdEeER3azV6bQ==@coco1.farajet.net:1010#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-491
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRU5oeXFaVm5vRVN1aGU5TGRyT0EvLzJMVmh6Ymo0RnMwZWVraHppZHA4PQ@185.213.195.33:2052?type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-455
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#IR-@V2rayAlpha-1
 ss://YWVzLTI1Ni1nY206TmpCallUZ3pObUV3TmpjMk1EUXlOREU1T0RZME1UWmpaRGxrWldKaQ@95.38.166.233:11104#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-496
-ss://YWVzLTI1Ni1nY206TmpCallUZ3pObUV3TmpjMk1EUXlOREU1T0RZME1UWmpaRGxrWldKaQ@95.38.166.233:11104#🇮🇷IR-🚀@VPNine1
 ss://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080/?type=ws&encryption=none&host=vip.az99x.info&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-403
 ss://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080/?type=ws&encryption=none&host=vip.az99x.info&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-430
 ss://a630a4c4-9472-4b9e-9a8f-f1e1fe8c26c2@185.143.233.120:80?security=none&type=ws&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-370
@@ -91,6 +89,8 @@ ss://e1376c90-2fe1-4b90-bcbb-3ce7b099a2b4@zula.ir:80?path=%2FTelegram-Channel%3D
 ss://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-341
 ss://e3c0b438-a4e7-4a38-8316-7512f6044eb3@78.109.198.25:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-472
 ss://e48cf70b-a9a5-4855-9330-e8649a11882e@193.134.100.23:12596?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-296
+ss://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&fp=chrome&type=tcp&headerType=none&host=fn.fifapes.monster#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%9C%97%E4%B8%A8yoyapai.com
+ss://ef21f8f2-a132-4e3a-adc1-20c632c4783d@31.14.123.90:6000?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-499
 ss://ef21f8f2-a132-4e3a-adc1-20c632c4783d@germany2.benjaminclouds.ir:6000?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-490
 ss://f01de3e1-150c-4c32-bf87-717ba37a2472@185.143.234.200:80?path=%2F&security=none&encryption=none&host=tr.newdesigne.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-404
 ss://f46f44d8-0ebf-45de-8640-69a96a4c94ad@zula.ir:80?path=%2Fvless&security=none&encryption=none&host=De2.vless.site.&type=ws&sni=de2.vless.site#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-390
@@ -184,6 +184,8 @@ vless://e1376c90-2fe1-4b90-bcbb-3ce7b099a2b4@zula.ir:80?path=%2FTelegram-Channel
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-341
 vless://e3c0b438-a4e7-4a38-8316-7512f6044eb3@78.109.198.25:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-472
 vless://e48cf70b-a9a5-4855-9330-e8649a11882e@193.134.100.23:12596?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-296
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&fp=chrome&type=tcp&headerType=none&host=fn.fifapes.monster#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%9C%97%E4%B8%A8yoyapai.com
+vless://ef21f8f2-a132-4e3a-adc1-20c632c4783d@31.14.123.90:6000?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-499
 vless://ef21f8f2-a132-4e3a-adc1-20c632c4783d@germany2.benjaminclouds.ir:6000?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-490
 vless://f01de3e1-150c-4c32-bf87-717ba37a2472@185.143.234.200:80?path=%2F&security=none&encryption=none&host=tr.newdesigne.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-404
 vless://f46f44d8-0ebf-45de-8640-69a96a4c94ad@zula.ir:80?path=%2Fvless&security=none&encryption=none&host=De2.vless.site.&type=ws&sni=de2.vless.site#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-390
