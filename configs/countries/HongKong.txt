@@ -176,6 +176,7 @@ trojan://NQ26071394@glad-roughy.rooster465.autos:443?allowInsecure=1&insecure=1&
 trojan://NQ26071394@glad-roughy.rooster465.autos:443?sni=glad-roughy.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2019
 trojan://NQ26071394@heroic-cow.rooster465.autos:443?sni=heroic-cow.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2021
 trojan://NQ26071394@pretty-mollusk.rooster465.autos:443?security=tls&sni=pretty-mollusk.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2126
+trojan://NQ26071394@pretty-mollusk.rooster465.autos:443?security=tls&sni=pretty-mollusk.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2130
 trojan://NQ26071394@pretty-mollusk.rooster465.autos:443?sni=pretty-mollusk.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2017
 trojan://NQ26071394@striking-cheetah.rooster465.autos:443?sni=striking-cheetah.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2020
 trojan://NQ26071394@wealthy-loon.rooster465.autos:443?sni=wealthy-loon.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2016
@@ -199,6 +200,7 @@ trojan://ON38567014@top-goshawk.rooster465.autos:443?allowInsecure=1&insecure=1&
 trojan://ON38567014@top-goshawk.rooster465.autos:443?sni=top-goshawk.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2043
 trojan://OccIqeORGQwiNkwS@1.64.106.82:19128?security=tls&sni=yazhou10.dynu.net&path=/#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2025
 trojan://PD07395842@ace-starling.rooster465.autos:443?sni=ace-starling.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2027
+trojan://PD07395842@choice-worm.rooster465.autos:443?security=tls&sni=choice-worm.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2132
 trojan://PD07395842@choice-worm.rooster465.autos:443?sni=choice-worm.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2030
 trojan://PD07395842@free-tahr.rooster465.autos:443?sni=free-tahr.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2026
 trojan://PD07395842@just-alpaca.rooster465.autos:443?sni=just-alpaca.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2025
@@ -339,6 +341,7 @@ vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXlOcGx1cy12MnJheU5wbHVzLXYycmF5TnBsdXMiLCJpZCI6Ijg0NWU2YjA4LTI5MTktNDI5MC1hZGUwLTVkYzdkY2VhNTljYSIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiNDQ4NjciLCJwcyI6IltPcGVuUmF5XSDwn4et8J+HsCBISy0xNjU1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjM2NzAzLCJwcyI6IltPcGVuUmF5XSDwn4et8J+HsCBISy0zMDEiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjQ0ODY3LCJwcyI6IltPcGVuUmF5XSDwn4et8J+HsCBISy0xODgiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiIxMDMuMTcyLjEzNC4xNjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWIyNmY2OGItOWY3Zi00MWU1LWIzNWYtZWQxYWRlZDgzMWQ1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNTUzMiIsInBzIjoiW09wZW5SYXldIPCfh63wn4ewIEhLLTIxMzEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIzMS43Ny4xNDkuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVlZDcyMDZhLWNkOGQtNGIwMi1hZGQxLTRmN2I3ODcxNzhjOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJbT3BlblJheV0g8J+HrfCfh7AgSEstMjAzNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTU4ZjU5NDAtZGUzZC00NDY2LWJiMzAtYjYwNTk5M2RiMjdlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6IltPcGVuUmF5XSDwn4et8J+HsCBISy0yMDIyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJoay12cDEueHVhbm1pYW8udGVjaCIsInYiOiIyIiwicHMiOiJbT3BlblJheV0g8J+HrfCfh7AgSEstMjA0NCIsInBvcnQiOjExMjM2LCJpZCI6ImIzNWQxNjIyLTVjYzAtNDA3Zi1lYWMyLTM0ZTZmODIxOWQyNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiaGstdnAxLnh1YW5taWFvLnRlY2giLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
