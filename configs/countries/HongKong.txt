@@ -169,6 +169,7 @@ trojan://JA96378052@saved-mudfish.rooster465.autos:443?sni=saved-mudfish.rooster
 trojan://KV63147582@amused-peacock.rooster465.autos:443?sni=amused-peacock.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2008
 trojan://KV63147582@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2010
 trojan://KV63147582@electric-sturgeon.rooster465.autos:443?security=tls&path=%2f#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2128
+trojan://KV63147582@electric-sturgeon.rooster465.autos:443?security=tls&sni=electric-sturgeon.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2134
 trojan://KV63147582@electric-sturgeon.rooster465.autos:443?sni=electric-sturgeon.rooster465.autos&type=raw&fp=chrome#%E9%A6%99%E6%B8%AF%2015
 trojan://KV63147582@electric-sturgeon.rooster465.autos:443?sni=electric-sturgeon.rooster465.autos&type=tcp&fp=chrome#%E9%A6%99%E6%B8%AF%2012
 trojan://KV63147582@pretty-vervet.rooster465.autos:443?sni=pretty-vervet.rooster465.autos&allowInsecure=1&type=tcp#%E9%A6%99%E6%B8%AF%2070
