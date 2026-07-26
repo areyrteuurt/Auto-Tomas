@@ -56,6 +56,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdTQ3eEp2cDJfcEdiQTVjMTNBU0hLODdEeER3azV6bQ=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRU5oeXFaVm5vRVN1aGU5TGRyT0EvLzJMVmh6Ymo0RnMwZWVraHppZHA4PQ@185.213.195.33:2052?type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-455
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#IR-@V2rayAlpha-1
 ss://YWVzLTI1Ni1nY206TmpCallUZ3pObUV3TmpjMk1EUXlOREU1T0RZME1UWmpaRGxrWldKaQ@95.38.166.233:11104#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-496
+ss://a00a4a9f-4ee7-458e-9485-4047d250c296@sir.m2love2.top:9090?security=reality&encryption=none&pbk=VPD--NqsJ9fyU-xAGks-zUk-cPQjO66EMpovwLLsjm4&headerType=none&fp=chrome&spx=%2FprAu2jsmcuHJMGW&type=tcp&sni=www.cloudflare.com&sid=8a881d1f3005#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-513
 ss://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080/?type=ws&encryption=none&host=vip.az99x.info&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-403
 ss://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080/?type=ws&encryption=none&host=vip.az99x.info&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-430
 ss://a630a4c4-9472-4b9e-9a8f-f1e1fe8c26c2@185.143.233.120:80?security=none&type=ws&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-370
@@ -160,6 +161,7 @@ vless://9a11a034-5c17-4595-9145-317007b42e77@v.pvnetwork.ir:8880?security=none&e
 vless://9aef9fc7-f901-4234-d8f5-f5980fb664d2@94.183.149.168:8880?path=%2F&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-394
 vless://9ef6db89-3cad-4c66-b38c-315730b5c336@185.143.234.122:80?path=%2F&security=none&encryption=none&host=amm2.avenflow.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-377
 vless://NamedZadim@193.93.169.242:53655?path=%2F&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-511
+vless://a00a4a9f-4ee7-458e-9485-4047d250c296@sir.m2love2.top:9090?security=reality&encryption=none&pbk=VPD--NqsJ9fyU-xAGks-zUk-cPQjO66EMpovwLLsjm4&headerType=none&fp=chrome&spx=%2FprAu2jsmcuHJMGW&type=tcp&sni=www.cloudflare.com&sid=8a881d1f3005#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-513
 vless://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080/?type=ws&encryption=none&host=vip.az99x.info&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-403
 vless://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080/?type=ws&encryption=none&host=vip.az99x.info&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-430
 vless://a630a4c4-9472-4b9e-9a8f-f1e1fe8c26c2@185.143.233.120:80?security=none&type=ws&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-370
