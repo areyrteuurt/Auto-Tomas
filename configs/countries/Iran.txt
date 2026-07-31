@@ -61,13 +61,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0drdk1tUXVvOHZKais5MnVGMmNMUFc5Zm1ORXZsNmF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0drdk1tUXVvOHZKais5MnVGMmNMUFc5Zm1ORXZsNmFsTDBNeUxnZUkwPUA5MS4xODYuMTkzLjQ2OjU2OTg1#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-521
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRU5oeXFaVm5vRVN1aGU5TGRyT0EvLzJMVmh6Ymo0RnMwZWVraHppZHA4PQ@185.213.195.33:2052?type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-455
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@212.83.51.81:1080#@IRAN_v2ray1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@212.83.51.81:1080#@hi_proxy_iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.116.6:1080#@Napsternetvirani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@fr3.levikogjgfdd.ir:1080#@Napsternetvirani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@us1.levikogjgfdd.ir:1080#@IRAN_v2ray1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#@hi_proxy_iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2JXY0N0VFZYdVptZ2RLTGRLSjJ4ZmRVUldDNHc5Tg==@coco1.farajet.net:1010#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-514
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2JXY0N0VFZYdVptZ2RLTGRLSjJ4ZmRVUldDNHc5Tg==@coco2.farajet.net:2020#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-515
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#@Iran_v2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#IR-@V2rayAlpha-1
 ss://YWVzLTI1Ni1nY206TmpCallUZ3pObUV3TmpjMk1EUXlOREU1T0RZME1UWmpaRGxrWldKaQ@95.38.166.233:11104#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-496
 ss://a00a4a9f-4ee7-458e-9485-4047d250c296@sir.m2love2.top:9090?security=reality&encryption=none&pbk=VPD--NqsJ9fyU-xAGks-zUk-cPQjO66EMpovwLLsjm4&headerType=none&fp=chrome&spx=%2FprAu2jsmcuHJMGW&type=tcp&sni=www.cloudflare.com&sid=8a881d1f3005#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-513
@@ -244,6 +241,7 @@ vless://fae062df-b57c-4575-bb75-cff9859b2f04@zula.ir:80?path=%2F%40custom_config
 vless://fb290991-bbd5-4c7f-b5fc-b0bb344bf6e1@5.160.252.55:443?encryption=none&security=tls&sni=irtes.chakkalx.de&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fdashaq#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-509
 vless://namedzadimconf@193.93.169.242:53655?path=%2F&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-519
 vless://v2Ray_OffiCiaL@Zula.ir:80?path=%2F&security=none&encryption=none&host=V2ray_official.%E5%88%9B%E4%BC%98%E8%88%8D.org.&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-343
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh67wn4e3IElSLTUzMyIsImFkZCI6InR1bjEud2l6YXJkeDEuY29tIiwicG9ydCI6IjIwNzgiLCJ0eXBlIjoibm9uZSIsImlkIjoiOGMyMDc2ODItZTAwNy00YTBkLTg4YTMtNjhiODYzOGIzZDEwIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InR1bjEud2l6YXJkeDEuY29tIiwidGxzIjoiIn0=
 vmess://eyJhZGQiOiIxODUuMTQzLjIzMy4xMjIiLCJhaWQiOiIwIiwiaG9zdCI6ImNsaWVudC5reHNvZnRkbC5jbGljayIsImlkIjoiOTY4ZTViMmItMGMxYS00ZGY1LWVmNmEtODU5NDY2YThkYjRiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xvZyIsInBvcnQiOiI4ODgwIiwicHMiOiJbT3BlblJheV0g8J+HrvCfh7cgSVItNDM4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ0dW4xLndpemFyZHgxLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4YzIwNzY4Mi1lMDA3LTRhMGQtODhhMy02OGI4NjM4YjNkMTAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIwNzgiLCJwcyI6IltPcGVuUmF5XSDwn4eu8J+HtyBJUi01MzIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJhZGQiOiJ2aXAxLmhvbGRlcmJyaWRnZS5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFhOGJjZjRiLTVkY2ItNGMwMC04Njg3LWE1NmIzYmQxMmVkMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODg4MCIsInBzIjoiW09wZW5SYXldIPCfh67wn4e3IElSLTQ5NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
