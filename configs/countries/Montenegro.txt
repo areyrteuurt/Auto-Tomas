@@ -3,7 +3,6 @@ ss://979b6822-d65a-400d-89f8-30391903ac20@transferwise.com:443?encryption=none&s
 ss://9bb71136-2380-4b6a-97be-1d4ba11d5a55@178.83.110.32:7443?fp=chrome&host=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%AA%20ME-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🚀t.me/iProxyChannel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#🚀t.me/iProxyChannel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#T.me/Vpn_Mafia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#🚀t.me/iProxyChannel
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#t.me/OutlineVpnOfficial
