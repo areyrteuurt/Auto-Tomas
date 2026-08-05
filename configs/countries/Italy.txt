@@ -75,6 +75,7 @@ ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-246
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-168
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?security=&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-167
+ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.59:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-787
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.59:8880?security=none&sni=sca39.speedmeter.shop&type=grpc&host=sca39.speedmeter.shop#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-774
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.60:8880?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-380
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.100:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-609
@@ -101,6 +102,7 @@ ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.46:8880?security=none&type
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.53:8880?encryption=none&type=grpc&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-691
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.53:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-687
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.5:8880?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-690
+ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.5:8880?sni=ronaldo17.fordnsdirect.shop&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-784
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.69:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-677
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.69:8880?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-663
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.87:8880?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-664
@@ -143,6 +145,7 @@ ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo37.fordnsdirect.shop:8880?type=
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.directdnsai.shop:8880?security=&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-759
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.speedmeter.shop:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-343
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca19.speedmeter.shop:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-297
+ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.exodnsdir.xyz:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-786
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.exodnsdir.xyz:8880?security=&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-763
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.exodnsdir.xyz:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=grpc&authority=v2rayNplus--v2rayNplus--v2rayNplus#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-749
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.exodnsdir.xyz:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-711
@@ -199,6 +202,7 @@ ss://a8270e4a-3af1-4da5-894b-ec7a816d30e6@samanirani.remotewire.net:40375?encryp
 ss://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@57.131.16.36:6300?security=reality&sni=play.google.com&type=tcp&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-676
 ss://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@italy.lorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-672
 ss://b303691b-d577-4465-93c8-dd6a33dc8c85@116.204.164.5:7443?encryption=none&security=tls&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&type=ws&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=/@Marisa_kristi&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-628
+ss://b3051b10-716d-455b-9811-aefcce3d633e@57.131.32.191:80?security=none&type=ws&host=ov-italy1.09vpn.com&path=/vless/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-785
 ss://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?security=none&type=ws&path=%2Fvless%2F&host=ov-italy1.09vpn.com&packetEncoding=xudp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-747
 ss://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:2087?mode=gun&security=reality&encryption=none&authority=&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-646
 ss://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&sid=c226283c4de5b1ad&fp=firefox&serviceName=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-634
@@ -305,6 +309,7 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&securi
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-246
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-168
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?security=&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-167
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.59:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-787
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.59:8880?security=none&sni=sca39.speedmeter.shop&type=grpc&host=sca39.speedmeter.shop#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-774
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.60:8880?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-380
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.100:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-609
@@ -331,6 +336,7 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.46:8880?security=none&t
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.53:8880?encryption=none&type=grpc&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-691
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.53:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-687
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.5:8880?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-690
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.5:8880?sni=ronaldo17.fordnsdirect.shop&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-784
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.69:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-677
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.69:8880?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-663
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.87:8880?security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-664
@@ -373,6 +379,7 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo37.fordnsdirect.shop:8880?ty
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.directdnsai.shop:8880?security=&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-759
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.speedmeter.shop:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-343
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca19.speedmeter.shop:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-297
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.exodnsdir.xyz:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-786
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.exodnsdir.xyz:8880?security=&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-763
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.exodnsdir.xyz:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=grpc&authority=v2rayNplus--v2rayNplus--v2rayNplus#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-749
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.exodnsdir.xyz:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-711
@@ -426,6 +433,7 @@ vless://a8270e4a-3af1-4da5-894b-ec7a816d30e6@samanirani.remotewire.net:40375?enc
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@57.131.16.36:6300?security=reality&sni=play.google.com&type=tcp&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-676
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@italy.lorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-672
 vless://b303691b-d577-4465-93c8-dd6a33dc8c85@116.204.164.5:7443?encryption=none&security=tls&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&type=ws&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=/@Marisa_kristi&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-628
+vless://b3051b10-716d-455b-9811-aefcce3d633e@57.131.32.191:80?security=none&type=ws&host=ov-italy1.09vpn.com&path=/vless/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-785
 vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?security=none&type=ws&path=%2Fvless%2F&host=ov-italy1.09vpn.com&packetEncoding=xudp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-747
 vless://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:2087?mode=gun&security=reality&encryption=none&authority=&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-646
 vless://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&sid=c226283c4de5b1ad&fp=firefox&serviceName=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-634
