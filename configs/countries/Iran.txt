@@ -75,7 +75,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2JXY0N0VFZYdVptZ2RLTGRLSjJ4ZmRVUldDNHc5Tg=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#@Iran_V2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#@Iran_v2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#IR-@V2rayAlpha-1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSnBzZDg3VTRQTExyV1JW@20.234.89.202:443#Irancell🇨🇮
 ss://YWVzLTI1Ni1nY206TmpCallUZ3pObUV3TmpjMk1EUXlOREU1T0RZME1UWmpaRGxrWldKaQ@95.38.166.233:11104#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-496
 ss://YWVzLTI1Ni1nY206WTJJeU9EWTJaR05rTm1GbE5XRmxZamM0Tmpnd01tRTBaR0ZqTnpndw@95.38.186.235:11109?prefix=%16%03%01%00%C2%A8%01%01#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-552
 ss://YWVzLTI1Ni1nY206WXpZM1kySmhZakF5TjJFeU9ESXlNREF5TjJZMU9ESTJNMlV5TW1ZMw@iran.tonanimalia.com:11102?prefix=%16%03%01%00%C2%A8%01%01#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-545
@@ -128,6 +127,7 @@ ss://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80?path=%2F%3Fed%3D2048&securi
 ss://e21db7f3-b00e-40a9-955f-28f7517c113d@217.18.94.23:2080?encryption=none&security=tls&type=tcp&headerType=none&host=g18.vcommunity.ir&sni=g18.vcommunity.ir&fp=chrome&alpn=http%2F1.1#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-504
 ss://e3c0b438-a4e7-4a38-8316-7512f6044eb3@78.109.198.25:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-472
 ss://e48cf70b-a9a5-4855-9330-e8649a11882e@193.134.100.23:12596?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-296
+ss://e795891a-d0c9-41f3-83e9-ae7a9114f433@test.pythonsaz.ir:37194?security=reality&encryption=none&pbk=OjzpITb1Jsv8U0-wjDFEUGuZLuc1Bda_aWTxAmmhjCA&headerType=none&fp=chrome&spx=/2712a747bfba922&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=6c0751656c#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-554
 ss://ee512c0a-42e5-4a50-8637-7a3699fe9c7b@gr-2.tiptop-1.top:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-528
 ss://ee512c0a-42e5-4a50-8637-7a3699fe9c7b@gr-2.tiptop-1.top:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=gr-2.tiptop-1.top#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-529
 ss://ef21f8f2-a132-4e3a-adc1-20c632c4783d@31.14.123.90:6000?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-499
@@ -255,6 +255,7 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80?path=%2F%3Fed%3D2048&sec
 vless://e21db7f3-b00e-40a9-955f-28f7517c113d@217.18.94.23:2080?encryption=none&security=tls&type=tcp&headerType=none&host=g18.vcommunity.ir&sni=g18.vcommunity.ir&fp=chrome&alpn=http%2F1.1#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-504
 vless://e3c0b438-a4e7-4a38-8316-7512f6044eb3@78.109.198.25:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-472
 vless://e48cf70b-a9a5-4855-9330-e8649a11882e@193.134.100.23:12596?security=none&encryption=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-296
+vless://e795891a-d0c9-41f3-83e9-ae7a9114f433@test.pythonsaz.ir:37194?security=reality&encryption=none&pbk=OjzpITb1Jsv8U0-wjDFEUGuZLuc1Bda_aWTxAmmhjCA&headerType=none&fp=chrome&spx=/2712a747bfba922&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=6c0751656c#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-554
 vless://ee512c0a-42e5-4a50-8637-7a3699fe9c7b@gr-2.tiptop-1.top:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-528
 vless://ee512c0a-42e5-4a50-8637-7a3699fe9c7b@gr-2.tiptop-1.top:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=gr-2.tiptop-1.top#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-529
 vless://ef21f8f2-a132-4e3a-adc1-20c632c4783d@31.14.123.90:6000?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-499
