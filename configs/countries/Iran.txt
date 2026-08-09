@@ -29,6 +29,9 @@ ss://3ccbad0a-cedc-dd42-1638-559ce522cecd@forallpanel.srtongston.ir:443?insecure
 ss://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201338ms
 ss://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202292ms
 ss://47d440a1-83ac-4d0f-b2b4-e51a8526f55a@ge.configfast.site:3013?security=&encryption=none&host=bale.ai%2Cweb.splus.ir%2Cigap.net&headerType=http&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-416
+ss://512a764b-846f-4d51-b337-74aabfa13663@panel.northforex.ir:996?path=%2Fmmd&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-569
+ss://512a764b-846f-4d51-b337-74aabfa13663@panel.northforex.ir:997?path=%2Fmmd&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-570
+ss://512a764b-846f-4d51-b337-74aabfa13663@panel.northforex.ir:998?path=%2Fmmd&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-571
 ss://529cd8b2-0432-4fe7-80a2-89076c818f25@185.118.15.160:2095?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-534
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@185.143.232.224:80?path=%2Fnews&security=none&encryption=none&host=bama.ir.usa.cdnir.org&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-333
 ss://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.11.buydeskapp.com.&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-320
@@ -49,6 +52,7 @@ ss://7507f585-8236-4d90-9578-b051b19b6546@87.236.208.128:2626?encryption=none&se
 ss://76d0da4f-7d3b-4be1-9a81-de1adaa8af59@zula.ir:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=mihanyas.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-395
 ss://7b912ab8-1f11-46fa-abe7-6d4bc1e45e61@188.209.153.97:36926?encryption=none&security=tls&sni=188.209.153.97&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=188.209.153.97&path=%2Ffreebox#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-493
 ss://7e38ce31-f444-42d8-903d-d4d5d8e7ae2c@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=join-to.unlimiteddev.Community.&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-356
+ss://7f3c3105-bc39-47fa-812d-1833b3709a9f@free.soundfiy.ir:4554?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=v-ydSy2Eb-YyiWYd3WyFoJc4Bjs9QPGRTsVac6SyO14&headerType=&fp=firefox&spx=%2F79b18347b0a623a&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e3#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-572
 ss://7f55b425-a623-439b-bbd5-0b1778162054@iranserver.com:80?path=%40V2ray_God%3DTelegram%2F%3Fed%3D2048&security=none&encryption=none&host=Free1V2rayGod.xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.site.&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-367
 ss://84c17b99-0c79-48cc-82b8-3b6914801921@193.84.255.99:9000?type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-303
 ss://84c17b99-0c79-48cc-82b8-3b6914801921@dlc-srv1.treenix-ping.com:9000?&packet-encoding=xudp&type=tcp&headerType=none&host=dlc-srv1.treenix-ping.com&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-302
@@ -72,6 +76,7 @@ ss://9ef6db89-3cad-4c66-b38c-315730b5c336@185.143.234.122:80?path=%2F&security=n
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UzVSQ0k2Z0o2U1VPY2RuTnBjRWdSMVVWemlkKzhPOC8rRGNlVVNIRG5Gcz06aWZmZ2RQU1I4Zzc1dDQ5bjN4Q2I5K09HMldHSlRqVWhvaHBQb0hOVDU5OD0@94.101.184.47:2052#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-488
 ss://NamedZadim@193.93.169.242:53655?path=%2F&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-511
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0S1JMKzNWRXNtbzZ1S05EMXB3UTZtK2JhVmRPZ1MzR1oxMW8vd1dLRGJBPQ==@e1.cover20.ir:51570#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-512
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowVjhvM2krWHZGRUs5UW0va0loaS9MUXo3NFhZWHVCSXRJU2JmWFVFUDNBPQ@e3.cover20.ir:56985?type=tcp#🇮🇷IR-🚀@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdTQ3eEp2cDJfcEdiQTVjMTNBU0hLODdEeER3azV6bQ==@coco1.farajet.net:1010#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-491
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWDE4NFlrS3REczQxYW9LRFFMVG1NelVFbzIrdWZkR1dhSXBPUzFyRUJJPQ@185.84.158.13:19964#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-525
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVmxIRU1MeDNaQmp6bmovUko2cDhqQUljTGRSeXpvalBNcUlqUEkyMTVVPQ==@n3.cover20.ir:55129#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-524
@@ -184,6 +189,9 @@ vless://3ccbad0a-cedc-dd42-1638-559ce522cecd@forallpanel.srtongston.ir:443?insec
 vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201338ms
 vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202292ms
 vless://47d440a1-83ac-4d0f-b2b4-e51a8526f55a@ge.configfast.site:3013?security=&encryption=none&host=bale.ai%2Cweb.splus.ir%2Cigap.net&headerType=http&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-416
+vless://512a764b-846f-4d51-b337-74aabfa13663@panel.northforex.ir:996?path=%2Fmmd&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-569
+vless://512a764b-846f-4d51-b337-74aabfa13663@panel.northforex.ir:997?path=%2Fmmd&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-570
+vless://512a764b-846f-4d51-b337-74aabfa13663@panel.northforex.ir:998?path=%2Fmmd&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-571
 vless://529cd8b2-0432-4fe7-80a2-89076c818f25@185.118.15.160:2095?type=tcp&encryption=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-534
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@185.143.232.224:80?path=%2Fnews&security=none&encryption=none&host=bama.ir.usa.cdnir.org&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-333
 vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.11.buydeskapp.com.&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-320
@@ -204,6 +212,7 @@ vless://7507f585-8236-4d90-9578-b051b19b6546@87.236.208.128:2626?encryption=none
 vless://76d0da4f-7d3b-4be1-9a81-de1adaa8af59@zula.ir:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=mihanyas.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-395
 vless://7b912ab8-1f11-46fa-abe7-6d4bc1e45e61@188.209.153.97:36926?encryption=none&security=tls&sni=188.209.153.97&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=188.209.153.97&path=%2Ffreebox#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-493
 vless://7e38ce31-f444-42d8-903d-d4d5d8e7ae2c@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=join-to.unlimiteddev.Community.&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-356
+vless://7f3c3105-bc39-47fa-812d-1833b3709a9f@free.soundfiy.ir:4554?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=v-ydSy2Eb-YyiWYd3WyFoJc4Bjs9QPGRTsVac6SyO14&headerType=&fp=firefox&spx=%2F79b18347b0a623a&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e3#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-572
 vless://7f55b425-a623-439b-bbd5-0b1778162054@iranserver.com:80?path=%40V2ray_God%3DTelegram%2F%3Fed%3D2048&security=none&encryption=none&host=Free1V2rayGod.xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.site.&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-367
 vless://84c17b99-0c79-48cc-82b8-3b6914801921@193.84.255.99:9000?type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-303
 vless://84c17b99-0c79-48cc-82b8-3b6914801921@dlc-srv1.treenix-ping.com:9000?&packet-encoding=xudp&type=tcp&headerType=none&host=dlc-srv1.treenix-ping.com&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-302
