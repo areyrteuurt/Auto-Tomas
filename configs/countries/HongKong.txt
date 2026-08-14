@@ -22,8 +22,13 @@ ss://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&ty
 ss://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-53
 ss://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?flow=xtls-rprx-vision&fp=chrome&host=%40sylphnet&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&security=reality&sni=www.amd.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2345
 ss://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?type=tcp&security=reality&encryption=none&sni=www.amd.com&fp=chrome&alpn=http%2F1.1&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&flow=xtls-rprx-vision&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2048
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WW1RNVkyRTNNR1JsTm1VMU5EVmtaVE5oWkdJeU1tSXlaREpqWmpNM05HST06T1dVNE0yUTNOemN0TldNeVl5MDBNRE5sTFdJeFlUWXRNbUUzT0RSbU9UTT1AY2NjY3QuMjg0LnBpY3M6NjUwMzI#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2440
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WW1RNVkyRTNNR1JsTm1VMU5EVmtaVE5oWkdJeU1tSXlaREpqWmpNM05HST06T1dVNE0yUTNOemN0TldNeVl5MDBNRE5sTFdJeFlUWXRNbUUzT0RSbU9UTT1AY2NjY3QuMjg0LnBpY3M6NjUwNDI#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2441
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WW1RNVkyRTNNR1JsTm1VMU5EVmtaVE5oWkdJeU1tSXlaREpqWmpNM05HST06T1dVNE0yUTNOemN0TldNeVl5MDBNRE5sTFdJeFlUWXRNbUUzT0RSbU9UTT1AY2NjY3QuMjg0LnBpY3M6NjUxMTI#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2442
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WW1RNVkyRTNNR1JsTm1VMU5EVmtaVE5oWkdJeU1tSXlaREpqWmpNM05HST06TXpZd1lUYzRaVEF0WVdZeFl5MDBOVE5tTFRrME5HSXRZMkZsTVRobVlXVT1AY2NjY3QuMjg0LnBpY3M6NjUwMjI#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2394
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WW1RNVkyRTNNR1JsTm1VMU5EVmtaVE5oWkdJeU1tSXlaREpqWmpNM05HST06WldRMVlqVTVaR1F0TXpobFl5MDBZMlUxTFRnd1pERXRZV1V6T0ROa01Uaz1AY2NjY3QuMjg0LnBpY3M6NjUwNTI#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2406
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRFeVkyVmlPR1UwTVdKaU5EY3dOMlZsWWpVM016a3pPRGxoTmpsaU5HWT06T1dVNE0yUTNOemN0TldNeVl5MDBNRE5sTFdJeFlUWXRNbUUzT0RSbU9UTT1AY2NjY3QuMjg0LnBpY3M6NjUwMTI#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2443
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRFeVkyVmlPR1UwTVdKaU5EY3dOMlZsWWpVM016a3pPRGxoTmpsaU5HWT06T1dVNE0yUTNOemN0TldNeVl5MDBNRE5sTFdJeFlUWXRNbUUzT0RSbU9UTT1AY2NjY3QuMjg0LnBpY3M6NjUwMTI#香港
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRFeVkyVmlPR1UwTVdKaU5EY3dOMlZsWWpVM016a3pPRGxoTmpsaU5HWT06TXpZd1lUYzRaVEF0WVdZeFl5MDBOVE5tTFRrME5HSXRZMkZsTVRobVlXVT1AY2NjY3QuMjg0LnBpY3M6NjUwMTI#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2393
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRFeVkyVmlPR1UwTVdKaU5EY3dOMlZsWWpVM016a3pPRGxoTmpsaU5HWT06TXpZd1lUYzRaVEF0WVdZeFl5MDBOVE5tTFRrME5HSXRZMkZsTVRobVlXVT1AY2NjY3QuMjg0LnBpY3M6NjUwMTI#香港
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRFeVkyVmlPR1UwTVdKaU5EY3dOMlZsWWpVM016a3pPRGxoTmpsaU5HWT06WldRMVlqVTVaR1F0TXpobFl5MDBZMlUxTFRnd1pERXRZV1V6T0ROa01Uaz1AY2NjY3QuMjg0LnBpY3M6NjUwMTI#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2407
@@ -55,6 +60,8 @@ trojan://AE62539071@novel-mouse.rooster465.autos:443?allowInsecure=1&insecure=1&
 trojan://AE62539071@novel-mouse.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2401
 trojan://AE62539071@smiling-ray.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=smiling-ray.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2416
 trojan://AE62539071@smiling-ray.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2398
+trojan://AE62539071@strong-haddock.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2439
+trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2438
 trojan://AE62539071@upright-bedbug.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=upright-bedbug.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2417
 trojan://AE62539071@upright-bedbug.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2399
 trojan://AE62539071@wealthy-loon.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=wealthy-loon.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2418
