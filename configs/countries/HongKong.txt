@@ -164,6 +164,7 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRFeVkyVmlPR1UwTVdKaU5EY3dOMlZsWWpVM016a3p
 ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@hkg24-20250621185858bb8394.singdns.com:23341#香港流媒体专享
 ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@hkg24-20250621190455900606.singdns.com:23342#香港
 ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg==@212.192.15.46:10910#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2476
+ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4ZkAyMTIuMTkyLjE1LjQ2OjYwMTEy#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2663
 ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4ZkAyMTIuMTkyLjEzLjIyMToxMDkxMA==#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2409
 ss://YWVzLTI1Ni1nY206OERmdWdIU1EwNGJEdFFpTQ==@212.192.15.111:8388#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2571
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dnewroot2v1.dsjsapp.com%3Bpath%3D%2Fzksuapgx%3Bmux%3Dmux%3D4%3B%3B#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40stairnode
@@ -181,6 +182,7 @@ ss://a94fc65a-9d02-4866-bc7a-cb82e6dd5ba3@fv2026.node2.top:21001?flow=xtls-rprx-
 ss://acd3b2e1-f959-4b67-ad79-1f272ba62838@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2654
 ss://ae8176b5-47ad-4281-9a6f-ea8133e40d02@141.11.76.57:21001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&sid=dfa28122&sni=itunes.apple.com#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2600
 ss://ae8176b5-47ad-4281-9a6f-ea8133e40d02@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2537
+ss://ae90794e-4696-49f3-8abf-10c896b67db7@141.11.76.57:21001?security=reality&flow=xtls-rprx-vision&sni=itunes.apple.com&type=tcp&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&sid=dfa28122#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2662
 ss://ae90794e-4696-49f3-8abf-10c896b67db7@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2538
 ss://b30a9386-4756-43b6-aac8-fc56ed5ee46d@141.11.76.57:21001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&sid=dfa28122&sni=itunes.apple.com#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2583
 ss://b30a9386-4756-43b6-aac8-fc56ed5ee46d@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2539
@@ -189,6 +191,7 @@ ss://b4832bf9-8fbe-417b-bf1d-d42f262d584c@fv2026.node2.top:21001?flow=xtls-rprx-
 ss://b65d1713-bcec-4b2a-9b47-db835ad261c9@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2655
 ss://b77d2cc5-94f7-41fb-b5c1-04df10e2e79a@141.11.76.57:21001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&sid=dfa28122&sni=itunes.apple.com#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2573
 ss://b77d2cc5-94f7-41fb-b5c1-04df10e2e79a@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2541
+ss://b80b392c-0cf4-42f9-ae54-9f862e3ba276@103.195.4.7:13443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.cendora.ru&fp=qq&security=reality&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2664
 ss://bad4e99a-4c00-40ef-a6ed-1c6c10d27d83@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2656
 ss://baed6e1a-460d-475b-b245-8b6e34828214@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2657
 ss://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?encryption=none&type=raw&headerType=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2562
@@ -267,7 +270,6 @@ trojan://AE62539071@upright-bedbug.rooster465.autos:443?allowInsecure=1&insecure
 trojan://AE62539071@upright-bedbug.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2399
 trojan://AE62539071@wealthy-loon.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=wealthy-loon.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2418
 trojan://AE62539071@wealthy-loon.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2400
-trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%201
 trojan://BxceQaOe@219.76.135.98:443?security=tls&allowInsecure=1&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF
 trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF
 trojan://BxceQaOe@3.112.196.41:6313?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40stairnode
@@ -281,6 +283,7 @@ trojan://FH72359861@growing-oyster.rooster465.autos:443?security=tls#%5BOpenRay%
 trojan://FH72359861@modern-bedbug.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2455
 trojan://FH72359861@modern-bedbug.rooster465.autos:443?security=tls&sni=modern-bedbug.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2453
 trojan://FH72359861@natural-swan.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2456
+trojan://FH72359861@strong-haddock.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2661
 trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starling.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2323
 trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynamic-grubworm.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2324
 trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynamic-grubworm.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2358
@@ -447,6 +450,7 @@ vless://a94fc65a-9d02-4866-bc7a-cb82e6dd5ba3@fv2026.node2.top:21001?flow=xtls-rp
 vless://acd3b2e1-f959-4b67-ad79-1f272ba62838@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2654
 vless://ae8176b5-47ad-4281-9a6f-ea8133e40d02@141.11.76.57:21001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&sid=dfa28122&sni=itunes.apple.com#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2600
 vless://ae8176b5-47ad-4281-9a6f-ea8133e40d02@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2537
+vless://ae90794e-4696-49f3-8abf-10c896b67db7@141.11.76.57:21001?security=reality&flow=xtls-rprx-vision&sni=itunes.apple.com&type=tcp&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&sid=dfa28122#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2662
 vless://ae90794e-4696-49f3-8abf-10c896b67db7@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2538
 vless://b30a9386-4756-43b6-aac8-fc56ed5ee46d@141.11.76.57:21001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&sid=dfa28122&sni=itunes.apple.com#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2583
 vless://b30a9386-4756-43b6-aac8-fc56ed5ee46d@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2539
@@ -455,6 +459,7 @@ vless://b4832bf9-8fbe-417b-bf1d-d42f262d584c@fv2026.node2.top:21001?flow=xtls-rp
 vless://b65d1713-bcec-4b2a-9b47-db835ad261c9@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2655
 vless://b77d2cc5-94f7-41fb-b5c1-04df10e2e79a@141.11.76.57:21001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&sid=dfa28122&sni=itunes.apple.com#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2573
 vless://b77d2cc5-94f7-41fb-b5c1-04df10e2e79a@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2541
+vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@103.195.4.7:13443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.cendora.ru&fp=qq&security=reality&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2664
 vless://bad4e99a-4c00-40ef-a6ed-1c6c10d27d83@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2656
 vless://baed6e1a-460d-475b-b245-8b6e34828214@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2657
 vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?encryption=none&type=raw&headerType=none&security=none#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2562
