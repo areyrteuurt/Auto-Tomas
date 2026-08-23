@@ -825,6 +825,7 @@ trojan://PQ05174892@mighty-lemming.rooster465.autos:443?security=tls&sni=mighty-
 trojan://PQ05174892@mighty-lemming.rooster465.autos:443?security=tls&sni=mighty-lemming.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4294
 trojan://PQ05174892@open-caribou.rooster465.autos:443?type=tcp&security=tls&sni=open-caribou.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4232
 trojan://PQ05174892@pleased-albacore.rooster465.autos:443?security=tls&sni=pleased-albacore.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-2609
+trojan://PQ05174892@powerful-squid.rooster465.autos:443?sni=powerful-squid.rooster465.autos&peer=powerful-squid.rooster465.autos&security=tls#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-11243
 trojan://PQ05174892@precious-stag.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7%20KR-2752
 trojan://PQ05174892@proud-escargot.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4244
 trojan://PQ05174892@ready-monarch.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4301
@@ -913,7 +914,6 @@ trojan://ewpvezqjycgfeebg@38.79.154.34:1818?security=reality&pbk=_PvxwvgQue6Gt2n
 trojan://ewpvezqjycgfeebg@38.79.154.34:1818?security=reality&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/353add2ce7a3241&type=tcp&sni=www.cloudflare.com&sid=cee1b559#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B4%20RO-35
 trojan://fQkGQafiTd@138.124.90.40:52556?security=reality&sni=aws.amazon.com&fp=chrome&pbk=wrYXdw8PdyMzrf01h0R9l_9SVuIXuK563TmOqOK4rH4&sid=f6338d1bfe27&spx=%2F&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B9%20AT-383
 trojan://fVZMat1g9H@172.236.133.188:52?security=tls&sni=172.236.133.188&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-2559
-trojan://fg20mtCFHy@128.1.248.162:5692?security=tls&sni=quicknet.southbyte.xyz#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25002
 trojan://fg20mtCFHy@128.14.148.84:5531?security=tls&sni=ycgsc.southbyte.xyz#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25022
 trojan://fg20mtCFHy@128.14.156.48:5529?security=tls&sni=gonets.southbyte.xyz#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25112
 trojan://humanity@104.16.122.175:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18413
