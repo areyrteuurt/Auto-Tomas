@@ -13,3 +13,4 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?allow_insecu
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-002.fastervpn.world:443?allow_insecure=1&allowInsecure=1&insecure=1&sni=vpn-jp-002.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?allow_insecure=1&allowInsecure=1&insecure=1&sni=vpn-uk-002.fastervpn.world#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B4%20RO-57
+hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.click:443/?insecure=1&sni=germany1.h2corp.local%234%F0%9F%90%B2@oneclickvpnkeys#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-2919
