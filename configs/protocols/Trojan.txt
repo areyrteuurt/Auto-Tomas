@@ -646,7 +646,6 @@ trojan://ND91608427@devoted-heron.rooster465.autos:443?security=tls&sni=devoted-
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1967
 trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynamic-grubworm.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2324
 trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynamic-grubworm.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2358
-trojan://ND91608427@fancy-skink.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-4289
 trojan://ND91608427@happy-mutt.rooster465.autos:443?security=tls&sni=happy-mutt.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-3994
 trojan://ND91608427@healthy-louse.rooster465.autos:443?security=tls&sni=healthy-louse.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4008
 trojan://ND91608427@internal-sunbird.rooster465.autos:443?security=tls&sni=internal-sunbird.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-3981
