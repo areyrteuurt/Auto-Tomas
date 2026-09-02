@@ -9,6 +9,7 @@ hysteria2://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@134.195.101.191:443?sni=www.app
 hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?allowInsecure=1&sni=css.rbxcdn.com&upmbps=10&insecure=1&type=tcp&downmbps=50&nonce=e98RZ2Wn&_t=227da4f0#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B4%20RO-54
 hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?downmbps=50&type=tcp&insecure=1&upmbps=10&nonce=e98RZ2Wn&allowInsecure=1&sni=css.rbxcdn.com#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B4%20RO-55
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=vk.com&type=tcp&upmbps=10&downmbps=50#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B4%20RO-56
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080/?insecure=1&sni=hopp-legend-se.roxa.org%23%F0%9F%AA%8696@oneclickvpnkeys#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1395
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?allow_insecure=1&allowInsecure=1&insecure=1&sni=vpn-jp-001.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-002.fastervpn.world:443?allow_insecure=1&allowInsecure=1&insecure=1&sni=vpn-jp-002.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?allow_insecure=1&allowInsecure=1&insecure=1&sni=vpn-uk-002.fastervpn.world#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
