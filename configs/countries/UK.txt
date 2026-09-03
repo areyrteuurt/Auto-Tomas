@@ -168,6 +168,9 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dklGUVFwa1M1V2NHZC81U2ZwdjNwdDcySWw
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6eG9MY1dVMWJSeFB6VkxxVk5tUzNBUnoxZXI0UDdaVDF2UmRlWG95ZzhwUT0=@129.151.78.81:61312#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3121
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTZjYmI0Ni1lYmIwLTQ3MjYtOTIwMi02YTNiYWMxZDBhZmJAMTQwLjIzOC42NC4yMDc6NDIzNDU=#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3015
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTM2MzcyYS1kOTc2LTRlMjUtOGIzYi0yOWMxYTU4NDFlMDZAMTQwLjIzOC42NC4yMDc6NDIzNDU=#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2992
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🇬🇧GB-🚀@VPNine1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🇬🇧GB-🚀@VPNine1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#🇬🇧GB-🚀@VPNine1
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-216
 ss://a00ec891-92ff-485b-ba03-7411fc6c0f04@57.129.130.57:52014?path=/@Marisa_kristi&security=tls&encryption=none&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&fp=chrome&type=ws&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&ech=cloudflare-ech.com#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3169
 ss://a1940e26-3761-4a99-953c-044353664adb@129.151.64.169:31867?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome&type=ws&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3195
@@ -278,6 +281,9 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.132.121:22223?encryption=none&s
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.200.6:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3146
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.200.6:22223?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3150
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.200.6:22224?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3148
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3201
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22223?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3205
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22224?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3203
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3185
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22223?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3188
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22224?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3189
@@ -315,6 +321,9 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.28.242:22223?encryption=none&secur
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.178.112.200:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3142
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.178.112.200:22223?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3140
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.178.112.200:22224?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3141
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3200
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22223?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3204
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22224?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3202
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3071
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22223?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3072
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22224?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3073
@@ -342,6 +351,7 @@ ss://ec9b8fae-9a70-4106-9e6e-0c3ba725b4d9@2.24.131.46:443?Telegram=@GozargahAzad
 ss://eced0d03-e140-48f4-9de1-003499eeb45a@5.253.38.67:40444?flow=xtls-rprx-vision&fp=chrome&pbk=ZZK_Oo5-iDDgoWzxIURTLWoKPbC8NFto3Mk7OvAZgRU&security=reality&sid=b3f2a1c9&sni=www.lovelive-anime.jp&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2867
 ss://ed79c2d4-5558-428f-87f5-af4abc97a16d@23.27.20.142:48537?security=tls&type=ws&path=%2F%40Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2717
 ss://eefb88a9-43af-45d0-8bf4-d0baa36e56eb@129.151.64.169:31867?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&fp=chrome&type=ws&sni=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3027
+ss://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-uk.upd-media.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=WxGqUqMkMBfXSRIoY1NfgHFNSf7sfffz5qsAW6IgNGg&sid=f3c4d9b1e7e4f712&sni=api-uk.upd-media.com#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3207
 ss://f2816a01-3555-4e79-9e26-770f050ea55a@46.250.240.80:2053?security=reality&type=tcp&sni=www.apple.com&fp=firefox&sid=632a146bd581641a&pbk=bRDaP068YgdwwdQgenUvKTNfPjIB_Dy-lJDFC9ZZEXU&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2935
 ss://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?&security=tls&fp=chrome&sni=129.121.95.159&type=ws&headerType=none&host=129.121.95.159&path=%2Fconnect#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2887
 ss://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?encryption=none&security=tls&sni=129.121.95.159&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=129.121.95.159&path=%2Fconnect%23TELEGRAM-MUSICLOVERS85%3Fed%3D512#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3078
@@ -372,6 +382,8 @@ ss://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@ldsub.dwz.ccwu.cc:8881?encryption=none
 ss://ffaa4b21-9842-4206-8f4c-20588033c481@eg.linuxbase.ir:443?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ugtm31PMWRlIc6ECuwte3TQ8dvl5ySnrewLZYIAoV1Y&sid=f8c90594fb7adb6e&spx=%2F&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3161
 trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3021
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@gb.techdatacloud.org:2053?type=tcp&security=reality&pbk=uiFSTSOSNKBLju8qnTOyZdM1WyTwOFVr3-RXUYk9nEM&fp=firefox&sni=cloud.mail.ru&sid=23572794d5ffc9fd&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2850
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=xn--1ugy405pdua.gayvibe.dpdns.org&fp=firefox&alpn=http/1.1#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3208
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls&alpn=http/1.1&fp=firefox#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3206
 vless://08c4f94a-17ed-4d84-b5f5-a9db94dab76d@129.151.64.169:31867?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3023
 vless://091ea5fd-4e8d-4459-90af-e4d10179efff@57.129.130.57:52014?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&fp=chrome&type=ws&sni=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3060
 vless://097bb22a-1303-4478-b9e8-ffc84ea17e83@50.7.197.2:8443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/connect&security=tls&sni=apkav-6.bosx.net&type=ws#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2996
@@ -632,6 +644,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.132.121:22223?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.200.6:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3146
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.200.6:22223?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3150
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.200.6:22224?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3148
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3201
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22223?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3205
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22224?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3203
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3185
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22223?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3188
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22224?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3189
@@ -669,6 +684,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.28.242:22223?encryption=none&se
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.178.112.200:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3142
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.178.112.200:22223?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3140
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.178.112.200:22224?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3141
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3200
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22223?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3204
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22224?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3202
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3071
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22223?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3072
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22224?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3073
@@ -696,6 +714,7 @@ vless://ec9b8fae-9a70-4106-9e6e-0c3ba725b4d9@2.24.131.46:443?Telegram=@GozargahA
 vless://eced0d03-e140-48f4-9de1-003499eeb45a@5.253.38.67:40444?flow=xtls-rprx-vision&fp=chrome&pbk=ZZK_Oo5-iDDgoWzxIURTLWoKPbC8NFto3Mk7OvAZgRU&security=reality&sid=b3f2a1c9&sni=www.lovelive-anime.jp&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2867
 vless://ed79c2d4-5558-428f-87f5-af4abc97a16d@23.27.20.142:48537?security=tls&type=ws&path=%2F%40Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2717
 vless://eefb88a9-43af-45d0-8bf4-d0baa36e56eb@129.151.64.169:31867?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&fp=chrome&type=ws&sni=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3027
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-uk.upd-media.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=WxGqUqMkMBfXSRIoY1NfgHFNSf7sfffz5qsAW6IgNGg&sid=f3c4d9b1e7e4f712&sni=api-uk.upd-media.com#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3207
 vless://f2816a01-3555-4e79-9e26-770f050ea55a@46.250.240.80:2053?security=reality&type=tcp&sni=www.apple.com&fp=firefox&sid=632a146bd581641a&pbk=bRDaP068YgdwwdQgenUvKTNfPjIB_Dy-lJDFC9ZZEXU&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2935
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?&security=tls&fp=chrome&sni=129.121.95.159&type=ws&headerType=none&host=129.121.95.159&path=%2Fconnect#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2887
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?encryption=none&security=tls&sni=129.121.95.159&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=129.121.95.159&path=%2Fconnect%23TELEGRAM-MUSICLOVERS85%3Fed%3D512#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3078
