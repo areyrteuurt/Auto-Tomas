@@ -99,7 +99,6 @@ ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?flow=xtls-rprx-visi
 ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?security=reality&type=tcp&sni=vk.ru&fp=firefox&flow=xtls-rprx-vision&sid=d26f4703cdd30f4e&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1330
 ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?security=tls&type=grpc&mode=gun&serviceName=grpc&sni=laoye.in-gect.fun&fp=ios#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1341
 ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?type=grpc&security=tls&fp=firefox&sni=laoye.in-gect.fun&serviceName=grpc#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1343
-ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&security=&type=ws#Latvia
 ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?&security=reality&flow=xtls-rprx-vision&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&fp=edge&sni=vk.ru&type=tcp&headerType=none&host=vk.ru&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1329
 ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?flow=xtls-rprx-vision&fp=chrome&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sni=vk.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1354
 ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2083?fp=chrome&security=tls&serviceName=grpc&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1355
@@ -442,7 +441,6 @@ vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?flow=xtls-rprx-v
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?security=reality&type=tcp&sni=vk.ru&fp=firefox&flow=xtls-rprx-vision&sid=d26f4703cdd30f4e&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1330
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?security=tls&type=grpc&mode=gun&serviceName=grpc&sni=laoye.in-gect.fun&fp=ios#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1341
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?type=grpc&security=tls&fp=firefox&sni=laoye.in-gect.fun&serviceName=grpc#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1343
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&security=&type=ws#Latvia
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?&security=reality&flow=xtls-rprx-vision&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&fp=edge&sni=vk.ru&type=tcp&headerType=none&host=vk.ru&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1329
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?flow=xtls-rprx-vision&fp=chrome&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sni=vk.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1354
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2083?fp=chrome&security=tls&serviceName=grpc&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-1355
