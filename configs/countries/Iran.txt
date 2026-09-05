@@ -318,6 +318,8 @@ ss://ee512c0a-42e5-4a50-8637-7a3699fe9c7b@gr-2.tiptop-1.top:8443?security=tls&en
 ss://ee512c0a-42e5-4a50-8637-7a3699fe9c7b@gr-2.tiptop-1.top:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=gr-2.tiptop-1.top#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-529
 ss://ef21f8f2-a132-4e3a-adc1-20c632c4783d@31.14.123.90:6000?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-499
 ss://ef21f8f2-a132-4e3a-adc1-20c632c4783d@germany2.benjaminclouds.ir:6000?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-490
+ss://ef5f6054-61c7-4ce8-a35b-dbcec449f242@185.24.151.83:443?security=reality&type=raw&sni=jobinvest.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-780
+ss://ef5f6054-61c7-4ce8-a35b-dbcec449f242@185.24.151.84:443?security=reality&type=tcp&packetEncoding=none&sni=jobinvest.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-781
 ss://f01de3e1-150c-4c32-bf87-717ba37a2472@185.143.234.200:80?path=%2F&security=none&encryption=none&host=tr.newdesigne.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-404
 ss://f1278ace-6eb9-47b1-b23f-06237fa38b20@ipp.immahan.ir:47897?security=tls&type=ws&headerType=&path=/ws&host=viip6.tu5pars.ir&sni=viip6.tu5pars.ir&fp=chrome&alpn=h3,h2,http/1.1#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-523
 ss://f46f44d8-0ebf-45de-8640-69a96a4c94ad@zula.ir:80?path=%2Fvless&security=none&encryption=none&host=De2.vless.site.&type=ws&sni=de2.vless.site#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-390
@@ -628,6 +630,8 @@ vless://ee512c0a-42e5-4a50-8637-7a3699fe9c7b@gr-2.tiptop-1.top:8443?security=tls
 vless://ee512c0a-42e5-4a50-8637-7a3699fe9c7b@gr-2.tiptop-1.top:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=gr-2.tiptop-1.top#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-529
 vless://ef21f8f2-a132-4e3a-adc1-20c632c4783d@31.14.123.90:6000?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-499
 vless://ef21f8f2-a132-4e3a-adc1-20c632c4783d@germany2.benjaminclouds.ir:6000?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-490
+vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@185.24.151.83:443?security=reality&type=raw&sni=jobinvest.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-780
+vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@185.24.151.84:443?security=reality&type=tcp&packetEncoding=none&sni=jobinvest.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-781
 vless://f01de3e1-150c-4c32-bf87-717ba37a2472@185.143.234.200:80?path=%2F&security=none&encryption=none&host=tr.newdesigne.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-404
 vless://f1278ace-6eb9-47b1-b23f-06237fa38b20@ipp.immahan.ir:47897?security=tls&type=ws&headerType=&path=/ws&host=viip6.tu5pars.ir&sni=viip6.tu5pars.ir&fp=chrome&alpn=h3,h2,http/1.1#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-523
 vless://f46f44d8-0ebf-45de-8640-69a96a4c94ad@zula.ir:80?path=%2Fvless&security=none&encryption=none&host=De2.vless.site.&type=ws&sni=de2.vless.site#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-390
