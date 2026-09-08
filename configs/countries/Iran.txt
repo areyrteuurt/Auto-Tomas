@@ -331,6 +331,7 @@ ss://f46f44d8-0ebf-45de-8640-69a96a4c94ad@zula.ir:80?path=%2Fvless&security=none
 ss://f526e941-52ac-4d28-ba49-5ba2fc0a984b@zula.ir:80?path=%2Fvless&security=none&encryption=none&host=uk2-vless.sshmax.xyz&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-380
 ss://f564970a-8d90-4139-aec2-72cfbf6b1e24@sv33.lithiumhost.ir:41722?security=&encryption=none&headerType=&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-612
 ss://f6f5e3c0-63d7-4a6b-aec0-01630b84deae@185.143.235.253:2082?path=%2Fbalepingbot&security=none&encryption=none&host=sr3.baleping.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-458
+ss://fa254fcb-6425-45a5-b352-35584b29cfc0@185.143.233.5:80?path=%2F&security=none&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-788
 ss://fa75fd99-1ae6-4cb2-86a6-a41fb65ab4c4@5.10.249.14:29988?path=%2F&security=none&encryption=none&host=anten.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-502
 ss://fae062df-b57c-4575-bb75-cff9859b2f04@zula.ir:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=162884125.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-412
 ss://fb290991-bbd5-4c7f-b5fc-b0bb344bf6e1@5.160.252.55:443?encryption=none&security=tls&sni=irtes.chakkalx.de&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fdashaq#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-509
@@ -648,6 +649,7 @@ vless://f46f44d8-0ebf-45de-8640-69a96a4c94ad@zula.ir:80?path=%2Fvless&security=n
 vless://f526e941-52ac-4d28-ba49-5ba2fc0a984b@zula.ir:80?path=%2Fvless&security=none&encryption=none&host=uk2-vless.sshmax.xyz&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-380
 vless://f564970a-8d90-4139-aec2-72cfbf6b1e24@sv33.lithiumhost.ir:41722?security=&encryption=none&headerType=&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-612
 vless://f6f5e3c0-63d7-4a6b-aec0-01630b84deae@185.143.235.253:2082?path=%2Fbalepingbot&security=none&encryption=none&host=sr3.baleping.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-458
+vless://fa254fcb-6425-45a5-b352-35584b29cfc0@185.143.233.5:80?path=%2F&security=none&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-788
 vless://fa75fd99-1ae6-4cb2-86a6-a41fb65ab4c4@5.10.249.14:29988?path=%2F&security=none&encryption=none&host=anten.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-502
 vless://fae062df-b57c-4575-bb75-cff9859b2f04@zula.ir:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=162884125.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-412
 vless://fb290991-bbd5-4c7f-b5fc-b0bb344bf6e1@5.160.252.55:443?encryption=none&security=tls&sni=irtes.chakkalx.de&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fdashaq#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-509
