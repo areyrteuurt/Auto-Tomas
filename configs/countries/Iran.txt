@@ -38,6 +38,8 @@ ss://1eb75d06-34b5-48af-8564-90e9ca0a3e04@31.56.89.31:37825?encryption=mlkem768x
 ss://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?security=none&type=ws&path=/&host=parsi.parsi.sbs&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-550
 ss://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?encryption=none&security=none&type=ws&host=parsi.parsi.sbs&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-544
 ss://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?security=none&type=ws&path=/&host=parsi.parsi.sbs&sni=parsi.parsi.sbs&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-547
+ss://1f8c8037-dca2-4b81-a86e-5475db0f70db@7372986326_ae19.t1a.syslogd.ir:9093?path=/api/v2/com.trezor.io?ed=2560&security=&encryption=mlkem768x25519plus.native.0rtt.JKTfELQ3_c8HCxgXaFT-sKtAQsynyKTdpUxf6B3LJUg&host=play.google.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-801
+ss://1f8c8037-dca2-4b81-a86e-5475db0f70db@7372986326_ae19.t3a.syslogd.ir:9093?path=/api/v2/com.trezor.io?ed=2560&security=&encryption=mlkem768x25519plus.native.0rtt.JKTfELQ3_c8HCxgXaFT-sKtAQsynyKTdpUxf6B3LJUg&host=play.google.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-802
 ss://206aa07d-1d2f-4bf0-96aa-cc46c6b7b27c@78.110.121.54:7997?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-600
 ss://220b6b3c-ab69-4f5c-aaae-2879802f8425@sparkconfig.parsclad.ir:56408?encryption=none&fp=chrome&pbk=igieZCZLRmmQL7kS4JAz3jz0k97PpgjU86RLy5B95Tw&security=reality&sid=17c520895497&sni=www.cloudflare.com&spx=/399772c68e6a550&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-783
 ss://220b6b3c-ab69-4f5c-aaae-2879802f8425@sparkconfig.parsclad.ir:7378?encryption=none&fp=chrome&pbk=1hrU2O7Hads4EW7IWaubuDZmVQXKHtUfaUrtXLtcZhw&security=reality&sid=04abbe14&sni=www.cloudflare.com&spx=/ca18febb24da4df&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-782
@@ -244,7 +246,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRU5oeXFaVm5vRVN1aGU5TGRyT0EvLzJMVmh6Ymo0RnM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2JXY0N0VFZYdVptZ2RLTGRLSjJ4ZmRVUldDNHc5Tg==@coco1.farajet.net:1010#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-514
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2JXY0N0VFZYdVptZ2RLTGRLSjJ4ZmRVUldDNHc5Tg==@coco2.farajet.net:2020#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-515
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#@Iran_v2ray1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#@Iran_v2ray1
 ss://YWVzLTI1Ni1nY206Q2k3dFB6QW9yMUMwRkxHS0BpcmFuLWthbGEueHl6OjI3MTEy#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-759
 ss://YWVzLTI1Ni1nY206TVRWbE5HRmtZalpsT0RBd1pqTmtNV1V4TURjMU5EbG1NVGs1TW1NNQ@iran.tonanimalia.com:10117#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-692
 ss://YWVzLTI1Ni1nY206TVdSaU9UUTFNV05rWVRObVpXTXpaamt6TWpneVl6QmpNakV6T0dZeg@193.176.242.55:9142?prefix= ¨#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-779
@@ -387,6 +388,8 @@ vless://1eb75d06-34b5-48af-8564-90e9ca0a3e04@31.56.89.31:37825?encryption=mlkem7
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?security=none&type=ws&path=/&host=parsi.parsi.sbs&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-550
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?encryption=none&security=none&type=ws&host=parsi.parsi.sbs&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-544
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?security=none&type=ws&path=/&host=parsi.parsi.sbs&sni=parsi.parsi.sbs&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-547
+vless://1f8c8037-dca2-4b81-a86e-5475db0f70db@7372986326_ae19.t1a.syslogd.ir:9093?path=/api/v2/com.trezor.io?ed=2560&security=&encryption=mlkem768x25519plus.native.0rtt.JKTfELQ3_c8HCxgXaFT-sKtAQsynyKTdpUxf6B3LJUg&host=play.google.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-801
+vless://1f8c8037-dca2-4b81-a86e-5475db0f70db@7372986326_ae19.t3a.syslogd.ir:9093?path=/api/v2/com.trezor.io?ed=2560&security=&encryption=mlkem768x25519plus.native.0rtt.JKTfELQ3_c8HCxgXaFT-sKtAQsynyKTdpUxf6B3LJUg&host=play.google.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-802
 vless://206aa07d-1d2f-4bf0-96aa-cc46c6b7b27c@78.110.121.54:7997?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-600
 vless://220b6b3c-ab69-4f5c-aaae-2879802f8425@sparkconfig.parsclad.ir:56408?encryption=none&fp=chrome&pbk=igieZCZLRmmQL7kS4JAz3jz0k97PpgjU86RLy5B95Tw&security=reality&sid=17c520895497&sni=www.cloudflare.com&spx=/399772c68e6a550&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-783
 vless://220b6b3c-ab69-4f5c-aaae-2879802f8425@sparkconfig.parsclad.ir:7378?encryption=none&fp=chrome&pbk=1hrU2O7Hads4EW7IWaubuDZmVQXKHtUfaUrtXLtcZhw&security=reality&sid=04abbe14&sni=www.cloudflare.com&spx=/ca18febb24da4df&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-782
