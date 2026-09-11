@@ -50,6 +50,7 @@ ss://2b262080-f68a-4108-9ac3-d89140faaf6f@3.166.17.55:443?path=%2F&security=tls&
 ss://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?encryption=none&security=tls&sni=it2ws.wba-pn.ru&type=ws&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-849
 ss://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&encryption=none&type=ws&sni=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-850
 ss://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?fp=chrome&security=tls&sni=it2ws.wba-pn.ru&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-847
+ss://2e050832-ad53-42ba-9fd3-cec1f74cb626@e607890ef11ddc8a.rainzone.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=1bfe954cb07fb70a#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-928
 ss://2e736ef7-fc59-4161-bc64-e1416c74aae5@57.131.18.86:6300?fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&security=reality&sni=play.google.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-874
 ss://2e736ef7-fc59-4161-bc64-e1416c74aae5@it.falzema.ir:6300?fp=qq&host=v2raynplus--v2raynplus--v2raynplus&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&security=reality&sni=play.google.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-875
 ss://2e736ef7-fc59-4161-bc64-e1416c74aae5@it.falzema.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-862
@@ -94,6 +95,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZW93OFllcWFGWTBza1YyOUdGMEdWVGIydkdyQjVBb0A
 ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMQ@132.243.255.3:20111#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-924
 ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMUAxMzIuMjQzLjI1NS4zOjEwNjYx#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-919
 ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMUAxMzIuMjQzLjI1NS4zOjIwMTAy#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-916
+ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMUAxMzIuMjQzLjI1NS4zOjMwMTEx#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-929
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE4NS4yMTMuMjAuMTEwOjcwMDE=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-77
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.194.61:9090#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-811
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.162:10901#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-857
@@ -187,6 +189,7 @@ vless://2b262080-f68a-4108-9ac3-d89140faaf6f@3.166.17.55:443?path=%2F&security=t
 vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?encryption=none&security=tls&sni=it2ws.wba-pn.ru&type=ws&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-849
 vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&encryption=none&type=ws&sni=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-850
 vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?fp=chrome&security=tls&sni=it2ws.wba-pn.ru&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-847
+vless://2e050832-ad53-42ba-9fd3-cec1f74cb626@e607890ef11ddc8a.rainzone.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=1bfe954cb07fb70a#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-928
 vless://2e736ef7-fc59-4161-bc64-e1416c74aae5@57.131.18.86:6300?fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&security=reality&sni=play.google.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-874
 vless://2e736ef7-fc59-4161-bc64-e1416c74aae5@it.falzema.ir:6300?fp=qq&host=v2raynplus--v2raynplus--v2raynplus&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&security=reality&sni=play.google.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-875
 vless://2e736ef7-fc59-4161-bc64-e1416c74aae5@it.falzema.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-862
