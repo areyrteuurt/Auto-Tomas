@@ -29,7 +29,7 @@ ss://979b6822-d65a-400d-89f8-30391903ac20@transferwise.com:443?encryption=none&s
 ss://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&type=ws&host=google.com&path=%2Fvless%2F&security=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2264
 ss://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2990
 ss://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&security=reality&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2937
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#🇬🇧GB-🚀@VPNine1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#🇬🇧GB-🚀@VPNine1
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-216
 ss://a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18@78.129.208.44:421?sid=a1facbc8575701ae&pbk=zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg&security=reality&flow=xtls-rprx-vision&headerType=none&fp=chrome&sni=chistomat.dry.care&encryption=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3250
 ss://a8444f42-8aa2-4ef2-8755-2b0d82415fc6@51.89.194.151:2053?type=tcp&security=reality&fp=firefox&pbk=T10K4VspJ7ZIptzXTqFL0k-lgV2a8ekf7RedogymJzo&sid=949023ece91caa7c&sni=www.cloudflare.com#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3222
