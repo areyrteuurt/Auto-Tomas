@@ -7,6 +7,7 @@ ss://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683/?type=tcp&encrypt
 ss://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?&type=tcp&headerType=none&host=jp.sofast.live&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-54
 ss://407ef8f9-8ac2-46ab-83b9-e478d785ff6b@103.224.80.28:10926?security=reality&encryption=none&pbk=diHiNGhpJY2TmylUgK4skHkSH8fIdT_oPNFCl9j3AzU&headerType=none&fp=chrome&spx=/e088a9ae31c8c7a&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=61#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-47
 ss://552a071a-7a69-49b5-9a82-f353229d82ad@43.169.19.179:443?fp=random&host=gy.hhawks.kdns.fr&path=%2F&security=tls&sni=gy.hhawks.kdns.fr&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-43
+ss://5aaa5259-f924-4682-a4a3-149d472a9dcc@8.148.237.121:52683?type=tcp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-114
 ss://5aaa5259-f924-4682-a4a3-149d472a9dcc@jp.sofast.live:52683/?type=tcp&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-52
 ss://5aaa5259-f924-4682-a4a3-149d472a9dcc@jp.sofast.live:52683?&type=tcp&headerType=none&host=jp.sofast.live&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-53
 ss://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565?&type=ws&headerType=none&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-55
@@ -79,6 +80,7 @@ vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683/?type=tcp&encr
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?&type=tcp&headerType=none&host=jp.sofast.live&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-54
 vless://407ef8f9-8ac2-46ab-83b9-e478d785ff6b@103.224.80.28:10926?security=reality&encryption=none&pbk=diHiNGhpJY2TmylUgK4skHkSH8fIdT_oPNFCl9j3AzU&headerType=none&fp=chrome&spx=/e088a9ae31c8c7a&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=61#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-47
 vless://552a071a-7a69-49b5-9a82-f353229d82ad@43.169.19.179:443?fp=random&host=gy.hhawks.kdns.fr&path=%2F&security=tls&sni=gy.hhawks.kdns.fr&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-43
+vless://5aaa5259-f924-4682-a4a3-149d472a9dcc@8.148.237.121:52683?type=tcp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-114
 vless://5aaa5259-f924-4682-a4a3-149d472a9dcc@jp.sofast.live:52683/?type=tcp&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-52
 vless://5aaa5259-f924-4682-a4a3-149d472a9dcc@jp.sofast.live:52683?&type=tcp&headerType=none&host=jp.sofast.live&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-53
 vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565?&type=ws&headerType=none&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B3%20CN-55
