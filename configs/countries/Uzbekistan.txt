@@ -1,3 +1,7 @@
 ss://497631c4-a1a4-45ff-a86a-f42873473bb6@81.162.54.249:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%BF%20UZ-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTS1sWFdZN1lrTU9GR1p5SUh4aG5R@81.85.49.120:1080#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%BF%20UZ-3
+ss://c18b978e-1c4e-415c-8bea-07942b563a64@46.8.194.76:2053?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%BF%20UZ-5
+ss://c18b978e-1c4e-415c-8bea-07942b563a64@46.8.194.76:8443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%BF%20UZ-4
 vless://497631c4-a1a4-45ff-a86a-f42873473bb6@81.162.54.249:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%BF%20UZ-1
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@46.8.194.76:2053?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%BF%20UZ-5
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@46.8.194.76:8443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%BF%20UZ-4
