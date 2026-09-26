@@ -14,7 +14,6 @@ ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&typ
 ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&packetEncoding=xudp&sni=/?bia_telegram@marambashi_marambashi_marambashi_marambashi_marambashi&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-938
 ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=%2F%3Fv2rayNplus&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-921
 ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=%2F%3Fv2raynplus#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-965
-ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMUAxMzIuMjQzLjI1NS4zOjEwMDkw#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-962
 ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMUAxMzIuMjQzLjI1NS4zOjMwMjEw#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-967
 ss://c18b978e-1c4e-415c-8bea-07942b563a64@149.154.157.213:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-956
 ss://c18b978e-1c4e-415c-8bea-07942b563a64@80.211.24.214:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-961
