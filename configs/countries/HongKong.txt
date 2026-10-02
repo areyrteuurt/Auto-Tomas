@@ -9,6 +9,8 @@ ss://49c8e76e-7e52-426a-8669-51d93c7a6d12@hk1.xt-game.top:443?encryption=none&fl
 ss://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@143.20.156.116:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3298
 ss://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.129.80.179:8443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3317
 ss://53cddd30-34a1-32dd-b598-c1c4c8a0f813@s1.db-link.in:443?encryption=none&security=tls&sni=dabaihk.webn.cc&fp=chrome&type=ws&host=dabaihk.webn.cc&path=%2Fdb1024a105975707#%E9%A6%99%E6%B8%AF
+ss://6d56436c-150d-11f0-b0c8-f23c913c8d2b@218.250.216.236:443?type=tcp&security=reality&sni=download.windowsupdate.com&fp=firefox&pbk=c9DdggKaJGSH7FN3JgGbi9ZvsUqOGGpIr7BhzTWeTCo&sid=#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3326
+ss://6d56436c-150d-11f0-b0c8-f23c913c8d2b@a736eb68-tmb1c0-tpkh0c-1r7od.hk2.hyhuawei.com:443?type=tcp&security=reality&sni=download.windowsupdate.com&fp=random&pbk=c9DdggKaJGSH7FN3JgGbi9ZvsUqOGGpIr7BhzTWeTCo&sid=#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3327
 ss://8344360f-0349-4784-a19f-33fd92e89389@207.57.131.171:443?encryption=none&fp=firefox&host=api.w2m.ink&path=/v2&security=tls&sni=api.w2m.ink&type=ws#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3315
 ss://8344360f-0349-4784-a19f-33fd92e89389@207.57.132.107:443?encryption=none&security=tls&sni=api.w2m.ink&type=ws&path=%2Fv2&host=api.w2m.ink&allowInsecure=0&insecure=0#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3316
 ss://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?security=reality&encryption=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&headerType=none&fp=chrome&type=tcp&sni=tesla.com&sid=af1bdd293097b664#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3210
@@ -17,8 +19,8 @@ ss://9523a24b-f6bf-339e-9950-32829162ffc2@s1.db-link.in:443?encryption=none&secu
 ss://9e3132b8-b595-444a-833a-2de44789f9d7@141.11.90.160:443?&security=tls&fp=chrome&sni=shephe.dpdns.org&type=ws&headerType=none&host=shephe.dpdns.org&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3296
 ss://9e3132b8-b595-444a-833a-2de44789f9d7@141.11.90.160:443?sni=shephe.dpdns.org&type=ws&host=shephe.dpdns.org&path=/fp=chrome&security=tls#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3301
 ss://9e3132b8-b595-444a-833a-2de44789f9d7@2.27.109.236:443?&security=tls&fp=chrome&sni=shephe.dpdns.org&type=ws&headerType=none&host=shephe.dpdns.org&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3297
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdjVrMjRveDA1dnprd3QzQHN0aC5mcmVlLW91dGxpbmUuZ2lpemUuY29tOjEwODE=#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3302
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNW5zZWR2ZGN6eDZ4MDZl@telegramx.khp25.com:1080#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3325
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbm8wZTJrZWppMmdzZmVhQHRlbGVncmFtLmtocDI1LmNvbToxMDgw#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3328
 ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@hkg24-20250621185858bb8394.singdns.com:23341#香港流媒体专享
 ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@hkg24-20250621190455900606.singdns.com:23342#香港
 ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4ZkAyMTIuMTkyLjEzLjE0MzoyMDk5OQ==#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3314
@@ -56,6 +58,8 @@ vless://49c8e76e-7e52-426a-8669-51d93c7a6d12@hk1.xt-game.top:443?encryption=none
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@143.20.156.116:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3298
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.129.80.179:8443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3317
 vless://53cddd30-34a1-32dd-b598-c1c4c8a0f813@s1.db-link.in:443?encryption=none&security=tls&sni=dabaihk.webn.cc&fp=chrome&type=ws&host=dabaihk.webn.cc&path=%2Fdb1024a105975707#%E9%A6%99%E6%B8%AF
+vless://6d56436c-150d-11f0-b0c8-f23c913c8d2b@218.250.216.236:443?type=tcp&security=reality&sni=download.windowsupdate.com&fp=firefox&pbk=c9DdggKaJGSH7FN3JgGbi9ZvsUqOGGpIr7BhzTWeTCo&sid=#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3326
+vless://6d56436c-150d-11f0-b0c8-f23c913c8d2b@a736eb68-tmb1c0-tpkh0c-1r7od.hk2.hyhuawei.com:443?type=tcp&security=reality&sni=download.windowsupdate.com&fp=random&pbk=c9DdggKaJGSH7FN3JgGbi9ZvsUqOGGpIr7BhzTWeTCo&sid=#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3327
 vless://8344360f-0349-4784-a19f-33fd92e89389@207.57.131.171:443?encryption=none&fp=firefox&host=api.w2m.ink&path=/v2&security=tls&sni=api.w2m.ink&type=ws#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3315
 vless://8344360f-0349-4784-a19f-33fd92e89389@207.57.132.107:443?encryption=none&security=tls&sni=api.w2m.ink&type=ws&path=%2Fv2&host=api.w2m.ink&allowInsecure=0&insecure=0#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3316
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?security=reality&encryption=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&headerType=none&fp=chrome&type=tcp&sni=tesla.com&sid=af1bdd293097b664#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-3210
