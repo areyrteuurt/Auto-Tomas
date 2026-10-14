@@ -1,3 +1,4 @@
 trojan://humanity@131.196.254.151:443?host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BDMX-1
-trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BDMX-24
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BDMX-29
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BDMX-25
 vmess://eyJhZGQiOiI2OC4xNTUuODYuODQiLCJhaWQiOiIwIiwiaG9zdCI6ImFqYXgubWljcm9zb2Z0LmNvbSIsImlkIjoiYTZhYjY1MTMtNmVjMy0zMjdmLWEwNjgtYjg5ZmU3Mjk1NGI4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwicG9ydCI6IjM2ODAxIiwicHMiOiJbT3BlblJheV0g8J+HsvCfh71NWC0xMCIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
