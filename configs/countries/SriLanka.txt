@@ -1,2 +1,0 @@
-ss://fcdb24e3-5e66-4c45-b89e-ac9441f4dcda@support.zoom.us:80?encryption=none&security=none&type=ws&host=free.sahanwickramasinghe.me&path=%2F#%F0%9F%87%B1%F0%9F%87%B0LK%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E4%B8%A8yoyapai.com
-vless://fcdb24e3-5e66-4c45-b89e-ac9441f4dcda@support.zoom.us:80?encryption=none&security=none&type=ws&host=free.sahanwickramasinghe.me&path=%2F#%F0%9F%87%B1%F0%9F%87%B0LK%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E4%B8%A8yoyapai.com

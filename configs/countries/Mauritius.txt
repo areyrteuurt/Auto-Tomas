@@ -1,0 +1,1 @@
+trojan://humanity@45.196.235.64:443?type=ws&path=%252Fassignment&host=&sni=www.cordweave.com#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BAMU-4
