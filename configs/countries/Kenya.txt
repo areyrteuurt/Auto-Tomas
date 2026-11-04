@@ -1,0 +1,2 @@
+ss://3cd95e58-9f0a-47e1-9937-64a58e949aa5@45.150.189.211:443?flow=xtls-rprx-vision&fp=firefox&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&security=reality&sid=3c6fc84d&sni=stats.vk-portal.net&type=raw#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%AAKE-4
+vless://3cd95e58-9f0a-47e1-9937-64a58e949aa5@45.150.189.211:443?flow=xtls-rprx-vision&fp=firefox&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&security=reality&sid=3c6fc84d&sni=stats.vk-portal.net&type=raw#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%AAKE-4
