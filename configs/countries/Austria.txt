@@ -8,7 +8,7 @@ ss://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.239.182:443?security=reality&ty
 ss://76ad3e79-fb8c-4ee2-a8f1-491573daa663@138.124.90.249:7445?encryption=none&security=tls&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&type=ws&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&path=%2F%40Marisa_kristi#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B9AT-6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B9AT-12
 ss://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@185.75.241.170:443?encryption=none&security=tls&sni=indigostar.click&type=ws&path=%2Fws#%E5%A5%A5%E5%9C%B0%E5%88%A9%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B9AT-17
+trojan://humanity@212.183.88.136:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B9AT-15
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B9AT-16
 trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2F%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B9AT-5
 trojan://humanity@212.183.88.136:443?type=ws&security=tls&sni=www.calmlunch.com&fp=chrome&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B9AT-4
