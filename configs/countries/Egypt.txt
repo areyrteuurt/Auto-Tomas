@@ -1,0 +1,2 @@
+ss://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?type=grpc&serviceName=vless#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%ACEG-6
+vless://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?type=grpc&serviceName=vless#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%ACEG-6
