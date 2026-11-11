@@ -1,0 +1,2 @@
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@121.127.33.130:443?security=tls&sni=likejennie.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=likejennie.pages.dev&path=%2F#%F0%9F%87%A7%F0%9F%87%BFBZ%E4%BC%AF%E5%88%A9%E5%85%B9%E4%B8%A8yoyapai.com
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@121.127.33.130:443?security=tls&sni=likejennie.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%A7%F0%9F%87%BFBZ%E4%BC%AF%E5%88%A9%E5%85%B9%E4%B8%A8yoyapai.com
